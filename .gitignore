@@ -1,0 +1,7 @@
+*.docx
+etymology-source.md
+word-forge.html
+word-forge-500-words.md
+.vercel/
+node_modules/
+.worktrees/

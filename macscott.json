@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "title": "Word Forge",
+  "description": "A dark forge-themed word-roots game with XP, stories, and collectible etymology facts.",
+  "owner": "scott",
+  "liveUrl": "https://word-forge-placeholder.vercel.app",
+  "embeddable": true,
+  "screenshot": "screenshots/cover.png",
+  "accent": "#F26A1B"
+}

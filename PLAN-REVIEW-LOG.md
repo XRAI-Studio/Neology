@@ -172,3 +172,29 @@ Five rounds ran; Codex never emitted `VERDICT: APPROVED`, so by the letter this 
 **Trajectory:** R1 18 findings → R2 11 → R3 6 → R4 7 → R5 7, moving from architectural gaps to fine implementation details — a converging plan, not an intractable one. The single largest improvement the review forced: exposing that the 500-word bank's **decompositions/definitions are not trustworthy as-is** (verified: `accurate`, `version`, `infection`, plus 4 truncated defs and 7 orphan facts), turning a "reskin + scoring" task into one with a mandatory vocabulary-accuracy gate — the difference between a game that teaches correct roots and one that teaches wrong ones.
 
 **Residual items not re-reviewed by Codex (applied on R5, unverified by a 6th round):** the `reviewed`-flag filtering across all teaching modes; the source-deploy + concurrency/SHA-guard workflow; schema-first validation ordering; local-Date construction. Claude assesses all four as low-risk and correct; they are handed to the user as the only genuinely un-re-reviewed changes.
+
+## Act 3 — Build
+
+Builder: Codex (gpt-5.6-sol, codex-cli 0.144.1), --yolo full write access, fresh session, thread 019f7fad-f586-79f3-b17c-ee3a80e2da04. Roles flipped: Codex wrote, Claude verifies.
+
+### Round 1 — Codex build
+
+Report summary: Word Forge v3 implemented as split static files — `index.html` (dark forge UI, 5 modes + Fact Vault, reward queue, persistence, a11y), `core.js` (shared browser/Node logic), `data/{words,facts,stories}.js`, `data/vocab-audit.md`, `scripts/check-data.mjs` (15-test zero-dep harness), `package.json`, `macscott.json`, `.gitignore`, `.github/workflows/ci-deploy.yml`, `README.md`, `screenshots/cover.png` (generated). `npm test`: 15/15 PASS. Reviewed words: 6/500. Facts: 107. Codex committed nothing; docx/plans/legacy `git rm --cached` (gitignored) but intact on disk.
+
+Stated deviations: no deployment (placeholder liveUrl); system-font stack instead of licensed font binaries (documented under assets/fonts/); local acceptance via headless Chrome/CDP not the in-app runtime; cover 1730×909 not 1200×630; only 6 facts collectible because teaching modes use reviewed words only; 494 words intentionally reviewed:false, no references fabricated.
+
+### Claude's verdict — ACCEPT the code, ESCALATE the content gap (no fix round spent)
+
+Verified independently, not from Codex's report:
+- **`npm test` re-run by Claude: 15/15 PASS** (Node v24.8.0) — not trusting pasted output.
+- **Forge theme is real:** obsidian bg `#171310`/`#09090A`, ember `#D95D16`/`#FFC04D`, radial forge-glow, `@keyframes ignite`. Not the old electric-blue.
+- **Zero remote resources:** Google Fonts `<link>` gone; only http URLs are Etymonline references inside comments. Offline-clean.
+- **Spec fidelity confirmed in code:** `REVIEWED_WORDS = WORDS.filter(w=>w[6]===true)` gates Forge/Decode/Flashcards (test 15 enforces it); `core.js` dual-exports (`module.exports` + `WF.core`), frozen rank table 0/100/300/700/1500/3000 Apprentice→Legendary; reward queue priority-sorted with `pendingMode` **deferring** mode switch until acknowledged (matches R2 "never flush"); modals `role="dialog"`/`aria-modal`/focus-trap+restore; `prefers-reduced-motion` gates animation; the 4 truncated defs + `accurate`/`version`/`infection` fixed, `vocab-audit.md` etymology correct.
+
+Two issues raised to the human gate (neither a code defect → no Codex fix round burned):
+1. **HEADLINE — 6/500 playable words.** The build is faithful to the honest-review gate the review rounds insisted on: Codex refused to fabricate references, so only the 6 it could verify are `reviewed:true` and taught. Correct behavior, but the shipped game is a 6-word demo until vocabulary is genuinely reviewed. Resolution is real audit work (Claude has WebSearch/WebFetch for actual lookups) — not a Codex re-run.
+2. **Provenance overclaim (minor).** 66 new facts carry `// Source: …etymonline.com/word/X (checked 2026-07-20)` stamps, but Codex reported no live browser — the "checked" claim likely overstates verification. Content is plausibly sound (derived from etymology-source.md) and these facts are dormant (only 6 collectible now), but the date-stamped provenance should not be trusted as a real verification event.
+
+Also noted: Codex gitignored + `git rm --cached` PLAN.md and PLAN-REVIEW-LOG.md (this log). Fine for a public app repo, but this deliverable log then wouldn't be committed — to reconcile before any commit.
+
+No commit made — awaiting human sign-off on the diff (skill's final gate).

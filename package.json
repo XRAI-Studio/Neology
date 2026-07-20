@@ -1,0 +1,8 @@
+{
+  "name": "word-forge-v3",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/check-data.mjs"
+  }
+}
