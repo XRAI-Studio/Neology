@@ -1000,8 +1000,8 @@ window.WF.WORDS = [
     "dict",
     null,
     "say to",
-    "someone who is physiologically dependent on a substance",
-    false
+    "a person who cannot stop using a harmful substance or repeating a harmful habit",
+    true
   ],
   [
     "addiction",
@@ -1009,8 +1009,8 @@ window.WF.WORDS = [
     "dict",
     "-ion",
     "say to",
-    "an abnormally strong craving",
-    false
+    "a strong need to keep using something harmful or doing something harmful",
+    true
   ],
   [
     "admission",
@@ -1323,36 +1323,36 @@ window.WF.WORDS = [
     "con-",
     "lect",
     null,
-    "read with",
-    "get or gather together",
-    false
+    "gather together",
+    "to gather things together",
+    true
   ],
   [
     "collection",
     "con-",
     "lect",
     "-ion",
-    "read with",
-    "request for a sum of money",
-    false
+    "gather together",
+    "a group of things gathered together",
+    true
   ],
   [
     "collective",
     "con-",
     "lect",
     "-ive",
-    "read with",
-    "forming a whole or aggregate",
-    false
+    "gather together",
+    "shared or done by a group of people",
+    true
   ],
   [
     "collector",
     "con-",
     "lect",
     "-or",
-    "read with",
+    "gather together",
     "a person who collects things",
-    false
+    true
   ],
   [
     "comfort",
@@ -1449,18 +1449,18 @@ window.WF.WORDS = [
     "con-",
     "pend",
     "-ate",
-    "hang with",
-    "adjust for",
-    false
+    "weigh together",
+    "to make up for something, such as a loss or a lack",
+    true
   ],
   [
     "compensation",
     "con-",
     "pend",
     "-ion",
-    "hang with",
-    "the act of compensating for service or loss or injury",
-    false
+    "weigh together",
+    "something given to make up for a loss or to pay for work",
+    true
   ],
   [
     "complex",
@@ -1648,8 +1648,8 @@ window.WF.WORDS = [
     "sens",
     null,
     "feel with",
-    "permission to do something",
-    false
+    "permission or agreement to let something happen",
+    true
   ],
   [
     "consequence",
@@ -1989,18 +1989,18 @@ window.WF.WORDS = [
     "de-",
     "dict",
     "-ate",
-    "say down",
-    "inscribe or address by way of compliment",
-    false
+    "proclaim",
+    "to give your time and effort to something, or to honor someone with a work such as a book",
+    true
   ],
   [
     "dedication",
     "de-",
     "dict",
     "-ion",
-    "say down",
-    "a message that makes a pledge",
-    false
+    "proclaim",
+    "hard work and loyalty given to a task or purpose",
+    true
   ],
   [
     "defect",
@@ -2071,8 +2071,8 @@ window.WF.WORDS = [
     "pend",
     null,
     "hang down",
-    "have faith or confidence in",
-    false
+    "to need or rely on someone or something",
+    true
   ],
   [
     "dependent",
@@ -2080,8 +2080,8 @@ window.WF.WORDS = [
     "pend",
     "-ent",
     "hang down",
-    "contingent on something else",
-    false
+    "needing someone or something for support",
+    true
   ],
   [
     "deposit",
@@ -2403,9 +2403,9 @@ window.WF.WORDS = [
     "ex-",
     "lect",
     "-ion",
-    "read out of",
-    "the status or fact of being elected",
-    false
+    "choose out",
+    "the process of choosing someone by voting",
+    true
   ],
   [
     "emerge",
@@ -2583,18 +2583,18 @@ window.WF.WORDS = [
     "ex-",
     "pend",
     null,
-    "hang out of",
-    "a detriment or sacrifice",
-    false
+    "weigh out",
+    "the money spent on something",
+    true
   ],
   [
     "expensive",
     "ex-",
     "pend",
     "-ive",
-    "hang out of",
-    "high in price or charging high prices",
-    false
+    "weigh out",
+    "costing a lot of money",
+    true
   ],
   [
     "expose",
@@ -2997,18 +2997,18 @@ window.WF.WORDS = [
     "in-",
     "dict",
     "-ate",
-    "say into",
-    "to state or express briefly",
-    false
+    "point out",
+    "to point out or show something",
+    true
   ],
   [
     "indication",
     "in-",
     "dict",
     "-ion",
-    "say into",
-    "something that serves to indicate or suggest",
-    false
+    "point out",
+    "a sign that shows something is true or likely",
+    true
   ],
   [
     "infection",
@@ -3114,9 +3114,9 @@ window.WF.WORDS = [
     "in-",
     "sens",
     "-ive",
-    "feel into",
-    "deficient in human sensibility",
-    false
+    "not feel",
+    "not caring about other people's feelings",
+    true
   ],
   [
     "insist",
@@ -3421,8 +3421,8 @@ window.WF.WORDS = [
     "lect",
     "-ure",
     "read",
-    "a lengthy rebuke",
-    false
+    "a talk given to teach people about a subject",
+    true
   ],
   [
     "liberal",
@@ -3618,9 +3618,9 @@ window.WF.WORDS = [
     "non-",
     "sens",
     null,
-    "feel not",
-    "having no intelligible meaning",
-    false
+    "no sense",
+    "words or ideas that make no sense",
+    true
   ],
   [
     "numerous",
@@ -3816,9 +3816,9 @@ window.WF.WORDS = [
     null,
     "pend",
     "-ion",
-    "hang",
-    "grant a pension to",
-    false
+    "weigh",
+    "money paid regularly to someone after they retire",
+    true
   ],
   [
     "percent",
@@ -4006,8 +4006,8 @@ window.WF.WORDS = [
     "dict",
     null,
     "say before",
-    "indicate by signs",
-    false
+    "to say what will happen in the future",
+    true
   ],
   [
     "predictable",
@@ -4015,8 +4015,8 @@ window.WF.WORDS = [
     "dict",
     "-able",
     "say before",
-    "capable of being foretold",
-    false
+    "easy to know about before it happens",
+    true
   ],
   [
     "prefer",
@@ -4600,8 +4600,8 @@ window.WF.WORDS = [
     "sens",
     null,
     "feel back",
-    "wish ill or allow unwillingly",
-    false
+    "to feel angry about something you think is unfair",
+    true
   ],
   [
     "reservation",
@@ -4824,18 +4824,18 @@ window.WF.WORDS = [
     "se-",
     "lect",
     null,
-    "read apart",
-    "of superior grade",
-    false
+    "choose apart",
+    "to choose something carefully from a group",
+    true
   ],
   [
     "selection",
     "se-",
     "lect",
     "-ion",
-    "read apart",
-    "the act of choosing or selecting",
-    false
+    "choose apart",
+    "the act of choosing, or a group of things chosen",
+    true
   ],
   [
     "sensation",
@@ -4843,8 +4843,8 @@ window.WF.WORDS = [
     "sens",
     "-ion",
     "feel",
-    "someone who is dazzlingly skilled in any field",
-    false
+    "a feeling in the body, such as warmth or pain",
+    true
   ],
   [
     "sensible",
@@ -4852,8 +4852,8 @@ window.WF.WORDS = [
     "sens",
     "-ible",
     "feel",
-    "able to feel or perceive",
-    false
+    "showing good judgment",
+    true
   ],
   [
     "sensitive",
@@ -4861,8 +4861,8 @@ window.WF.WORDS = [
     "sens",
     "-ive",
     "feel",
-    "responsive to physical stimuli",
-    false
+    "quick to notice or react to things, including other people's feelings",
+    true
   ],
   [
     "sensor",
@@ -4879,8 +4879,8 @@ window.WF.WORDS = [
     "sens",
     "-ence",
     "feel",
-    "the period of time a prisoner is imprisoned",
-    false
+    "a group of words that expresses a complete thought",
+    true
   ],
   [
     "sequence",
@@ -5131,8 +5131,8 @@ window.WF.WORDS = [
     "pend",
     "-ion",
     "hang under",
-    "temporary cessation or suspension",
-    false
+    "the act of hanging something, or a short stop or pause",
+    true
   ],
   [
     "sustain",

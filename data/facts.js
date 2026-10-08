@@ -1,10 +1,10 @@
 /* Word Forge v3 data. Loaded as classic scripts for offline file:// use. */
 window.WF = window.WF || {};
 window.WF.FACTS = {
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/addictus#Latin and https://en.wiktionary.org/wiki/addico#Latin (verified 2026-10-07)
   "addict": "⚖️ In ancient Rome, an “addict” was a person a judge handed over to their creditor as a debt slave!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "addiction": "⚖️ Roman judges would “say over” (ad+dict) debtors to whoever they owed — that’s where addiction comes from!",
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/addictus#Latin and https://en.wiktionary.org/wiki/addico#Latin (verified 2026-10-07)
+  "addiction": "⚖️ Roman judges could hand a debtor over to the person they owed — Latin addictus meant “handed over,” from ad- (to) and dicere (to say).",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "obsession": "🏰 Obsession literally means “to sit against” — like a Roman army camping outside a city’s walls in a siege!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
@@ -49,7 +49,7 @@ window.WF.FACTS = {
   "reflect": "🪞 Reflect = “bend back” — exactly what light does on a mirror, and what your mind does on an idea!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "reflection": "🪞 A reflection literally BENDS light (or your thoughts) back at you!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/depend#English (verified 2026-10-07)
   "depend": "🪢 Depend = “hang down from” — to depend on someone is to dangle from a rope you trust!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "impulse": "⚡ An impulse is a force that literally DRIVES INTO your mind, skipping right past your thinking!",
@@ -75,7 +75,7 @@ window.WF.FACTS = {
   "transport": "🌉 Trans- words are bridges — transport literally “carries across”!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/support#English (verified 2026-10-07)
   "support": "🏗️ Support = “carry from under” — holding something up from below!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/predict#English (verified 2026-10-07)
   "predict": "🔮 Predict = “say before” — speaking the future before it happens!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/prevent#English (verified 2026-10-07)
   "prevent": "🚧 Prevent = “come before” — getting there FIRST so something can’t happen!",
@@ -93,11 +93,11 @@ window.WF.FACTS = {
   "application": " Application comes from Latin applicare, attach or join to, like putting one thing against another.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/appointment (checked 2026-07-20)
   "appointment": " Appointment belongs to a word family about bringing something to a point or fixed place.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/collect (checked 2026-07-20)
-  "collect": " Collect comes from Latin colligere, gather together  exactly what a collection does.",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/collect#English (verified 2026-10-07)
+  "collect": "Collect comes from Latin colligere, gather together — exactly what a collection does.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/comfort (checked 2026-07-20)
   "comfort": " Comfort once carried the force of strengthening: its Latin family combines together with strong.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/compensate (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/compensate#English (verified 2026-10-07)
   "compensate": " Compensate comes from Latin for weighing one thing against another to make a balance.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/complex (checked 2026-07-20)
   "complex": " Complex comes from Latin complexus, entwined or embraced, like many strands wrapped together.",
@@ -127,7 +127,7 @@ window.WF.FACTS = {
   "decision": " Decision comes from Latin decidere, cut off  choosing cuts away the alternatives.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/define (checked 2026-07-20)
   "define": " Define comes from Latin definire, set bounds or limits.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/dependent (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/dependent#English (verified 2026-10-07)
   "dependent": " Dependent belongs to a Latin family meaning hang down, like something hanging from its support.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/deposit#English (verified 2026-10-07)
   "deposit": " Deposit comes from Latin deponere, lay down or put aside.",
@@ -141,7 +141,7 @@ window.WF.FACTS = {
   "destruction": " Destruction comes from Latin destruere, tear down, the opposite direction of construction.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/detention#English (verified 2026-10-07)
   "detention": " Detention comes from Latin detinere, hold back.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/election (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/election#English (verified 2026-10-07)
   "election": " Election comes from Latin eligere, pick out or choose.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/emerge (checked 2026-07-20)
   "emerge": " Emerge comes from Latin emergere, rise out or come forth.",
@@ -157,7 +157,7 @@ window.WF.FACTS = {
   "exclusive": " Exclusive comes from Latin excludere, shut out.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/expedition (checked 2026-07-20)
   "expedition": " Expedition comes from Latin expedire, free the feet, readying someone to move quickly.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/expense (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/expense#English (verified 2026-10-07)
   "expense": " Expense comes from Latin expendere, weigh out or pay out.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/expose#English (verified 2026-10-07)
   "expose": " Expose comes through Latin exponere, set forth or put out in view.",

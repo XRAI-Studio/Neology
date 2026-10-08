@@ -1299,6 +1299,214 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `tract` + `-or`; replaced the truck-cab gloss with the common farm sense.
 - Reference: Wiktionary, [tractor](https://en.wiktionary.org/wiki/tractor#English) — formed from Latin *tractus*, perfect passive participle of *trahō*, *trahere* "to pull", + agent noun suffix *-or*.
 
+## addict
+
+- Record: `{prefix:"ad-", stem:"dict", suffix:null, literal:"say to", definition:"a person who cannot stop using a harmful substance or repeating a harmful habit"}`
+- Review: Confirmed `ad-` + `dict` (Latin *addīcō*, *ad-* + *dīcō* "say"). Definition simplified.
+- Reference: Wiktionary, [addict](https://en.wiktionary.org/wiki/addict#English) — from Latin *addictus*, past participle of *addīcō* "deliver; devote; surrender", from *ad-* "to, towards, at" + *dīcō* "say; declare".
+- Reference: Wiktionary (Latin), [addictus](https://en.wiktionary.org/wiki/addictus#Latin) — "handed over, having been handed over"; as a noun, "a debt slave; a person who has been bound as a slave to his creditor".
+
+## addiction
+
+- Record: `{prefix:"ad-", stem:"dict", suffix:"-ion", literal:"say to", definition:"a strong need to keep using something harmful or doing something harmful"}`
+- Review: Confirmed as *addict* + *-ion*.
+- Reference: Wiktionary, [addiction](https://en.wiktionary.org/wiki/addiction#English) — *addict* + *-ion*; compare Latin *addictio* "an adjudging, an award".
+- Reference: Wiktionary (Latin), [addico](https://en.wiktionary.org/wiki/addico#Latin) — *addīcō* = *ad-* "to, towards, at" + *dīcō* "say, affirm, tell".
+
+## dedicate
+
+- Record: `{prefix:"de-", stem:"dict", suffix:"-ate", literal:"proclaim", definition:"to give your time and effort to something, or to honor someone with a work such as a book"}`
+- Review: Confirmed `de-` + `dict` + `-ate` with a caveat: Latin *dēdicō* is *dē-* + *dicō* (first conjugation, "dedicate"), which the Latin *dicō* entry, citing de Vaan, lists as a derivative of *dīcō* "say". Literal changed from "say down" to "proclaim", a sense of *dēdicō*.
+- Reference: Wiktionary, [dedicate](https://en.wiktionary.org/wiki/dedicate#English) — from Latin *dēdicātus*, the perfect passive participle of *dēdicō*.
+- Reference: Wiktionary (Latin), [dico](https://en.wiktionary.org/wiki/dico#Latin) — (*dicō*, *dicāre*) per de Vaan, a derivative of *dīcō*: "*dicāre* 'to assign, dedicate; indicate'".
+- Reference: Wiktionary (Latin), [dedico](https://en.wiktionary.org/wiki/dedico#Latin) — *dēdicō* = *dē-* + *dicō*: "to dedicate, consecrate; to proclaim".
+
+## dedication
+
+- Record: `{prefix:"de-", stem:"dict", suffix:"-ion", literal:"proclaim", definition:"hard work and loyalty given to a task or purpose"}`
+- Review: Confirmed `de-` + `dict` + `-ion`; see the *dedicate* caveat. Literal changed from "say down" to "proclaim".
+- Reference: Wiktionary, [dedication](https://en.wiktionary.org/wiki/dedication#English) — from Latin *dēdicātiō*, equivalent to *dēdicātus* + *-iōn*.
+
+## indicate
+
+- Record: `{prefix:"in-", stem:"dict", suffix:"-ate", literal:"point out", definition:"to point out or show something"}`
+- Review: Confirmed `in-` + `dict` + `-ate`. The English entry gives *in-* + *dicō* "to declare, (originally) to point"; the Latin entry derives *indicō* from *index*, which is itself *in* + *dīcō*. Literal changed from "say into" to "point out", the sense of *indicō*.
+- Reference: Wiktionary, [indicate](https://en.wiktionary.org/wiki/indicate#English) — from Latin *indicātus*, perfect passive participle of *indicō* "to point out, indicate", from *in-* "in, to" + *dicō* "to declare, (originally) to point".
+- Reference: Wiktionary (Latin), [index](https://en.wiktionary.org/wiki/index#Latin) — *index* = *in* + *dīcō* "to say, indicate" + *-s*.
+
+## indication
+
+- Record: `{prefix:"in-", stem:"dict", suffix:"-ion", literal:"point out", definition:"a sign that shows something is true or likely"}`
+- Review: Confirmed `in-` + `dict` + `-ion`; see *indicate*.
+- Reference: Wiktionary, [indication](https://en.wiktionary.org/wiki/indication#English) — from Latin *indicātiō* "a showing, indicating", from *indicō* "point out, indicate, show"; *indicate* + *-ion*.
+
+## predict
+
+- Record: `{prefix:"pre-", stem:"dict", suffix:null, literal:"say before", definition:"to say what will happen in the future"}`
+- Review: Confirmed `pre-` + `dict` (Latin *prae-*).
+- Reference: Wiktionary, [predict](https://en.wiktionary.org/wiki/predict#English) — from Latin *praedicō* "to mention beforehand" (perfect passive participle *praedictus*), from *prae-* "before" + *dīcō* "to say".
+- Reference: Wiktionary (Latin), [praedico](https://en.wiktionary.org/wiki/praedico#Latin) — (Etymology 2) *praedīcō* = *prae-* "before, in front" + *dīcō* "say, tell".
+
+## predictable
+
+- Record: `{prefix:"pre-", stem:"dict", suffix:"-able", literal:"say before", definition:"easy to know about before it happens"}`
+- Review: Confirmed as *predict* + *-able*.
+- Reference: Wiktionary, [predictable](https://en.wiktionary.org/wiki/predictable#English) — *predict* + *-able*.
+
+## collect
+
+- Record: `{prefix:"con-", stem:"lect", suffix:null, literal:"gather together", definition:"to gather things together"}`
+- Review: Confirmed `con-` + `lect`. Literal changed from "read with" to "gather together": Latin *legō* here means "gather".
+- Reference: Wiktionary, [collect](https://en.wiktionary.org/wiki/collect#English) — from Latin *collecta*, feminine of *collectus*.
+- Reference: Wiktionary (Latin), [colligo](https://en.wiktionary.org/wiki/colligo#Latin) — *colligō* = *con-* + *legō* "bring together, gather, collect".
+
+## collection
+
+- Record: `{prefix:"con-", stem:"lect", suffix:"-ion", literal:"gather together", definition:"a group of things gathered together"}`
+- Review: Confirmed `con-` + `lect` + `-ion`. Literal changed from "read with" to "gather together"; replaced "request for a sum of money".
+- Reference: Wiktionary, [collection](https://en.wiktionary.org/wiki/collection#English) — from Latin *collēctiō*, from *collēctus*, from *colligō* "collect together", composed of *con* + *legō* "bring together, gather, collect".
+
+## collective
+
+- Record: `{prefix:"con-", stem:"lect", suffix:"-ive", literal:"gather together", definition:"shared or done by a group of people"}`
+- Review: Confirmed `con-` + `lect` + `-ive`. Literal changed from "read with" to "gather together".
+- Reference: Wiktionary, [collective](https://en.wiktionary.org/wiki/collective#English) — from Latin *collēctīvus*, from *collēctus*, past participle of *colligō* "to collect", from *com-* "together" + *legō* "to gather".
+
+## collector
+
+- Record: `{prefix:"con-", stem:"lect", suffix:"-or", literal:"gather together", definition:"a person who collects things"}`
+- Review: Confirmed `con-` + `lect` + `-or`. Literal changed from "read with" to "gather together"; definition unchanged.
+- Reference: Wiktionary, [collector](https://en.wiktionary.org/wiki/collector#English) — from Late Latin *collēctor*, from *colligō* "to gather together".
+
+## election
+
+- Record: `{prefix:"ex-", stem:"lect", suffix:"-ion", literal:"choose out", definition:"the process of choosing someone by voting"}`
+- Review: Confirmed `ex-` + `lect` + `-ion`. Literal changed from "read out of" to "choose out".
+- Reference: Wiktionary, [election](https://en.wiktionary.org/wiki/election#English) — from Latin *ēlectiō* "choice, selection", from *ēligō* "to pluck out, to choose".
+- Reference: Wiktionary (Latin), [eligo](https://en.wiktionary.org/wiki/eligo#Latin) — *ēligō* = *ex-* "out of, from" + *legō* "to choose, select".
+
+## lecture
+
+- Record: `{prefix:null, stem:"lect", suffix:"-ure", literal:"read", definition:"a talk given to teach people about a subject"}`
+- Review: Confirmed `lect` + `-ure` (literal "read" kept: *lectūra* means "reading"). Replaced "a lengthy rebuke".
+- Reference: Wiktionary, [lecture](https://en.wiktionary.org/wiki/lecture#English) — from Late Latin *lectura* "reading", from Latin *lectus*, past participle of *legō* "to read, recite".
+
+## select
+
+- Record: `{prefix:"se-", stem:"lect", suffix:null, literal:"choose apart", definition:"to choose something carefully from a group"}`
+- Review: Confirmed `se-` + `lect`. Literal changed from "read apart" to "choose apart"; replaced the adjective "of superior grade" with the verb.
+- Reference: Wiktionary, [select](https://en.wiktionary.org/wiki/select#English) — from Latin *sēlēctus*, perfect passive participle of *sēligō* "choose out, select", from *sē-* "without; apart" + *legō* "gather, select".
+
+## selection
+
+- Record: `{prefix:"se-", stem:"lect", suffix:"-ion", literal:"choose apart", definition:"the act of choosing, or a group of things chosen"}`
+- Review: Confirmed `se-` + `lect` + `-ion`. Literal changed from "read apart" to "choose apart".
+- Reference: Wiktionary, [selection](https://en.wiktionary.org/wiki/selection#English) — from Latin *sēlēctiō* "the act of choosing out, selection", from *sēligō*, from *sē-* "apart" + *legō* "gather, select".
+
+## compensate
+
+- Record: `{prefix:"con-", stem:"pend", suffix:"-ate", literal:"weigh together", definition:"to make up for something, such as a loss or a lack"}`
+- Review: Confirmed `con-` + `pend` + `-ate` via *pēnsō*, the frequentative of *pendō* "weigh". Literal changed from "hang with" to "weigh together".
+- Reference: Wiktionary, [compensate](https://en.wiktionary.org/wiki/compensate#English) — from Latin *compēnsātus*, perfect passive participle of *compensō* "to weigh together one thing against another, balance, make good".
+- Reference: Wiktionary (Latin), [compenso](https://en.wiktionary.org/wiki/compenso#Latin) — *compēnsō* = *con-* + *pēnsō*; *pēnsō*: frequentative of *pendō*.
+
+## compensation
+
+- Record: `{prefix:"con-", stem:"pend", suffix:"-ion", literal:"weigh together", definition:"something given to make up for a loss or to pay for work"}`
+- Review: Confirmed `con-` + `pend` + `-ion`; see *compensate*. Literal changed from "hang with" to "weigh together".
+- Reference: Wiktionary, [compensation](https://en.wiktionary.org/wiki/compensation#English) — from Latin *compensātiō*; equivalent to *compensate* + *-ion*.
+
+## depend
+
+- Record: `{prefix:"de-", stem:"pend", suffix:null, literal:"hang down", definition:"to need or rely on someone or something"}`
+- Review: Confirmed `de-` + `pend` (Latin *dēpendeō*, "hang down").
+- Reference: Wiktionary, [depend](https://en.wiktionary.org/wiki/depend#English) — from Middle English *dependen*, from Old French *dependre*, from Latin *dependeō*.
+- Reference: Wiktionary (Latin), [dependeo](https://en.wiktionary.org/wiki/dependeo#Latin) — *dēpendeō* = *dē-* + *pendeō* "to be suspended, hang".
+
+## dependent
+
+- Record: `{prefix:"de-", stem:"pend", suffix:"-ent", literal:"hang down", definition:"needing someone or something for support"}`
+- Review: Confirmed `de-` + `pend` + `-ent`.
+- Reference: Wiktionary, [dependent](https://en.wiktionary.org/wiki/dependent#English) — from Middle French *dependant* and Latin *dēpendēns* (present participle of *dēpendeō* "to depend"); *depend* + *-ent*.
+
+## expense
+
+- Record: `{prefix:"ex-", stem:"pend", suffix:null, literal:"weigh out", definition:"the money spent on something"}`
+- Review: Confirmed `ex-` + `pend`. Literal changed from "hang out of" to "weigh out": Latin *expendō* is *ex-* + *pendō* "weigh".
+- Reference: Wiktionary, [expense](https://en.wiktionary.org/wiki/expense#English) — from Late Latin *expēnsa*, from Latin *expendō*.
+- Reference: Wiktionary (Latin), [expendo](https://en.wiktionary.org/wiki/expendo#Latin) — *expendō* = *ex-* + *pendō* "weigh, weigh out".
+
+## expensive
+
+- Record: `{prefix:"ex-", stem:"pend", suffix:"-ive", literal:"weigh out", definition:"costing a lot of money"}`
+- Review: Confirmed `ex-` + `pend` + `-ive`. Literal changed from "hang out of" to "weigh out".
+- Reference: Wiktionary, [expensive](https://en.wiktionary.org/wiki/expensive#English) — from Latin *\*expēnsīvus*, from *expendō* "to weigh out (money), to pay out"; *expense* + *-ive*.
+
+## pension
+
+- Record: `{prefix:null, stem:"pend", suffix:"-ion", literal:"weigh", definition:"money paid regularly to someone after they retire"}`
+- Review: Confirmed `pend` + `-ion`. Literal changed from "hang" to "weigh": Latin *pēnsiō* comes from *pendō* "to weigh". Replaced the verb gloss.
+- Reference: Wiktionary, [pension](https://en.wiktionary.org/wiki/pension#English) — from Latin *pēnsiō* "payment, weight, rent, compensation", from the participle stem of *pendō* "to weigh".
+
+## suspension
+
+- Record: `{prefix:"sub-", stem:"pend", suffix:"-ion", literal:"hang under", definition:"the act of hanging something, or a short stop or pause"}`
+- Review: Confirmed `sub-` + `pend` + `-ion`; replaced the circular definition.
+- Reference: Wiktionary, [suspension](https://en.wiktionary.org/wiki/suspension#English) — from Late Latin *suspensiō*, from *suspendo* "to hang up, to suspend", from *sub-* "under" + *pendo* "to hang, to suspend".
+
+## consent
+
+- Record: `{prefix:"con-", stem:"sens", suffix:null, literal:"feel with", definition:"permission or agreement to let something happen"}`
+- Review: Confirmed `con-` + `sens`.
+- Reference: Wiktionary, [consent](https://en.wiktionary.org/wiki/consent#English) — from Latin *cōnsentiō* "to agree; to assent, consent", itself from *com-* "with" + *sentiō* "to feel".
+
+## insensitive
+
+- Record: `{prefix:"in-", stem:"sens", suffix:"-ive", literal:"not feel", definition:"not caring about other people's feelings"}`
+- Review: Confirmed *in-* (not) + *sensitive*. Literal changed from "feel into" to "not feel".
+- Reference: Wiktionary, [insensitive](https://en.wiktionary.org/wiki/insensitive#English) — *in-* (not) + *sensitive*.
+- Reference: Wiktionary, [sensitive](https://en.wiktionary.org/wiki/sensitive#English) — from Middle French *sensitif*, from Medieval Latin *sensitivus*.
+- Reference: Wiktionary (Latin), [sensitivus](https://en.wiktionary.org/wiki/sensitivus#Latin) — Medieval Latin irregular formation from *sentiō* "to feel".
+
+## nonsense
+
+- Record: `{prefix:"non-", stem:"sens", suffix:null, literal:"no sense", definition:"words or ideas that make no sense"}`
+- Review: Confirmed *non-* + *sense* with a caveat: English *sense* is partly from Latin *sēnsus* (from *sentiō*) and partly of Germanic origin. Literal changed from "feel not" to "no sense"; replaced the adjective gloss with the noun.
+- Reference: Wiktionary, [nonsense](https://en.wiktionary.org/wiki/nonsense#English) — from *non-* "no, none, lack of" + *sense*, from c. 1610.
+- Reference: Wiktionary, [sense](https://en.wiktionary.org/wiki/sense#English) — partly from Latin *sēnsus* "sensation, feeling, meaning", from *sentiō* "feel, perceive"; partly of Germanic origin.
+
+## resent
+
+- Record: `{prefix:"re-", stem:"sens", suffix:null, literal:"feel back", definition:"to feel angry about something you think is unfair"}`
+- Review: Confirmed `re-` + `sens` via Old French *re-* + *sentir* "to feel".
+- Reference: Wiktionary, [resent](https://en.wiktionary.org/wiki/resent#English) — from Old French *resentir*, from *re-* + *sentir* "to feel".
+
+## sensation
+
+- Record: `{prefix:null, stem:"sens", suffix:"-ion", literal:"feel", definition:"a feeling in the body, such as warmth or pain"}`
+- Review: Confirmed `sens` + `-ion`; replaced the "dazzlingly skilled person" sense.
+- Reference: Wiktionary, [sensation](https://en.wiktionary.org/wiki/sensation#English) — from Medieval Latin *sensatio*, from Latin *sensus*.
+- Reference: Wiktionary (Latin), [sensatio](https://en.wiktionary.org/wiki/sensatio#Latin) — *sēnsus* + *-ātiō*.
+
+## sensible
+
+- Record: `{prefix:null, stem:"sens", suffix:"-ible", literal:"feel", definition:"showing good judgment"}`
+- Review: Confirmed `sens` + `-ible`; chose the common modern sense.
+- Reference: Wiktionary, [sensible](https://en.wiktionary.org/wiki/sensible#English) — from Latin *sēnsibilis* "perceptible by the senses, having feeling, sensible", from *sentiō* "to feel, perceive".
+
+## sensitive
+
+- Record: `{prefix:null, stem:"sens", suffix:"-ive", literal:"feel", definition:"quick to notice or react to things, including other people's feelings"}`
+- Review: Confirmed `sens` + `-ive`.
+- Reference: Wiktionary, [sensitive](https://en.wiktionary.org/wiki/sensitive#English) — from Middle French *sensitif*, from Medieval Latin *sensitivus*; *sense* + *-ite* + *-ive*.
+- Reference: Wiktionary (Latin), [sensitivus](https://en.wiktionary.org/wiki/sensitivus#Latin) — Medieval Latin irregular formation from *sentiō* "to feel".
+
+## sentence
+
+- Record: `{prefix:null, stem:"sens", suffix:"-ence", literal:"feel", definition:"a group of words that expresses a complete thought"}`
+- Review: Confirmed `sens` + `-ence` (Latin *sententia*, from *sentiō*). Chose the grammar sense over the prison-term sense.
+- Reference: Wiktionary, [sentence](https://en.wiktionary.org/wiki/sentence#English) — from Latin *sententia* "way of thinking, opinion, sentiment", from *sentiēns*, present participle of *sentiō* "to feel, think".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
