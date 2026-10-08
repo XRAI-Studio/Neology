@@ -957,6 +957,177 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `vid` + `-ion`; definition unchanged.
 - Reference: Wiktionary, [vision](https://en.wiktionary.org/wiki/vision#English) — from Latin *vīsiō* "vision, seeing", from *visus* "that which is seen", from *videō* "to see" + *-iō*.
 
+## conference
+
+- Record: `{prefix:"con-", stem:"fer", suffix:"-ence", literal:"carry with", definition:"a formal meeting where people discuss a topic"}`
+- Review: Confirmed `con-` + `fer` + `-ence`.
+- Reference: Wiktionary, [conference](https://en.wiktionary.org/wiki/conference#English) — from Medieval Latin *cōnferentia*, from Latin *cōnferēns*, … from *con-* + *ferō*.
+- Reference: Wiktionary (Latin), [confero](https://en.wiktionary.org/wiki/confero#Latin) — *cōnferō* = *con-* "together" + *ferō* "to bear".
+
+## difference
+
+- Record: `{prefix:"dis-", stem:"fer", suffix:"-ence", literal:"carry apart", definition:"the way in which two things are not alike"}`
+- Review: Confirmed `dis-` + `fer` + `-ence`.
+- Reference: Wiktionary, [difference](https://en.wiktionary.org/wiki/difference#English) — from Latin *differentia* "difference", from *differēns* "different", present participle of *differo*.
+- Reference: Wiktionary (Latin), [differo](https://en.wiktionary.org/wiki/differo#Latin) — *differō* = *dis-* "apart" + *ferō* "carry, bear".
+
+## different
+
+- Record: `{prefix:"dis-", stem:"fer", suffix:"-ent", literal:"carry apart", definition:"not the same as another or each other"}`
+- Review: Confirmed `dis-` + `fer` + `-ent`; replaced "differing from all others".
+- Reference: Wiktionary, [different](https://en.wiktionary.org/wiki/different#English) — from Latin *differēns*, present active participle of *differō* "to differ".
+- Reference: Wiktionary (Latin), [differo](https://en.wiktionary.org/wiki/differo#Latin) — *differō* = *dis-* "apart" + *ferō* "carry, bear".
+
+## offer
+
+- Record: `{prefix:"ob-", stem:"fer", suffix:null, literal:"carry toward", definition:"to hold out something for someone to take or accept"}`
+- Review: Confirmed `ob-` + `fer`. The verb came into English by two routes, Old English *offrian* (religious senses) and Old French *ofrir* (other senses), both from Latin *offerō*. Replaced "a usually brief attempt". Literal changed from "carry against" to "carry toward", matching the source's literal gloss "to bring to".
+- Reference: Wiktionary, [offer](https://en.wiktionary.org/wiki/offer#English) — (verb) "In the religious senses inherited from Old English *offrian* … otherwise from Old French *ofrir*. Both ultimately from Latin *offerō* 'to present, bestow, bring before' (literally 'to bring to'), from *ob* + *ferō* 'bring, carry'".
+- Reference: Wiktionary (Latin), [offero](https://en.wiktionary.org/wiki/offero#Latin) — *offerō* = *ob-* "towards" + *ferō* "to bear, carry".
+
+## prefer
+
+- Record: `{prefix:"pre-", stem:"fer", suffix:null, literal:"carry before", definition:"to like one thing better than another"}`
+- Review: Confirmed `pre-` + `fer` (Latin *prae-*).
+- Reference: Wiktionary, [prefer](https://en.wiktionary.org/wiki/prefer#English) — from Anglo-Norman *preferer*, from Latin *praeferō*.
+- Reference: Wiktionary (Latin), [praefero](https://en.wiktionary.org/wiki/praefero#Latin) — *praeferō* = *prae-* "before, in front" + *ferō* "to carry, to bear".
+
+## refer
+
+- Record: `{prefix:"re-", stem:"fer", suffix:null, literal:"carry back", definition:"to mention something, or to send someone to another person or place for help"}`
+- Review: Confirmed `re-` + `fer`; replaced "be relevant to".
+- Reference: Wiktionary, [refer](https://en.wiktionary.org/wiki/refer#English) — from Old French *referer*, from Latin *referre*.
+- Reference: Wiktionary (Latin), [refero](https://en.wiktionary.org/wiki/refero#Latin) — *referō* = *re-* + *ferō* "bear, carry".
+
+## reference
+
+- Record: `{prefix:"re-", stem:"fer", suffix:"-ence", literal:"carry back", definition:"a mention of something, or a source you look at for information"}`
+- Review: Confirmed `re-` + `fer` + `-ence`.
+- Reference: Wiktionary, [reference](https://en.wiktionary.org/wiki/reference#English) — from Medieval Latin *referentia*, … of *referēns*, present participle of *referō* "return, reply" (literally "carry back").
+
+## suffer
+
+- Record: `{prefix:"sub-", stem:"fer", suffix:null, literal:"carry under", definition:"to feel pain or go through something bad"}`
+- Review: Confirmed `sub-` + `fer`.
+- Reference: Wiktionary, [suffer](https://en.wiktionary.org/wiki/suffer#English) — from Latin *sufferō* "to offer, hold up, bear, suffer", from *sub-* "up, under" + *ferō* "to carry".
+
+## transfer
+
+- Record: `{prefix:"trans-", stem:"fer", suffix:null, literal:"carry across", definition:"the act of moving something or someone from one place to another"}`
+- Review: Confirmed `trans-` + `fer`; definition kept close to the source.
+- Reference: Wiktionary, [transfer](https://en.wiktionary.org/wiki/transfer#English) — from Latin *trānsferō* "to bear across".
+- Reference: Wiktionary (Latin), [transfero](https://en.wiktionary.org/wiki/transfero#Latin) — *trānsferō* = *trāns-* "beyond" + *ferō* "to bear, carry".
+
+## affect
+
+- Record: `{prefix:"ad-", stem:"fac", suffix:null, literal:"make to", definition:"to have an influence on someone or something"}`
+- Review: Confirmed `ad-` + `fac` (Latin *afficere*).
+- Reference: Wiktionary, [affect](https://en.wiktionary.org/wiki/affect#English) — from Latin *affectāre*, from *affectus*, the participle stem of *afficere* "to act upon, influence, affect", from *ad-* + *facere* "to make, do".
+
+## affection
+
+- Record: `{prefix:"ad-", stem:"fac", suffix:"-ion", literal:"make to", definition:"a feeling of fondness or love"}`
+- Review: Confirmed `ad-` + `fac` + `-ion`.
+- Reference: Wiktionary, [affection](https://en.wiktionary.org/wiki/affection#English) — from Latin *affectiōnem*, from *affectiō*; equivalent to *affect* + *-ion*.
+- Reference: Wiktionary (Latin), [affectio](https://en.wiktionary.org/wiki/affectio#Latin) — *affectiō* = *afficiō* "to exert an influence on the body or mind" + *-tiō*.
+
+## defect
+
+- Record: `{prefix:"de-", stem:"fac", suffix:null, literal:"undo", definition:"a fault or flaw in something"}`
+- Review: Confirmed `de-` + `fac`. Literal changed from "make down" to "undo", the source's literal gloss of *deficere*.
+- Reference: Wiktionary, [defect](https://en.wiktionary.org/wiki/defect#English) — from Latin *defectus* "a failure, lack", from *deficere* "to fail, lack, literally 'undo'", from *de-* "of, from" + *facere* "to do".
+
+## effect
+
+- Record: `{prefix:"ex-", stem:"fac", suffix:null, literal:"make out of", definition:"a change that is caused by something"}`
+- Review: Confirmed `ex-` + `fac`; replaced "an outward appearance".
+- Reference: Wiktionary, [effect](https://en.wiktionary.org/wiki/effect#English) — from Latin *effectus* "an effect, tendency, purpose", from *efficiō* "accomplish, complete, effect".
+- Reference: Wiktionary (Latin), [efficio](https://en.wiktionary.org/wiki/efficio#Latin) — *efficiō* = *ex-* "out of" + *faciō* "to do, to make".
+
+## effective
+
+- Record: `{prefix:"ex-", stem:"fac", suffix:"-ive", literal:"make out of", definition:"working well and producing the result you want"}`
+- Review: Confirmed `ex-` + `fac` + `-ive`.
+- Reference: Wiktionary, [effective](https://en.wiktionary.org/wiki/effective#English) — from Latin *effectīvus* "productive; effective", from *efficiō* "to make; to bring about", equivalent to *effect* + *-ive*.
+
+## factor
+
+- Record: `{prefix:null, stem:"fac", suffix:"-or", literal:"make", definition:"one of the things that helps cause a result"}`
+- Review: Confirmed `fac` + `-or`; replaced "an abstract part of something".
+- Reference: Wiktionary, [factor](https://en.wiktionary.org/wiki/factor#English) — from Latin *factor* "a doer, maker, performer", from *factus* "done or made", perfect passive participle of *faciō* "do, make".
+
+## perfect
+
+- Record: `{prefix:"per-", stem:"fac", suffix:null, literal:"make through", definition:"having no mistakes or flaws"}`
+- Review: Confirmed `per-` + `fac`; replaced the verb gloss with the common adjective sense.
+- Reference: Wiktionary, [perfect](https://en.wiktionary.org/wiki/perfect#English) — from Latin *perfectus*, perfect passive participle of *perficere* "to finish", from *per-* "through, thorough" + *facere* "to do, to make".
+
+## perfection
+
+- Record: `{prefix:"per-", stem:"fac", suffix:"-ion", literal:"make through", definition:"the state of being perfect"}`
+- Review: Confirmed `per-` + `fac` + `-ion`.
+- Reference: Wiktionary, [perfection](https://en.wiktionary.org/wiki/perfection#English) — from Latin *perfectiō*; *perfect* + *-ion*.
+- Reference: Wiktionary (Latin), [perfectio](https://en.wiktionary.org/wiki/perfectio#Latin) — *perfectiō* = *perficiō* + *-tiō*.
+
+## inject
+
+- Record: `{prefix:"in-", stem:"ject", suffix:null, literal:"throw into", definition:"to put a liquid such as medicine into the body with a needle"}`
+- Review: Confirmed `in-` + `ject`.
+- Reference: Wiktionary, [inject](https://en.wiktionary.org/wiki/inject#English) — from Latin *iniectus*, participle of *iniciō* "to throw in", from *in-* + *iaciō* "I throw".
+
+## injection
+
+- Record: `{prefix:"in-", stem:"ject", suffix:"-ion", literal:"throw into", definition:"the act of putting medicine into the body with a needle"}`
+- Review: Confirmed `in-` + `ject` + `-ion`.
+- Reference: Wiktionary, [injection](https://en.wiktionary.org/wiki/injection#English) — from Latin *iniectio*; equivalent to *inject* + *-ion*.
+- Reference: Wiktionary (Latin), [inicio](https://en.wiktionary.org/wiki/inicio#Latin) — *iniciō* = *in-* "into" + *iaciō* "throw, hurl".
+
+## object
+
+- Record: `{prefix:"ob-", stem:"ject", suffix:null, literal:"throw against", definition:"a thing that you can see and touch"}`
+- Review: Confirmed `ob-` + `ject`.
+- Reference: Wiktionary, [object](https://en.wiktionary.org/wiki/object#English) — from Medieval Latin *obiectum* "object" (literally "thrown against"), from *obiectus*, perfect passive participle of *obiciō* "to throw against", from *ob* "against" + *iaciō* "to throw".
+
+## objection
+
+- Record: `{prefix:"ob-", stem:"ject", suffix:"-ion", literal:"throw against", definition:"a reason or statement against something"}`
+- Review: Confirmed `ob-` + `ject` + `-ion`.
+- Reference: Wiktionary, [objection](https://en.wiktionary.org/wiki/objection#English) — from Latin *obiectio*; equivalent to *object* + *-ion*.
+- Reference: Wiktionary (Latin), [obicio](https://en.wiktionary.org/wiki/obicio#Latin) — *obiciō* = *ob-* "towards, against" + *iaciō* "to throw, hurl".
+
+## objective
+
+- Record: `{prefix:"ob-", stem:"ject", suffix:"-ive", literal:"throw against", definition:"a goal you are trying to reach; also, fair and not influenced by personal feelings"}`
+- Review: Confirmed `ob-` + `ject` + `-ive`.
+- Reference: Wiktionary, [objective](https://en.wiktionary.org/wiki/objective#English) — from Medieval Latin *obiectīvus*; *object* + *-ive*.
+- Reference: Wiktionary (Latin), [obiectivus](https://en.wiktionary.org/wiki/obiectivus#Latin) — *obiectīvus* = *obiciō* "to present, expose" + *-īvus*.
+
+## project
+
+- Record: `{prefix:"pro-", stem:"ject", suffix:null, literal:"throw forward", definition:"a planned piece of work with a goal"}`
+- Review: Confirmed `pro-` + `ject`; replaced "communicate vividly".
+- Reference: Wiktionary, [project](https://en.wiktionary.org/wiki/project#English) — from Latin *prōiectus*, perfect passive participle of *prōiciō* "throw forth, extend; expel".
+- Reference: Wiktionary (Latin), [proicio](https://en.wiktionary.org/wiki/proicio#Latin) — *prōiciō* = *prō-* + *iaciō* "throw, hurl".
+
+## reject
+
+- Record: `{prefix:"re-", stem:"ject", suffix:null, literal:"throw back", definition:"to refuse to accept something"}`
+- Review: Confirmed `re-` + `ject`.
+- Reference: Wiktionary, [reject](https://en.wiktionary.org/wiki/reject#English) — from Latin *reiectus*, past participle of *reicere* "to throw back", from *re-* "back" + *iacere* "to throw".
+
+## rejection
+
+- Record: `{prefix:"re-", stem:"ject", suffix:"-ion", literal:"throw back", definition:"the act of refusing to accept something"}`
+- Review: Confirmed `re-` + `ject` + `-ion`.
+- Reference: Wiktionary, [rejection](https://en.wiktionary.org/wiki/rejection#English) — from French *réjection* or directly from Latin *reiectiōnem*, accusative of *reiectiō*.
+- Reference: Wiktionary (Latin), [reicio](https://en.wiktionary.org/wiki/reicio#Latin) — *reiciō* = *re-* + *iaciō* "throw, hurl".
+
+## subject
+
+- Record: `{prefix:"sub-", stem:"ject", suffix:null, literal:"throw under", definition:"a topic you study or talk about"}`
+- Review: Confirmed `sub-` + `ject`.
+- Reference: Wiktionary, [subject](https://en.wiktionary.org/wiki/subject#English) — from Latin *subiectus* "lying under or near", … past participle of *subiciō* "throw, lay, place", from *sub* "under" + *iaciō* "throw, hurl".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -974,3 +1145,5 @@ Words held back from teaching modes, with the reason.
 - advise — comes via Late Latin *advisō* = *ad* + *vīsō*; Wiktionary disagrees on whether *vīsō* derives from *videō* (English *visit* entry) or is a sister formation from the same root (Latin *viso* entry), so the `vid` mapping is unresolved; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/viso#Latin))
 - advisor — *advise* + *-or*; inherits the unresolved `vid` mapping of *advise*; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/advisor))
 - visitor — *visit* + *-or*, from Latin *vīsitō*, frequentative of *vīsō*; same unresolved *vīsō*/*videō* conflict as *advise*; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/visit))
+- interference — not a *ferō* ("carry") word: from *interfere*, from Old French *entreferir*, *entre-* + *ferir* "to hit, to strike", from Latin *feriō*; no `strike` stem exists ([Wiktionary](https://en.wiktionary.org/wiki/interfere))
+- factory — the English entry gives "probably *factor* + *-y*", so the recorded `-ory` suffix is not supported (Latin *factōrium* "oil press" is only a comparison); definition corrected to "a building where goods are made" ([Wiktionary](https://en.wiktionary.org/wiki/factory))

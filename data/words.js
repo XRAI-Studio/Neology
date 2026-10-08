@@ -1072,8 +1072,8 @@ window.WF.WORDS = [
     "fac",
     null,
     "make to",
-    "act physically on",
-    false
+    "to have an influence on someone or something",
+    true
   ],
   [
     "affection",
@@ -1081,8 +1081,8 @@ window.WF.WORDS = [
     "fac",
     "-ion",
     "make to",
-    "a positive feeling of liking",
-    false
+    "a feeling of fondness or love",
+    true
   ],
   [
     "affirmative",
@@ -1540,8 +1540,8 @@ window.WF.WORDS = [
     "fer",
     "-ence",
     "carry with",
-    "a discussion among participants who have an agreed (serious) topic",
-    false
+    "a formal meeting where people discuss a topic",
+    true
   ],
   [
     "confidence",
@@ -2007,9 +2007,9 @@ window.WF.WORDS = [
     "de-",
     "fac",
     null,
-    "make down",
-    "a failing or deficiency",
-    false
+    "undo",
+    "a fault or flaw in something",
+    true
   ],
   [
     "define",
@@ -2197,8 +2197,8 @@ window.WF.WORDS = [
     "fer",
     "-ence",
     "carry apart",
-    "the quality of being unlike or dissimilar",
-    false
+    "the way in which two things are not alike",
+    true
   ],
   [
     "different",
@@ -2206,8 +2206,8 @@ window.WF.WORDS = [
     "fer",
     "-ent",
     "carry apart",
-    "differing from all others",
-    false
+    "not the same as another or each other",
+    true
   ],
   [
     "discretion",
@@ -2368,8 +2368,8 @@ window.WF.WORDS = [
     "fac",
     null,
     "make out of",
-    "an outward appearance",
-    false
+    "a change that is caused by something",
+    true
   ],
   [
     "effective",
@@ -2377,8 +2377,8 @@ window.WF.WORDS = [
     "fac",
     "-ive",
     "make out of",
-    "able to accomplish a purpose",
-    false
+    "working well and producing the result you want",
+    true
   ],
   [
     "effort",
@@ -2701,8 +2701,8 @@ window.WF.WORDS = [
     "fac",
     "-or",
     "make",
-    "an abstract part of something",
-    false
+    "one of the things that helps cause a result",
+    true
   ],
   [
     "factory",
@@ -2710,7 +2710,7 @@ window.WF.WORDS = [
     "fac",
     "-ory",
     "make",
-    "a plant consisting of one or more buildings with facilities for manufacturing",
+    "a building where goods are made",
     false
   ],
   [
@@ -3070,8 +3070,8 @@ window.WF.WORDS = [
     "ject",
     null,
     "throw into",
-    "give an injection to",
-    false
+    "to put a liquid such as medicine into the body with a needle",
+    true
   ],
   [
     "injection",
@@ -3079,8 +3079,8 @@ window.WF.WORDS = [
     "ject",
     "-ion",
     "throw into",
-    "any solution that is injected (as into the skin)",
-    false
+    "the act of putting medicine into the body with a needle",
+    true
   ],
   [
     "innocence",
@@ -3637,8 +3637,8 @@ window.WF.WORDS = [
     "ject",
     null,
     "throw against",
-    "a tangible and visible entity",
-    false
+    "a thing that you can see and touch",
+    true
   ],
   [
     "objection",
@@ -3646,8 +3646,8 @@ window.WF.WORDS = [
     "ject",
     "-ion",
     "throw against",
-    "the act of protesting",
-    false
+    "a reason or statement against something",
+    true
   ],
   [
     "objective",
@@ -3655,8 +3655,8 @@ window.WF.WORDS = [
     "ject",
     "-ive",
     "throw against",
-    "undistorted by emotion or personal bias",
-    false
+    "a goal you are trying to reach; also, fair and not influenced by personal feelings",
+    true
   ],
   [
     "observation",
@@ -3717,9 +3717,9 @@ window.WF.WORDS = [
     "ob-",
     "fer",
     null,
-    "carry against",
-    "a usually brief attempt",
-    false
+    "carry toward",
+    "to hold out something for someone to take or accept",
+    true
   ],
   [
     "operate",
@@ -3853,8 +3853,8 @@ window.WF.WORDS = [
     "fac",
     null,
     "make through",
-    "make perfect or complete",
-    false
+    "having no mistakes or flaws",
+    true
   ],
   [
     "perfection",
@@ -3862,8 +3862,8 @@ window.WF.WORDS = [
     "fac",
     "-ion",
     "make through",
-    "an ideal instance",
-    false
+    "the state of being perfect",
+    true
   ],
   [
     "perform",
@@ -4024,8 +4024,8 @@ window.WF.WORDS = [
     "fer",
     null,
     "carry before",
-    "like better",
-    false
+    "to like one thing better than another",
+    true
   ],
   [
     "prescription",
@@ -4222,8 +4222,8 @@ window.WF.WORDS = [
     "ject",
     null,
     "throw forward",
-    "communicate vividly",
-    false
+    "a planned piece of work with a goal",
+    true
   ],
   [
     "promise",
@@ -4420,8 +4420,8 @@ window.WF.WORDS = [
     "fer",
     null,
     "carry back",
-    "be relevant to",
-    false
+    "to mention something, or to send someone to another person or place for help",
+    true
   ],
   [
     "reference",
@@ -4429,8 +4429,8 @@ window.WF.WORDS = [
     "fer",
     "-ence",
     "carry back",
-    "an indicator that orients you generally",
-    false
+    "a mention of something, or a source you look at for information",
+    true
   ],
   [
     "reflect",
@@ -4501,8 +4501,8 @@ window.WF.WORDS = [
     "ject",
     null,
     "throw back",
-    "refuse to accept",
-    false
+    "to refuse to accept something",
+    true
   ],
   [
     "rejection",
@@ -4510,8 +4510,8 @@ window.WF.WORDS = [
     "ject",
     "-ion",
     "throw back",
-    "the state of being rejected",
-    false
+    "the act of refusing to accept something",
+    true
   ],
   [
     "remote",
@@ -5005,8 +5005,8 @@ window.WF.WORDS = [
     "ject",
     null,
     "throw under",
-    "a branch of knowledge",
-    false
+    "a topic you study or talk about",
+    true
   ],
   [
     "submit",
@@ -5059,8 +5059,8 @@ window.WF.WORDS = [
     "fer",
     null,
     "carry under",
-    "undergo or be subjected to",
-    false
+    "to feel pain or go through something bad",
+    true
   ],
   [
     "suitable",
@@ -5221,8 +5221,8 @@ window.WF.WORDS = [
     "fer",
     null,
     "carry across",
-    "the act of moving something from one location to another",
-    false
+    "the act of moving something or someone from one place to another",
+    true
   ],
   [
     "transform",

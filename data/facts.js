@@ -79,7 +79,7 @@ window.WF.FACTS = {
   "predict": "🔮 Predict = “say before” — speaking the future before it happens!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/prevent#English (verified 2026-10-07)
   "prevent": "🚧 Prevent = “come before” — getting there FIRST so something can’t happen!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/project#English (verified 2026-10-07)
   "project": "🎯 Project = “throw forward” — hurling an idea into the future!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/invisible#English (verified 2026-10-07)
   "invisible": "👻 Invisible uses the sneaky NOT in- : “not able to be seen”!",
@@ -171,7 +171,7 @@ window.WF.FACTS = {
   "importance": " Importance is related to Latin importare, bring in or carry into.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/inform#English (verified 2026-10-07)
   "inform": " Inform comes from Latin informare, give form to or shape.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/inject (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/inject#English (verified 2026-10-07)
   "inject": " Inject comes from Latin inicere, throw in.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/insist (checked 2026-07-20)
   "insist": " Insist comes from Latin insistere, stand upon or persist.",
