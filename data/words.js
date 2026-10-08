@@ -937,8 +937,8 @@ window.WF.WORDS = [
     "duc",
     "-ion",
     "lead away from",
-    "the criminal act of capturing and carrying away by force a family member",
-    false
+    "the act of illegally taking someone away, usually by force",
+    true
   ],
   [
     "accept",
@@ -946,8 +946,8 @@ window.WF.WORDS = [
     "cap",
     null,
     "take to",
-    "consider or hold as true",
-    false
+    "to receive something offered, or agree to it",
+    true
   ],
   [
     "acceptable",
@@ -955,8 +955,8 @@ window.WF.WORDS = [
     "cap",
     "-able",
     "take to",
-    "meeting requirements",
-    false
+    "good enough to be accepted; satisfactory",
+    true
   ],
   [
     "access",
@@ -1297,8 +1297,8 @@ window.WF.WORDS = [
     "cap",
     "-able",
     "take",
-    "possibly accepting or permitting",
-    false
+    "having the ability to do something",
+    true
   ],
   [
     "capture",
@@ -1306,8 +1306,8 @@ window.WF.WORDS = [
     "cap",
     "-ure",
     "take",
-    "the act of forcibly dispossessing an owner of property",
-    false
+    "the act of taking or seizing something by force",
+    true
   ],
   [
     "circumstance",
@@ -1486,8 +1486,8 @@ window.WF.WORDS = [
     "cap",
     null,
     "take with",
-    "an abstract or general idea inferred or derived from specific instances",
-    false
+    "an abstract or general idea",
+    true
   ],
   [
     "concern",
@@ -1522,8 +1522,8 @@ window.WF.WORDS = [
     "duc",
     null,
     "lead with",
-    "direct the course or movement of something",
-    false
+    "to lead or direct something",
+    true
   ],
   [
     "conductor",
@@ -1531,8 +1531,8 @@ window.WF.WORDS = [
     "duc",
     "-or",
     "lead with",
-    "the person who leads a musical group",
-    false
+    "a person who leads a musical group",
+    true
   ],
   [
     "conference",
@@ -1963,8 +1963,8 @@ window.WF.WORDS = [
     "cap",
     "-ion",
     "take down",
-    "an illusory feat",
-    false
+    "the act of tricking someone into believing something untrue",
+    true
   ],
   [
     "decision",
@@ -2350,8 +2350,8 @@ window.WF.WORDS = [
     "duc",
     "-ate",
     "lead out of",
-    "give an education to",
-    false
+    "to teach or train someone",
+    true
   ],
   [
     "education",
@@ -2359,8 +2359,8 @@ window.WF.WORDS = [
     "duc",
     "-ion",
     "lead out of",
-    "the activities of educating or instructing",
-    false
+    "the process of teaching and learning, especially at school",
+    true
   ],
   [
     "effect",
@@ -2530,8 +2530,8 @@ window.WF.WORDS = [
     "cap",
     null,
     "take out of",
-    "take exception to",
-    false
+    "not including; other than",
+    true
   ],
   [
     "exception",
@@ -2539,8 +2539,8 @@ window.WF.WORDS = [
     "cap",
     "-ion",
     "take out of",
-    "a deliberate act of omission",
-    false
+    "something that is left out of a general rule or group",
+    true
   ],
   [
     "excess",
@@ -2971,8 +2971,8 @@ window.WF.WORDS = [
     "cap",
     "-able",
     "not take",
-    "(followed by `of') lacking capacity or ability",
-    false
+    "not able to do something",
+    true
   ],
   [
     "include",
@@ -3277,8 +3277,8 @@ window.WF.WORDS = [
     "cap",
     null,
     "take between",
-    "seize on its way",
-    false
+    "to stop or catch something on its way to somewhere else",
+    true
   ],
   [
     "intercourse",
@@ -3700,8 +3700,8 @@ window.WF.WORDS = [
     "cap",
     "-ion",
     "take against",
-    "any activity that occupies a person's attention",
-    false
+    "a person's job or profession",
+    true
   ],
   [
     "occur",
@@ -3844,8 +3844,8 @@ window.WF.WORDS = [
     "cap",
     "-ion",
     "take through",
-    "the process of perceiving",
-    false
+    "the ability to notice and understand things through the senses",
+    true
   ],
   [
     "perfect",
@@ -4168,8 +4168,8 @@ window.WF.WORDS = [
     "duc",
     null,
     "lead forward",
-    "bring forth or yield",
-    false
+    "to make, grow, or bring something into being",
+    true
   ],
   [
     "producer",
@@ -4177,8 +4177,8 @@ window.WF.WORDS = [
     "duc",
     "-er",
     "lead forward",
-    "something that produces",
-    false
+    "a person, company, or living thing that produces something",
+    true
   ],
   [
     "product",
@@ -4186,8 +4186,8 @@ window.WF.WORDS = [
     "duc",
     null,
     "lead forward",
-    "commodities offered for sale",
-    false
+    "something that is made or grown, especially to be sold",
+    true
   ],
   [
     "production",
@@ -4196,7 +4196,7 @@ window.WF.WORDS = [
     "-ion",
     "lead forward",
     "the act or process of producing something",
-    false
+    true
   ],
   [
     "productive",
@@ -4204,8 +4204,8 @@ window.WF.WORDS = [
     "duc",
     "-ive",
     "lead forward",
-    "yielding positive results",
-    false
+    "producing a lot, or giving useful results",
+    true
   ],
   [
     "progress",
@@ -4348,8 +4348,8 @@ window.WF.WORDS = [
     "cap",
     null,
     "take back",
-    "the act of receiving",
-    false
+    "a written record showing that something was received or paid for",
+    true
   ],
   [
     "receiver",
@@ -4357,8 +4357,8 @@ window.WF.WORDS = [
     "cap",
     "-er",
     "take back",
-    "set that receives radio or tv signals",
-    false
+    "a person or device that receives something",
+    true
   ],
   [
     "reception",
@@ -4366,8 +4366,8 @@ window.WF.WORDS = [
     "cap",
     "-ion",
     "take back",
-    "a formal party of people",
-    false
+    "the act of receiving, or a formal party to welcome guests",
+    true
   ],
   [
     "recess",
@@ -4411,8 +4411,8 @@ window.WF.WORDS = [
     "duc",
     null,
     "lead back",
-    "cut down on",
-    false
+    "to make something smaller or less",
+    true
   ],
   [
     "refer",

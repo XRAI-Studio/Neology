@@ -85,8 +85,8 @@ window.WF.FACTS = {
   "invisible": "👻 Invisible uses the sneaky NOT in- : “not able to be seen”!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "incredible": "🤯 Incredible = “not believable” — so amazing your brain refuses to believe it!",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/accept (checked 2026-07-20)
-  "accept": " Accept traces to Latin for take or receive willingly, joining ad- (to) with capere (take).",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/accept#English (verified 2026-10-07)
+  "accept": " Accept traces to Latin acceptare, “to receive,” built from ad- (to) and capere (take).",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/aggression (checked 2026-07-20)
   "aggression": " Aggression comes through Latin aggredi, to approach or attack  literally a stepping toward something.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/application (checked 2026-07-20)
@@ -101,9 +101,9 @@ window.WF.FACTS = {
   "compensate": " Compensate comes from Latin for weighing one thing against another to make a balance.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/complex (checked 2026-07-20)
   "complex": " Complex comes from Latin complexus, entwined or embraced, like many strands wrapped together.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/concept (checked 2026-07-20)
-  "concept": " Concept comes from Latin conceptum, something conceived, from a verb meaning take in.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/conduct (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/concept#English (verified 2026-10-07)
+  "concept": " Concept comes from Latin conceptus, “a thought” or “a conceiving,” from concipere, “to take in.”",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/conduct#English (verified 2026-10-07)
   "conduct": " Conduct comes from Latin conducere, lead or bring together.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/confirm (checked 2026-07-20)
   "confirm": " Confirm comes from Latin confirmare, make firm or strengthen.",
@@ -149,7 +149,7 @@ window.WF.FACTS = {
   "estate": " Estate grew from a word for state or condition, ultimately tied to Latin stare, stand.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/evidence (checked 2026-07-20)
   "evidence": " Evidence is related to Latin evidens, obvious or clearly seen.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/except (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/except#English (verified 2026-10-07)
   "except": " Except comes from Latin excipere, take out, removing one thing from the group.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/excessive (checked 2026-07-20)
   "excessive": " Excessive belongs to a Latin family meaning go beyond or exceed a boundary.",
@@ -187,10 +187,10 @@ window.WF.FACTS = {
   "innocent": " Innocent comes from Latin innocens, not harming.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/infirmary (checked 2026-07-20)
   "infirmary": " Infirmary grew from infirmus, Latin for weak or not strong.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/produce (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/produce#English (verified 2026-10-07)
   "produce": " Produce comes from Latin producere, lead or bring forth.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/product (checked 2026-07-20)
-  "product": " Product comes from Latin productum, something brought forth.",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/product#English (verified 2026-10-07)
+  "product": " Product comes from Latin productus, “brought forth,” from producere, “to lead forth.”",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/progress (checked 2026-07-20)
   "progress": " Progress comes from Latin progressus, a going forward.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/promise (checked 2026-07-20)
