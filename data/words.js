@@ -8,7 +8,7 @@ window.WF.PREFIXES = [
   ],
   [
     "ad-",
-    "to, toward",
+    "to, toward, at",
     "adhere"
   ],
   [
@@ -23,7 +23,7 @@ window.WF.PREFIXES = [
   ],
   [
     "con-",
-    "with, together",
+    "with, together, completely",
     "connect"
   ],
   [
@@ -33,7 +33,7 @@ window.WF.PREFIXES = [
   ],
   [
     "de-",
-    "down, away, completely",
+    "down, away, completely, reverse",
     "decelerate"
   ],
   [
@@ -73,7 +73,7 @@ window.WF.PREFIXES = [
   ],
   [
     "per-",
-    "through, thoroughly",
+    "through, thoroughly, by",
     "percolate"
   ],
   [
@@ -265,7 +265,7 @@ window.WF.STEMS = [
   ],
   [
     "gen",
-    "birth, origin",
+    "birth, origin, kind",
     "generate"
   ],
   [
@@ -320,7 +320,7 @@ window.WF.STEMS = [
   ],
   [
     "lect",
-    "read, choose",
+    "read, choose, gather",
     "lecture"
   ],
   [
@@ -520,7 +520,7 @@ window.WF.STEMS = [
   ],
   [
     "rect",
-    "straight, right",
+    "straight, right, rule",
     "direct"
   ],
   [
@@ -560,7 +560,7 @@ window.WF.STEMS = [
   ],
   [
     "serv",
-    "keep, serve",
+    "keep, serve, watch",
     "conserve"
   ],
   [
@@ -792,12 +792,12 @@ window.WF.STEMS = [
 window.WF.SUFFIXES = [
   [
     "-able",
-    "able to be; giving",
+    "able to (be); giving",
     "portable"
   ],
   [
     "-ible",
-    "able to be",
+    "able to (be)",
     "visible"
   ],
   [
@@ -827,7 +827,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-ary",
-    "relating to; place for",
+    "relating to; place for; one who",
     "library"
   ],
   [
@@ -847,7 +847,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-ile",
-    "capable of; like",
+    "capable of (being); like",
     "docile"
   ],
   [
@@ -907,7 +907,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-age",
-    "action or result of",
+    "action or result of; rate",
     "passage"
   ],
   [
@@ -917,18 +917,18 @@ window.WF.SUFFIXES = [
   ]
 ];
 window.WF.FAMILY_NOTES = {
-  "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand at,' and attention means 'stretch to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
-  "con-": "The “con- family” is about doing things TOGETHER. Comfort = “strong with” (lending someone your strength), command = “entrust” (from mandare, “hand over”), confuse = “pour together” (a murky mixed-up drink), and conclude = “close with” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
-  "de-": "The “de- family” points DOWN and AWAY. Depend = “hang down from” (like dangling from a rope you trust!), describe = “write down,” and depart = “share away” — splitting off from the group. When you see de-, picture something dropping or leaving.",
-  "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (from Latin emovere, “stir up”), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
-  "in-": "The sneaky “in- family” has TWO jobs: going INTO (inject = throw in, inspire = breathe in) and saying NOT (invisible = not seeable, incredible = not believable). It also shape-shifts: im-, il-, ir-. You have to read the whole word to know which in- you’ve met!",
-  "pro-": "The “pro- family” charges FORWARD. Propel = “drive forward,” project = “throw forward,” promote = “move forward,” and produce = “lead forward.” Pro- words are the go-getters of English — always pushing ahead!",
-  "re-": "The mighty “re- family” goes BACK and AGAIN — it’s the most-used prefix in English! Reject = “throw back,” record = “heart back” (from recordari, “to call to mind”), reflect = “bend back” (like light off a mirror), and revolve = “roll back around.”",
-  "sub-": "The “sub- family” lives UNDER everything. Submit = “send under” (placing yourself beneath someone’s authority), submerge = “plunge under,” support = “carry from under” (holding something up!). It disguises itself as sup-, sus-, suc-, suf-.",
-  "trans-": "The “trans- family” crosses OVER. Transport = “carry across,” transmit = “send across,” translucent = “light shining across/through.” Trans- words are bridges — they always take something from one side to the other.",
-  "post-": "The “post- family” comes AFTER. Postpone = “place after” — ancient people pictured time as a road, and delaying meant setting a task farther down the path. A postscript (P.S.!) is “written after” the letter ends.",
-  "pre-": "The “pre- family” comes BEFORE. Predict = “say before,” prevent = “come before” (getting there first to stop something!), and president = “the one who sits before” the assembly. Pre- words are the early birds.",
-  "inter-": "The “inter- family” lives BETWEEN. Interrupt = “break between” (smashing into the middle of a sentence!), intersect = “cut between,” and an interlude = “a play between” acts. Inter- is the in-betweener."
+  "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'to pull,' assist means 'at stand,' and attention means 'to stretch + act of.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
+  "con-": "The “con- family” is about doing things TOGETHER. Comfort = “with strong” (lending someone your strength), command = “together hand over” (from mandare, “to hand over”), confuse = “together pour” (a murky mixed-up drink), and conclude = “with close” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
+  "de-": "The “de- family” points DOWN and AWAY. Depend = “down hang” (like dangling from a rope you trust!), describe = “down write,” and depart = “away share” — splitting off from the group. When you see de-, picture something dropping or leaving.",
+  "ex-": "The “ex- family” bursts OUT. Emotion = “out of move + state of” (from Latin emovere, “stir up”), exclaim = “out shout,” extract = “out of pull” (like a dentist!), and extortion = “out of twist + act of.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
+  "in-": "The sneaky “in- family” has TWO jobs: going INTO (inject = into throw, inspire = into breathe) and saying NOT (invisible = not see + able to be, incredible = not believe + able to be). It also shape-shifts: im-, il-, ir-. You have to read the whole word to know which in- you’ve met!",
+  "pro-": "The “pro- family” charges FORWARD. Propel = “forward drive,” project = “forward throw,” promote = “forward move,” and produce = “forward lead.” Pro- words are the go-getters of English — always pushing ahead!",
+  "re-": "The mighty “re- family” goes BACK and AGAIN — it’s the most-used prefix in English! Reject = “back throw,” record = “back heart” (from recordari, “to call to mind”), reflect = “back bend” (like light off a mirror), and revolve = “back roll.”",
+  "sub-": "The “sub- family” lives UNDER everything. Submit = “under send” (placing yourself beneath someone’s authority), submerge = “under plunge,” support = “under carry” (holding something up!). It disguises itself as sup-, sus-, suc-, suf-.",
+  "trans-": "The “trans- family” crosses OVER. Transport = “across carry,” transmit = “across send,” translucent = “across shine.” Trans- words are bridges — they always take something from one side to the other.",
+  "post-": "The “post- family” comes AFTER. Postpone = “after place” — putting something off until later. A postscript (P.S.!) is “after write” — something written after the letter ends.",
+  "pre-": "The “pre- family” comes BEFORE. Predict = “before say,” prevent = “before come” (getting there first to stop something!), and president = “before sit + one who” — the one who sits before the assembly. Pre- words are the early birds.",
+  "inter-": "The “inter- family” lives BETWEEN. Interrupt = “between break” (smashing into the middle of a sentence!), intersect = “between cut,” and an interlude = “between play” — a play between acts. Inter- is the in-betweener."
 };
 window.WF.WORDS = [
   [
@@ -936,7 +936,7 @@ window.WF.WORDS = [
     "ab-",
     "duc",
     "-ion",
-    "lead away from",
+    "away from lead + act of",
     "the act of illegally taking someone away, usually by force",
     true
   ],
@@ -945,7 +945,7 @@ window.WF.WORDS = [
     "ad-",
     "cap",
     null,
-    "take to",
+    "to take",
     "to receive something offered, or agree to it",
     true
   ],
@@ -954,7 +954,7 @@ window.WF.WORDS = [
     "ad-",
     "cap",
     "-able",
-    "take to",
+    "to take + able to be",
     "good enough to be accepted; satisfactory",
     true
   ],
@@ -963,7 +963,7 @@ window.WF.WORDS = [
     "ad-",
     "ced",
     null,
-    "go to",
+    "to go",
     "a way of getting into a place, or the right to use something",
     true
   ],
@@ -972,7 +972,7 @@ window.WF.WORDS = [
     "ad-",
     "ced",
     "-ory",
-    "go to",
+    "to go + relating to",
     "an extra item that goes with something, such as a belt or a phone case",
     true
   ],
@@ -981,7 +981,7 @@ window.WF.WORDS = [
     "ad-",
     "cur",
     "-ate",
-    "take care of",
+    "to care for + having",
     "correct in all details; exact",
     true
   ],
@@ -990,7 +990,7 @@ window.WF.WORDS = [
     "ad-",
     "quir",
     null,
-    "seek to",
+    "to seek",
     "to get or gain something",
     true
   ],
@@ -999,7 +999,7 @@ window.WF.WORDS = [
     "ad-",
     "dict",
     null,
-    "say to",
+    "to say",
     "a person who cannot stop using a harmful substance or repeating a harmful habit",
     true
   ],
@@ -1008,7 +1008,7 @@ window.WF.WORDS = [
     "ad-",
     "dict",
     "-ion",
-    "say to",
+    "to say + state of",
     "a strong need to keep using something harmful or doing something harmful",
     true
   ],
@@ -1017,7 +1017,7 @@ window.WF.WORDS = [
     "ad-",
     "mit",
     "-ion",
-    "send to",
+    "to send + act of",
     "permission to enter a place",
     true
   ],
@@ -1026,7 +1026,7 @@ window.WF.WORDS = [
     "ad-",
     "mit",
     null,
-    "send to",
+    "to send",
     "to let someone in, or to agree that something is true",
     true
   ],
@@ -1035,7 +1035,7 @@ window.WF.WORDS = [
     "ad-",
     "ven",
     "-ure",
-    "come to",
+    "to come + result of",
     "an exciting or unusual experience",
     true
   ],
@@ -1044,7 +1044,7 @@ window.WF.WORDS = [
     "ad-",
     "vid",
     null,
-    "see to",
+    "to see",
     "to suggest what someone should do",
     false
   ],
@@ -1053,7 +1053,7 @@ window.WF.WORDS = [
     "ad-",
     "vid",
     "-or",
-    "see to",
+    "to see + one who",
     "a person who gives advice",
     false
   ],
@@ -1062,7 +1062,7 @@ window.WF.WORDS = [
     "ad-",
     "voc",
     "-ate",
-    "call to",
+    "to call + to make",
     "to speak in support of something; also, a person who does this",
     true
   ],
@@ -1071,7 +1071,7 @@ window.WF.WORDS = [
     "ad-",
     "fac",
     null,
-    "make to",
+    "to make",
     "to have an influence on someone or something",
     true
   ],
@@ -1080,7 +1080,7 @@ window.WF.WORDS = [
     "ad-",
     "fac",
     "-ion",
-    "make to",
+    "to make + state of",
     "a feeling of fondness or love",
     true
   ],
@@ -1089,7 +1089,7 @@ window.WF.WORDS = [
     "ad-",
     "firm",
     "-ive",
-    "make firm",
+    "to strengthen + tending to",
     "saying or showing that something is true; saying yes",
     true
   ],
@@ -1098,7 +1098,7 @@ window.WF.WORDS = [
     "ad-",
     "grad",
     "-ion",
-    "step to",
+    "to step + act of",
     "angry or violent behavior toward others",
     true
   ],
@@ -1107,7 +1107,7 @@ window.WF.WORDS = [
     "ad-",
     "grad",
     "-ive",
-    "step to",
+    "to step + tending to",
     "ready or likely to attack or argue",
     true
   ],
@@ -1116,7 +1116,7 @@ window.WF.WORDS = [
     "ad-",
     "plic",
     "-ion",
-    "fold to",
+    "to fold + act of",
     "a form you fill out to ask for something, or the act of putting something to use",
     true
   ],
@@ -1125,7 +1125,7 @@ window.WF.WORDS = [
     "ad-",
     "plic",
     null,
-    "fold to",
+    "to fold",
     "to ask formally for something, or to put something to use",
     true
   ],
@@ -1134,7 +1134,7 @@ window.WF.WORDS = [
     "ad-",
     "punct",
     null,
-    "point to",
+    "to point",
     "to choose someone for a job; also, to set a time for something",
     true
   ],
@@ -1143,7 +1143,7 @@ window.WF.WORDS = [
     "ad-",
     "punct",
     "-ment",
-    "point to",
+    "to point + result of",
     "an arranged meeting at a particular time",
     true
   ],
@@ -1152,7 +1152,7 @@ window.WF.WORDS = [
     "ad-",
     "prob",
     "-al",
-    "test to",
+    "to test + act of",
     "the feeling that something is good, or official permission",
     true
   ],
@@ -1161,7 +1161,7 @@ window.WF.WORDS = [
     "ad-",
     "sed",
     "-ment",
-    "sit by",
+    "at sit + result of",
     "a judgment about how good, bad, or valuable something is",
     true
   ],
@@ -1170,7 +1170,7 @@ window.WF.WORDS = [
     "ad-",
     "sign",
     null,
-    "mark to",
+    "to mark",
     "to give someone a task or a share of something",
     true
   ],
@@ -1179,7 +1179,7 @@ window.WF.WORDS = [
     "ad-",
     "sign",
     "-ment",
-    "mark to",
+    "to mark + result of",
     "a task that someone is given to do",
     true
   ],
@@ -1188,7 +1188,7 @@ window.WF.WORDS = [
     "ad-",
     "sist",
     null,
-    "stand at",
+    "at stand",
     "to help someone",
     true
   ],
@@ -1197,7 +1197,7 @@ window.WF.WORDS = [
     "ad-",
     "sist",
     "-ance",
-    "stand at",
+    "at stand + state of",
     "help given to someone",
     true
   ],
@@ -1206,7 +1206,7 @@ window.WF.WORDS = [
     "ad-",
     "sist",
     "-ant",
-    "stand at",
+    "at stand + one who",
     "a person whose job is to help someone else",
     true
   ],
@@ -1215,7 +1215,7 @@ window.WF.WORDS = [
     "ad-",
     "tend",
     null,
-    "stretch to",
+    "to stretch",
     "to be present at an event, or to pay attention to something",
     true
   ],
@@ -1224,7 +1224,7 @@ window.WF.WORDS = [
     "ad-",
     "tend",
     "-ance",
-    "stretch to",
+    "to stretch + state of",
     "the act of being present, or the number of people who are present",
     true
   ],
@@ -1233,7 +1233,7 @@ window.WF.WORDS = [
     "ad-",
     "tend",
     "-ant",
-    "stretch to",
+    "to stretch + one who",
     "a person whose job is to help or serve people",
     true
   ],
@@ -1242,7 +1242,7 @@ window.WF.WORDS = [
     "ad-",
     "tend",
     "-ion",
-    "stretch to",
+    "to stretch + act of",
     "the act of focusing your mind on something",
     true
   ],
@@ -1251,7 +1251,7 @@ window.WF.WORDS = [
     "ad-",
     "tract",
     null,
-    "pull to",
+    "to pull",
     "to pull something or someone toward you",
     true
   ],
@@ -1260,7 +1260,7 @@ window.WF.WORDS = [
     "ad-",
     "tract",
     "-ion",
-    "pull to",
+    "to pull + act of",
     "the power to pull or draw things toward it, or something people enjoy visiting",
     true
   ],
@@ -1269,7 +1269,7 @@ window.WF.WORDS = [
     "ad-",
     "tract",
     "-ive",
-    "pull to",
+    "to pull + tending to",
     "pleasing or interesting to look at or think about",
     true
   ],
@@ -1278,7 +1278,7 @@ window.WF.WORDS = [
     null,
     "aud",
     "-ible",
-    "hear",
+    "hear + able to be",
     "loud enough to be heard",
     true
   ],
@@ -1287,7 +1287,7 @@ window.WF.WORDS = [
     null,
     "aud",
     "-ion",
-    "hear",
+    "hear + act of",
     "a short performance to show if someone is good enough for a role",
     true
   ],
@@ -1296,7 +1296,7 @@ window.WF.WORDS = [
     null,
     "cap",
     "-able",
-    "take",
+    "take + able to",
     "having the ability to do something",
     true
   ],
@@ -1305,7 +1305,7 @@ window.WF.WORDS = [
     null,
     "cap",
     "-ure",
-    "take",
+    "take + process of",
     "the act of taking or seizing something by force",
     true
   ],
@@ -1314,7 +1314,7 @@ window.WF.WORDS = [
     "circum-",
     "stat",
     null,
-    "stand around",
+    "around stand",
     "a fact or condition that affects a situation",
     true
   ],
@@ -1323,7 +1323,7 @@ window.WF.WORDS = [
     "con-",
     "lect",
     null,
-    "gather together",
+    "together gather",
     "to gather things together",
     true
   ],
@@ -1332,7 +1332,7 @@ window.WF.WORDS = [
     "con-",
     "lect",
     "-ion",
-    "gather together",
+    "together gather + act of",
     "a group of things gathered together",
     true
   ],
@@ -1341,7 +1341,7 @@ window.WF.WORDS = [
     "con-",
     "lect",
     "-ive",
-    "gather together",
+    "together gather + relating to",
     "shared or done by a group of people",
     true
   ],
@@ -1350,7 +1350,7 @@ window.WF.WORDS = [
     "con-",
     "lect",
     "-or",
-    "gather together",
+    "together gather + one who",
     "a person who collects things",
     true
   ],
@@ -1359,7 +1359,7 @@ window.WF.WORDS = [
     "con-",
     "fort",
     null,
-    "strong with",
+    "with strong",
     "a relaxed feeling with no pain or worry; also, kindness to someone who is upset",
     true
   ],
@@ -1368,7 +1368,7 @@ window.WF.WORDS = [
     "con-",
     "fort",
     "-able",
-    "strong with",
+    "with strong + giving",
     "making you feel relaxed and free from pain",
     true
   ],
@@ -1377,7 +1377,7 @@ window.WF.WORDS = [
     "con-",
     "man",
     null,
-    "entrust",
+    "together hand over",
     "an order telling someone to do something",
     true
   ],
@@ -1386,7 +1386,7 @@ window.WF.WORDS = [
     "con-",
     "man",
     "-ant",
-    "entrust",
+    "together hand over + one who",
     "an officer in charge of a military base or unit",
     true
   ],
@@ -1395,7 +1395,7 @@ window.WF.WORDS = [
     "con-",
     "man",
     "-er",
-    "entrust",
+    "together hand over + one who",
     "a person who is in charge, especially in the army or navy",
     true
   ],
@@ -1404,7 +1404,7 @@ window.WF.WORDS = [
     "con-",
     "mit",
     "-ion",
-    "send with",
+    "with send + act of",
     "a group of people officially given a particular job to do",
     true
   ],
@@ -1413,7 +1413,7 @@ window.WF.WORDS = [
     "con-",
     "mit",
     null,
-    "send with",
+    "with send",
     "to promise yourself to something, or to carry out an act (often a wrong one)",
     true
   ],
@@ -1422,7 +1422,7 @@ window.WF.WORDS = [
     "con-",
     "mit",
     "-ment",
-    "send with",
+    "with send + act of",
     "a promise to do something, or strong dedication to a cause",
     true
   ],
@@ -1431,7 +1431,7 @@ window.WF.WORDS = [
     "con-",
     "mot",
     "-ion",
-    "move with",
+    "with move + act of",
     "a noisy, confused disturbance",
     true
   ],
@@ -1440,7 +1440,7 @@ window.WF.WORDS = [
     "con-",
     "part",
     "-ment",
-    "share with",
+    "with share + result of",
     "a separate section inside a container or space",
     true
   ],
@@ -1449,7 +1449,7 @@ window.WF.WORDS = [
     "con-",
     "pend",
     "-ate",
-    "weigh together",
+    "together weigh + to make",
     "to make up for something, such as a loss or a lack",
     true
   ],
@@ -1458,7 +1458,7 @@ window.WF.WORDS = [
     "con-",
     "pend",
     "-ion",
-    "weigh together",
+    "together weigh + act of",
     "something given to make up for a loss or to pay for work",
     true
   ],
@@ -1467,7 +1467,7 @@ window.WF.WORDS = [
     "con-",
     "plic",
     null,
-    "fold with",
+    "with fold",
     "a conceptual whole made up of complicated and related parts",
     false
   ],
@@ -1476,7 +1476,7 @@ window.WF.WORDS = [
     "con-",
     "plic",
     null,
-    "fold with",
+    "with fold",
     "act in accordance with someone's rules, commands, or wishes",
     false
   ],
@@ -1485,7 +1485,7 @@ window.WF.WORDS = [
     "con-",
     "cap",
     null,
-    "take with",
+    "with take",
     "an abstract or general idea",
     true
   ],
@@ -1494,7 +1494,7 @@ window.WF.WORDS = [
     "con-",
     "cern",
     null,
-    "sift together",
+    "together sift",
     "a feeling of worry, or something that matters to you",
     true
   ],
@@ -1503,7 +1503,7 @@ window.WF.WORDS = [
     "con-",
     "clud",
     null,
-    "close with",
+    "with close",
     "to bring something to an end, or to decide after thinking",
     true
   ],
@@ -1512,7 +1512,7 @@ window.WF.WORDS = [
     "con-",
     "clud",
     "-ion",
-    "close with",
+    "with close + act of",
     "the end of something, or a decision reached by thinking",
     true
   ],
@@ -1521,7 +1521,7 @@ window.WF.WORDS = [
     "con-",
     "duc",
     null,
-    "lead with",
+    "with lead",
     "to lead or direct something",
     true
   ],
@@ -1530,7 +1530,7 @@ window.WF.WORDS = [
     "con-",
     "duc",
     "-or",
-    "lead with",
+    "with lead + one who",
     "a person who leads a musical group",
     true
   ],
@@ -1539,7 +1539,7 @@ window.WF.WORDS = [
     "con-",
     "fer",
     "-ence",
-    "carry with",
+    "with carry + state of",
     "a formal meeting where people discuss a topic",
     true
   ],
@@ -1548,7 +1548,7 @@ window.WF.WORDS = [
     "con-",
     "fid",
     "-ence",
-    "trust with",
+    "with trust + state of",
     "a feeling of being sure about yourself or something",
     true
   ],
@@ -1557,7 +1557,7 @@ window.WF.WORDS = [
     "con-",
     "fid",
     "-ent",
-    "trust with",
+    "with trust + being",
     "feeling sure about yourself or about something",
     true
   ],
@@ -1566,7 +1566,7 @@ window.WF.WORDS = [
     "con-",
     "firm",
     null,
-    "make firm",
+    "together make firm",
     "to show or say that something is definitely true",
     true
   ],
@@ -1575,7 +1575,7 @@ window.WF.WORDS = [
     "con-",
     "firm",
     "-ion",
-    "make firm",
+    "together make firm + act of",
     "proof or a statement that something is true",
     true
   ],
@@ -1584,7 +1584,7 @@ window.WF.WORDS = [
     "con-",
     "fus",
     null,
-    "pour together",
+    "together pour",
     "to make someone unsure or unable to understand",
     true
   ],
@@ -1593,7 +1593,7 @@ window.WF.WORDS = [
     "con-",
     "fus",
     "-ion",
-    "pour together",
+    "together pour + state of",
     "the state of being unsure or not understanding",
     true
   ],
@@ -1602,7 +1602,7 @@ window.WF.WORDS = [
     "con-",
     "greg",
     "-ion",
-    "flock with",
+    "with flock + act of",
     "a group of people gathered together, especially for worship",
     true
   ],
@@ -1611,7 +1611,7 @@ window.WF.WORDS = [
     "con-",
     "grad",
     null,
-    "step together",
+    "together step",
     "a group of people chosen to make a country's laws",
     true
   ],
@@ -1620,7 +1620,7 @@ window.WF.WORDS = [
     "con-",
     "quir",
     null,
-    "seek with",
+    "with seek",
     "the act of taking control of a place or people by force",
     true
   ],
@@ -1629,7 +1629,7 @@ window.WF.WORDS = [
     "con-",
     "sci",
     "-ence",
-    "know with",
+    "with know + state of",
     "the inner sense of what is right and wrong",
     true
   ],
@@ -1638,7 +1638,7 @@ window.WF.WORDS = [
     "con-",
     "sci",
     "-ous",
-    "know with",
+    "with know + having",
     "awake and aware of what is happening",
     true
   ],
@@ -1647,7 +1647,7 @@ window.WF.WORDS = [
     "con-",
     "sens",
     null,
-    "feel with",
+    "with feel",
     "permission or agreement to let something happen",
     true
   ],
@@ -1656,7 +1656,7 @@ window.WF.WORDS = [
     "con-",
     "sequ",
     "-ence",
-    "follow with",
+    "with follow + state of",
     "a result of something that happened earlier",
     true
   ],
@@ -1665,7 +1665,7 @@ window.WF.WORDS = [
     "con-",
     "serv",
     "-ive",
-    "preserve",
+    "completely keep + tending to",
     "preferring to keep things the way they are, and careful about change",
     true
   ],
@@ -1674,7 +1674,7 @@ window.WF.WORDS = [
     "con-",
     "sist",
     "-ent",
-    "stand with",
+    "with stand + being",
     "always behaving or happening in the same way",
     true
   ],
@@ -1683,7 +1683,7 @@ window.WF.WORDS = [
     "con-",
     "stat",
     null,
-    "stand with",
+    "with stand",
     "staying the same; not changing",
     true
   ],
@@ -1692,7 +1692,7 @@ window.WF.WORDS = [
     "con-",
     "stat",
     "-ion",
-    "stand with",
+    "with set up + act of",
     "the basic laws and principles of a country or organization",
     true
   ],
@@ -1701,7 +1701,7 @@ window.WF.WORDS = [
     "con-",
     "struct",
     "-ion",
-    "build with",
+    "with build + act of",
     "the work of building something",
     true
   ],
@@ -1710,7 +1710,7 @@ window.WF.WORDS = [
     "con-",
     "tact",
     null,
-    "touch with",
+    "with touch",
     "the act of touching or communicating with someone",
     true
   ],
@@ -1719,7 +1719,7 @@ window.WF.WORDS = [
     "con-",
     "ten",
     null,
-    "hold with",
+    "with hold",
     "to hold something inside",
     true
   ],
@@ -1728,7 +1728,7 @@ window.WF.WORDS = [
     "con-",
     "ten",
     "-er",
-    "hold with",
+    "with hold + that which",
     "an object used to hold or transport things",
     true
   ],
@@ -1737,7 +1737,7 @@ window.WF.WORDS = [
     "con-",
     "tempor",
     "-ary",
-    "time with",
+    "with time + relating to",
     "belonging to the present time; also, living at the same time as someone",
     true
   ],
@@ -1746,7 +1746,7 @@ window.WF.WORDS = [
     "con-",
     "ten",
     null,
-    "hold with",
+    "with hold",
     "satisfied and happy with what you have",
     true
   ],
@@ -1755,7 +1755,7 @@ window.WF.WORDS = [
     "con-",
     "ten",
     "-ent",
-    "hold with",
+    "with hold + being",
     "one of the large landmasses of the Earth, such as Africa or Asia",
     true
   ],
@@ -1764,7 +1764,7 @@ window.WF.WORDS = [
     "con-",
     "tract",
     null,
-    "pull together",
+    "together pull",
     "a written agreement that people must follow by law",
     true
   ],
@@ -1773,7 +1773,7 @@ window.WF.WORDS = [
     "con-",
     "tract",
     "-or",
-    "pull together",
+    "together pull + one who",
     "a person or company hired to do a job, such as building",
     true
   ],
@@ -1782,7 +1782,7 @@ window.WF.WORDS = [
     "con-",
     "trib",
     "-ion",
-    "give with",
+    "with give + act of",
     "something you give or do to help",
     true
   ],
@@ -1791,7 +1791,7 @@ window.WF.WORDS = [
     "con-",
     "ven",
     null,
-    "come with",
+    "with come",
     "a building where nuns live and work together",
     true
   ],
@@ -1800,7 +1800,7 @@ window.WF.WORDS = [
     "con-",
     "ven",
     "-ion",
-    "come with",
+    "with come + act of",
     "a large formal meeting of people who share an interest",
     true
   ],
@@ -1809,7 +1809,7 @@ window.WF.WORDS = [
     "con-",
     "vert",
     "-ion",
-    "keep company with",
+    "with turn + act of",
     "a talk between two or more people",
     true
   ],
@@ -1818,7 +1818,7 @@ window.WF.WORDS = [
     "con-",
     "vert",
     null,
-    "turn around",
+    "completely turn",
     "to change something into a different form or use",
     true
   ],
@@ -1827,7 +1827,7 @@ window.WF.WORDS = [
     "con-",
     "vinc",
     null,
-    "conquer with",
+    "with conquer",
     "to decide in a court of law that someone is guilty of a crime",
     true
   ],
@@ -1836,7 +1836,7 @@ window.WF.WORDS = [
     "con-",
     "vinc",
     "-ion",
-    "conquer with",
+    "with conquer + act of",
     "a strong belief, or a court's decision that someone is guilty",
     true
   ],
@@ -1845,7 +1845,7 @@ window.WF.WORDS = [
     "con-",
     "vinc",
     null,
-    "conquer with",
+    "with conquer",
     "to make someone believe that something is true",
     true
   ],
@@ -1854,7 +1854,7 @@ window.WF.WORDS = [
     "con-",
     "oper",
     "-ate",
-    "work with",
+    "with work + to make",
     "to work together with others",
     true
   ],
@@ -1863,7 +1863,7 @@ window.WF.WORDS = [
     "con-",
     "oper",
     "-ion",
-    "work with",
+    "with work + act of",
     "the act of working together with others",
     true
   ],
@@ -1872,7 +1872,7 @@ window.WF.WORDS = [
     "con-",
     "oper",
     "-ive",
-    "work with",
+    "with work + tending to",
     "willing to work together and help",
     true
   ],
@@ -1881,7 +1881,7 @@ window.WF.WORDS = [
     null,
     "corp",
     "-al",
-    "body",
+    "body + relating to",
     "relating to the body",
     true
   ],
@@ -1890,7 +1890,7 @@ window.WF.WORDS = [
     null,
     "corp",
     "-ate",
-    "body",
+    "body + having",
     "relating to a large company",
     true
   ],
@@ -1899,7 +1899,7 @@ window.WF.WORDS = [
     null,
     "corp",
     "-ion",
-    "body",
+    "body + act of",
     "a large company or business",
     true
   ],
@@ -1908,7 +1908,7 @@ window.WF.WORDS = [
     "con-",
     "rect",
     null,
-    "make straight",
+    "together make straight",
     "right, with no mistakes",
     true
   ],
@@ -1917,7 +1917,7 @@ window.WF.WORDS = [
     "con-",
     "rect",
     "-ion",
-    "make straight",
+    "together make straight + act of",
     "a change that fixes a mistake",
     true
   ],
@@ -1926,7 +1926,7 @@ window.WF.WORDS = [
     "con-",
     "rupt",
     null,
-    "break together",
+    "together break",
     "dishonest, especially by taking bribes",
     true
   ],
@@ -1935,7 +1935,7 @@ window.WF.WORDS = [
     "con-",
     "rupt",
     "-ion",
-    "break together",
+    "together break + act of",
     "dishonest or illegal behavior, especially by people in power",
     true
   ],
@@ -1944,7 +1944,7 @@ window.WF.WORDS = [
     null,
     "curr",
     "-ence",
-    "run",
+    "run + state of",
     "the money used in a country",
     false
   ],
@@ -1953,7 +1953,7 @@ window.WF.WORDS = [
     null,
     "curr",
     "-ent",
-    "run",
+    "run + being",
     "happening now; also, a flow of water, air, or electricity",
     true
   ],
@@ -1962,7 +1962,7 @@ window.WF.WORDS = [
     "de-",
     "cap",
     "-ion",
-    "take down",
+    "down take + act of",
     "the act of tricking someone into believing something untrue",
     true
   ],
@@ -1971,7 +1971,7 @@ window.WF.WORDS = [
     "de-",
     "cis",
     "-ion",
-    "cut off",
+    "off cut + act of",
     "a choice that you make after thinking",
     true
   ],
@@ -1980,7 +1980,7 @@ window.WF.WORDS = [
     "de-",
     "cis",
     "-ive",
-    "cut off",
+    "off cut + tending to",
     "able to make choices quickly and firmly; also, settling something clearly",
     true
   ],
@@ -1989,7 +1989,7 @@ window.WF.WORDS = [
     "de-",
     "dict",
     "-ate",
-    "proclaim",
+    "completely proclaim + to make",
     "to give your time and effort to something, or to honor someone with a work such as a book",
     true
   ],
@@ -1998,7 +1998,7 @@ window.WF.WORDS = [
     "de-",
     "dict",
     "-ion",
-    "proclaim",
+    "completely proclaim + act of",
     "hard work and loyalty given to a task or purpose",
     true
   ],
@@ -2007,7 +2007,7 @@ window.WF.WORDS = [
     "de-",
     "fac",
     null,
-    "undo",
+    "reverse do",
     "a fault or flaw in something",
     true
   ],
@@ -2016,7 +2016,7 @@ window.WF.WORDS = [
     "de-",
     "fin",
     null,
-    "set a limit",
+    "completely set a limit",
     "to explain exactly what a word or idea means",
     true
   ],
@@ -2025,7 +2025,7 @@ window.WF.WORDS = [
     "de-",
     "fin",
     "-ion",
-    "set a limit",
+    "completely set a limit + act of",
     "an explanation of what a word or idea means",
     true
   ],
@@ -2034,7 +2034,7 @@ window.WF.WORDS = [
     "de-",
     "man",
     null,
-    "hand over",
+    "away hand over",
     "to ask for something firmly",
     true
   ],
@@ -2043,7 +2043,7 @@ window.WF.WORDS = [
     "de-",
     "part",
     null,
-    "share away",
+    "away share",
     "to leave",
     true
   ],
@@ -2052,7 +2052,7 @@ window.WF.WORDS = [
     "de-",
     "part",
     "-ment",
-    "share away",
+    "away share + result of",
     "a section of a large organization, store, or school",
     true
   ],
@@ -2061,7 +2061,7 @@ window.WF.WORDS = [
     "de-",
     "part",
     "-ure",
-    "share away",
+    "away share + process of",
     "the act of leaving",
     true
   ],
@@ -2070,7 +2070,7 @@ window.WF.WORDS = [
     "de-",
     "pend",
     null,
-    "hang down",
+    "down hang",
     "to need or rely on someone or something",
     true
   ],
@@ -2079,7 +2079,7 @@ window.WF.WORDS = [
     "de-",
     "pend",
     "-ent",
-    "hang down",
+    "down hang + being",
     "needing someone or something for support",
     true
   ],
@@ -2088,7 +2088,7 @@ window.WF.WORDS = [
     "de-",
     "pon",
     null,
-    "place down",
+    "down place",
     "money put into a bank account, or a layer of material left behind",
     true
   ],
@@ -2097,7 +2097,7 @@ window.WF.WORDS = [
     "de-",
     "press",
     "-ion",
-    "press down",
+    "down press + state of",
     "a deep feeling of sadness that lasts a long time, or a hollow in the ground",
     true
   ],
@@ -2106,7 +2106,7 @@ window.WF.WORDS = [
     "de-",
     "scrib",
     null,
-    "write down",
+    "down write",
     "to say or write what someone or something is like",
     true
   ],
@@ -2115,7 +2115,7 @@ window.WF.WORDS = [
     "de-",
     "scrib",
     "-ion",
-    "write down",
+    "down write + act of",
     "words that tell what someone or something is like",
     true
   ],
@@ -2124,7 +2124,7 @@ window.WF.WORDS = [
     "de-",
     "serv",
     null,
-    "serve zealously",
+    "completely serve",
     "to have earned something because of what you have done",
     true
   ],
@@ -2133,7 +2133,7 @@ window.WF.WORDS = [
     "de-",
     "sign",
     null,
-    "mark out",
+    "down mark",
     "a plan or drawing that shows how something will look or work",
     true
   ],
@@ -2142,7 +2142,7 @@ window.WF.WORDS = [
     "de-",
     "sign",
     "-er",
-    "mark out",
+    "down mark + one who",
     "a person who plans how things will look or work",
     true
   ],
@@ -2151,7 +2151,7 @@ window.WF.WORDS = [
     "de-",
     "spec",
     "-able",
-    "look down",
+    "down look + able to be",
     "very unpleasant or bad, deserving to be looked down on",
     true
   ],
@@ -2160,7 +2160,7 @@ window.WF.WORDS = [
     "de-",
     "struct",
     "-ion",
-    "tear down",
+    "down build + act of",
     "the act of badly damaging or ruining something",
     true
   ],
@@ -2169,7 +2169,7 @@ window.WF.WORDS = [
     "de-",
     "struct",
     "-ive",
-    "tear down",
+    "down build + tending to",
     "causing a lot of damage",
     true
   ],
@@ -2178,7 +2178,7 @@ window.WF.WORDS = [
     "de-",
     "ten",
     "-ion",
-    "hold down",
+    "down hold + state of",
     "the state of being kept somewhere and not allowed to leave",
     true
   ],
@@ -2187,7 +2187,7 @@ window.WF.WORDS = [
     "de-",
     "term",
     "-ion",
-    "set limits",
+    "completely limit + state of",
     "the quality of not giving up when something is difficult",
     true
   ],
@@ -2196,7 +2196,7 @@ window.WF.WORDS = [
     "dis-",
     "fer",
     "-ence",
-    "carry apart",
+    "apart carry + state of",
     "the way in which two things are not alike",
     true
   ],
@@ -2205,7 +2205,7 @@ window.WF.WORDS = [
     "dis-",
     "fer",
     "-ent",
-    "carry apart",
+    "apart carry + being",
     "not the same as another or each other",
     true
   ],
@@ -2214,7 +2214,7 @@ window.WF.WORDS = [
     "dis-",
     "cern",
     "-ion",
-    "separate apart",
+    "apart separate + act of",
     "the freedom to decide what to do; also, care in keeping things private",
     true
   ],
@@ -2223,7 +2223,7 @@ window.WF.WORDS = [
     "dis-",
     "mit",
     null,
-    "send apart",
+    "apart send",
     "to send someone away, or to refuse to take an idea seriously",
     true
   ],
@@ -2241,7 +2241,7 @@ window.WF.WORDS = [
     "dis-",
     "pon",
     "-al",
-    "place apart",
+    "apart place + act of",
     "the act of getting rid of something",
     true
   ],
@@ -2250,7 +2250,7 @@ window.WF.WORDS = [
     "dis-",
     "pon",
     null,
-    "place apart",
+    "apart place",
     "to get rid of something (used as “dispose of”)",
     true
   ],
@@ -2259,7 +2259,7 @@ window.WF.WORDS = [
     "dis-",
     "tract",
     null,
-    "pull apart",
+    "apart pull",
     "to pull someone's attention away from something",
     true
   ],
@@ -2268,7 +2268,7 @@ window.WF.WORDS = [
     "dis-",
     "tract",
     "-ion",
-    "pull apart",
+    "apart pull + act of",
     "something that takes your attention away from what you are doing",
     true
   ],
@@ -2277,7 +2277,7 @@ window.WF.WORDS = [
     "dis-",
     "trib",
     "-ion",
-    "give apart",
+    "apart give + act of",
     "the act of giving or sharing things out",
     true
   ],
@@ -2286,7 +2286,7 @@ window.WF.WORDS = [
     "dis-",
     "turb",
     null,
-    "stir completely",
+    "completely stir",
     "to interrupt or bother someone",
     true
   ],
@@ -2295,7 +2295,7 @@ window.WF.WORDS = [
     "dis-",
     "turb",
     "-ance",
-    "stir completely",
+    "completely stir + state of",
     "something that interrupts or upsets a calm situation",
     true
   ],
@@ -2304,7 +2304,7 @@ window.WF.WORDS = [
     null,
     "doc",
     "-or",
-    "teach",
+    "teach + one who",
     "a person trained to treat sick or injured people",
     true
   ],
@@ -2313,7 +2313,7 @@ window.WF.WORDS = [
     null,
     "don",
     "-ate",
-    "give",
+    "give + to make",
     "to give something, especially to a charity",
     true
   ],
@@ -2322,7 +2322,7 @@ window.WF.WORDS = [
     null,
     "don",
     "-ion",
-    "give",
+    "give + act of",
     "something given to help a person or cause",
     true
   ],
@@ -2331,7 +2331,7 @@ window.WF.WORDS = [
     null,
     "don",
     "-or",
-    "give",
+    "give + one who",
     "a person who gives something, such as money or blood",
     true
   ],
@@ -2340,7 +2340,7 @@ window.WF.WORDS = [
     null,
     "dur",
     "-ion",
-    "lasting",
+    "lasting + state of",
     "how long something lasts",
     true
   ],
@@ -2349,7 +2349,7 @@ window.WF.WORDS = [
     "ex-",
     "duc",
     "-ate",
-    "lead out of",
+    "out of lead + to make",
     "to teach or train someone",
     true
   ],
@@ -2358,7 +2358,7 @@ window.WF.WORDS = [
     "ex-",
     "duc",
     "-ion",
-    "lead out of",
+    "out of lead + act of",
     "the process of teaching and learning, especially at school",
     true
   ],
@@ -2367,7 +2367,7 @@ window.WF.WORDS = [
     "ex-",
     "fac",
     null,
-    "make out of",
+    "out of make",
     "a change that is caused by something",
     true
   ],
@@ -2376,7 +2376,7 @@ window.WF.WORDS = [
     "ex-",
     "fac",
     "-ive",
-    "make out of",
+    "out of make + tending to",
     "working well and producing the result you want",
     true
   ],
@@ -2385,7 +2385,7 @@ window.WF.WORDS = [
     "ex-",
     "fort",
     null,
-    "strong out of",
+    "out of strong",
     "hard work or energy used to do something",
     true
   ],
@@ -2394,7 +2394,7 @@ window.WF.WORDS = [
     "ex-",
     "labor",
     "-ate",
-    "work out of",
+    "out of work + to make",
     "full of detail; also, to add more detail",
     true
   ],
@@ -2403,7 +2403,7 @@ window.WF.WORDS = [
     "ex-",
     "lect",
     "-ion",
-    "choose out",
+    "out choose + act of",
     "the process of choosing someone by voting",
     true
   ],
@@ -2412,7 +2412,7 @@ window.WF.WORDS = [
     "ex-",
     "merg",
     null,
-    "plunge out of",
+    "out of plunge",
     "to come out or appear",
     true
   ],
@@ -2421,7 +2421,7 @@ window.WF.WORDS = [
     "ex-",
     "merg",
     "-ence",
-    "plunge out of",
+    "out of plunge + state of",
     "a sudden, dangerous situation that needs quick action",
     false
   ],
@@ -2430,7 +2430,7 @@ window.WF.WORDS = [
     "ex-",
     "mot",
     "-ion",
-    "move out of",
+    "out of move + state of",
     "a strong feeling, such as joy, anger, or fear",
     true
   ],
@@ -2439,7 +2439,7 @@ window.WF.WORDS = [
     null,
     "equ",
     "-al",
-    "equal",
+    "equal + relating to",
     "the same in amount, size, or value",
     true
   ],
@@ -2448,7 +2448,7 @@ window.WF.WORDS = [
     null,
     "equ",
     "-ion",
-    "equal",
+    "equal + act of",
     "a math statement that two amounts are equal",
     true
   ],
@@ -2466,7 +2466,7 @@ window.WF.WORDS = [
     "ex-",
     "vac",
     "-ate",
-    "empty out of",
+    "out of empty + to make",
     "to move people out of a dangerous place",
     true
   ],
@@ -2475,7 +2475,7 @@ window.WF.WORDS = [
     "ex-",
     "vac",
     "-ion",
-    "empty out of",
+    "out of empty + act of",
     "the act of moving people out of a dangerous place",
     true
   ],
@@ -2484,7 +2484,7 @@ window.WF.WORDS = [
     "ex-",
     "val",
     "-ion",
-    "value out",
+    "out value + act of",
     "a judgment about how good or useful something is",
     true
   ],
@@ -2493,7 +2493,7 @@ window.WF.WORDS = [
     "ex-",
     "ven",
     null,
-    "come out of",
+    "out of come",
     "something that happens, especially something important",
     true
   ],
@@ -2502,7 +2502,7 @@ window.WF.WORDS = [
     "ex-",
     "vid",
     "-ence",
-    "see out of",
+    "out of see + state of",
     "facts or signs that show something is true",
     true
   ],
@@ -2511,7 +2511,7 @@ window.WF.WORDS = [
     "ex-",
     "volv",
     "-ion",
-    "roll out of",
+    "out of roll + act of",
     "the gradual development of something, especially from a simpler to a more complex form",
     true
   ],
@@ -2520,7 +2520,7 @@ window.WF.WORDS = [
     "ex-",
     "volv",
     null,
-    "roll out of",
+    "out of roll",
     "to develop slowly over time",
     true
   ],
@@ -2529,7 +2529,7 @@ window.WF.WORDS = [
     "ex-",
     "cap",
     null,
-    "take out of",
+    "out of take",
     "not including; other than",
     true
   ],
@@ -2538,7 +2538,7 @@ window.WF.WORDS = [
     "ex-",
     "cap",
     "-ion",
-    "take out of",
+    "out of take + act of",
     "something that is left out of a general rule or group",
     true
   ],
@@ -2547,7 +2547,7 @@ window.WF.WORDS = [
     "ex-",
     "ced",
     null,
-    "go out of",
+    "out of go",
     "more than is needed or allowed",
     true
   ],
@@ -2556,7 +2556,7 @@ window.WF.WORDS = [
     "ex-",
     "ced",
     "-ive",
-    "go out of",
+    "out of go + tending to",
     "more than is normal, necessary, or reasonable",
     true
   ],
@@ -2565,7 +2565,7 @@ window.WF.WORDS = [
     "ex-",
     "clud",
     "-ive",
-    "shut out",
+    "out shut + tending to",
     "limited to certain people only",
     true
   ],
@@ -2574,7 +2574,7 @@ window.WF.WORDS = [
     "ex-",
     "ped",
     "-ion",
-    "foot out of",
+    "out of foot + act of",
     "a long journey made for a special purpose, such as exploring",
     true
   ],
@@ -2583,7 +2583,7 @@ window.WF.WORDS = [
     "ex-",
     "pend",
     null,
-    "weigh out",
+    "out weigh",
     "the money spent on something",
     true
   ],
@@ -2592,7 +2592,7 @@ window.WF.WORDS = [
     "ex-",
     "pend",
     "-ive",
-    "weigh out",
+    "out weigh + tending to",
     "costing a lot of money",
     true
   ],
@@ -2601,7 +2601,7 @@ window.WF.WORDS = [
     "ex-",
     "pon",
     null,
-    "place out of",
+    "out of place",
     "to uncover something or make it visible",
     true
   ],
@@ -2610,7 +2610,7 @@ window.WF.WORDS = [
     "ex-",
     "pon",
     "-ure",
-    "place out of",
+    "out of place + result of",
     "the state of being uncovered or unprotected, especially from bad weather",
     true
   ],
@@ -2619,7 +2619,7 @@ window.WF.WORDS = [
     "ex-",
     "press",
     null,
-    "press out of",
+    "out of press",
     "to show or tell what you think or feel",
     true
   ],
@@ -2628,7 +2628,7 @@ window.WF.WORDS = [
     "ex-",
     "press",
     "-ion",
-    "press out of",
+    "out of press + act of",
     "the look on someone's face, or a way of showing a feeling",
     true
   ],
@@ -2637,7 +2637,7 @@ window.WF.WORDS = [
     "ex-",
     "tend",
     null,
-    "stretch out of",
+    "out of stretch",
     "to make something longer or larger, or to reach out",
     true
   ],
@@ -2646,7 +2646,7 @@ window.WF.WORDS = [
     "ex-",
     "tend",
     "-ion",
-    "stretch out of",
+    "out of stretch + act of",
     "the act of making something longer or larger, or an added part",
     true
   ],
@@ -2655,7 +2655,7 @@ window.WF.WORDS = [
     "ex-",
     "tend",
     "-ive",
-    "stretch out of",
+    "out of stretch + tending to",
     "covering a large area or amount",
     true
   ],
@@ -2664,7 +2664,7 @@ window.WF.WORDS = [
     "ex-",
     "tend",
     null,
-    "stretch out of",
+    "out of stretch",
     "how far something reaches, or how large or important it is",
     true
   ],
@@ -2673,7 +2673,7 @@ window.WF.WORDS = [
     "ex-",
     "tort",
     "-ion",
-    "twist out of",
+    "out of twist + act of",
     "getting money from someone by threats or force",
     true
   ],
@@ -2682,7 +2682,7 @@ window.WF.WORDS = [
     "ex-",
     "tract",
     null,
-    "pull out of",
+    "out of pull",
     "to pull or take something out",
     true
   ],
@@ -2691,7 +2691,7 @@ window.WF.WORDS = [
     "extra-",
     "ordin",
     "-ary",
-    "outside the order",
+    "outside the order + relating to",
     "very unusual or remarkable",
     true
   ],
@@ -2700,7 +2700,7 @@ window.WF.WORDS = [
     null,
     "fac",
     "-or",
-    "make",
+    "make + that which",
     "one of the things that helps cause a result",
     true
   ],
@@ -2709,7 +2709,7 @@ window.WF.WORDS = [
     null,
     "fac",
     "-ory",
-    "make",
+    "make + place for",
     "a building where goods are made",
     false
   ],
@@ -2718,7 +2718,7 @@ window.WF.WORDS = [
     null,
     "fin",
     "-al",
-    "end",
+    "end + relating to",
     "coming at the end; last",
     true
   ],
@@ -2727,7 +2727,7 @@ window.WF.WORDS = [
     null,
     "fin",
     "-ance",
-    "end",
+    "end + state of",
     "the management of money",
     true
   ],
@@ -2736,7 +2736,7 @@ window.WF.WORDS = [
     null,
     "flect",
     "-ible",
-    "bend",
+    "bend + able to be",
     "able to bend easily; also, able to change easily",
     true
   ],
@@ -2745,7 +2745,7 @@ window.WF.WORDS = [
     null,
     "form",
     "-al",
-    "shape",
+    "shape + relating to",
     "following official rules or customs; not casual",
     true
   ],
@@ -2754,7 +2754,7 @@ window.WF.WORDS = [
     null,
     "form",
     "-ion",
-    "shape",
+    "shape + act of",
     "the act of forming or establishing something",
     true
   ],
@@ -2763,7 +2763,7 @@ window.WF.WORDS = [
     null,
     "fract",
     "-ure",
-    "break",
+    "break + result of",
     "a crack or break, especially in a bone",
     true
   ],
@@ -2772,7 +2772,7 @@ window.WF.WORDS = [
     null,
     "fract",
     "-ile",
-    "break",
+    "break + capable of",
     "easily broken or damaged",
     true
   ],
@@ -2781,7 +2781,7 @@ window.WF.WORDS = [
     null,
     "fug",
     "-ive",
-    "flee",
+    "flee + tending to",
     "a person who is running away, especially from the police",
     true
   ],
@@ -2790,7 +2790,7 @@ window.WF.WORDS = [
     null,
     "fus",
     "-ion",
-    "pour",
+    "pour + act of",
     "the joining of two or more things into one",
     true
   ],
@@ -2799,7 +2799,7 @@ window.WF.WORDS = [
     null,
     "gen",
     "-al",
-    "kind",
+    "kind + relating to",
     "about most people or things, not specific details; also, a top army officer",
     true
   ],
@@ -2808,7 +2808,7 @@ window.WF.WORDS = [
     null,
     "gen",
     "-ate",
-    "birth",
+    "birth + to make",
     "to produce or create something",
     true
   ],
@@ -2817,7 +2817,7 @@ window.WF.WORDS = [
     null,
     "gen",
     "-ion",
-    "birth",
+    "birth + act of",
     "all the people born around the same time",
     true
   ],
@@ -2826,7 +2826,7 @@ window.WF.WORDS = [
     null,
     "gen",
     "-or",
-    "birth",
+    "birth + that which",
     "a machine that produces electricity",
     true
   ],
@@ -2835,7 +2835,7 @@ window.WF.WORDS = [
     null,
     "gen",
     "-ous",
-    "birth",
+    "birth + full of",
     "happy to give more than is expected",
     true
   ],
@@ -2844,7 +2844,7 @@ window.WF.WORDS = [
     null,
     "grat",
     "-ude",
-    "thankful",
+    "thankful + state of",
     "a feeling of being thankful",
     false
   ],
@@ -2853,7 +2853,7 @@ window.WF.WORDS = [
     null,
     "grav",
     "-ity",
-    "heavy",
+    "heavy + quality of",
     "the force that pulls things toward the Earth; also, seriousness",
     true
   ],
@@ -2862,7 +2862,7 @@ window.WF.WORDS = [
     "in-",
     "lud",
     "-ion",
-    "play at",
+    "on play + act of",
     "something that seems real but is not",
     true
   ],
@@ -2871,7 +2871,7 @@ window.WF.WORDS = [
     "in-",
     "med",
     "-ate",
-    "not in between",
+    "not in between + having",
     "happening right away",
     true
   ],
@@ -2880,7 +2880,7 @@ window.WF.WORDS = [
     "in-",
     "migr",
     "-ion",
-    "move into",
+    "into move + act of",
     "the act of coming to live in a new country",
     true
   ],
@@ -2889,7 +2889,7 @@ window.WF.WORDS = [
     "in-",
     "mort",
     "-al",
-    "not mortal",
+    "not death + relating to",
     "living forever; never dying",
     true
   ],
@@ -2898,7 +2898,7 @@ window.WF.WORDS = [
     "in-",
     "port",
     "-ance",
-    "carry into",
+    "into carry + state of",
     "the quality of mattering a lot",
     true
   ],
@@ -2907,7 +2907,7 @@ window.WF.WORDS = [
     "in-",
     "port",
     "-ant",
-    "carry into",
+    "into carry + being",
     "having great value or effect; mattering a lot",
     true
   ],
@@ -2916,7 +2916,7 @@ window.WF.WORDS = [
     "in-",
     "press",
     null,
-    "press into",
+    "into press",
     "to make someone admire you",
     true
   ],
@@ -2925,7 +2925,7 @@ window.WF.WORDS = [
     "in-",
     "press",
     "-ion",
-    "press into",
+    "into press + act of",
     "an idea or feeling you get about someone or something",
     true
   ],
@@ -2934,7 +2934,7 @@ window.WF.WORDS = [
     "in-",
     "press",
     "-ive",
-    "press into",
+    "into press + tending to",
     "so good that people admire it",
     true
   ],
@@ -2943,7 +2943,7 @@ window.WF.WORDS = [
     "in-",
     "pel",
     null,
-    "drive into",
+    "into drive",
     "a sudden wish to do something",
     true
   ],
@@ -2952,7 +2952,7 @@ window.WF.WORDS = [
     "in-",
     "pel",
     "-ive",
-    "drive into",
+    "into drive + tending to",
     "acting suddenly without thinking first",
     true
   ],
@@ -2961,7 +2961,7 @@ window.WF.WORDS = [
     "in-",
     "aud",
     "-ible",
-    "not hear",
+    "not hear + able to be",
     "too quiet to be heard",
     true
   ],
@@ -2970,7 +2970,7 @@ window.WF.WORDS = [
     "in-",
     "cap",
     "-able",
-    "not take",
+    "not take + able to",
     "not able to do something",
     true
   ],
@@ -2979,7 +2979,7 @@ window.WF.WORDS = [
     "in-",
     "clud",
     null,
-    "shut in",
+    "in shut",
     "to make something part of a group",
     true
   ],
@@ -2988,7 +2988,7 @@ window.WF.WORDS = [
     "in-",
     "cred",
     "-ible",
-    "not believable",
+    "not believe + able to be",
     "so amazing it is hard to believe",
     true
   ],
@@ -2997,7 +2997,7 @@ window.WF.WORDS = [
     "in-",
     "dict",
     "-ate",
-    "point out",
+    "into say + to make",
     "to point out or show something",
     true
   ],
@@ -3006,7 +3006,7 @@ window.WF.WORDS = [
     "in-",
     "dict",
     "-ion",
-    "point out",
+    "into say + act of",
     "a sign that shows something is true or likely",
     true
   ],
@@ -3015,7 +3015,7 @@ window.WF.WORDS = [
     "in-",
     "fac",
     "-ion",
-    "make into",
+    "into make + act of",
     "the invasion and growth of harmful microorganisms in the body",
     true
   ],
@@ -3024,7 +3024,7 @@ window.WF.WORDS = [
     "in-",
     "firm",
     "-ary",
-    "not strong",
+    "not strong + place for",
     "a place where sick or injured people are cared for, such as in a school",
     true
   ],
@@ -3033,7 +3033,7 @@ window.WF.WORDS = [
     "in-",
     "flu",
     "-ence",
-    "flow into",
+    "into flow + state of",
     "the power to affect what someone does or thinks",
     true
   ],
@@ -3042,7 +3042,7 @@ window.WF.WORDS = [
     "in-",
     "form",
     null,
-    "shape into",
+    "into shape",
     "to give someone facts or information",
     true
   ],
@@ -3051,7 +3051,7 @@ window.WF.WORDS = [
     "in-",
     "form",
     "-ant",
-    "shape into",
+    "into shape + one who",
     "a person who supplies information",
     true
   ],
@@ -3060,7 +3060,7 @@ window.WF.WORDS = [
     "in-",
     "form",
     "-ion",
-    "shape into",
+    "into shape + act of",
     "facts or knowledge about something",
     true
   ],
@@ -3069,7 +3069,7 @@ window.WF.WORDS = [
     "in-",
     "ject",
     null,
-    "throw into",
+    "into throw",
     "to put a liquid such as medicine into the body with a needle",
     true
   ],
@@ -3078,7 +3078,7 @@ window.WF.WORDS = [
     "in-",
     "ject",
     "-ion",
-    "throw into",
+    "into throw + act of",
     "the act of putting medicine into the body with a needle",
     true
   ],
@@ -3087,7 +3087,7 @@ window.WF.WORDS = [
     "in-",
     "noc",
     "-ence",
-    "not harm",
+    "not harm + state of",
     "the state of not being guilty of a crime or wrong",
     true
   ],
@@ -3096,7 +3096,7 @@ window.WF.WORDS = [
     "in-",
     "noc",
     "-ent",
-    "not harm",
+    "not harm + being",
     "not guilty of a crime or wrong",
     true
   ],
@@ -3105,7 +3105,7 @@ window.WF.WORDS = [
     "in-",
     "sect",
     null,
-    "cut into",
+    "into cut",
     "a small animal with six legs and a body in three parts",
     true
   ],
@@ -3114,7 +3114,7 @@ window.WF.WORDS = [
     "in-",
     "sens",
     "-ive",
-    "not feel",
+    "not feel + tending to",
     "not caring about other people's feelings",
     true
   ],
@@ -3123,7 +3123,7 @@ window.WF.WORDS = [
     "in-",
     "sist",
     null,
-    "stand on",
+    "on stand",
     "to say firmly that something must happen or is true",
     true
   ],
@@ -3132,7 +3132,7 @@ window.WF.WORDS = [
     "in-",
     "spec",
     null,
-    "look into",
+    "into look",
     "to look at something closely to check it",
     true
   ],
@@ -3141,7 +3141,7 @@ window.WF.WORDS = [
     "in-",
     "spec",
     "-ion",
-    "look into",
+    "into look + act of",
     "a careful look to check something",
     true
   ],
@@ -3150,7 +3150,7 @@ window.WF.WORDS = [
     "in-",
     "spec",
     "-or",
-    "look into",
+    "into look + one who",
     "a person whose job is to check that things are done correctly",
     true
   ],
@@ -3159,7 +3159,7 @@ window.WF.WORDS = [
     "in-",
     "spir",
     "-ion",
-    "breathe into",
+    "into breathe + act of",
     "something that gives you new ideas or makes you want to create",
     true
   ],
@@ -3168,7 +3168,7 @@ window.WF.WORDS = [
     "in-",
     "spir",
     null,
-    "breathe into",
+    "into breathe",
     "to fill someone with the wish to do something good or creative",
     true
   ],
@@ -3177,7 +3177,7 @@ window.WF.WORDS = [
     "in-",
     "stat",
     null,
-    "stand near",
+    "on stand",
     "an example or single occurrence of something",
     true
   ],
@@ -3186,7 +3186,7 @@ window.WF.WORDS = [
     "in-",
     "stat",
     null,
-    "stand near",
+    "on stand",
     "happening right away; also, a very short moment",
     true
   ],
@@ -3195,7 +3195,7 @@ window.WF.WORDS = [
     "in-",
     "stat",
     "-ion",
-    "stand into",
+    "in set up + act of",
     "an established organization, such as a school, bank, or hospital",
     true
   ],
@@ -3204,7 +3204,7 @@ window.WF.WORDS = [
     "in-",
     "struct",
     "-ion",
-    "build into",
+    "into build + act of",
     "information that tells you how to do something",
     true
   ],
@@ -3213,7 +3213,7 @@ window.WF.WORDS = [
     "in-",
     "struct",
     "-or",
-    "build into",
+    "into build + one who",
     "a person who teaches a skill",
     true
   ],
@@ -3231,7 +3231,7 @@ window.WF.WORDS = [
     "in-",
     "tend",
     null,
-    "stretch into",
+    "into stretch",
     "to plan or mean to do something",
     true
   ],
@@ -3240,7 +3240,7 @@ window.WF.WORDS = [
     "in-",
     "tend",
     null,
-    "stretch into",
+    "into stretch",
     "very strong or extreme",
     true
   ],
@@ -3249,7 +3249,7 @@ window.WF.WORDS = [
     "in-",
     "tend",
     "-ity",
-    "stretch into",
+    "into stretch + quality of",
     "how strong or extreme something is",
     true
   ],
@@ -3258,7 +3258,7 @@ window.WF.WORDS = [
     "in-",
     "tend",
     null,
-    "stretch into",
+    "into stretch",
     "what someone means or plans to do",
     true
   ],
@@ -3267,7 +3267,7 @@ window.WF.WORDS = [
     "in-",
     "tend",
     "-ion",
-    "stretch into",
+    "into stretch + act of",
     "something you plan or mean to do",
     true
   ],
@@ -3276,7 +3276,7 @@ window.WF.WORDS = [
     "inter-",
     "cap",
     null,
-    "take between",
+    "between take",
     "to stop or catch something on its way to somewhere else",
     true
   ],
@@ -3285,7 +3285,7 @@ window.WF.WORDS = [
     "inter-",
     "curr",
     null,
-    "run between",
+    "between run",
     "communication between individuals",
     false
   ],
@@ -3294,7 +3294,7 @@ window.WF.WORDS = [
     "inter-",
     "fer",
     "-ence",
-    "carry between",
+    "between carry + state of",
     "the act of hindering or obstructing or impeding",
     false
   ],
@@ -3303,7 +3303,7 @@ window.WF.WORDS = [
     "inter-",
     "rupt",
     null,
-    "break between",
+    "between break",
     "to stop someone while they are speaking or doing something",
     true
   ],
@@ -3312,7 +3312,7 @@ window.WF.WORDS = [
     "inter-",
     "ven",
     null,
-    "come between",
+    "between come",
     "to step in to change what is happening",
     true
   ],
@@ -3321,7 +3321,7 @@ window.WF.WORDS = [
     "inter-",
     "ven",
     "-ion",
-    "come between",
+    "between come + act of",
     "the act of stepping in to change what is happening",
     true
   ],
@@ -3330,7 +3330,7 @@ window.WF.WORDS = [
     "in-",
     "trud",
     "-er",
-    "push into",
+    "into push + one who",
     "a person who goes somewhere without permission",
     true
   ],
@@ -3339,7 +3339,7 @@ window.WF.WORDS = [
     "in-",
     "ven",
     null,
-    "come into",
+    "into come",
     "to create something new that did not exist before",
     true
   ],
@@ -3348,7 +3348,7 @@ window.WF.WORDS = [
     "in-",
     "ven",
     "-ion",
-    "come into",
+    "into come + act of",
     "something new that someone has created",
     true
   ],
@@ -3357,7 +3357,7 @@ window.WF.WORDS = [
     "in-",
     "ven",
     "-ory",
-    "come into",
+    "into come + relating to",
     "a complete list of items, such as the goods a store has",
     true
   ],
@@ -3366,7 +3366,7 @@ window.WF.WORDS = [
     "in-",
     "vinc",
     "-ible",
-    "not conquer",
+    "not conquer + able to be",
     "too strong to be defeated",
     true
   ],
@@ -3375,7 +3375,7 @@ window.WF.WORDS = [
     "in-",
     "vid",
     "-ible",
-    "not see",
+    "not see + able to be",
     "impossible to see",
     true
   ],
@@ -3384,7 +3384,7 @@ window.WF.WORDS = [
     "in-",
     "volv",
     null,
-    "roll into",
+    "into roll",
     "to include someone or something as a part",
     true
   ],
@@ -3393,7 +3393,7 @@ window.WF.WORDS = [
     "in-",
     "volv",
     "-ment",
-    "roll into",
+    "into roll + act of",
     "the act of taking part in something",
     true
   ],
@@ -3402,7 +3402,7 @@ window.WF.WORDS = [
     null,
     "junct",
     "-ion",
-    "join",
+    "join + act of",
     "a place where roads or lines meet",
     true
   ],
@@ -3411,7 +3411,7 @@ window.WF.WORDS = [
     null,
     "labor",
     "-ory",
-    "work",
+    "work + place for",
     "a room or building for doing science experiments",
     true
   ],
@@ -3420,7 +3420,7 @@ window.WF.WORDS = [
     null,
     "lect",
     "-ure",
-    "read",
+    "read + result of",
     "a talk given to teach people about a subject",
     true
   ],
@@ -3429,7 +3429,7 @@ window.WF.WORDS = [
     null,
     "liber",
     "-al",
-    "free",
+    "free + relating to",
     "open to new ideas; also, generous",
     true
   ],
@@ -3438,7 +3438,7 @@ window.WF.WORDS = [
     null,
     "liber",
     "-ion",
-    "free",
+    "free + act of",
     "the act of setting someone or something free",
     true
   ],
@@ -3447,7 +3447,7 @@ window.WF.WORDS = [
     null,
     "loc",
     "-al",
-    "place",
+    "place + relating to",
     "belonging to or near a particular place",
     true
   ],
@@ -3456,7 +3456,7 @@ window.WF.WORDS = [
     null,
     "loc",
     "-ate",
-    "place",
+    "place + to make",
     "to find where something is",
     true
   ],
@@ -3465,7 +3465,7 @@ window.WF.WORDS = [
     null,
     "loc",
     "-ion",
-    "place",
+    "place + act of",
     "a place or position",
     true
   ],
@@ -3474,7 +3474,7 @@ window.WF.WORDS = [
     null,
     "man",
     "-ory",
-    "hand over",
+    "hand over + relating to",
     "required by a rule or law",
     true
   ],
@@ -3483,7 +3483,7 @@ window.WF.WORDS = [
     null,
     "man",
     "-al",
-    "hand",
+    "hand + relating to",
     "done with the hands; also, a book of instructions",
     true
   ],
@@ -3492,7 +3492,7 @@ window.WF.WORDS = [
     null,
     "memor",
     "-able",
-    "remember",
+    "remember + able to be",
     "worth remembering; easy to remember",
     true
   ],
@@ -3501,7 +3501,7 @@ window.WF.WORDS = [
     null,
     "mit",
     "-ile",
-    "send",
+    "send + capable of being",
     "an object used as a weapon by being thrown or fired through the air",
     true
   ],
@@ -3510,7 +3510,7 @@ window.WF.WORDS = [
     null,
     "mit",
     "-ion",
-    "send",
+    "send + act of",
     "an important task that someone is sent to do",
     true
   ],
@@ -3519,7 +3519,7 @@ window.WF.WORDS = [
     null,
     "mot",
     "-ile",
-    "move",
+    "move + capable of",
     "able to move or be moved easily",
     false
   ],
@@ -3528,7 +3528,7 @@ window.WF.WORDS = [
     null,
     "mort",
     "-al",
-    "death",
+    "death + relating to",
     "certain to die someday; also, a human being",
     true
   ],
@@ -3537,7 +3537,7 @@ window.WF.WORDS = [
     null,
     "mot",
     "-ion",
-    "move",
+    "move + act of",
     "the act or process of moving",
     true
   ],
@@ -3546,7 +3546,7 @@ window.WF.WORDS = [
     null,
     "mot",
     "-ive",
-    "move",
+    "move + tending to",
     "a reason for doing something",
     true
   ],
@@ -3555,7 +3555,7 @@ window.WF.WORDS = [
     null,
     "mot",
     "-or",
-    "move",
+    "move + that which",
     "a machine that makes something move or run",
     true
   ],
@@ -3564,7 +3564,7 @@ window.WF.WORDS = [
     null,
     "mot",
     "-ment",
-    "move",
+    "move + act of",
     "the act of moving from one place or position to another",
     true
   ],
@@ -3573,7 +3573,7 @@ window.WF.WORDS = [
     null,
     "mut",
     "-ant",
-    "change",
+    "change + being",
     "a living thing that is different because of a change in its genes",
     true
   ],
@@ -3582,7 +3582,7 @@ window.WF.WORDS = [
     null,
     "nat",
     "-ion",
-    "born",
+    "born + state of",
     "a country and the people who live in it",
     true
   ],
@@ -3591,7 +3591,7 @@ window.WF.WORDS = [
     null,
     "nat",
     "-ive",
-    "born",
+    "born + relating to",
     "belonging to a place by birth",
     true
   ],
@@ -3600,7 +3600,7 @@ window.WF.WORDS = [
     null,
     "nat",
     "-ure",
-    "born",
+    "born + result of",
     "the natural world of plants, animals, and landscapes",
     true
   ],
@@ -3609,7 +3609,7 @@ window.WF.WORDS = [
     null,
     "nav",
     "-al",
-    "ship",
+    "ship + relating to",
     "relating to a navy or warships",
     true
   ],
@@ -3627,7 +3627,7 @@ window.WF.WORDS = [
     null,
     "numer",
     "-ous",
-    "number",
+    "number + full of",
     "many",
     true
   ],
@@ -3636,7 +3636,7 @@ window.WF.WORDS = [
     "ob-",
     "ject",
     null,
-    "throw against",
+    "against throw",
     "a thing that you can see and touch",
     true
   ],
@@ -3645,7 +3645,7 @@ window.WF.WORDS = [
     "ob-",
     "ject",
     "-ion",
-    "throw against",
+    "against throw + act of",
     "a reason or statement against something",
     true
   ],
@@ -3654,7 +3654,7 @@ window.WF.WORDS = [
     "ob-",
     "ject",
     "-ive",
-    "throw against",
+    "against throw + relating to",
     "a goal you are trying to reach; also, fair and not influenced by personal feelings",
     true
   ],
@@ -3663,7 +3663,7 @@ window.WF.WORDS = [
     "ob-",
     "serv",
     "-ion",
-    "watch over",
+    "toward watch + act of",
     "the act of watching something carefully",
     true
   ],
@@ -3672,7 +3672,7 @@ window.WF.WORDS = [
     "ob-",
     "serv",
     null,
-    "watch over",
+    "toward watch",
     "to watch something carefully, or to notice it",
     true
   ],
@@ -3681,7 +3681,7 @@ window.WF.WORDS = [
     "ob-",
     "sed",
     "-ion",
-    "sit against",
+    "against sit + state of",
     "an idea or interest that fills someone's mind all the time",
     true
   ],
@@ -3690,7 +3690,7 @@ window.WF.WORDS = [
     "ob-",
     "ten",
     null,
-    "hold against",
+    "against hold",
     "to get something, often with effort",
     true
   ],
@@ -3699,7 +3699,7 @@ window.WF.WORDS = [
     "ob-",
     "cap",
     "-ion",
-    "take against",
+    "against take + act of",
     "a person's job or profession",
     true
   ],
@@ -3708,7 +3708,7 @@ window.WF.WORDS = [
     "ob-",
     "curr",
     null,
-    "run against",
+    "against run",
     "to happen",
     true
   ],
@@ -3717,7 +3717,7 @@ window.WF.WORDS = [
     "ob-",
     "fer",
     null,
-    "carry toward",
+    "toward carry",
     "to hold out something for someone to take or accept",
     true
   ],
@@ -3726,7 +3726,7 @@ window.WF.WORDS = [
     null,
     "oper",
     "-ate",
-    "work",
+    "work + to make",
     "to make a machine work, or to do surgery",
     true
   ],
@@ -3735,7 +3735,7 @@ window.WF.WORDS = [
     null,
     "oper",
     "-ion",
-    "work",
+    "work + act of",
     "an activity done to achieve something, or a medical surgery",
     true
   ],
@@ -3744,7 +3744,7 @@ window.WF.WORDS = [
     null,
     "oper",
     "-ive",
-    "work",
+    "work + tending to",
     "working or in effect",
     true
   ],
@@ -3753,7 +3753,7 @@ window.WF.WORDS = [
     null,
     "oper",
     "-or",
-    "work",
+    "work + one who",
     "a person who runs a machine or a phone system",
     true
   ],
@@ -3762,7 +3762,7 @@ window.WF.WORDS = [
     "ob-",
     "pon",
     "-ent",
-    "place against",
+    "against place + one who",
     "a person who competes or argues against another",
     true
   ],
@@ -3771,7 +3771,7 @@ window.WF.WORDS = [
     "ob-",
     "pon",
     null,
-    "place against",
+    "against place",
     "to be against something and try to stop it",
     true
   ],
@@ -3780,7 +3780,7 @@ window.WF.WORDS = [
     "ob-",
     "pon",
     "-ion",
-    "place against",
+    "against place + act of",
     "the act of being against something; resistance",
     true
   ],
@@ -3798,7 +3798,7 @@ window.WF.WORDS = [
     null,
     "ordin",
     "-ary",
-    "order",
+    "order + relating to",
     "normal and usual; not special",
     true
   ],
@@ -3807,7 +3807,7 @@ window.WF.WORDS = [
     null,
     "ped",
     "-al",
-    "foot",
+    "foot + relating to",
     "a part you push with your foot to make something work",
     true
   ],
@@ -3816,7 +3816,7 @@ window.WF.WORDS = [
     null,
     "pend",
     "-ion",
-    "weigh",
+    "weigh + act of",
     "money paid regularly to someone after they retire",
     true
   ],
@@ -3825,7 +3825,7 @@ window.WF.WORDS = [
     "per-",
     "cent",
     null,
-    "hundred through",
+    "by hundred",
     "a proportion in relation to a whole (which is usually the amount per hundred)",
     false
   ],
@@ -3834,7 +3834,7 @@ window.WF.WORDS = [
     "per-",
     "cent",
     "-age",
-    "hundred through",
+    "by hundred + rate of",
     "a proportion in relation to a whole (which is usually the amount per hundred)",
     false
   ],
@@ -3843,7 +3843,7 @@ window.WF.WORDS = [
     "per-",
     "cap",
     "-ion",
-    "take through",
+    "through take + act of",
     "the ability to notice and understand things through the senses",
     true
   ],
@@ -3852,7 +3852,7 @@ window.WF.WORDS = [
     "per-",
     "fac",
     null,
-    "make through",
+    "through make",
     "having no mistakes or flaws",
     true
   ],
@@ -3861,7 +3861,7 @@ window.WF.WORDS = [
     "per-",
     "fac",
     "-ion",
-    "make through",
+    "through make + state of",
     "the state of being perfect",
     true
   ],
@@ -3870,7 +3870,7 @@ window.WF.WORDS = [
     "per-",
     "form",
     null,
-    "shape through",
+    "through shape",
     "perform a function",
     false
   ],
@@ -3879,7 +3879,7 @@ window.WF.WORDS = [
     "per-",
     "form",
     "-ance",
-    "shape through",
+    "through shape + state of",
     "the act of performing",
     false
   ],
@@ -3888,7 +3888,7 @@ window.WF.WORDS = [
     "per-",
     "form",
     "-er",
-    "shape through",
+    "through shape + one who",
     "an entertainer who performs a dramatic or musical work for an audience",
     false
   ],
@@ -3897,7 +3897,7 @@ window.WF.WORDS = [
     "per-",
     "mit",
     "-ion",
-    "send through",
+    "through send + act of",
     "approval to do something",
     true
   ],
@@ -3906,7 +3906,7 @@ window.WF.WORDS = [
     "per-",
     "mit",
     null,
-    "send through",
+    "through send",
     "to allow something to happen",
     true
   ],
@@ -3915,7 +3915,7 @@ window.WF.WORDS = [
     "per-",
     "sist",
     "-ent",
-    "stand through",
+    "through stand + being",
     "continuing to try even when something is difficult",
     true
   ],
@@ -3924,7 +3924,7 @@ window.WF.WORDS = [
     "per-",
     "spec",
     "-ive",
-    "look through",
+    "through look + relating to",
     "a particular way of thinking about something; a point of view",
     true
   ],
@@ -3933,7 +3933,7 @@ window.WF.WORDS = [
     "per-",
     "vert",
     null,
-    "turn through",
+    "through turn",
     "practice sophistry",
     false
   ],
@@ -3942,7 +3942,7 @@ window.WF.WORDS = [
     null,
     "port",
     "-able",
-    "carry",
+    "carry + able to be",
     "light and easy to carry",
     true
   ],
@@ -3951,7 +3951,7 @@ window.WF.WORDS = [
     null,
     "port",
     "-er",
-    "carry",
+    "carry + one who",
     "a person whose job is to carry bags or luggage",
     true
   ],
@@ -3960,7 +3960,7 @@ window.WF.WORDS = [
     null,
     "pon",
     "-ion",
-    "place",
+    "place + act of",
     "the place where someone or something is",
     true
   ],
@@ -3969,7 +3969,7 @@ window.WF.WORDS = [
     null,
     "pon",
     "-ive",
-    "place",
+    "place + relating to",
     "hopeful and confident, or greater than zero",
     true
   ],
@@ -3978,7 +3978,7 @@ window.WF.WORDS = [
     "post-",
     "pon",
     null,
-    "place after",
+    "after place",
     "to move an event to a later time",
     true
   ],
@@ -3987,7 +3987,7 @@ window.WF.WORDS = [
     "pre-",
     "cis",
     null,
-    "cut before",
+    "before cut",
     "exact and accurate",
     true
   ],
@@ -3996,7 +3996,7 @@ window.WF.WORDS = [
     "pre-",
     "cis",
     "-ion",
-    "cut before",
+    "before cut + state of",
     "the quality of being exact and accurate",
     true
   ],
@@ -4005,7 +4005,7 @@ window.WF.WORDS = [
     "pre-",
     "dict",
     null,
-    "say before",
+    "before say",
     "to say what will happen in the future",
     true
   ],
@@ -4014,7 +4014,7 @@ window.WF.WORDS = [
     "pre-",
     "dict",
     "-able",
-    "say before",
+    "before say + able to be",
     "easy to know about before it happens",
     true
   ],
@@ -4023,7 +4023,7 @@ window.WF.WORDS = [
     "pre-",
     "fer",
     null,
-    "carry before",
+    "before carry",
     "to like one thing better than another",
     true
   ],
@@ -4032,7 +4032,7 @@ window.WF.WORDS = [
     "pre-",
     "scrib",
     "-ion",
-    "write before",
+    "before write + act of",
     "a doctor's written instructions for medicine",
     true
   ],
@@ -4041,7 +4041,7 @@ window.WF.WORDS = [
     "pre-",
     "serv",
     null,
-    "keep before",
+    "before keep",
     "to keep something safe or in good condition",
     true
   ],
@@ -4050,7 +4050,7 @@ window.WF.WORDS = [
     "pre-",
     "sed",
     "-ent",
-    "sit before",
+    "before sit + one who",
     "the leader of a country, club, or company",
     true
   ],
@@ -4059,7 +4059,7 @@ window.WF.WORDS = [
     null,
     "press",
     "-ure",
-    "press",
+    "press + result of",
     "the force of pressing on something",
     true
   ],
@@ -4068,7 +4068,7 @@ window.WF.WORDS = [
     "pre-",
     "tend",
     null,
-    "stretch before",
+    "before stretch",
     "to act as if something is true when it is not, especially in play",
     true
   ],
@@ -4077,7 +4077,7 @@ window.WF.WORDS = [
     "pre-",
     "ven",
     null,
-    "come before",
+    "before come",
     "to stop something from happening",
     true
   ],
@@ -4086,7 +4086,7 @@ window.WF.WORDS = [
     null,
     "prim",
     "-ary",
-    "first",
+    "first + relating to",
     "first or most important",
     true
   ],
@@ -4095,7 +4095,7 @@ window.WF.WORDS = [
     null,
     "prim",
     "-ive",
-    "first",
+    "first + relating to",
     "belonging to an early stage of development; very simple",
     true
   ],
@@ -4104,7 +4104,7 @@ window.WF.WORDS = [
     null,
     "priv",
     "-ate",
-    "separate",
+    "separate + having",
     "belonging to or meant for one person or group, not everyone",
     true
   ],
@@ -4113,7 +4113,7 @@ window.WF.WORDS = [
     null,
     "prob",
     "-able",
-    "test",
+    "test + able to be",
     "likely to happen or be true",
     true
   ],
@@ -4122,7 +4122,7 @@ window.WF.WORDS = [
     null,
     "prob",
     "-ion",
-    "test",
+    "test + act of",
     "a period of testing someone's behavior or ability",
     true
   ],
@@ -4131,7 +4131,7 @@ window.WF.WORDS = [
     "pro-",
     "ced",
     "-ure",
-    "go forward",
+    "forward go + result of",
     "a set of steps for doing something",
     true
   ],
@@ -4140,7 +4140,7 @@ window.WF.WORDS = [
     "pro-",
     "ced",
     null,
-    "go forward",
+    "forward go",
     "to go forward or continue",
     true
   ],
@@ -4149,7 +4149,7 @@ window.WF.WORDS = [
     "pro-",
     "ced",
     null,
-    "go forward",
+    "forward go",
     "a series of steps or events that lead to a result",
     true
   ],
@@ -4158,7 +4158,7 @@ window.WF.WORDS = [
     "pro-",
     "ced",
     "-ion",
-    "go forward",
+    "forward go + act of",
     "a line of people or vehicles moving forward in an orderly way",
     true
   ],
@@ -4167,7 +4167,7 @@ window.WF.WORDS = [
     "pro-",
     "duc",
     null,
-    "lead forward",
+    "forward lead",
     "to make, grow, or bring something into being",
     true
   ],
@@ -4176,7 +4176,7 @@ window.WF.WORDS = [
     "pro-",
     "duc",
     "-er",
-    "lead forward",
+    "forward lead + one who",
     "a person, company, or living thing that produces something",
     true
   ],
@@ -4185,7 +4185,7 @@ window.WF.WORDS = [
     "pro-",
     "duc",
     null,
-    "lead forward",
+    "forward lead",
     "something that is made or grown, especially to be sold",
     true
   ],
@@ -4194,7 +4194,7 @@ window.WF.WORDS = [
     "pro-",
     "duc",
     "-ion",
-    "lead forward",
+    "forward lead + act of",
     "the act or process of producing something",
     true
   ],
@@ -4203,7 +4203,7 @@ window.WF.WORDS = [
     "pro-",
     "duc",
     "-ive",
-    "lead forward",
+    "forward lead + tending to",
     "producing a lot, or giving useful results",
     true
   ],
@@ -4212,7 +4212,7 @@ window.WF.WORDS = [
     "pro-",
     "grad",
     null,
-    "step forward",
+    "forward step",
     "movement forward, or improvement over time",
     true
   ],
@@ -4221,7 +4221,7 @@ window.WF.WORDS = [
     "pro-",
     "ject",
     null,
-    "throw forward",
+    "forward throw",
     "a planned piece of work with a goal",
     true
   ],
@@ -4230,7 +4230,7 @@ window.WF.WORDS = [
     "pro-",
     "mit",
     null,
-    "send forward",
+    "forward send",
     "to say that you will definitely do something",
     true
   ],
@@ -4239,7 +4239,7 @@ window.WF.WORDS = [
     "pro-",
     "mot",
     null,
-    "move forward",
+    "forward move",
     "to move someone up to a higher rank, or to help something become popular",
     true
   ],
@@ -4248,7 +4248,7 @@ window.WF.WORDS = [
     "pro-",
     "mot",
     "-ion",
-    "move forward",
+    "forward move + act of",
     "a move up to a higher rank or job",
     true
   ],
@@ -4257,7 +4257,7 @@ window.WF.WORDS = [
     "pro-",
     "pon",
     "-al",
-    "place forward",
+    "forward place + act of",
     "a plan or idea offered for others to consider",
     true
   ],
@@ -4266,7 +4266,7 @@ window.WF.WORDS = [
     "pro-",
     "pon",
     null,
-    "place forward",
+    "forward place",
     "to suggest a plan or idea",
     true
   ],
@@ -4275,7 +4275,7 @@ window.WF.WORDS = [
     "pro-",
     "pon",
     "-ion",
-    "place forward",
+    "forward place + act of",
     "an idea or plan offered for consideration",
     true
   ],
@@ -4284,7 +4284,7 @@ window.WF.WORDS = [
     "pro-",
     "sequ",
     "-ion",
-    "follow forward",
+    "forward follow + act of",
     "the act of taking someone to court for a crime",
     true
   ],
@@ -4293,7 +4293,7 @@ window.WF.WORDS = [
     "pro-",
     "sequ",
     "-or",
-    "follow forward",
+    "forward follow + one who",
     "a lawyer who tries to prove in court that someone is guilty",
     true
   ],
@@ -4302,7 +4302,7 @@ window.WF.WORDS = [
     "pro-",
     "spec",
     null,
-    "look forward",
+    "forward look",
     "the chance that something will happen in the future",
     true
   ],
@@ -4311,7 +4311,7 @@ window.WF.WORDS = [
     "pro-",
     "vid",
     null,
-    "see forward",
+    "forward see",
     "to give someone something they need",
     true
   ],
@@ -4320,7 +4320,7 @@ window.WF.WORDS = [
     "pro-",
     "vid",
     "-ence",
-    "see forward",
+    "forward see + state of",
     "care and guidance believed to come from God or nature",
     true
   ],
@@ -4329,7 +4329,7 @@ window.WF.WORDS = [
     "pro-",
     "voc",
     null,
-    "call forward",
+    "forward call",
     "to cause a reaction, especially by annoying someone",
     true
   ],
@@ -4338,7 +4338,7 @@ window.WF.WORDS = [
     null,
     "quir",
     "-ion",
-    "ask",
+    "ask + act of",
     "a sentence that asks for information",
     true
   ],
@@ -4347,7 +4347,7 @@ window.WF.WORDS = [
     "re-",
     "cap",
     null,
-    "take back",
+    "back take",
     "a written record showing that something was received or paid for",
     true
   ],
@@ -4356,7 +4356,7 @@ window.WF.WORDS = [
     "re-",
     "cap",
     "-er",
-    "take back",
+    "back take + one who",
     "a person or device that receives something",
     true
   ],
@@ -4365,7 +4365,7 @@ window.WF.WORDS = [
     "re-",
     "cap",
     "-ion",
-    "take back",
+    "back take + act of",
     "the act of receiving, or a formal party to welcome guests",
     true
   ],
@@ -4374,7 +4374,7 @@ window.WF.WORDS = [
     "re-",
     "ced",
     null,
-    "go back",
+    "back go",
     "a short break from work or school",
     true
   ],
@@ -4383,7 +4383,7 @@ window.WF.WORDS = [
     "re-",
     "cogn",
     "-ion",
-    "know again",
+    "again know + act of",
     "the act of knowing someone or something you have seen before; also, praise for something done",
     true
   ],
@@ -4392,7 +4392,7 @@ window.WF.WORDS = [
     "re-",
     "cord",
     null,
-    "heart back",
+    "back heart",
     "to write down or save something so it can be used later; also, a written account",
     true
   ],
@@ -4401,7 +4401,7 @@ window.WF.WORDS = [
     "re-",
     "cord",
     "-er",
-    "heart back",
+    "back heart + that which",
     "a machine that records sound or pictures; also, a simple flute-like instrument",
     true
   ],
@@ -4410,7 +4410,7 @@ window.WF.WORDS = [
     "re-",
     "duc",
     null,
-    "lead back",
+    "back lead",
     "to make something smaller or less",
     true
   ],
@@ -4419,7 +4419,7 @@ window.WF.WORDS = [
     "re-",
     "fer",
     null,
-    "carry back",
+    "back carry",
     "to mention something, or to send someone to another person or place for help",
     true
   ],
@@ -4428,7 +4428,7 @@ window.WF.WORDS = [
     "re-",
     "fer",
     "-ence",
-    "carry back",
+    "back carry + state of",
     "a mention of something, or a source you look at for information",
     true
   ],
@@ -4437,7 +4437,7 @@ window.WF.WORDS = [
     "re-",
     "flect",
     null,
-    "bend back",
+    "back bend",
     "to throw back light or sound; also, to think carefully",
     true
   ],
@@ -4446,7 +4446,7 @@ window.WF.WORDS = [
     "re-",
     "flect",
     "-ion",
-    "bend back",
+    "back bend + act of",
     "an image seen in a mirror or water; also, careful thought",
     true
   ],
@@ -4455,7 +4455,7 @@ window.WF.WORDS = [
     "re-",
     "form",
     null,
-    "shape back",
+    "back shape",
     "to change something in order to improve it",
     true
   ],
@@ -4464,7 +4464,7 @@ window.WF.WORDS = [
     "re-",
     "fug",
     null,
-    "flee back",
+    "back flee",
     "a safe place to go when in danger",
     true
   ],
@@ -4473,7 +4473,7 @@ window.WF.WORDS = [
     "re-",
     "fus",
     null,
-    "pour back",
+    "back pour",
     "refuse to accept",
     false
   ],
@@ -4482,7 +4482,7 @@ window.WF.WORDS = [
     null,
     "rect",
     "-ent",
-    "rule",
+    "rule + one who",
     "a person who rules in place of a king or queen who cannot",
     true
   ],
@@ -4491,7 +4491,7 @@ window.WF.WORDS = [
     null,
     "rect",
     "-ion",
-    "direction",
+    "direct + act of",
     "an area of land or of the world",
     true
   ],
@@ -4500,7 +4500,7 @@ window.WF.WORDS = [
     "re-",
     "ject",
     null,
-    "throw back",
+    "back throw",
     "to refuse to accept something",
     true
   ],
@@ -4509,7 +4509,7 @@ window.WF.WORDS = [
     "re-",
     "ject",
     "-ion",
-    "throw back",
+    "back throw + act of",
     "the act of refusing to accept something",
     true
   ],
@@ -4518,7 +4518,7 @@ window.WF.WORDS = [
     "re-",
     "mot",
     null,
-    "move back",
+    "back move",
     "far away or hard to reach",
     true
   ],
@@ -4527,7 +4527,7 @@ window.WF.WORDS = [
     "re-",
     "mot",
     "-al",
-    "move back",
+    "back move + act of",
     "the act of taking something away",
     true
   ],
@@ -4536,7 +4536,7 @@ window.WF.WORDS = [
     "re-",
     "mot",
     null,
-    "move back",
+    "back move",
     "to take something away from a place",
     true
   ],
@@ -4545,7 +4545,7 @@ window.WF.WORDS = [
     "re-",
     "plic",
     null,
-    "fold back",
+    "back fold",
     "to answer someone",
     true
   ],
@@ -4554,7 +4554,7 @@ window.WF.WORDS = [
     "re-",
     "port",
     null,
-    "carry back",
+    "back carry",
     "a spoken or written account of something",
     true
   ],
@@ -4563,7 +4563,7 @@ window.WF.WORDS = [
     "re-",
     "port",
     "-er",
-    "carry back",
+    "back carry + one who",
     "a person who gathers and reports news",
     true
   ],
@@ -4572,7 +4572,7 @@ window.WF.WORDS = [
     "re-",
     "quir",
     null,
-    "ask back",
+    "back ask",
     "the act of asking politely for something",
     true
   ],
@@ -4581,7 +4581,7 @@ window.WF.WORDS = [
     "re-",
     "quir",
     null,
-    "seek back",
+    "back seek",
     "to need something",
     true
   ],
@@ -4590,7 +4590,7 @@ window.WF.WORDS = [
     "re-",
     "simil",
     "-ance",
-    "like back",
+    "back like + state of",
     "the way two things look or seem alike",
     false
   ],
@@ -4599,7 +4599,7 @@ window.WF.WORDS = [
     "re-",
     "sens",
     null,
-    "feel back",
+    "back feel",
     "to feel angry about something you think is unfair",
     true
   ],
@@ -4608,7 +4608,7 @@ window.WF.WORDS = [
     "re-",
     "serv",
     "-ion",
-    "keep back",
+    "back keep + act of",
     "an arrangement to save a seat, room, or table for someone",
     true
   ],
@@ -4617,7 +4617,7 @@ window.WF.WORDS = [
     "re-",
     "serv",
     null,
-    "keep back",
+    "back keep",
     "to save something for later or for a particular person",
     true
   ],
@@ -4626,7 +4626,7 @@ window.WF.WORDS = [
     "re-",
     "sed",
     "-ence",
-    "sit back",
+    "back sit + state of",
     "the place where someone lives",
     true
   ],
@@ -4635,7 +4635,7 @@ window.WF.WORDS = [
     "re-",
     "sed",
     "-ent",
-    "sit back",
+    "back sit + one who",
     "a person who lives in a particular place",
     true
   ],
@@ -4644,7 +4644,7 @@ window.WF.WORDS = [
     "re-",
     "sign",
     null,
-    "unseal",
+    "back sign",
     "to give up a job or position",
     true
   ],
@@ -4653,7 +4653,7 @@ window.WF.WORDS = [
     "re-",
     "sign",
     "-ion",
-    "unseal",
+    "back sign + act of",
     "the act of giving up a job or position",
     true
   ],
@@ -4662,7 +4662,7 @@ window.WF.WORDS = [
     "re-",
     "sist",
     null,
-    "stand back",
+    "back stand",
     "to fight against something or refuse to accept it",
     true
   ],
@@ -4671,7 +4671,7 @@ window.WF.WORDS = [
     "re-",
     "sist",
     "-ance",
-    "stand back",
+    "back stand + state of",
     "the act of fighting against something or refusing to accept it",
     true
   ],
@@ -4680,7 +4680,7 @@ window.WF.WORDS = [
     "re-",
     "solv",
     "-ion",
-    "loosen back",
+    "back loosen + act of",
     "a firm decision to do something; also, the solving of a problem",
     true
   ],
@@ -4689,7 +4689,7 @@ window.WF.WORDS = [
     "re-",
     "solv",
     null,
-    "loosen back",
+    "back loosen",
     "to find an answer to a problem; also, to decide firmly",
     true
   ],
@@ -4698,7 +4698,7 @@ window.WF.WORDS = [
     "re-",
     "spec",
     null,
-    "look back",
+    "back look",
     "admiration for someone, or care for their feelings and rights",
     true
   ],
@@ -4707,7 +4707,7 @@ window.WF.WORDS = [
     "re-",
     "spec",
     "-able",
-    "look back",
+    "back look + able to be",
     "behaving in a way that people think is good and proper",
     true
   ],
@@ -4716,7 +4716,7 @@ window.WF.WORDS = [
     "re-",
     "vert",
     null,
-    "turn back",
+    "back turn",
     "to go or turn backward; also, the opposite",
     true
   ],
@@ -4725,7 +4725,7 @@ window.WF.WORDS = [
     "re-",
     "vit",
     null,
-    "life back",
+    "again live",
     "to bring back to life, strength, or use",
     true
   ],
@@ -4734,7 +4734,7 @@ window.WF.WORDS = [
     "re-",
     "volv",
     "-ion",
-    "roll back",
+    "back roll + act of",
     "a big, sudden change, especially in how a country is ruled; also, one full turn",
     true
   ],
@@ -4743,7 +4743,7 @@ window.WF.WORDS = [
     "re-",
     "volv",
     "-er",
-    "roll back",
+    "back roll + that which",
     "a type of handgun with a turning cylinder that holds bullets",
     true
   ],
@@ -4752,7 +4752,7 @@ window.WF.WORDS = [
     null,
     "sci",
     "-ence",
-    "know",
+    "know + state of",
     "the study of the natural world through observation and experiments",
     true
   ],
@@ -4761,7 +4761,7 @@ window.WF.WORDS = [
     "se-",
     "cern",
     null,
-    "set apart",
+    "apart sift",
     "something kept hidden from others",
     true
   ],
@@ -4770,7 +4770,7 @@ window.WF.WORDS = [
     "se-",
     "cern",
     "-ary",
-    "set apart",
+    "apart sift + one who",
     "a person whose job is to handle letters, records, and appointments",
     true
   ],
@@ -4779,7 +4779,7 @@ window.WF.WORDS = [
     null,
     "sect",
     "-ion",
-    "cut",
+    "cut + act of",
     "one of the parts that something is divided into",
     true
   ],
@@ -4788,7 +4788,7 @@ window.WF.WORDS = [
     null,
     "sect",
     "-or",
-    "cut",
+    "cut + that which",
     "a part or area of something, such as a business area",
     true
   ],
@@ -4797,7 +4797,7 @@ window.WF.WORDS = [
     "se-",
     "cur",
     "-ity",
-    "without care",
+    "without care + quality of",
     "the state of being safe and protected",
     true
   ],
@@ -4806,7 +4806,7 @@ window.WF.WORDS = [
     null,
     "sed",
     "-ive",
-    "sit",
+    "sit + tending to",
     "a medicine that makes someone calm or sleepy",
     true
   ],
@@ -4815,7 +4815,7 @@ window.WF.WORDS = [
     "se-",
     "duc",
     null,
-    "lead apart",
+    "apart lead",
     "induce to have sex",
     false
   ],
@@ -4824,7 +4824,7 @@ window.WF.WORDS = [
     "se-",
     "lect",
     null,
-    "choose apart",
+    "apart choose",
     "to choose something carefully from a group",
     true
   ],
@@ -4833,7 +4833,7 @@ window.WF.WORDS = [
     "se-",
     "lect",
     "-ion",
-    "choose apart",
+    "apart choose + act of",
     "the act of choosing, or a group of things chosen",
     true
   ],
@@ -4842,7 +4842,7 @@ window.WF.WORDS = [
     null,
     "sens",
     "-ion",
-    "feel",
+    "feel + act of",
     "a feeling in the body, such as warmth or pain",
     true
   ],
@@ -4851,7 +4851,7 @@ window.WF.WORDS = [
     null,
     "sens",
     "-ible",
-    "feel",
+    "feel + able to",
     "showing good judgment",
     true
   ],
@@ -4860,7 +4860,7 @@ window.WF.WORDS = [
     null,
     "sens",
     "-ive",
-    "feel",
+    "feel + tending to",
     "quick to notice or react to things, including other people's feelings",
     true
   ],
@@ -4869,7 +4869,7 @@ window.WF.WORDS = [
     null,
     "sens",
     "-or",
-    "feel",
+    "feel + that which",
     "a device that detects or measures a physical property and records, indicates, or responds to it",
     true
   ],
@@ -4878,7 +4878,7 @@ window.WF.WORDS = [
     null,
     "sens",
     "-ence",
-    "feel",
+    "feel + state of",
     "a group of words that expresses a complete thought",
     true
   ],
@@ -4887,7 +4887,7 @@ window.WF.WORDS = [
     null,
     "sequ",
     "-ence",
-    "follow",
+    "follow + state of",
     "a set of things that follow each other in a particular order",
     true
   ],
@@ -4896,7 +4896,7 @@ window.WF.WORDS = [
     null,
     "serv",
     "-ant",
-    "serve",
+    "serve + one who",
     "a person whose job is to serve others, especially in a home",
     true
   ],
@@ -4905,7 +4905,7 @@ window.WF.WORDS = [
     null,
     "serv",
     "-er",
-    "serve",
+    "serve + one who",
     "a person who serves food, or a computer that provides data to other computers",
     true
   ],
@@ -4914,7 +4914,7 @@ window.WF.WORDS = [
     null,
     "sed",
     "-ion",
-    "sit",
+    "sit + act of",
     "a period of time spent doing a particular activity",
     true
   ],
@@ -4923,7 +4923,7 @@ window.WF.WORDS = [
     null,
     "sign",
     "-al",
-    "mark",
+    "mark + relating to",
     "a sound, light, or movement that gives a message or warning",
     true
   ],
@@ -4932,7 +4932,7 @@ window.WF.WORDS = [
     null,
     "sign",
     "-ure",
-    "mark",
+    "mark + result of",
     "your name written in your own special way",
     true
   ],
@@ -4941,7 +4941,7 @@ window.WF.WORDS = [
     null,
     "sol",
     "-ude",
-    "alone",
+    "alone + state of",
     "the state of being alone",
     false
   ],
@@ -4950,7 +4950,7 @@ window.WF.WORDS = [
     null,
     "solv",
     "-ion",
-    "loosen",
+    "loosen + act of",
     "an answer to a problem",
     true
   ],
@@ -4959,7 +4959,7 @@ window.WF.WORDS = [
     null,
     "son",
     "-ic",
-    "sound",
+    "sound + relating to",
     "relating to sound",
     true
   ],
@@ -4968,7 +4968,7 @@ window.WF.WORDS = [
     null,
     "stat",
     "-ment",
-    "stand",
+    "stand + result of",
     "something that someone says or writes officially",
     true
   ],
@@ -4977,7 +4977,7 @@ window.WF.WORDS = [
     null,
     "stat",
     "-ic",
-    "stand",
+    "stand + relating to",
     "not moving or changing",
     false
   ],
@@ -4986,7 +4986,7 @@ window.WF.WORDS = [
     null,
     "stat",
     "-ion",
-    "stand",
+    "stand + act of",
     "a stopping place for trains or buses, or a building used for a particular service",
     true
   ],
@@ -4995,7 +4995,7 @@ window.WF.WORDS = [
     null,
     "struct",
     "-ure",
-    "build",
+    "build + result of",
     "something that has been built, or the way the parts of something are arranged",
     true
   ],
@@ -5004,7 +5004,7 @@ window.WF.WORDS = [
     "sub-",
     "ject",
     null,
-    "throw under",
+    "under throw",
     "a topic you study or talk about",
     true
   ],
@@ -5013,7 +5013,7 @@ window.WF.WORDS = [
     "sub-",
     "mit",
     null,
-    "send under",
+    "under send",
     "to give in to someone, or to hand in work for approval",
     true
   ],
@@ -5022,7 +5022,7 @@ window.WF.WORDS = [
     "sub-",
     "stat",
     null,
-    "stand under",
+    "under stand",
     "a particular kind of matter or material",
     true
   ],
@@ -5031,7 +5031,7 @@ window.WF.WORDS = [
     "sub-",
     "ced",
     null,
-    "go under",
+    "under go",
     "to manage to do what you were trying to do",
     true
   ],
@@ -5040,7 +5040,7 @@ window.WF.WORDS = [
     "sub-",
     "ced",
     null,
-    "go under",
+    "under go",
     "reaching a goal or getting the result you wanted",
     true
   ],
@@ -5049,7 +5049,7 @@ window.WF.WORDS = [
     "sub-",
     "ced",
     "-or",
-    "go under",
+    "under go + one who",
     "a person or thing that comes next and takes another's place",
     true
   ],
@@ -5058,7 +5058,7 @@ window.WF.WORDS = [
     "sub-",
     "fer",
     null,
-    "carry under",
+    "under carry",
     "to feel pain or go through something bad",
     true
   ],
@@ -5067,7 +5067,7 @@ window.WF.WORDS = [
     null,
     "sequ",
     "-able",
-    "follow",
+    "follow + able to be",
     "right or good for a particular purpose",
     true
   ],
@@ -5076,7 +5076,7 @@ window.WF.WORDS = [
     "super-",
     "vid",
     "-ion",
-    "see above",
+    "above see + act of",
     "the act of watching over people or work to make sure it is done right",
     true
   ],
@@ -5085,7 +5085,7 @@ window.WF.WORDS = [
     "super-",
     "vid",
     "-or",
-    "see above",
+    "above see + one who",
     "a person who is in charge of other people's work",
     true
   ],
@@ -5094,7 +5094,7 @@ window.WF.WORDS = [
     "sub-",
     "plic",
     null,
-    "fold under",
+    "under fold",
     "offering goods and services for sale",
     false
   ],
@@ -5103,7 +5103,7 @@ window.WF.WORDS = [
     "sub-",
     "port",
     null,
-    "carry under",
+    "under carry",
     "to help someone, or to hold something up",
     true
   ],
@@ -5112,7 +5112,7 @@ window.WF.WORDS = [
     "sub-",
     "port",
     "-ive",
-    "carry under",
+    "under carry + tending to",
     "giving help and encouragement",
     true
   ],
@@ -5121,7 +5121,7 @@ window.WF.WORDS = [
     "sub-",
     "pon",
     null,
-    "place under",
+    "under place",
     "to think that something is probably true",
     true
   ],
@@ -5130,7 +5130,7 @@ window.WF.WORDS = [
     "sub-",
     "pend",
     "-ion",
-    "hang under",
+    "under hang + act of",
     "the act of hanging something, or a short stop or pause",
     true
   ],
@@ -5139,7 +5139,7 @@ window.WF.WORDS = [
     "sub-",
     "ten",
     null,
-    "hold under",
+    "under hold",
     "to keep something going over time",
     true
   ],
@@ -5148,7 +5148,7 @@ window.WF.WORDS = [
     null,
     "tempor",
     "-ary",
-    "time",
+    "time + relating to",
     "lasting only for a short time",
     true
   ],
@@ -5157,7 +5157,7 @@ window.WF.WORDS = [
     null,
     "ten",
     "-ant",
-    "hold",
+    "hold + one who",
     "a person who rents a home or building from its owner",
     true
   ],
@@ -5166,7 +5166,7 @@ window.WF.WORDS = [
     null,
     "tend",
     "-ence",
-    "stretch",
+    "stretch + state of",
     "a habit of acting or happening in a particular way",
     false
   ],
@@ -5175,7 +5175,7 @@ window.WF.WORDS = [
     null,
     "tend",
     "-ion",
-    "stretch",
+    "stretch + state of",
     "the state of being stretched tight, or a nervous, uneasy feeling",
     true
   ],
@@ -5184,7 +5184,7 @@ window.WF.WORDS = [
     null,
     "term",
     "-al",
-    "end",
+    "end + relating to",
     "a building where journeys by plane, bus, or train begin and end",
     true
   ],
@@ -5193,7 +5193,7 @@ window.WF.WORDS = [
     null,
     "tort",
     "-ure",
-    "twist",
+    "twist + process of",
     "causing great pain to someone on purpose",
     true
   ],
@@ -5202,7 +5202,7 @@ window.WF.WORDS = [
     null,
     "tract",
     "-or",
-    "pull",
+    "pull + that which",
     "a powerful vehicle used for pulling farm machinery",
     true
   ],
@@ -5211,7 +5211,7 @@ window.WF.WORDS = [
     "trans-",
     "scrib",
     null,
-    "write across",
+    "across write",
     "a written copy of what was said",
     true
   ],
@@ -5220,7 +5220,7 @@ window.WF.WORDS = [
     "trans-",
     "fer",
     null,
-    "carry across",
+    "across carry",
     "the act of moving something or someone from one place to another",
     true
   ],
@@ -5229,7 +5229,7 @@ window.WF.WORDS = [
     "trans-",
     "form",
     null,
-    "shape across",
+    "across shape",
     "to change something completely in form or appearance",
     true
   ],
@@ -5238,7 +5238,7 @@ window.WF.WORDS = [
     "trans-",
     "form",
     "-ion",
-    "shape across",
+    "across shape + act of",
     "a complete change in form or appearance",
     true
   ],
@@ -5247,7 +5247,7 @@ window.WF.WORDS = [
     "trans-",
     "mit",
     "-ion",
-    "send across",
+    "across send + act of",
     "the act of sending something, such as a signal or message, from one place to another",
     true
   ],
@@ -5256,7 +5256,7 @@ window.WF.WORDS = [
     "trans-",
     "mit",
     null,
-    "send across",
+    "across send",
     "to send or pass something from one person or place to another",
     true
   ],
@@ -5265,7 +5265,7 @@ window.WF.WORDS = [
     "trans-",
     "mit",
     "-er",
-    "send across",
+    "across send + that which",
     "a device or person that sends out signals or messages",
     true
   ],
@@ -5274,7 +5274,7 @@ window.WF.WORDS = [
     "trans-",
     "port",
     null,
-    "carry across",
+    "across carry",
     "to carry people or goods from one place to another",
     true
   ],
@@ -5283,7 +5283,7 @@ window.WF.WORDS = [
     "trans-",
     "port",
     "-ion",
-    "carry across",
+    "across carry + act of",
     "a way of carrying people or goods from place to place",
     true
   ],
@@ -5292,7 +5292,7 @@ window.WF.WORDS = [
     "trans-",
     "port",
     "-er",
-    "carry across",
+    "across carry + that which",
     "a vehicle or machine that carries things from place to place",
     true
   ],
@@ -5301,7 +5301,7 @@ window.WF.WORDS = [
     null,
     "trib",
     "-al",
-    "give",
+    "give + relating to",
     "relating to a tribe",
     false
   ],
@@ -5310,7 +5310,7 @@ window.WF.WORDS = [
     null,
     "urb",
     "-an",
-    "city",
+    "city + relating to",
     "relating to a city",
     true
   ],
@@ -5319,7 +5319,7 @@ window.WF.WORDS = [
     null,
     "vac",
     "-ant",
-    "empty",
+    "empty + being",
     "empty; not being used",
     true
   ],
@@ -5328,7 +5328,7 @@ window.WF.WORDS = [
     null,
     "vac",
     "-ion",
-    "empty",
+    "empty + state of",
     "a time away from work or school for rest or travel",
     true
   ],
@@ -5337,7 +5337,7 @@ window.WF.WORDS = [
     null,
     "val",
     "-able",
-    "worth",
+    "worth + able to be",
     "worth a lot of money, or very useful",
     true
   ],
@@ -5346,7 +5346,7 @@ window.WF.WORDS = [
     null,
     "ven",
     "-ure",
-    "come",
+    "come + result of",
     "a new and risky project or journey",
     true
   ],
@@ -5355,7 +5355,7 @@ window.WF.WORDS = [
     null,
     "ver",
     "-fy",
-    "true",
+    "true + to make",
     "to check that something is true or correct",
     true
   ],
@@ -5364,7 +5364,7 @@ window.WF.WORDS = [
     null,
     "vert",
     "-ion",
-    "turn",
+    "turn + act of",
     "a particular form of something that differs from other forms",
     true
   ],
@@ -5373,7 +5373,7 @@ window.WF.WORDS = [
     null,
     "vinc",
     "-or",
-    "conquer",
+    "conquer + one who",
     "the winner of a battle or contest",
     true
   ],
@@ -5382,7 +5382,7 @@ window.WF.WORDS = [
     null,
     "vinc",
     "-ory",
-    "conquer",
+    "conquer + relating to",
     "the act of winning a battle or contest",
     false
   ],
@@ -5391,7 +5391,7 @@ window.WF.WORDS = [
     null,
     "vid",
     "-ible",
-    "see",
+    "see + able to be",
     "able to be seen",
     true
   ],
@@ -5400,7 +5400,7 @@ window.WF.WORDS = [
     null,
     "vid",
     "-ion",
-    "see",
+    "see + act of",
     "the ability to see",
     true
   ],
@@ -5409,7 +5409,7 @@ window.WF.WORDS = [
     null,
     "vid",
     "-or",
-    "see",
+    "see + one who",
     "a person who comes to see a place or person",
     false
   ],
@@ -5418,7 +5418,7 @@ window.WF.WORDS = [
     null,
     "vit",
     "-al",
-    "life",
+    "life + relating to",
     "extremely important; also, needed to stay alive",
     true
   ],
@@ -5427,7 +5427,7 @@ window.WF.WORDS = [
     null,
     "voc",
     "-al",
-    "voice",
+    "voice + relating to",
     "relating to the voice; also, expressing opinions openly",
     true
   ]

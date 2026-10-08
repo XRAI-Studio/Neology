@@ -61,6 +61,14 @@ test('every word has a valid schema and known parts', () => {
   }
 });
 
+test('literals read in part order, with a suffix piece exactly when there is a suffix', () => {
+  for (const word of WF.WORDS) {
+    assert.equal(word[4].includes(' + '), word[3] !== null, `${word[0]} literal "${word[4]}" suffix piece`);
+  }
+  assert.equal(wordsByKey.get('promise')[4], 'forward send');
+  assert.equal(wordsByKey.get('importance')[4], 'into carry + state of');
+});
+
 test('definitions contain no truncation markers or dangling fragments', () => {
   for (const word of WF.WORDS) {
     assert.ok(!/[\u2026]|\.\.\./u.test(word[5]), `${word[0]} is truncated`);
@@ -69,8 +77,8 @@ test('definitions contain no truncation markers or dangling fragments', () => {
 });
 
 test('known vocabulary defects are repaired', () => {
-  assert.deepEqual(Array.from(wordsByKey.get('accurate').slice(1, 6)), ['ad-', 'cur', '-ate', 'take care of', 'correct in all details; exact']);
-  assert.deepEqual(Array.from(wordsByKey.get('version').slice(1, 5)), [null, 'vert', '-ion', 'turn']);
+  assert.deepEqual(Array.from(wordsByKey.get('accurate').slice(1, 6)), ['ad-', 'cur', '-ate', 'to care for + having', 'correct in all details; exact']);
+  assert.deepEqual(Array.from(wordsByKey.get('version').slice(1, 5)), [null, 'vert', '-ion', 'turn + act of']);
   assert.equal(wordsByKey.get('infection')[5], 'the invasion and growth of harmful microorganisms in the body');
   for (const key of ['accurate', 'container', 'evolution', 'sensor', 'infection', 'version']) {
     assert.equal(wordsByKey.get(key)[6], true, `${key} should be reviewed`);
@@ -82,6 +90,7 @@ test('known vocabulary defects are repaired', () => {
 test('vocab audit cites a reference for every reviewed word', () => {
   const { sections } = parseAudit();
   for (const word of reviewedWords) {
+    assert.ok((sections.get(word[0]) || '').includes(`literal:"${word[4]}"`), `${word[0]} audit record literal matches words.js`);
     assert.ok(sections.has(word[0]), `${word[0]} needs an audit section`);
     assert.match(sections.get(word[0]), /https:\/\//, `${word[0]} audit needs a reference link`);
   }
