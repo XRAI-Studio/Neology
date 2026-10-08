@@ -1901,6 +1901,185 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `struct` + `-ure`.
 - Reference: Wiktionary, [structure](https://en.wiktionary.org/wiki/structure#English) — from Latin *structūra* "a fitting together, adjustment, building, erection", from *struere*, past participle *structus* "pile up, arrange, assemble, build".
 
+## convict
+
+- Record: `{prefix:"con-", stem:"vinc", suffix:null, literal:"conquer with", definition:"to decide in a court of law that someone is guilty of a crime"}`
+- Review: Confirmed `con-` + `vinc`.
+- Reference: Wiktionary, [convict](https://en.wiktionary.org/wiki/convict#English) — from Latin *convictus*, the past participle of *convincō* "to convict"; doublet of *convince*.
+- Reference: Wiktionary (Latin), [convinco](https://en.wiktionary.org/wiki/convinco#Latin) — *convincō* = *con-* + *vincō* "conquer, win".
+
+## conviction
+
+- Record: `{prefix:"con-", stem:"vinc", suffix:"-ion", literal:"conquer with", definition:"a strong belief, or a court's decision that someone is guilty"}`
+- Review: Confirmed `con-` + `vinc` + `-ion`.
+- Reference: Wiktionary, [conviction](https://en.wiktionary.org/wiki/conviction#English) — from Latin *convictiō*, from *convictus*, the past participle of *convincō* "to convict"; *convict* + *-ion*.
+
+## convince
+
+- Record: `{prefix:"con-", stem:"vinc", suffix:null, literal:"conquer with", definition:"to make someone believe that something is true"}`
+- Review: Confirmed `con-` + `vinc`.
+- Reference: Wiktionary, [convince](https://en.wiktionary.org/wiki/convince#English) — from Latin *convincō* "to refute, prove", from *con-* + *vincō* "to conquer, vanquish".
+
+## invincible
+
+- Record: `{prefix:"in-", stem:"vinc", suffix:"-ible", literal:"not conquer", definition:"too strong to be defeated"}`
+- Review: Confirmed `in-` (not) + `vinc` + `-ible` (Latin *-ibilis*).
+- Reference: Wiktionary, [invincible](https://en.wiktionary.org/wiki/invincible#English) — from Latin *invincibilis* "unconquerable", from *in-* "not" + *vincibilis* "conquerable", from *vincere* "to conquer".
+
+## victor
+
+- Record: `{prefix:null, stem:"vinc", suffix:"-or", literal:"conquer", definition:"the winner of a battle or contest"}`
+- Review: Confirmed `vinc` + `-or` (Latin *victor* = *vincō* + *-tor*).
+- Reference: Wiktionary, [victor](https://en.wiktionary.org/wiki/victor#English) — from Latin *victor* "conqueror".
+- Reference: Wiktionary (Latin), [victor](https://en.wiktionary.org/wiki/victor#Latin) — *victor* = *vincō* "to conquer" (supine stem *vict-*) + *-tor*.
+
+## acquire
+
+- Record: `{prefix:"ad-", stem:"quir", suffix:null, literal:"seek to", definition:"to get or gain something"}`
+- Review: Confirmed `ad-` + `quir` (Latin *quaerō* "seek"). Literal changed from "ask to" to "seek to".
+- Reference: Wiktionary, [acquire](https://en.wiktionary.org/wiki/acquire#English) — from Latin *acquirō*; *ad-* + *quaerō* "to seek for".
+
+## conquest
+
+- Record: `{prefix:"con-", stem:"quir", suffix:null, literal:"seek with", definition:"the act of taking control of a place or people by force"}`
+- Review: Confirmed `con-` + `quir` via *conquer*, from Late Latin *conquaerere* (*con-* + *quaerō*). Literal changed from "ask with" to "seek with".
+- Reference: Wiktionary, [conquest](https://en.wiktionary.org/wiki/conquest#English) — from Middle English *conquest* (noun), from Old French; related verb *conquesten*.
+- Reference: Wiktionary, [conquer](https://en.wiktionary.org/wiki/conquer#English) — from Old French *conquerre*, from Late Latin *conquaero*, *conquaerere* "to search for, procure", from *con-* + *quaero*, *quaerere* "to seek, acquire".
+
+## question
+
+- Record: `{prefix:null, stem:"quir", suffix:"-ion", literal:"ask", definition:"a sentence that asks for information"}`
+- Review: Confirmed `quir` + `-ion` (Latin *quaestiō*); replaced the circular gloss.
+- Reference: Wiktionary, [question](https://en.wiktionary.org/wiki/question#English) — from Latin *quaestiōnem*, accusative of *quaestiō* "a seeking, investigation, inquiry, question", from *quaerere* "to seek, ask, inquire".
+
+## request
+
+- Record: `{prefix:"re-", stem:"quir", suffix:null, literal:"ask back", definition:"the act of asking politely for something"}`
+- Review: Confirmed `re-` + `quir`.
+- Reference: Wiktionary, [request](https://en.wiktionary.org/wiki/request#English) — from Vulgar Latin *\*requaesita*, from Latin *requīsīta*, feminine of *requīsītus* "requested, demanded", past participle of *requīrō* "require, ask".
+
+## require
+
+- Record: `{prefix:"re-", stem:"quir", suffix:null, literal:"seek back", definition:"to need something"}`
+- Review: Confirmed `re-` + `quir`. Literal changed from "ask back" to "seek back", the source's literal gloss.
+- Reference: Wiktionary, [require](https://en.wiktionary.org/wiki/require#English) — from Latin *requīrō* "to require, seek, ask for" (literally "to seek back"), from *re-* "back; again" + *quaerō* "to seek".
+
+## consequence
+
+- Record: `{prefix:"con-", stem:"sequ", suffix:"-ence", literal:"follow with", definition:"a result of something that happened earlier"}`
+- Review: Confirmed `con-` + `sequ` + `-ence`; replaced the adjective-like gloss.
+- Reference: Wiktionary, [consequence](https://en.wiktionary.org/wiki/consequence#English) — from Old French *consequence*, from Latin *consequentia*; analysable as *con-* + *sequence*.
+- Reference: Wiktionary (Latin), [consequor](https://en.wiktionary.org/wiki/consequor#Latin) — *cōnsequor* = *con-* + *sequor* "to follow".
+
+## prosecution
+
+- Record: `{prefix:"pro-", stem:"sequ", suffix:"-ion", literal:"follow forward", definition:"the act of taking someone to court for a crime"}`
+- Review: Confirmed `pro-` + `sequ` + `-ion`; chose the legal sense learners meet.
+- Reference: Wiktionary, [prosecution](https://en.wiktionary.org/wiki/prosecution#English) — from Late Latin *prōsecutio*, from *prōsequor* "follow, pursue", from *pro-* "onward" + *sequor* "follow".
+
+## prosecutor
+
+- Record: `{prefix:"pro-", stem:"sequ", suffix:"-or", literal:"follow forward", definition:"a lawyer who tries to prove in court that someone is guilty"}`
+- Review: Confirmed `pro-` + `sequ` + `-or`.
+- Reference: Wiktionary, [prosecutor](https://en.wiktionary.org/wiki/prosecutor#English) — from Medieval Latin *prosecutor*, from *prōsequor*; *prosecute* + *-or*.
+- Reference: Wiktionary (Latin), [prosequor](https://en.wiktionary.org/wiki/prosequor#Latin) — *prōsequor* = *prō-* + *sequor* "follow".
+
+## sequence
+
+- Record: `{prefix:null, stem:"sequ", suffix:"-ence", literal:"follow", definition:"a set of things that follow each other in a particular order"}`
+- Review: Confirmed `sequ` + `-ence`.
+- Reference: Wiktionary, [sequence](https://en.wiktionary.org/wiki/sequence#English) — from Late Latin *sequentia* "a following", from *sequēns* "following", from *sequī* "to follow".
+
+## suitable
+
+- Record: `{prefix:null, stem:"sequ", suffix:"-able", literal:"follow", definition:"right or good for a particular purpose"}`
+- Review: Confirmed `sequ` + `-able` with a caveat: *suitable* is *suit* + *-able*, and *suit* comes from Anglo-Norman *suite*, from Vulgar Latin *\*sequita*, from *sequor*.
+- Reference: Wiktionary, [suitable](https://en.wiktionary.org/wiki/suitable#English) — *suit* + *-able*.
+- Reference: Wiktionary (Middle English), [sute](https://en.wiktionary.org/wiki/sute#Middle_English) — (Middle English *sute*) borrowed from Anglo-Norman *suite*, from Vulgar Latin *\*sequita*, from Latin *sequor*.
+
+## current
+
+- Record: `{prefix:null, stem:"curr", suffix:"-ent", literal:"run", definition:"happening now; also, a flow of water, air, or electricity"}`
+- Review: Confirmed `curr` + `-ent`.
+- Reference: Wiktionary, [current](https://en.wiktionary.org/wiki/current#English) — from Old French *corant*, present participle of *courre* "to run", from Latin *currō*, *currere* "to run".
+
+## occur
+
+- Record: `{prefix:"ob-", stem:"curr", suffix:null, literal:"run against", definition:"to happen"}`
+- Review: Confirmed `ob-` + `curr`.
+- Reference: Wiktionary, [occur](https://en.wiktionary.org/wiki/occur#English) — from Latin *occurrō* "run to meet, run against, befall, present itself" from *ob-* "against" + *currō* "run, hurry, move".
+
+## security
+
+- Record: `{prefix:"se-", stem:"cur", suffix:"-ity", literal:"without care", definition:"the state of being safe and protected"}`
+- Review: Corrected the stem from `curr` (run) to `cur` (care): *security* comes from Latin *sēcūrus* = *sē-* "without" + *cūra* "care". Literal changed from "run apart" to "without care". The shared `se-` prefix gloss was widened from "apart, aside" to "apart, aside, without" so the game teaches the sense used here.
+- Reference: Wiktionary, [security](https://en.wiktionary.org/wiki/security#English) — from Latin *sēcūritās*, from *sēcūrus* "safe, secure", from *sē-* "without" + *cūra* "care".
+- Reference: Wiktionary (Latin), [securus](https://en.wiktionary.org/wiki/securus#Latin) — *sēcūrus* = *sē-* "without" + *cūra* "care".
+
+## evolve
+
+- Record: `{prefix:"ex-", stem:"volv", suffix:null, literal:"roll out of", definition:"to develop slowly over time"}`
+- Review: Confirmed `ex-` + `volv` (Latin *ē-* is a short form of *ex*).
+- Reference: Wiktionary, [evolve](https://en.wiktionary.org/wiki/evolve#English) — from Latin *ēvolvō* "unroll, unfold", from *ē-* "out of" (short form of *ex*) + *volvō* "roll".
+
+## involve
+
+- Record: `{prefix:"in-", stem:"volv", suffix:null, literal:"roll into", definition:"to include someone or something as a part"}`
+- Review: Confirmed `in-` + `volv`.
+- Reference: Wiktionary, [involve](https://en.wiktionary.org/wiki/involve#English) — from Late Middle English *involven* "to cloud; to encumber; to envelop, surround", from Old French *involver*.
+- Reference: Wiktionary (Latin), [involvo](https://en.wiktionary.org/wiki/involvo#Latin) — *involvō* = *in-* "in, at, on" + *volvō* "roll".
+
+## involvement
+
+- Record: `{prefix:"in-", stem:"volv", suffix:"-ment", literal:"roll into", definition:"the act of taking part in something"}`
+- Review: Confirmed as *involve* + *-ment*.
+- Reference: Wiktionary, [involvement](https://en.wiktionary.org/wiki/involvement#English) — *involve* + *-ment*.
+
+## revolution
+
+- Record: `{prefix:"re-", stem:"volv", suffix:"-ion", literal:"roll back", definition:"a big, sudden change, especially in how a country is ruled; also, one full turn"}`
+- Review: Confirmed `re-` + `volv` + `-ion`.
+- Reference: Wiktionary, [revolution](https://en.wiktionary.org/wiki/revolution#English) — from Late Latin *revolūtiō* "the act of revolving; revolution", from *revolvō* "roll back, revolve".
+
+## revolver
+
+- Record: `{prefix:"re-", stem:"volv", suffix:"-er", literal:"roll back", definition:"a type of handgun with a turning cylinder that holds bullets"}`
+- Review: Confirmed as *revolve* + *-er*.
+- Reference: Wiktionary, [revolver](https://en.wiktionary.org/wiki/revolver#English) — from *revolve* + *-er* (agent noun).
+- Reference: Wiktionary (Latin), [revolvo](https://en.wiktionary.org/wiki/revolvo#Latin) — *revolvō* = *re-* "back, again" + *volvō* "roll".
+
+## general
+
+- Record: `{prefix:null, stem:"gen", suffix:"-al", literal:"kind", definition:"about most people or things, not specific details; also, a top army officer"}`
+- Review: Confirmed `gen` + `-al` (Latin *generālis*, from *genus* "class, kind"). Literal changed from "birth" to "kind", the source's gloss of *genus* here.
+- Reference: Wiktionary, [general](https://en.wiktionary.org/wiki/general#English) — from Latin *generālis*, from *genus* "class, kind" + *-ālis* "-al".
+
+## generate
+
+- Record: `{prefix:null, stem:"gen", suffix:"-ate", literal:"birth", definition:"to produce or create something"}`
+- Review: Confirmed `gen` + `-ate` (Latin *generō*, from *genus* "descent, origin, birth").
+- Reference: Wiktionary, [generate](https://en.wiktionary.org/wiki/generate#English) — from Latin *generō* "beget, procreate, produce" + *-ate*, from *genus* "a kind, race, family".
+- Reference: Wiktionary (Latin), [genero](https://en.wiktionary.org/wiki/genero#Latin) — *generō* = *genus* "descent, origin, birth" + *-ō*.
+
+## generation
+
+- Record: `{prefix:null, stem:"gen", suffix:"-ion", literal:"birth", definition:"all the people born around the same time"}`
+- Review: Confirmed `gen` + `-ion`.
+- Reference: Wiktionary, [generation](https://en.wiktionary.org/wiki/generation#English) — from Latin *generātiō*, from *generō*, *generāre* "to beget, generate"; *generate* + *-ion*.
+
+## generator
+
+- Record: `{prefix:null, stem:"gen", suffix:"-or", literal:"birth", definition:"a machine that produces electricity"}`
+- Review: Confirmed `gen` + `-or`.
+- Reference: Wiktionary, [generator](https://en.wiktionary.org/wiki/generator#English) — from the past participle of Latin *genero* "beget, father"; *generate* + *-or*.
+
+## generous
+
+- Record: `{prefix:null, stem:"gen", suffix:"-ous", literal:"birth", definition:"happy to give more than is expected"}`
+- Review: Confirmed `gen` + `-ous` (Latin *generōsus* "of noble birth").
+- Reference: Wiktionary, [generous](https://en.wiktionary.org/wiki/generous#English) — from Middle French *genereux*, and its source, Latin *generōsus* "of noble birth", from *genus* "race, stock".
+- Reference: Wiktionary (Latin), [generosus](https://en.wiktionary.org/wiki/generosus#Latin) — *generōsus* = *genus* "birth, origin" + *-ōsus*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -1924,3 +2103,6 @@ Words held back from teaching modes, with the reason.
 - comply — not a *plicō* ("fold") word: from Latin *complēre* "to fill up, complete" (*con-* + *pleō*), via Italian/Catalan/Spanish; no `fill` stem exists ([Wiktionary](https://en.wiktionary.org/wiki/comply))
 - supply — not a *plicō* ("fold") word: from Latin *suppleō* "to fill up, make full, complete, supply" (*sub-* + *pleō*); the Middle English spelling was later modified ([Wiktionary](https://en.wiktionary.org/wiki/supply))
 - complex — from Latin *complector* (*com-* + *plectō* "to weave, braid"), a different verb from *plicō* "fold" though from the same root; held back for consistency with other sister-verb cases ([Wiktionary](https://en.wiktionary.org/wiki/complex))
+- currency — from Medieval Latin *currentia* (*currēns* + *-ia*), *current* + *-cy*; as with *tendency*, the recorded `-ence` suffix does not represent the English *-ency* ending; definition corrected to "the money used in a country" ([Wiktionary](https://en.wiktionary.org/wiki/currency))
+- intercourse — the decomposition is sound (*intercursus*, "running between"), but the main modern sense is sexual, which doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/intercourse))
+- victory — the English entry gives *victor* + *-y* and the Latin gives *victōria* = *victor* + *-ia*; neither supports the recorded `-ory` ("place for; relating to") suffix, matching the *factory* case; definition corrected to "the act of winning a battle or contest" ([Wiktionary](https://en.wiktionary.org/wiki/victory))

@@ -19,11 +19,11 @@ window.WF.FACTS = {
   "confusion": "🥤 Confusion pictures two liquids poured together into a blend you can’t untangle!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/distract#English (verified 2026-10-07)
   "distract": "🤼 Distracted literally means “pulled apart” — your attention yanked in two directions at once!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/convince#English (verified 2026-10-07)
   "convince": "⚔️ To convince someone is literally to CONQUER them in an argument — same root as victory!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/conviction#English (verified 2026-10-07)
   "conviction": "⚔️ A conviction is a belief that has CONQUERED every doubt in your mind!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/convict#English (verified 2026-10-07)
   "convict": "⚔️ To convict = to conquer someone in court. Same vinc as invincible!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/president#English (verified 2026-10-07)
   "president": "👑 President literally means “the one who SITS in front” — the person presiding at a meeting!",
@@ -59,7 +59,7 @@ window.WF.FACTS = {
   "attention": "🧠 Attention = “stretch to” — from Latin attendere, “to give heed to,” built from ad- (to) and tendere (to stretch).",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/assist#English (verified 2026-10-07)
   "assist": "🤝 Assist = “stand at” — from Latin assistere, “to stand at or by,” built from ad- (to, at) and sistere (to stand).",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/sequence#English (verified 2026-10-07)
   "sequence": "👣 A sequence is literally “a following” — one thing walking behind another in a line!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "department": "🔪 A department is a piece “shared down” — sliced off a bigger whole!",
@@ -181,7 +181,7 @@ window.WF.FACTS = {
   "intact": " Intact comes from Latin intactus, untouched.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/invent#English (verified 2026-10-07)
   "invent": " Invent comes from Latin invenire, come upon or find.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/involve (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/involve#English (verified 2026-10-07)
   "involve": " Involve comes from Latin involvere, roll in or wrap up.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/innocent (checked 2026-07-20)
   "innocent": " Innocent comes from Latin innocens, not harming.",
@@ -199,7 +199,7 @@ window.WF.FACTS = {
   "promote": " Promote comes from Latin promovere, move forward.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/proposal#English (verified 2026-10-07)
   "proposal": " Proposal belongs to the Latin ponere family, put or place, so it puts an idea forward.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/prosecution (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/prosecution#English (verified 2026-10-07)
   "prosecution": " Prosecution comes from Latin prosequi, follow after or pursue.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/prospect#English (verified 2026-10-07)
   "prospect": " Prospect comes from Latin prospectus, look forward or view ahead.",

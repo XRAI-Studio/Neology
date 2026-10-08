@@ -113,7 +113,7 @@ window.WF.PREFIXES = [
   ],
   [
     "se-",
-    "apart, aside",
+    "apart, aside, without",
     "separate"
   ],
   [
@@ -990,9 +990,9 @@ window.WF.WORDS = [
     "ad-",
     "quir",
     null,
-    "ask to",
-    "take on a certain form, attribute, or aspect",
-    false
+    "seek to",
+    "to get or gain something",
+    true
   ],
   [
     "addict",
@@ -1620,9 +1620,9 @@ window.WF.WORDS = [
     "con-",
     "quir",
     null,
-    "ask with",
-    "the act of conquering",
-    false
+    "seek with",
+    "the act of taking control of a place or people by force",
+    true
   ],
   [
     "conscience",
@@ -1657,8 +1657,8 @@ window.WF.WORDS = [
     "sequ",
     "-ence",
     "follow with",
-    "having important effects or influence",
-    false
+    "a result of something that happened earlier",
+    true
   ],
   [
     "conservative",
@@ -1828,8 +1828,8 @@ window.WF.WORDS = [
     "vinc",
     null,
     "conquer with",
-    "find or declare guilty",
-    false
+    "to decide in a court of law that someone is guilty of a crime",
+    true
   ],
   [
     "conviction",
@@ -1837,8 +1837,8 @@ window.WF.WORDS = [
     "vinc",
     "-ion",
     "conquer with",
-    "an unshakable belief in something without need for proof or evidence",
-    false
+    "a strong belief, or a court's decision that someone is guilty",
+    true
   ],
   [
     "convince",
@@ -1846,8 +1846,8 @@ window.WF.WORDS = [
     "vinc",
     null,
     "conquer with",
-    "make (someone) agree, understand, or realize the truth or validity of something",
-    false
+    "to make someone believe that something is true",
+    true
   ],
   [
     "cooperate",
@@ -1945,7 +1945,7 @@ window.WF.WORDS = [
     "curr",
     "-ence",
     "run",
-    "general acceptance or use",
+    "the money used in a country",
     false
   ],
   [
@@ -1954,8 +1954,8 @@ window.WF.WORDS = [
     "curr",
     "-ent",
     "run",
-    "a flow of electricity through a conductor",
-    false
+    "happening now; also, a flow of water, air, or electricity",
+    true
   ],
   [
     "deception",
@@ -2521,8 +2521,8 @@ window.WF.WORDS = [
     "volv",
     null,
     "roll out of",
-    "work out",
-    false
+    "to develop slowly over time",
+    true
   ],
   [
     "except",
@@ -2799,9 +2799,9 @@ window.WF.WORDS = [
     null,
     "gen",
     "-al",
-    "birth",
-    "a general officer of the highest rank",
-    false
+    "kind",
+    "about most people or things, not specific details; also, a top army officer",
+    true
   ],
   [
     "generate",
@@ -2809,8 +2809,8 @@ window.WF.WORDS = [
     "gen",
     "-ate",
     "birth",
-    "give or supply",
-    false
+    "to produce or create something",
+    true
   ],
   [
     "generation",
@@ -2818,8 +2818,8 @@ window.WF.WORDS = [
     "gen",
     "-ion",
     "birth",
-    "the normal time between successive generations",
-    false
+    "all the people born around the same time",
+    true
   ],
   [
     "generator",
@@ -2827,8 +2827,8 @@ window.WF.WORDS = [
     "gen",
     "-or",
     "birth",
-    "an apparatus that produces a vapor or gas",
-    false
+    "a machine that produces electricity",
+    true
   ],
   [
     "generous",
@@ -2836,8 +2836,8 @@ window.WF.WORDS = [
     "gen",
     "-ous",
     "birth",
-    "more than adequate",
-    false
+    "happy to give more than is expected",
+    true
   ],
   [
     "gratitude",
@@ -3367,8 +3367,8 @@ window.WF.WORDS = [
     "vinc",
     "-ible",
     "not conquer",
-    "incapable of being overcome or subdued",
-    false
+    "too strong to be defeated",
+    true
   ],
   [
     "invisible",
@@ -3385,8 +3385,8 @@ window.WF.WORDS = [
     "volv",
     null,
     "roll into",
-    "engage as a participant",
-    false
+    "to include someone or something as a part",
+    true
   ],
   [
     "involvement",
@@ -3394,8 +3394,8 @@ window.WF.WORDS = [
     "volv",
     "-ment",
     "roll into",
-    "a connection of inclusion or containment",
-    false
+    "the act of taking part in something",
+    true
   ],
   [
     "junction",
@@ -3709,8 +3709,8 @@ window.WF.WORDS = [
     "curr",
     null,
     "run against",
-    "come to pass",
-    false
+    "to happen",
+    true
   ],
   [
     "offer",
@@ -4285,8 +4285,8 @@ window.WF.WORDS = [
     "sequ",
     "-ion",
     "follow forward",
-    "the continuance of something begun with a view to its completion",
-    false
+    "the act of taking someone to court for a crime",
+    true
   ],
   [
     "prosecutor",
@@ -4294,8 +4294,8 @@ window.WF.WORDS = [
     "sequ",
     "-or",
     "follow forward",
-    "a government official who conducts criminal prosecutions on behalf of the state",
-    false
+    "a lawyer who tries to prove in court that someone is guilty",
+    true
   ],
   [
     "prospect",
@@ -4339,8 +4339,8 @@ window.WF.WORDS = [
     "quir",
     "-ion",
     "ask",
-    "an instance of questioning",
-    false
+    "a sentence that asks for information",
+    true
   ],
   [
     "receipt",
@@ -4573,17 +4573,17 @@ window.WF.WORDS = [
     "quir",
     null,
     "ask back",
-    "the verbal act of requesting",
-    false
+    "the act of asking politely for something",
+    true
   ],
   [
     "require",
     "re-",
     "quir",
     null,
-    "ask back",
-    "consider obligatory",
-    false
+    "seek back",
+    "to need something",
+    true
   ],
   [
     "resemblance",
@@ -4735,8 +4735,8 @@ window.WF.WORDS = [
     "volv",
     "-ion",
     "roll back",
-    "a single complete turn (axial or orbital)",
-    false
+    "a big, sudden change, especially in how a country is ruled; also, one full turn",
+    true
   ],
   [
     "revolver",
@@ -4744,8 +4744,8 @@ window.WF.WORDS = [
     "volv",
     "-er",
     "roll back",
-    "a pistol with a revolving cylinder (usually having six chambers for bullets)",
-    false
+    "a type of handgun with a turning cylinder that holds bullets",
+    true
   ],
   [
     "science",
@@ -4795,11 +4795,11 @@ window.WF.WORDS = [
   [
     "security",
     "se-",
-    "curr",
+    "cur",
     "-ity",
-    "run apart",
-    "freedom from anxiety or fear",
-    false
+    "without care",
+    "the state of being safe and protected",
+    true
   ],
   [
     "sedative",
@@ -4888,8 +4888,8 @@ window.WF.WORDS = [
     "sequ",
     "-ence",
     "follow",
-    "a following of one thing after another in time",
-    false
+    "a set of things that follow each other in a particular order",
+    true
   ],
   [
     "servant",
@@ -5068,8 +5068,8 @@ window.WF.WORDS = [
     "sequ",
     "-able",
     "follow",
-    "meant or adapted for an occasion or use",
-    false
+    "right or good for a particular purpose",
+    true
   ],
   [
     "supervision",
@@ -5374,8 +5374,8 @@ window.WF.WORDS = [
     "vinc",
     "-or",
     "conquer",
-    "the contestant who wins the contest",
-    false
+    "the winner of a battle or contest",
+    true
   ],
   [
     "victory",
@@ -5383,7 +5383,7 @@ window.WF.WORDS = [
     "vinc",
     "-ory",
     "conquer",
-    "a successful ending of a struggle or contest",
+    "the act of winning a battle or contest",
     false
   ],
   [
