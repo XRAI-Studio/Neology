@@ -17,7 +17,7 @@ window.WF.FACTS = {
   "confuse": "🥤 Confused = “poured together” — like two drinks mixed into one murky, unrecognizable cup!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "confusion": "🥤 Confusion pictures two liquids poured together into a blend you can’t untangle!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/distract#English (verified 2026-10-07)
   "distract": "🤼 Distracted literally means “pulled apart” — your attention yanked in two directions at once!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "convince": "⚔️ To convince someone is literally to CONQUER them in an argument — same root as victory!",
@@ -53,7 +53,7 @@ window.WF.FACTS = {
   "depend": "🪢 Depend = “hang down from” — to depend on someone is to dangle from a rope you trust!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "impulse": "⚡ An impulse is a force that literally DRIVES INTO your mind, skipping right past your thinking!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/attract#English (verified 2026-10-07)
   "attract": "🧲 Attract = “pull toward” — attractive things have a kind of gravity that pulls attention in!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/attention#English (verified 2026-10-07)
   "attention": "🧠 Attention = “stretch to” — from Latin attendere, “to give heed to,” built from ad- (to) and tendere (to stretch).",
@@ -67,7 +67,7 @@ window.WF.FACTS = {
   "compartment": "📦 A compartment is a space “shared with” others — one slice of a divided box!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "assessment": "⚖️ An assessor originally SAT BESIDE a judge — assessment means “sit to”!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/extract#English (verified 2026-10-07)
   "extract": "🦷 Extract = “pull out” — exactly what a dentist does to a tooth!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "interrupt": "💥 Interrupt = “break between” — smashing into the middle of someone’s sentence!",
@@ -119,7 +119,7 @@ window.WF.FACTS = {
   "construction": " Construction comes from Latin construere, pile up or build together.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/contemporary (checked 2026-07-20)
   "contemporary": " Contemporary literally joins together with time: people or things sharing an era.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/contract (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/contract#English (verified 2026-10-07)
   "contract": " Contract comes from Latin contrahere, draw together, as an agreement draws parties together.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/convention#English (verified 2026-10-07)
   "convention": " Convention comes from Latin convenire, come together or assemble.",
@@ -163,7 +163,7 @@ window.WF.FACTS = {
   "expose": " Expose comes through Latin exponere, set forth or put out in view.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/express (checked 2026-07-20)
   "express": " Express comes from Latin exprimere, press out, as juice is pressed from fruit.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/extend (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/extend#English (verified 2026-10-07)
   "extend": " Extend comes from Latin extendere, stretch out.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/extraordinary (checked 2026-07-20)
   "extraordinary": " Extraordinary literally means outside the ordinary order.",

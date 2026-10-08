@@ -1216,8 +1216,8 @@ window.WF.WORDS = [
     "tend",
     null,
     "stretch to",
-    "take charge of or deal with",
-    false
+    "to be present at an event, or to pay attention to something",
+    true
   ],
   [
     "attendance",
@@ -1225,8 +1225,8 @@ window.WF.WORDS = [
     "tend",
     "-ance",
     "stretch to",
-    "the number of people that are present",
-    false
+    "the act of being present, or the number of people who are present",
+    true
   ],
   [
     "attendant",
@@ -1234,8 +1234,8 @@ window.WF.WORDS = [
     "tend",
     "-ant",
     "stretch to",
-    "a person who is present and participates in a meeting",
-    false
+    "a person whose job is to help or serve people",
+    true
   ],
   [
     "attention",
@@ -1252,8 +1252,8 @@ window.WF.WORDS = [
     "tract",
     null,
     "pull to",
-    "be attractive to",
-    false
+    "to pull something or someone toward you",
+    true
   ],
   [
     "attraction",
@@ -1261,8 +1261,8 @@ window.WF.WORDS = [
     "tract",
     "-ion",
     "pull to",
-    "the quality of arousing interest",
-    false
+    "the power to pull or draw things toward it, or something people enjoy visiting",
+    true
   ],
   [
     "attractive",
@@ -1270,8 +1270,8 @@ window.WF.WORDS = [
     "tract",
     "-ive",
     "pull to",
-    "having power to arouse interest",
-    false
+    "pleasing or interesting to look at or think about",
+    true
   ],
   [
     "audible",
@@ -1665,9 +1665,9 @@ window.WF.WORDS = [
     "con-",
     "serv",
     "-ive",
-    "keep with",
-    "resistant to change",
-    false
+    "preserve",
+    "preferring to keep things the way they are, and careful about change",
+    true
   ],
   [
     "consistent",
@@ -1764,18 +1764,18 @@ window.WF.WORDS = [
     "con-",
     "tract",
     null,
-    "pull with",
-    "a binding agreement between two or more persons that is enforceable by law",
-    false
+    "pull together",
+    "a written agreement that people must follow by law",
+    true
   ],
   [
     "contractor",
     "con-",
     "tract",
     "-or",
-    "pull with",
-    "(law) a party to a contract",
-    false
+    "pull together",
+    "a person or company hired to do a job, such as building",
+    true
   ],
   [
     "contribution",
@@ -2124,9 +2124,9 @@ window.WF.WORDS = [
     "de-",
     "serv",
     null,
-    "keep down",
-    "be worthy or deserving",
-    false
+    "serve zealously",
+    "to have earned something because of what you have done",
+    true
   ],
   [
     "design",
@@ -2260,8 +2260,8 @@ window.WF.WORDS = [
     "tract",
     null,
     "pull apart",
-    "draw someone's attention away from something",
-    false
+    "to pull someone's attention away from something",
+    true
   ],
   [
     "distraction",
@@ -2269,8 +2269,8 @@ window.WF.WORDS = [
     "tract",
     "-ion",
     "pull apart",
-    "mental turmoil",
-    false
+    "something that takes your attention away from what you are doing",
+    true
   ],
   [
     "distribution",
@@ -2638,8 +2638,8 @@ window.WF.WORDS = [
     "tend",
     null,
     "stretch out of",
-    "extend in scope or range or area",
-    false
+    "to make something longer or larger, or to reach out",
+    true
   ],
   [
     "extension",
@@ -2683,8 +2683,8 @@ window.WF.WORDS = [
     "tract",
     null,
     "pull out of",
-    "a passage selected from a larger work",
-    false
+    "to pull or take something out",
+    true
   ],
   [
     "extraordinary",
@@ -3232,8 +3232,8 @@ window.WF.WORDS = [
     "tend",
     null,
     "stretch into",
-    "design or destine",
-    false
+    "to plan or mean to do something",
+    true
   ],
   [
     "intense",
@@ -3241,8 +3241,8 @@ window.WF.WORDS = [
     "tend",
     null,
     "stretch into",
-    "extremely sharp or intense",
-    false
+    "very strong or extreme",
+    true
   ],
   [
     "intensity",
@@ -3250,8 +3250,8 @@ window.WF.WORDS = [
     "tend",
     "-ity",
     "stretch into",
-    "high level or degree",
-    false
+    "how strong or extreme something is",
+    true
   ],
   [
     "intent",
@@ -3663,18 +3663,18 @@ window.WF.WORDS = [
     "ob-",
     "serv",
     "-ion",
-    "keep against",
-    "the act of observing",
-    false
+    "watch over",
+    "the act of watching something carefully",
+    true
   ],
   [
     "observe",
     "ob-",
     "serv",
     null,
-    "keep against",
-    "notice or perceive something and register it as significant",
-    false
+    "watch over",
+    "to watch something carefully, or to notice it",
+    true
   ],
   [
     "obsession",
@@ -4042,8 +4042,8 @@ window.WF.WORDS = [
     "serv",
     null,
     "keep before",
-    "fruit preserved by cooking with sugar",
-    false
+    "to keep something safe or in good condition",
+    true
   ],
   [
     "president",
@@ -4069,8 +4069,8 @@ window.WF.WORDS = [
     "tend",
     null,
     "stretch before",
-    "the enactment of a pretense",
-    false
+    "to act as if something is true when it is not, especially in play",
+    true
   ],
   [
     "prevent",
@@ -4609,8 +4609,8 @@ window.WF.WORDS = [
     "serv",
     "-ion",
     "keep back",
-    "a statement that limits or restricts some claim",
-    false
+    "an arrangement to save a seat, room, or table for someone",
+    true
   ],
   [
     "reserve",
@@ -4618,8 +4618,8 @@ window.WF.WORDS = [
     "serv",
     null,
     "keep back",
-    "formality and propriety of manner",
-    false
+    "to save something for later or for a particular person",
+    true
   ],
   [
     "residence",
@@ -4896,18 +4896,18 @@ window.WF.WORDS = [
     null,
     "serv",
     "-ant",
-    "keep",
-    "in a subordinate position",
-    false
+    "serve",
+    "a person whose job is to serve others, especially in a home",
+    true
   ],
   [
     "server",
     null,
     "serv",
     "-er",
-    "keep",
-    "(court games) the player who serves to start a point",
-    false
+    "serve",
+    "a person who serves food, or a computer that provides data to other computers",
+    true
   ],
   [
     "session",
@@ -5167,7 +5167,7 @@ window.WF.WORDS = [
     "tend",
     "-ence",
     "stretch",
-    "an inclination to do something",
+    "a habit of acting or happening in a particular way",
     false
   ],
   [
@@ -5203,8 +5203,8 @@ window.WF.WORDS = [
     "tract",
     "-or",
     "pull",
-    "a truck that has a cab but no body",
-    false
+    "a powerful vehicle used for pulling farm machinery",
+    true
   ],
   [
     "transcript",

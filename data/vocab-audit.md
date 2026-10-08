@@ -1128,6 +1128,177 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `sub-` + `ject`.
 - Reference: Wiktionary, [subject](https://en.wiktionary.org/wiki/subject#English) — from Latin *subiectus* "lying under or near", … past participle of *subiciō* "throw, lay, place", from *sub* "under" + *iaciō* "throw, hurl".
 
+## conservative
+
+- Record: `{prefix:"con-", stem:"serv", suffix:"-ive", literal:"preserve", definition:"preferring to keep things the way they are, and careful about change"}`
+- Review: Confirmed `con-` + `serv` + `-ive` (via *conserve* + *-ative*). Literal changed from "keep with" to "preserve": here *com-* is intensive, and Latin *cōnservāre* means "to keep, preserve".
+- Reference: Wiktionary, [conservative](https://en.wiktionary.org/wiki/conservative#English) — from Middle French *conservatif*, from Latin *cōnservō* "to preserve"; equivalent to *conserve* + *-ative*.
+- Reference: Wiktionary, [conserve](https://en.wiktionary.org/wiki/conserve#English) — from Latin *conservare* "to keep, preserve", from *com-* (intensive prefix) + *servo* "keep watch, maintain".
+
+## deserve
+
+- Record: `{prefix:"de-", stem:"serv", suffix:null, literal:"serve zealously", definition:"to have earned something because of what you have done"}`
+- Review: Confirmed `de-` + `serv`, but from *serviō* "serve", not *servō* "keep". Literal changed from "keep down" to "serve zealously", the Latin entry's sense of *dēserviō*.
+- Reference: Wiktionary, [deserve](https://en.wiktionary.org/wiki/deserve#English) — from Old French *deservir*, from Latin *dēserviō*, from *dē-* + *serviō*.
+- Reference: Wiktionary (Latin), [deservio](https://en.wiktionary.org/wiki/deservio#Latin) — *dēserviō* = *de-* + *serviō*: "to serve zealously; to devote (oneself) to".
+
+## observation
+
+- Record: `{prefix:"ob-", stem:"serv", suffix:"-ion", literal:"watch over", definition:"the act of watching something carefully"}`
+- Review: Confirmed as *observe* + *-ation*. Literal changed from "keep against" to "watch over" (see *observe*).
+- Reference: Wiktionary, [observation](https://en.wiktionary.org/wiki/observation#English) — from Middle French *observacion*, and a learned borrowing from Latin *observātiō*; morphologically *observe* + *-ation*.
+
+## observe
+
+- Record: `{prefix:"ob-", stem:"serv", suffix:null, literal:"watch over", definition:"to watch something carefully, or to notice it"}`
+- Review: Confirmed `ob-` + `serv`. Literal changed from "keep against" to "watch over": the source glosses *ob-* here as "before", and Latin *observō* means "to watch, keep watch over".
+- Reference: Wiktionary, [observe](https://en.wiktionary.org/wiki/observe#English) — from Latin *observō* "to watch", from *ob-* "before" + *servō* "to keep".
+- Reference: Wiktionary (Latin), [observo](https://en.wiktionary.org/wiki/observo#Latin) — *observō* = *ob-* + *servō* "watch, keep safe"; "to observe, watch, pay attention to; to guard, keep watch over".
+
+## preserve
+
+- Record: `{prefix:"pre-", stem:"serv", suffix:null, literal:"keep before", definition:"to keep something safe or in good condition"}`
+- Review: Confirmed `pre-` + `serv` (Latin *prae-*); replaced the jam sense with the verb.
+- Reference: Wiktionary, [preserve](https://en.wiktionary.org/wiki/preserve#English) — from Late Latin *praeservāre* "guard beforehand", from *prae* "before" + *servāre* "maintain, keep".
+
+## reservation
+
+- Record: `{prefix:"re-", stem:"serv", suffix:"-ion", literal:"keep back", definition:"an arrangement to save a seat, room, or table for someone"}`
+- Review: Confirmed as *reserve* + *-ation*; chose the everyday booking sense.
+- Reference: Wiktionary, [reservation](https://en.wiktionary.org/wiki/reservation#English) — from Middle French *reservation*, equivalent to *reserve* + *-ation*.
+- Reference: Wiktionary (Latin), [reservo](https://en.wiktionary.org/wiki/reservo#Latin) — *reservō* = *re-* "again, back" + *servō* "save; preserve".
+
+## reserve
+
+- Record: `{prefix:"re-", stem:"serv", suffix:null, literal:"keep back", definition:"to save something for later or for a particular person"}`
+- Review: Confirmed `re-` + `serv`; replaced the "formality of manner" noun sense.
+- Reference: Wiktionary, [reserve](https://en.wiktionary.org/wiki/reserve#English) — from Old French *reserver*, from Latin *reservō* "to reserve, retain".
+- Reference: Wiktionary (Latin), [reservo](https://en.wiktionary.org/wiki/reservo#Latin) — *reservō* = *re-* "again, back" + *servō* "save; preserve"; "to keep or hold back".
+
+## servant
+
+- Record: `{prefix:null, stem:"serv", suffix:"-ant", literal:"serve", definition:"a person whose job is to serve others, especially in a home"}`
+- Review: Confirmed `serv` + `-ant`, from *serviō* "serve". Literal changed from "keep" to "serve".
+- Reference: Wiktionary, [servant](https://en.wiktionary.org/wiki/servant#English) — from Old French *servant*, from the present participle of the verb *servir*; morphologically *serve* + *-ant*.
+- Reference: Wiktionary, [serve](https://en.wiktionary.org/wiki/serve#English) — from Old French *servir*, from Latin *serviō* "be a slave; serve".
+
+## server
+
+- Record: `{prefix:null, stem:"serv", suffix:"-er", literal:"serve", definition:"a person who serves food, or a computer that provides data to other computers"}`
+- Review: Confirmed as *serve* + *-er*. Literal changed from "keep" to "serve"; replaced the tennis-only gloss.
+- Reference: Wiktionary, [server](https://en.wiktionary.org/wiki/server#English) — from Middle English *servere*, equivalent to *serve* + *-er*.
+- Reference: Wiktionary, [serve](https://en.wiktionary.org/wiki/serve#English) — from Old French *servir*, from Latin *serviō* "be a slave; serve".
+
+## attend
+
+- Record: `{prefix:"ad-", stem:"tend", suffix:null, literal:"stretch to", definition:"to be present at an event, or to pay attention to something"}`
+- Review: Confirmed `ad-` + `tend` (Latin *attendō*); replaced "take charge of".
+- Reference: Wiktionary, [attend](https://en.wiktionary.org/wiki/attend#English) — from Middle English *attenden* "to devote oneself (to a task); to pay attention to …".
+- Reference: Wiktionary (Latin), [attendo](https://en.wiktionary.org/wiki/attendo#Latin) — *attendō* = *ad-* + *tendō* "stretch, extend".
+
+## attendance
+
+- Record: `{prefix:"ad-", stem:"tend", suffix:"-ance", literal:"stretch to", definition:"the act of being present, or the number of people who are present"}`
+- Review: Confirmed `ad-` + `tend` + `-ance`.
+- Reference: Wiktionary, [attendance](https://en.wiktionary.org/wiki/attendance#English) — from Old French *atendance*, from *atendre* "to attend, listen".
+- Reference: Wiktionary (Latin), [attendo](https://en.wiktionary.org/wiki/attendo#Latin) — *attendō* = *ad-* + *tendō* "stretch, extend".
+
+## attendant
+
+- Record: `{prefix:"ad-", stem:"tend", suffix:"-ant", literal:"stretch to", definition:"a person whose job is to help or serve people"}`
+- Review: Confirmed as *attend* + *-ant*; chose the common job sense.
+- Reference: Wiktionary, [attendant](https://en.wiktionary.org/wiki/attendant#English) — from Old French *attendant*; *attend* + *-ant*.
+
+## extend
+
+- Record: `{prefix:"ex-", stem:"tend", suffix:null, literal:"stretch out of", definition:"to make something longer or larger, or to reach out"}`
+- Review: Confirmed `ex-` + `tend`; replaced the circular definition.
+- Reference: Wiktionary, [extend](https://en.wiktionary.org/wiki/extend#English) — from Old French *estendre*, from Latin *extendō* "to stretch out".
+- Reference: Wiktionary (Latin), [extendo](https://en.wiktionary.org/wiki/extendo#Latin) — *extendō* = *ex-* + *tendō* "stretch".
+
+## intend
+
+- Record: `{prefix:"in-", stem:"tend", suffix:null, literal:"stretch into", definition:"to plan or mean to do something"}`
+- Review: Confirmed `in-` + `tend`; replaced "design or destine".
+- Reference: Wiktionary, [intend](https://en.wiktionary.org/wiki/intend#English) — from Old French *entendre*, from Latin *intendō*, *intendere*.
+- Reference: Wiktionary (Latin), [intendo](https://en.wiktionary.org/wiki/intendo#Latin) — *intendō* = *in-* + *tendō*.
+
+## intense
+
+- Record: `{prefix:"in-", stem:"tend", suffix:null, literal:"stretch into", definition:"very strong or extreme"}`
+- Review: Confirmed `in-` + `tend` (Latin *intēnsus*, "stretched tight"); replaced the circular definition.
+- Reference: Wiktionary, [intense](https://en.wiktionary.org/wiki/intense#English) — from Old French *intense*, or directly from Latin *intēnsus* "strained, stretched tight; intense".
+- Reference: Wiktionary (Latin), [intensus](https://en.wiktionary.org/wiki/intensus#Latin) — *intēnsus*: perfect passive participle of *intendō*.
+
+## intensity
+
+- Record: `{prefix:"in-", stem:"tend", suffix:"-ity", literal:"stretch into", definition:"how strong or extreme something is"}`
+- Review: Confirmed as *intense* + *-ity*.
+- Reference: Wiktionary, [intensity](https://en.wiktionary.org/wiki/intensity#English) — *intense* + *-ity*; compare Medieval Latin *intensitas*.
+
+## pretend
+
+- Record: `{prefix:"pre-", stem:"tend", suffix:null, literal:"stretch before", definition:"to act as if something is true when it is not, especially in play"}`
+- Review: Confirmed `pre-` + `tend` (Latin *prae-*); replaced the noun gloss with the verb.
+- Reference: Wiktionary, [pretend](https://en.wiktionary.org/wiki/pretend#English) — from Latin *praetendo*, *praetendere* "to put forward, hold out, pretend", from *prae-* + *tendō* "stretch".
+
+## attract
+
+- Record: `{prefix:"ad-", stem:"tract", suffix:null, literal:"pull to", definition:"to pull something or someone toward you"}`
+- Review: Confirmed `ad-` + `tract`; replaced the circular "be attractive to".
+- Reference: Wiktionary, [attract](https://en.wiktionary.org/wiki/attract#English) — from Latin *attractus*, past participle of *attrahere* "to draw to, attract", from *ad* "to" + *trahere* "to draw".
+
+## attraction
+
+- Record: `{prefix:"ad-", stem:"tract", suffix:"-ion", literal:"pull to", definition:"the power to pull or draw things toward it, or something people enjoy visiting"}`
+- Review: Confirmed `ad-` + `tract` + `-ion`.
+- Reference: Wiktionary, [attraction](https://en.wiktionary.org/wiki/attraction#English) — from Latin *attractio*, from past participle of *attrahō* (= *ad* + *trahō*); equivalent to *attract* + *-ion*.
+
+## attractive
+
+- Record: `{prefix:"ad-", stem:"tract", suffix:"-ive", literal:"pull to", definition:"pleasing or interesting to look at or think about"}`
+- Review: Confirmed `ad-` + `tract` + `-ive`.
+- Reference: Wiktionary, [attractive](https://en.wiktionary.org/wiki/attractive#English) — from Late Latin *attractīvus*, equivalent to *attract* + *-ive*.
+- Reference: Wiktionary (Latin), [attraho](https://en.wiktionary.org/wiki/attraho#Latin) — *attrahō* = *ad-* + *trahō* "drag".
+
+## contract
+
+- Record: `{prefix:"con-", stem:"tract", suffix:null, literal:"pull together", definition:"a written agreement that people must follow by law"}`
+- Review: Confirmed `con-` + `tract`; simplified the definition. Literal changed from "pull with" to "pull together", matching *contrahō* "bring together".
+- Reference: Wiktionary, [contract](https://en.wiktionary.org/wiki/contract#English) — from Latin *contractus*, from *contrahere* "to bring together, … to conclude a bargain", from *con-* "with, together" + *trahere* "to draw, to pull".
+
+## contractor
+
+- Record: `{prefix:"con-", stem:"tract", suffix:"-or", literal:"pull together", definition:"a person or company hired to do a job, such as building"}`
+- Review: Confirmed `con-` + `tract` + `-or`; chose the everyday builder sense. Literal changed from "pull with" to "pull together", matching *contrahō* "bring together".
+- Reference: Wiktionary, [contractor](https://en.wiktionary.org/wiki/contractor#English) — from Late Latin *contractor*, from *contract-*, stem of *contractus* + *-tor*.
+- Reference: Wiktionary (Latin), [contraho](https://en.wiktionary.org/wiki/contraho#Latin) — *contrahō* = *con-* + *trahō* "drag".
+
+## distract
+
+- Record: `{prefix:"dis-", stem:"tract", suffix:null, literal:"pull apart", definition:"to pull someone's attention away from something"}`
+- Review: Confirmed `dis-` + `tract`.
+- Reference: Wiktionary, [distract](https://en.wiktionary.org/wiki/distract#English) — from Latin *distractus*, from *distrahō* "to pull apart", from *dis-* + *trahō* "to pull".
+
+## distraction
+
+- Record: `{prefix:"dis-", stem:"tract", suffix:"-ion", literal:"pull apart", definition:"something that takes your attention away from what you are doing"}`
+- Review: Confirmed `dis-` + `tract` + `-ion`; replaced "mental turmoil".
+- Reference: Wiktionary, [distraction](https://en.wiktionary.org/wiki/distraction#English) — from Middle French *distraction*, from Latin *distractio*; equivalent to *distract* + *-ion*.
+- Reference: Wiktionary (Latin), [distraho](https://en.wiktionary.org/wiki/distraho#Latin) — *distrahō* = *dis-* + *trahō* "to drag".
+
+## extract
+
+- Record: `{prefix:"ex-", stem:"tract", suffix:null, literal:"pull out of", definition:"to pull or take something out"}`
+- Review: Confirmed `ex-` + `tract`; replaced the noun "passage" sense with the verb.
+- Reference: Wiktionary, [extract](https://en.wiktionary.org/wiki/extract#English) — from Latin *extractum*, neuter perfect passive participle of *extrahō*, from *ex-* "out of" + *trahō* "to drag".
+
+## tractor
+
+- Record: `{prefix:null, stem:"tract", suffix:"-or", literal:"pull", definition:"a powerful vehicle used for pulling farm machinery"}`
+- Review: Confirmed `tract` + `-or`; replaced the truck-cab gloss with the common farm sense.
+- Reference: Wiktionary, [tractor](https://en.wiktionary.org/wiki/tractor#English) — formed from Latin *tractus*, perfect passive participle of *trahō*, *trahere* "to pull", + agent noun suffix *-or*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -1147,3 +1318,4 @@ Words held back from teaching modes, with the reason.
 - visitor — *visit* + *-or*, from Latin *vīsitō*, frequentative of *vīsō*; same unresolved *vīsō*/*videō* conflict as *advise*; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/visit))
 - interference — not a *ferō* ("carry") word: from *interfere*, from Old French *entreferir*, *entre-* + *ferir* "to hit, to strike", from Latin *feriō*; no `strike` stem exists ([Wiktionary](https://en.wiktionary.org/wiki/interfere))
 - factory — the English entry gives "probably *factor* + *-y*", so the recorded `-ory` suffix is not supported (Latin *factōrium* "oil press" is only a comparison); definition corrected to "a building where goods are made" ([Wiktionary](https://en.wiktionary.org/wiki/factory))
+- tendency — from Medieval Latin *tendentia* (from *tendēns*, *tendō*), but the English ending is *-ency*, and the recorded `-ence` suffix is not supported by the source; definition corrected to "a habit of acting or happening in a particular way" ([Wiktionary](https://en.wiktionary.org/wiki/tendency))
