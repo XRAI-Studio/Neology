@@ -1,0 +1,9 @@
+# Keep the deployed site to the game itself; these are development files.
+.github/
+scripts/
+PLAN.md
+PLAN-REVIEW-LOG.md
+README.md
+assets/fonts/README.md
+data/vocab-audit.md
+package.json
