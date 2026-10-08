@@ -1507,6 +1507,202 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `sens` + `-ence` (Latin *sententia*, from *sentiō*). Chose the grammar sense over the prison-term sense.
 - Reference: Wiktionary, [sentence](https://en.wiktionary.org/wiki/sentence#English) — from Latin *sententia* "way of thinking, opinion, sentiment", from *sentiēns*, present participle of *sentiō* "to feel, think".
 
+## assign
+
+- Record: `{prefix:"ad-", stem:"sign", suffix:null, literal:"mark to", definition:"to give someone a task or a share of something"}`
+- Review: Confirmed `ad-` + `sign`; replaced "give out".
+- Reference: Wiktionary, [assign](https://en.wiktionary.org/wiki/assign#English) — from Old French *assigner*, from Latin *assignō*, from *ad-* + *signō* "mark, sign".
+- Reference: Wiktionary (Latin), [assigno](https://en.wiktionary.org/wiki/assigno#Latin) — *assignō* = *ad-* + *signō* "to mark, designate".
+
+## assignment
+
+- Record: `{prefix:"ad-", stem:"sign", suffix:"-ment", literal:"mark to", definition:"a task that someone is given to do"}`
+- Review: Confirmed as *assign* + *-ment*; chose the everyday homework/task sense.
+- Reference: Wiktionary, [assignment](https://en.wiktionary.org/wiki/assignment#English) — from Old French *assignement*; *assign* + *-ment*.
+
+## design
+
+- Record: `{prefix:"de-", stem:"sign", suffix:null, literal:"mark out", definition:"a plan or drawing that shows how something will look or work"}`
+- Review: Confirmed `de-` + `sign`. Literal changed from "mark down" to "mark out", the source's gloss of *designō*.
+- Reference: Wiktionary, [design](https://en.wiktionary.org/wiki/design#English) — from Latin *designō* "to mark out, point out, describe, design, contrive", from *de-* (or *dis-*) + *signō* "to mark", from *signum* "mark".
+- Reference: Wiktionary (Latin), [designo](https://en.wiktionary.org/wiki/designo#Latin) — *dēsignō* = *dē-* + *signō* "mark".
+
+## designer
+
+- Record: `{prefix:"de-", stem:"sign", suffix:"-er", literal:"mark out", definition:"a person who plans how things will look or work"}`
+- Review: Confirmed as *design* + *-er*. Literal changed from "mark down" to "mark out".
+- Reference: Wiktionary, [designer](https://en.wiktionary.org/wiki/designer#English) — *design* + *-er* (agent noun).
+
+## resign
+
+- Record: `{prefix:"re-", stem:"sign", suffix:null, literal:"unseal", definition:"to give up a job or position"}`
+- Review: Confirmed `re-` + `sign`. Literal changed from "mark back" to "unseal", the source's gloss of Latin *resignāre*.
+- Reference: Wiktionary, [resign](https://en.wiktionary.org/wiki/resign#English) — from Latin *resignāre* "to unseal, annul, assign, resign", from *re-* + *signāre* "to seal, stamp".
+- Reference: Wiktionary (Latin), [resigno](https://en.wiktionary.org/wiki/resigno#Latin) — *resignō* = *re-* + *signō* "mark": "to resign, give up; to unseal, open".
+
+## resignation
+
+- Record: `{prefix:"re-", stem:"sign", suffix:"-ion", literal:"unseal", definition:"the act of giving up a job or position"}`
+- Review: Confirmed as *resign* + *-ation*. Literal changed from "mark back" to "unseal"; replaced "acceptance of despair".
+- Reference: Wiktionary, [resignation](https://en.wiktionary.org/wiki/resignation#English) — from Medieval Latin *resignātiōnem*, accusative of *resignātio*; *resign* + *-ation*.
+
+## signal
+
+- Record: `{prefix:null, stem:"sign", suffix:"-al", literal:"mark", definition:"a sound, light, or movement that gives a message or warning"}`
+- Review: Confirmed `sign` + `-al`; replaced "any incitement to action".
+- Reference: Wiktionary, [signal](https://en.wiktionary.org/wiki/signal#English) — from Medieval Latin *signāle*, noun use of the neuter of Late Latin *signālis*, from Latin *signum*.
+
+## signature
+
+- Record: `{prefix:null, stem:"sign", suffix:"-ure", literal:"mark", definition:"your name written in your own special way"}`
+- Review: Confirmed `sign` + `-ure` (Latin *-tūra*); replaced "a distinguishing style".
+- Reference: Wiktionary, [signature](https://en.wiktionary.org/wiki/signature#English) — from Medieval Latin *signātūra*, … of verb *signāre* from *signum* "sign", + *-tūra*.
+
+## assist
+
+- Record: `{prefix:"ad-", stem:"sist", suffix:null, literal:"stand at", definition:"to help someone"}`
+- Review: Confirmed `ad-` + `sist`. Literal changed from "stand to" to "stand at", the source's gloss of *assistō*.
+- Reference: Wiktionary, [assist](https://en.wiktionary.org/wiki/assist#English) — from Old French *assister* "to assist, to attend", from Latin *assistō* "stand at".
+- Reference: Wiktionary (Latin), [assisto](https://en.wiktionary.org/wiki/assisto#Latin) — *assistō* = *ad-* "to, towards, at" + *sistō* "stand, be placed".
+
+## assistance
+
+- Record: `{prefix:"ad-", stem:"sist", suffix:"-ance", literal:"stand at", definition:"help given to someone"}`
+- Review: Confirmed `ad-` + `sist` + `-ance`. Literal changed to "stand at"; replaced "a resource".
+- Reference: Wiktionary, [assistance](https://en.wiktionary.org/wiki/assistance#English) — from Medieval Latin *assistentia*, from Latin *assistō* "to stand at"; *assist* + *-ance*.
+
+## assistant
+
+- Record: `{prefix:"ad-", stem:"sist", suffix:"-ant", literal:"stand at", definition:"a person whose job is to help someone else"}`
+- Review: Confirmed as *assist* + *-ant*. Literal changed to "stand at"; replaced the adjective gloss.
+- Reference: Wiktionary, [assistant](https://en.wiktionary.org/wiki/assistant#English) — from Middle French *assistant*, from *assister*; *assist* + *-ant*.
+
+## consistent
+
+- Record: `{prefix:"con-", stem:"sist", suffix:"-ent", literal:"stand with", definition:"always behaving or happening in the same way"}`
+- Review: Confirmed `con-` + `sist` + `-ent`; replaced "capable of being reproduced".
+- Reference: Wiktionary, [consistent](https://en.wiktionary.org/wiki/consistent#English) — from Latin *cōnsistēns*, present participle of *cōnsistō* "to agree with; to continue", from *con-* + *sistō*.
+- Reference: Wiktionary (Latin), [consisto](https://en.wiktionary.org/wiki/consisto#Latin) — *cōnsistō* = *con-* + *sistō* "to cause to stand; to stand".
+
+## insist
+
+- Record: `{prefix:"in-", stem:"sist", suffix:null, literal:"stand on", definition:"to say firmly that something must happen or is true"}`
+- Review: Confirmed `in-` + `sist`. Literal changed from "stand into" to "stand on", the Latin sense of *īnsistō*.
+- Reference: Wiktionary, [insist](https://en.wiktionary.org/wiki/insist#English) — partly from Middle French *insister*, from Latin *īnsistō*; partly a back-formation from *insistence*.
+- Reference: Wiktionary (Latin), [insisto](https://en.wiktionary.org/wiki/insisto#Latin) — *īnsistō* = *in-* + *sistō* "stand, set, place": "to set foot, stand, tread or press on or upon".
+
+## persistent
+
+- Record: `{prefix:"per-", stem:"sist", suffix:"-ent", literal:"stand through", definition:"continuing to try even when something is difficult"}`
+- Review: Confirmed `per-` + `sist` + `-ent`; replaced "retained".
+- Reference: Wiktionary, [persistent](https://en.wiktionary.org/wiki/persistent#English) — from Latin *persistēns*, present participle of *persistō* "continue steadfastly"; *persist* + *-ent*.
+- Reference: Wiktionary (Latin), [persisto](https://en.wiktionary.org/wiki/persisto#Latin) — *persistō* = *per-* + *sistō*.
+
+## resist
+
+- Record: `{prefix:"re-", stem:"sist", suffix:null, literal:"stand back", definition:"to fight against something or refuse to accept it"}`
+- Review: Confirmed `re-` + `sist`; replaced "elude, especially in a baffling way".
+- Reference: Wiktionary, [resist](https://en.wiktionary.org/wiki/resist#English) — from Latin *resisto*, from *re-* + *sisto* "cause to stand".
+
+## resistance
+
+- Record: `{prefix:"re-", stem:"sist", suffix:"-ance", literal:"stand back", definition:"the act of fighting against something or refusing to accept it"}`
+- Review: Confirmed `re-` + `sist` + `-ance`; replaced the electrical-only gloss.
+- Reference: Wiktionary, [resistance](https://en.wiktionary.org/wiki/resistance#English) — from Old French *resistence*, from Latin *resistentia*; morphologically *resist* + *-ance*.
+- Reference: Wiktionary (Latin), [resisto](https://en.wiktionary.org/wiki/resisto#Latin) — *resistō* = *re-* "back, again" + *sistō* "to stop; to stand".
+
+## despicable
+
+- Record: `{prefix:"de-", stem:"spec", suffix:"-able", literal:"look down", definition:"very unpleasant or bad, deserving to be looked down on"}`
+- Review: Confirmed `de-` + `spec` + `-able` (Latin *-ābilis*).
+- Reference: Wiktionary, [despicable](https://en.wiktionary.org/wiki/despicable#English) — from Late Latin *dēspicābilis*, from *dēspicor*, a variant of *dēspiciō* "to despise", from *de* "down" + *speciō* "to look at, behold".
+
+## inspect
+
+- Record: `{prefix:"in-", stem:"spec", suffix:null, literal:"look into", definition:"to look at something closely to check it"}`
+- Review: Confirmed `in-` + `spec`.
+- Reference: Wiktionary, [inspect](https://en.wiktionary.org/wiki/inspect#English) — from Latin *inspectum*, past participle of *inspicere* "to look into", from *in* "in" + *specere* "to look at".
+
+## inspection
+
+- Record: `{prefix:"in-", stem:"spec", suffix:"-ion", literal:"look into", definition:"a careful look to check something"}`
+- Review: Confirmed `in-` + `spec` + `-ion`.
+- Reference: Wiktionary, [inspection](https://en.wiktionary.org/wiki/inspection#English) — from Latin *īnspectiō* "examination, inspection", from *īnspiciō* "to inspect", from *speciō* "to look at".
+
+## inspector
+
+- Record: `{prefix:"in-", stem:"spec", suffix:"-or", literal:"look into", definition:"a person whose job is to check that things are done correctly"}`
+- Review: Confirmed `in-` + `spec` + `-or`; replaced the police-rank gloss.
+- Reference: Wiktionary, [inspector](https://en.wiktionary.org/wiki/inspector#English) — from Latin *īnspector*, from *īnspiciō*; *inspect* + *-or*.
+- Reference: Wiktionary (Latin), [inspicio](https://en.wiktionary.org/wiki/inspicio#Latin) — *īnspiciō* = *in-* + *speciō*.
+
+## perspective
+
+- Record: `{prefix:"per-", stem:"spec", suffix:"-ive", literal:"look through", definition:"a particular way of thinking about something; a point of view"}`
+- Review: Confirmed `per-` + `spec` + `-ive`.
+- Reference: Wiktionary, [perspective](https://en.wiktionary.org/wiki/perspective#English) — from Latin *perspectivus* "of sight, optical", from *perspectus*, the past participle of *perspicere* "to inspect, look through", from *per-* "through" + *specere* "to look at".
+
+## prospect
+
+- Record: `{prefix:"pro-", stem:"spec", suffix:null, literal:"look forward", definition:"the chance that something will happen in the future"}`
+- Review: Confirmed `pro-` + `spec`.
+- Reference: Wiktionary, [prospect](https://en.wiktionary.org/wiki/prospect#English) — from Latin *prōspectus* "view, sight, prospect", from *prōspiciō* "to look forward", from *pro* "before, forward" + *speciō* "to look, to see".
+
+## respect
+
+- Record: `{prefix:"re-", stem:"spec", suffix:null, literal:"look back", definition:"admiration for someone, or care for their feelings and rights"}`
+- Review: Confirmed `re-` + `spec`.
+- Reference: Wiktionary, [respect](https://en.wiktionary.org/wiki/respect#English) — from Latin *respectus* "a looking at, regard, respect", perfect passive participle of *respiciō* "look at, look back upon, respect", from *re-* "back" + *speciō* "to see".
+
+## respectable
+
+- Record: `{prefix:"re-", stem:"spec", suffix:"-able", literal:"look back", definition:"behaving in a way that people think is good and proper"}`
+- Review: Confirmed as *respect* + *-able*.
+- Reference: Wiktionary, [respectable](https://en.wiktionary.org/wiki/respectable#English) — *respect* (verb) + *-able*.
+
+## cooperate
+
+- Record: `{prefix:"con-", stem:"oper", suffix:"-ate", literal:"work with", definition:"to work together with others"}`
+- Review: Confirmed `con-` + `oper` + `-ate` (Latin *co-* is a form of *con-*).
+- Reference: Wiktionary, [cooperate](https://en.wiktionary.org/wiki/cooperate#English) — from Late Latin *cooperātus*, perfect passive participle of *cooperor* "to work with".
+- Reference: Wiktionary (Latin), [cooperor](https://en.wiktionary.org/wiki/cooperor#Latin) — *cooperor* = *con-* + *operor*.
+
+## cooperation
+
+- Record: `{prefix:"con-", stem:"oper", suffix:"-ion", literal:"work with", definition:"the act of working together with others"}`
+- Review: Confirmed `con-` + `oper` + `-ion`.
+- Reference: Wiktionary, [cooperation](https://en.wiktionary.org/wiki/cooperation#English) — from French *coopération*, from Late Latin *cooperātiō*; *cooperate* + *-ion*.
+
+## cooperative
+
+- Record: `{prefix:"con-", stem:"oper", suffix:"-ive", literal:"work with", definition:"willing to work together and help"}`
+- Review: Confirmed as *co-* + *operative*.
+- Reference: Wiktionary, [cooperative](https://en.wiktionary.org/wiki/cooperative#English) — *co-* + *operative*.
+
+## operate
+
+- Record: `{prefix:null, stem:"oper", suffix:"-ate", literal:"work", definition:"to make a machine work, or to do surgery"}`
+- Review: Confirmed `oper` + `-ate`.
+- Reference: Wiktionary, [operate](https://en.wiktionary.org/wiki/operate#English) — from Latin *operātus*, perfect passive participle of *operor* "to work, labor, toil, have effect".
+
+## operation
+
+- Record: `{prefix:null, stem:"oper", suffix:"-ion", literal:"work", definition:"an activity done to achieve something, or a medical surgery"}`
+- Review: Confirmed `oper` + `-ion`.
+- Reference: Wiktionary, [operation](https://en.wiktionary.org/wiki/operation#English) — from Latin *operātiō*, from the verb *operor* "to work", from *opus*, *operis* "work".
+
+## operative
+
+- Record: `{prefix:null, stem:"oper", suffix:"-ive", literal:"work", definition:"working or in effect"}`
+- Review: Confirmed `oper` + `-ive`.
+- Reference: Wiktionary, [operative](https://en.wiktionary.org/wiki/operative#English) — from Middle French *operatif* or its etymon Latin *operātīvus*; *operate* + *-ive*.
+
+## operator
+
+- Record: `{prefix:null, stem:"oper", suffix:"-or", literal:"work", definition:"a person who runs a machine or a phone system"}`
+- Review: Confirmed `oper` + `-or`.
+- Reference: Wiktionary, [operator](https://en.wiktionary.org/wiki/operator#English) — from Latin *operātor*, from *operor* "work, labour"; *operate* + *-or*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.

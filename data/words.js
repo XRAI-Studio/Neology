@@ -917,7 +917,7 @@ window.WF.SUFFIXES = [
   ]
 ];
 window.WF.FAMILY_NOTES = {
-  "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand to,' and attention means 'stretch to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
+  "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand at,' and attention means 'stretch to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
   "con-": "The “con- family” is about doing things TOGETHER. Comfort = “strong with” (lending someone your strength), command = “hand with” (taking things in hand), confuse = “pour together” (a murky mixed-up drink), and conclude = “close with” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
   "de-": "The “de- family” points DOWN and AWAY. Depend = “hang down from” (like dangling from a rope you trust!), describe = “write down,” and depart = “share away” — splitting off from the group. When you see de-, picture something dropping or leaving.",
   "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (from Latin emovere, “stir up”), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
@@ -1171,8 +1171,8 @@ window.WF.WORDS = [
     "sign",
     null,
     "mark to",
-    "give out",
-    false
+    "to give someone a task or a share of something",
+    true
   ],
   [
     "assignment",
@@ -1180,35 +1180,35 @@ window.WF.WORDS = [
     "sign",
     "-ment",
     "mark to",
-    "the act of distributing something to designated places or persons",
-    false
+    "a task that someone is given to do",
+    true
   ],
   [
     "assist",
     "ad-",
     "sist",
     null,
-    "stand to",
-    "give help or assistance",
-    false
+    "stand at",
+    "to help someone",
+    true
   ],
   [
     "assistance",
     "ad-",
     "sist",
     "-ance",
-    "stand to",
-    "a resource",
-    false
+    "stand at",
+    "help given to someone",
+    true
   ],
   [
     "assistant",
     "ad-",
     "sist",
     "-ant",
-    "stand to",
-    "of or relating to a person who is subordinate to another",
-    false
+    "stand at",
+    "a person whose job is to help someone else",
+    true
   ],
   [
     "attend",
@@ -1675,8 +1675,8 @@ window.WF.WORDS = [
     "sist",
     "-ent",
     "stand with",
-    "capable of being reproduced",
-    false
+    "always behaving or happening in the same way",
+    true
   ],
   [
     "constant",
@@ -1855,8 +1855,8 @@ window.WF.WORDS = [
     "oper",
     "-ate",
     "work with",
-    "work together on a common enterprise of project",
-    false
+    "to work together with others",
+    true
   ],
   [
     "cooperation",
@@ -1864,8 +1864,8 @@ window.WF.WORDS = [
     "oper",
     "-ion",
     "work with",
-    "joint operation or action",
-    false
+    "the act of working together with others",
+    true
   ],
   [
     "cooperative",
@@ -1873,8 +1873,8 @@ window.WF.WORDS = [
     "oper",
     "-ive",
     "work with",
-    "involving the joint activity of two or more",
-    false
+    "willing to work together and help",
+    true
   ],
   [
     "corporal",
@@ -2133,18 +2133,18 @@ window.WF.WORDS = [
     "de-",
     "sign",
     null,
-    "mark down",
-    "an arrangement scheme",
-    false
+    "mark out",
+    "a plan or drawing that shows how something will look or work",
+    true
   ],
   [
     "designer",
     "de-",
     "sign",
     "-er",
-    "mark down",
-    "someone who specializes in graphic design",
-    false
+    "mark out",
+    "a person who plans how things will look or work",
+    true
   ],
   [
     "despicable",
@@ -2152,8 +2152,8 @@ window.WF.WORDS = [
     "spec",
     "-able",
     "look down",
-    "morally reprehensible",
-    false
+    "very unpleasant or bad, deserving to be looked down on",
+    true
   ],
   [
     "destruction",
@@ -3123,9 +3123,9 @@ window.WF.WORDS = [
     "in-",
     "sist",
     null,
-    "stand into",
-    "assert to be true",
-    false
+    "stand on",
+    "to say firmly that something must happen or is true",
+    true
   ],
   [
     "inspect",
@@ -3133,8 +3133,8 @@ window.WF.WORDS = [
     "spec",
     null,
     "look into",
-    "look over carefully",
-    false
+    "to look at something closely to check it",
+    true
   ],
   [
     "inspection",
@@ -3142,8 +3142,8 @@ window.WF.WORDS = [
     "spec",
     "-ion",
     "look into",
-    "a formal or official examination",
-    false
+    "a careful look to check something",
+    true
   ],
   [
     "inspector",
@@ -3151,8 +3151,8 @@ window.WF.WORDS = [
     "spec",
     "-or",
     "look into",
-    "a high ranking police officer",
-    false
+    "a person whose job is to check that things are done correctly",
+    true
   ],
   [
     "inspiration",
@@ -3727,8 +3727,8 @@ window.WF.WORDS = [
     "oper",
     "-ate",
     "work",
-    "direct or control",
-    false
+    "to make a machine work, or to do surgery",
+    true
   ],
   [
     "operation",
@@ -3736,8 +3736,8 @@ window.WF.WORDS = [
     "oper",
     "-ion",
     "work",
-    "a business especially one run on a large scale",
-    false
+    "an activity done to achieve something, or a medical surgery",
+    true
   ],
   [
     "operative",
@@ -3745,8 +3745,8 @@ window.WF.WORDS = [
     "oper",
     "-ive",
     "work",
-    "being in force or having or exerting force",
-    false
+    "working or in effect",
+    true
   ],
   [
     "operator",
@@ -3754,8 +3754,8 @@ window.WF.WORDS = [
     "oper",
     "-or",
     "work",
-    "someone who owns or operates a business",
-    false
+    "a person who runs a machine or a phone system",
+    true
   ],
   [
     "opponent",
@@ -3916,8 +3916,8 @@ window.WF.WORDS = [
     "sist",
     "-ent",
     "stand through",
-    "retained",
-    false
+    "continuing to try even when something is difficult",
+    true
   ],
   [
     "perspective",
@@ -3925,8 +3925,8 @@ window.WF.WORDS = [
     "spec",
     "-ive",
     "look through",
-    "a way of regarding situations or topics etc.",
-    false
+    "a particular way of thinking about something; a point of view",
+    true
   ],
   [
     "pervert",
@@ -4303,8 +4303,8 @@ window.WF.WORDS = [
     "spec",
     null,
     "look forward",
-    "the possibility of future success",
-    false
+    "the chance that something will happen in the future",
+    true
   ],
   [
     "provide",
@@ -4644,18 +4644,18 @@ window.WF.WORDS = [
     "re-",
     "sign",
     null,
-    "mark back",
-    "part with a possession or right",
-    false
+    "unseal",
+    "to give up a job or position",
+    true
   ],
   [
     "resignation",
     "re-",
     "sign",
     "-ion",
-    "mark back",
-    "acceptance of despair",
-    false
+    "unseal",
+    "the act of giving up a job or position",
+    true
   ],
   [
     "resist",
@@ -4663,8 +4663,8 @@ window.WF.WORDS = [
     "sist",
     null,
     "stand back",
-    "elude, especially in a baffling way",
-    false
+    "to fight against something or refuse to accept it",
+    true
   ],
   [
     "resistance",
@@ -4672,8 +4672,8 @@ window.WF.WORDS = [
     "sist",
     "-ance",
     "stand back",
-    "a material's opposition to the flow of electric current",
-    false
+    "the act of fighting against something or refusing to accept it",
+    true
   ],
   [
     "resolution",
@@ -4699,8 +4699,8 @@ window.WF.WORDS = [
     "spec",
     null,
     "look back",
-    "an attitude of admiration or esteem",
-    false
+    "admiration for someone, or care for their feelings and rights",
+    true
   ],
   [
     "respectable",
@@ -4708,8 +4708,8 @@ window.WF.WORDS = [
     "spec",
     "-able",
     "look back",
-    "deserving of esteem and respect",
-    false
+    "behaving in a way that people think is good and proper",
+    true
   ],
   [
     "reverse",
@@ -4924,8 +4924,8 @@ window.WF.WORDS = [
     "sign",
     "-al",
     "mark",
-    "any incitement to action",
-    false
+    "a sound, light, or movement that gives a message or warning",
+    true
   ],
   [
     "signature",
@@ -4933,8 +4933,8 @@ window.WF.WORDS = [
     "sign",
     "-ure",
     "mark",
-    "a distinguishing style",
-    false
+    "your name written in your own special way",
+    true
   ],
   [
     "solitude",

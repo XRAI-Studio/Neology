@@ -57,8 +57,8 @@ window.WF.FACTS = {
   "attract": "🧲 Attract = “pull toward” — attractive things have a kind of gravity that pulls attention in!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/attention#English (verified 2026-10-07)
   "attention": "🧠 Attention = “stretch to” — from Latin attendere, “to give heed to,” built from ad- (to) and tendere (to stretch).",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "assist": "🤝 Assist = “stand to” — helping began as standing beside someone in battle!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/assist#English (verified 2026-10-07)
+  "assist": "🤝 Assist = “stand at” — from Latin assistere, “to stand at or by,” built from ad- (to, at) and sistere (to stand).",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "sequence": "👣 A sequence is literally “a following” — one thing walking behind another in a line!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
@@ -135,7 +135,7 @@ window.WF.FACTS = {
   "depression": " Depression comes from Latin depressio, a pressing down.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/describe (checked 2026-07-20)
   "describe": " Describe comes from Latin describere, write down or copy out.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/design (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/design#English (verified 2026-10-07)
   "design": " Design comes from Latin designare, mark out or designate.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/destruction (checked 2026-07-20)
   "destruction": " Destruction comes from Latin destruere, tear down, the opposite direction of construction.",
@@ -173,7 +173,7 @@ window.WF.FACTS = {
   "inform": " Inform comes from Latin informare, give form to or shape.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/inject#English (verified 2026-10-07)
   "inject": " Inject comes from Latin inicere, throw in.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/insist (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/insist#English (verified 2026-10-07)
   "insist": " Insist comes from Latin insistere, stand upon or persist.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/instruct (checked 2026-07-20)
   "instruction": "Instruction comes from Latin instruere, 'arrange, equip, or build up.'",
@@ -201,7 +201,7 @@ window.WF.FACTS = {
   "proposal": " Proposal belongs to the Latin ponere family, put or place, so it puts an idea forward.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/prosecution (checked 2026-07-20)
   "prosecution": " Prosecution comes from Latin prosequi, follow after or pursue.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/prospect (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/prospect#English (verified 2026-10-07)
   "prospect": " Prospect comes from Latin prospectus, look forward or view ahead.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/provide#English (verified 2026-10-07)
   "provide": " Provide comes from Latin providere, foresee and prepare ahead.",
