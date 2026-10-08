@@ -1089,9 +1089,9 @@ window.WF.WORDS = [
     "ad-",
     "firm",
     "-ive",
-    "strong to",
-    "expecting the best",
-    false
+    "make firm",
+    "saying or showing that something is true; saying yes",
+    true
   ],
   [
     "aggression",
@@ -1099,8 +1099,8 @@ window.WF.WORDS = [
     "grad",
     "-ion",
     "step to",
-    "a disposition to behave aggressively",
-    false
+    "angry or violent behavior toward others",
+    true
   ],
   [
     "aggressive",
@@ -1108,8 +1108,8 @@ window.WF.WORDS = [
     "grad",
     "-ive",
     "step to",
-    "tending to spread quickly",
-    false
+    "ready or likely to attack or argue",
+    true
   ],
   [
     "application",
@@ -1441,8 +1441,8 @@ window.WF.WORDS = [
     "part",
     "-ment",
     "share with",
-    "a space into which an area is subdivided",
-    false
+    "a separate section inside a container or space",
+    true
   ],
   [
     "compensate",
@@ -1494,9 +1494,9 @@ window.WF.WORDS = [
     "con-",
     "cern",
     null,
-    "separate with",
-    "an anxious feeling",
-    false
+    "sift together",
+    "a feeling of worry, or something that matters to you",
+    true
   ],
   [
     "conclude",
@@ -1504,8 +1504,8 @@ window.WF.WORDS = [
     "clud",
     null,
     "close with",
-    "bring to a close",
-    false
+    "to bring something to an end, or to decide after thinking",
+    true
   ],
   [
     "conclusion",
@@ -1513,8 +1513,8 @@ window.WF.WORDS = [
     "clud",
     "-ion",
     "close with",
-    "the temporal end",
-    false
+    "the end of something, or a decision reached by thinking",
+    true
   ],
   [
     "conduct",
@@ -1566,36 +1566,36 @@ window.WF.WORDS = [
     "con-",
     "firm",
     null,
-    "strong with",
-    "make more firm",
-    false
+    "make firm",
+    "to show or say that something is definitely true",
+    true
   ],
   [
     "confirmation",
     "con-",
     "firm",
     "-ion",
-    "strong with",
-    "information that confirms or verifies",
-    false
+    "make firm",
+    "proof or a statement that something is true",
+    true
   ],
   [
     "confuse",
     "con-",
     "fus",
     null,
-    "pour with",
-    "cause to feel embarrassment",
-    false
+    "pour together",
+    "to make someone unsure or unable to understand",
+    true
   ],
   [
     "confusion",
     "con-",
     "fus",
     "-ion",
-    "pour with",
-    "a feeling of embarrassment that leaves you confused",
-    false
+    "pour together",
+    "the state of being unsure or not understanding",
+    true
   ],
   [
     "congregation",
@@ -1611,9 +1611,9 @@ window.WF.WORDS = [
     "con-",
     "grad",
     null,
-    "step with",
-    "a national legislative assembly",
-    false
+    "step together",
+    "a group of people chosen to make a country's laws",
+    true
   ],
   [
     "conquest",
@@ -1809,18 +1809,18 @@ window.WF.WORDS = [
     "con-",
     "vert",
     "-ion",
-    "turn with",
-    "the use of speech for informal exchange of views or ideas or information etc.",
-    false
+    "keep company with",
+    "a talk between two or more people",
+    true
   ],
   [
     "convert",
     "con-",
     "vert",
     null,
-    "turn with",
-    "change the nature, purpose, or function of something",
-    false
+    "turn around",
+    "to change something into a different form or use",
+    true
   ],
   [
     "convict",
@@ -1908,18 +1908,18 @@ window.WF.WORDS = [
     "con-",
     "rect",
     null,
-    "straight with",
-    "censure severely",
-    false
+    "make straight",
+    "right, with no mistakes",
+    true
   ],
   [
     "correction",
     "con-",
     "rect",
     "-ion",
-    "straight with",
-    "something substituted for an error",
-    false
+    "make straight",
+    "a change that fixes a mistake",
+    true
   ],
   [
     "corrupt",
@@ -2043,27 +2043,27 @@ window.WF.WORDS = [
     "de-",
     "part",
     null,
-    "share down",
-    "leave",
-    false
+    "share away",
+    "to leave",
+    true
   ],
   [
     "department",
     "de-",
     "part",
     "-ment",
-    "share down",
-    "a specialized sphere of knowledge",
-    false
+    "share away",
+    "a section of a large organization, store, or school",
+    true
   ],
   [
     "departure",
     "de-",
     "part",
     "-ure",
-    "share down",
-    "the act of departing",
-    false
+    "share away",
+    "the act of leaving",
+    true
   ],
   [
     "depend",
@@ -2215,8 +2215,8 @@ window.WF.WORDS = [
     "cern",
     "-ion",
     "separate apart",
-    "refined taste",
-    false
+    "the freedom to decide what to do; also, care in keeping things private",
+    true
   ],
   [
     "dismiss",
@@ -2565,9 +2565,9 @@ window.WF.WORDS = [
     "ex-",
     "clud",
     "-ive",
-    "close out of",
-    "excluding much or all",
-    false
+    "shut out",
+    "limited to certain people only",
+    true
   ],
   [
     "expedition",
@@ -2791,8 +2791,8 @@ window.WF.WORDS = [
     "fus",
     "-ion",
     "pour",
-    "the state of being combined into one body",
-    false
+    "the joining of two or more things into one",
+    true
   ],
   [
     "general",
@@ -2979,9 +2979,9 @@ window.WF.WORDS = [
     "in-",
     "clud",
     null,
-    "close into",
-    "consider as part of something",
-    false
+    "shut in",
+    "to make something part of a group",
+    true
   ],
   [
     "incredible",
@@ -3024,9 +3024,9 @@ window.WF.WORDS = [
     "in-",
     "firm",
     "-ary",
-    "strong into",
-    "a health facility where patients receive treatment",
-    false
+    "not strong",
+    "a place where sick or injured people are cared for, such as in a school",
+    true
   ],
   [
     "influence",
@@ -4213,8 +4213,8 @@ window.WF.WORDS = [
     "grad",
     null,
     "step forward",
-    "a movement forward",
-    false
+    "movement forward, or improvement over time",
+    true
   ],
   [
     "project",
@@ -4482,18 +4482,18 @@ window.WF.WORDS = [
     null,
     "rect",
     "-ent",
-    "straight",
-    "members of a governing board",
-    false
+    "rule",
+    "a person who rules in place of a king or queen who cannot",
+    true
   ],
   [
     "region",
     null,
     "rect",
     "-ion",
-    "straight",
-    "the extended spatial location of something",
-    false
+    "direction",
+    "an area of land or of the world",
+    true
   ],
   [
     "reject",
@@ -4717,8 +4717,8 @@ window.WF.WORDS = [
     "vert",
     null,
     "turn back",
-    "a relation of direct opposition",
-    false
+    "to go or turn backward; also, the opposite",
+    true
   ],
   [
     "revive",
@@ -4761,18 +4761,18 @@ window.WF.WORDS = [
     "se-",
     "cern",
     null,
-    "separate apart",
-    "information known only to a special group",
-    false
+    "set apart",
+    "something kept hidden from others",
+    true
   ],
   [
     "secretary",
     "se-",
     "cern",
     "-ary",
-    "separate apart",
-    "a person to whom a secret is entrusted",
-    false
+    "set apart",
+    "a person whose job is to handle letters, records, and appointments",
+    true
   ],
   [
     "section",

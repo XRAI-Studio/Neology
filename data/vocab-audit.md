@@ -2080,6 +2080,205 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Reference: Wiktionary, [generous](https://en.wiktionary.org/wiki/generous#English) — from Middle French *genereux*, and its source, Latin *generōsus* "of noble birth", from *genus* "race, stock".
 - Reference: Wiktionary (Latin), [generosus](https://en.wiktionary.org/wiki/generosus#Latin) — *generōsus* = *genus* "birth, origin" + *-ōsus*.
 
+## affirmative
+
+- Record: `{prefix:"ad-", stem:"firm", suffix:"-ive", literal:"make firm", definition:"saying or showing that something is true; saying yes"}`
+- Review: Confirmed `ad-` + `firm` + `-ive` (Latin *affirmō* "strengthen"). Literal changed from "strong to" to "make firm"; replaced "expecting the best".
+- Reference: Wiktionary, [affirmative](https://en.wiktionary.org/wiki/affirmative#English) — from Latin *affirmativus*, from *affirmare* "to assert".
+- Reference: Wiktionary (Latin), [affirmo](https://en.wiktionary.org/wiki/affirmo#Latin) — *affirmō* = *ad-* "to, towards, at" + *firmō* "strengthen, fortify".
+
+## confirm
+
+- Record: `{prefix:"con-", stem:"firm", suffix:null, literal:"make firm", definition:"to show or say that something is definitely true"}`
+- Review: Confirmed `con-` + `firm`. Literal changed from "strong with" to "make firm", the source's gloss of *cōnfirmāre*.
+- Reference: Wiktionary, [confirm](https://en.wiktionary.org/wiki/confirm#English) — from Latin *cōnfirmāre* "to make firm, strengthen, establish", from *con-* "together" + *firmāre* "to make firm", from *firmus* "firm".
+
+## confirmation
+
+- Record: `{prefix:"con-", stem:"firm", suffix:"-ion", literal:"make firm", definition:"proof or a statement that something is true"}`
+- Review: Confirmed `con-` + `firm` + `-ion`. Literal changed to "make firm".
+- Reference: Wiktionary, [confirmation](https://en.wiktionary.org/wiki/confirmation#English) — from Latin *cōnfirmātiō*, noun of process from *cōnfirmātus* "confirmed", perfect passive participle of *cōnfirmāre*.
+
+## infirmary
+
+- Record: `{prefix:"in-", stem:"firm", suffix:"-ary", literal:"not strong", definition:"a place where sick or injured people are cared for, such as in a school"}`
+- Review: Confirmed `in-` (not) + `firm` + `-ary` via Latin *infirmus* "weak". Literal changed from "strong into" to "not strong".
+- Reference: Wiktionary, [infirmary](https://en.wiktionary.org/wiki/infirmary#English) — from Medieval Latin *infirmaria*, from Latin *infirmus*.
+- Reference: Wiktionary (Latin), [infirmus](https://en.wiktionary.org/wiki/infirmus#Latin) — *infirmus* = *in-* "not" + *firmus* "strong, firm"; "weak, feeble".
+
+## aggression
+
+- Record: `{prefix:"ad-", stem:"grad", suffix:"-ion", literal:"step to", definition:"angry or violent behavior toward others"}`
+- Review: Confirmed `ad-` + `grad` + `-ion`.
+- Reference: Wiktionary, [aggression](https://en.wiktionary.org/wiki/aggression#English) — from Latin *aggressio*, from *aggressus*, past participle of *aggredior* "to approach, address, attack".
+- Reference: Wiktionary (Latin), [aggredior](https://en.wiktionary.org/wiki/aggredior#Latin) — *aggredior* = *ad-* "to" + *gradior* "step, walk".
+
+## aggressive
+
+- Record: `{prefix:"ad-", stem:"grad", suffix:"-ive", literal:"step to", definition:"ready or likely to attack or argue"}`
+- Review: Confirmed as *aggress* + *-ive*; replaced "tending to spread quickly".
+- Reference: Wiktionary, [aggressive](https://en.wiktionary.org/wiki/aggressive#English) — *aggress* + *-ive*.
+- Reference: Wiktionary (Latin), [aggredior](https://en.wiktionary.org/wiki/aggredior#Latin) — *aggredior* = *ad-* "to" + *gradior* "step, walk".
+
+## congress
+
+- Record: `{prefix:"con-", stem:"grad", suffix:null, literal:"step together", definition:"a group of people chosen to make a country's laws"}`
+- Review: Confirmed `con-` + `grad`. Literal changed from "step with" to "step together", matching *congredior* "to go, come together".
+- Reference: Wiktionary, [congress](https://en.wiktionary.org/wiki/congress#English) — from Latin *congressum*, the past participle of *congredior* "to go, come together", itself from *con-* + *gradior* "to go, step".
+
+## progress
+
+- Record: `{prefix:"pro-", stem:"grad", suffix:null, literal:"step forward", definition:"movement forward, or improvement over time"}`
+- Review: Confirmed `pro-` + `grad`.
+- Reference: Wiktionary, [progress](https://en.wiktionary.org/wiki/progress#English) — from Latin *prōgressus* "an advance", from the participle stem of *prōgredī* "to go forward, advance, develop", from *pro-* + *gradior*.
+
+## compartment
+
+- Record: `{prefix:"con-", stem:"part", suffix:"-ment", literal:"share with", definition:"a separate section inside a container or space"}`
+- Review: Confirmed `con-` + `part` + `-ment` (Late Latin *compartior* "to share with").
+- Reference: Wiktionary, [compartment](https://en.wiktionary.org/wiki/compartment#English) — from Middle French *compartiment*, from Italian *compartimento*, from Late Latin *compartior*, *compartiri* "to divide with, to share with".
+- Reference: Wiktionary (Latin), [compartior](https://en.wiktionary.org/wiki/compartior#Latin) — *compartior* = *con-* + *partior*: "to share (divide with another)".
+
+## depart
+
+- Record: `{prefix:"de-", stem:"part", suffix:null, literal:"share away", definition:"to leave"}`
+- Review: Confirmed `de-` + `part` (Late Latin *dēpartiō* "to divide"). Literal changed from "share down" to "share away", matching the source's gloss of *dē-* ("away from") and the `de-` family note.
+- Reference: Wiktionary, [depart](https://en.wiktionary.org/wiki/depart#English) — from Old French *departir*, from Late Latin *departiō* "to divide", from *dē* "away from" + *partiō* "part, divide".
+
+## department
+
+- Record: `{prefix:"de-", stem:"part", suffix:"-ment", literal:"share away", definition:"a section of a large organization, store, or school"}`
+- Review: Confirmed `de-` + `part` + `-ment` via French *département*. Literal changed to "share away".
+- Reference: Wiktionary, [department](https://en.wiktionary.org/wiki/department#English) — from Middle French *département*; later senses from Modern French *département*.
+- Reference: Wiktionary (Latin), [departio](https://en.wiktionary.org/wiki/departio#Latin) — *dēpartiō* = *dē-* "away from" + *partiō* "part, divide".
+
+## departure
+
+- Record: `{prefix:"de-", stem:"part", suffix:"-ure", literal:"share away", definition:"the act of leaving"}`
+- Review: Confirmed as *depart* + *-ure*. Literal changed to "share away".
+- Reference: Wiktionary, [departure](https://en.wiktionary.org/wiki/departure#English) — from Old French *deporteure* "departure"; *depart* + *-ure*.
+
+## concern
+
+- Record: `{prefix:"con-", stem:"cern", suffix:null, literal:"sift together", definition:"a feeling of worry, or something that matters to you"}`
+- Review: Confirmed `con-` + `cern`. Literal changed from "separate with" to "sift together", the source's gloss of Latin *concernō*.
+- Reference: Wiktionary, [concern](https://en.wiktionary.org/wiki/concern#English) — from Medieval Latin *concernō* "I distinguish, have respect to", from Latin *concernō* "to mix, sift, or mingle together, as in a sieve", combined form of *con-* + *cernō* "distinguish".
+
+## discretion
+
+- Record: `{prefix:"dis-", stem:"cern", suffix:"-ion", literal:"separate apart", definition:"the freedom to decide what to do; also, care in keeping things private"}`
+- Review: Confirmed `dis-` + `cern` + `-ion`; replaced "refined taste".
+- Reference: Wiktionary, [discretion](https://en.wiktionary.org/wiki/discretion#English) — from Late Latin *discrētiō*, from Latin *discerno*; *discreet* + *-ion*.
+- Reference: Wiktionary (Latin), [discerno](https://en.wiktionary.org/wiki/discerno#Latin) — *discernō* = *dis-* "asunder, apart" + *cernō* "to see, discern".
+
+## secret
+
+- Record: `{prefix:"se-", stem:"cern", suffix:null, literal:"set apart", definition:"something kept hidden from others"}`
+- Review: Confirmed `se-` + `cern` via Latin *sēcrētum*/*sēcernō*. Literal changed from "separate apart" to "set apart".
+- Reference: Wiktionary, [secret](https://en.wiktionary.org/wiki/secret#English) — from Latin *sēcrētum*.
+- Reference: Wiktionary, [secretary](https://en.wiktionary.org/wiki/secretary#English) — from Latin *secrētus* "private, secret", past participle of *secerno* "to separate, set apart".
+- Reference: Wiktionary (Latin), [secerno](https://en.wiktionary.org/wiki/secerno#Latin) — *sēcernō* = *sē-* "aside" + *cernō* "to see, to discern".
+
+## secretary
+
+- Record: `{prefix:"se-", stem:"cern", suffix:"-ary", literal:"set apart", definition:"a person whose job is to handle letters, records, and appointments"}`
+- Review: Confirmed `se-` + `cern` + `-ary`. Literal changed to "set apart".
+- Reference: Wiktionary, [secretary](https://en.wiktionary.org/wiki/secretary#English) — from Medieval Latin *secrētārius* "one entrusted with secrets", from Latin *secrētus* "private, secret", past participle of *secerno* "to separate, set apart".
+
+## conclude
+
+- Record: `{prefix:"con-", stem:"clud", suffix:null, literal:"close with", definition:"to bring something to an end, or to decide after thinking"}`
+- Review: Confirmed `con-` + `clud`.
+- Reference: Wiktionary, [conclude](https://en.wiktionary.org/wiki/conclude#English) — from Latin *conclūdō*, *conclūdere* "to shut up, close, end".
+- Reference: Wiktionary (Latin), [concludo](https://en.wiktionary.org/wiki/concludo#Latin) — *conclūdō* = *con-* + *claudō*.
+
+## conclusion
+
+- Record: `{prefix:"con-", stem:"clud", suffix:"-ion", literal:"close with", definition:"the end of something, or a decision reached by thinking"}`
+- Review: Confirmed `con-` + `clud` + `-ion`.
+- Reference: Wiktionary, [conclusion](https://en.wiktionary.org/wiki/conclusion#English) — from Latin *conclūsiō*, from the past participle stem of *conclūdō* "to conclude", from *con-* + *claudō*.
+
+## exclusive
+
+- Record: `{prefix:"ex-", stem:"clud", suffix:"-ive", literal:"shut out", definition:"limited to certain people only"}`
+- Review: Confirmed `ex-` + `clud` + `-ive`. Literal changed from "close out of" to "shut out".
+- Reference: Wiktionary, [exclusive](https://en.wiktionary.org/wiki/exclusive#English) — from Latin *exclūsīvus*, from *excludere* "to shut out, exclude", from *ex-* "out" + variant form of *claudere* "to close, shut".
+
+## include
+
+- Record: `{prefix:"in-", stem:"clud", suffix:null, literal:"shut in", definition:"to make something part of a group"}`
+- Review: Confirmed `in-` + `clud`. Literal changed from "close into" to "shut in".
+- Reference: Wiktionary, [include](https://en.wiktionary.org/wiki/include#English) — from Latin *inclūdō* "to shut in, enclose, insert", from *in-* "in" + *claudere* "to shut".
+
+## confuse
+
+- Record: `{prefix:"con-", stem:"fus", suffix:null, literal:"pour together", definition:"to make someone unsure or unable to understand"}`
+- Review: Confirmed `con-` + `fus` (Latin *cōnfundō*). Literal changed from "pour with" to "pour together".
+- Reference: Wiktionary, [confuse](https://en.wiktionary.org/wiki/confuse#English) — back-formation from *confused*, from Latin *cōnfūsus*, past participle of *cōnfundō*.
+- Reference: Wiktionary (Latin), [confundo](https://en.wiktionary.org/wiki/confundo#Latin) — *cōnfundō* = *con-* "with, together" + *fundō* "pour".
+
+## confusion
+
+- Record: `{prefix:"con-", stem:"fus", suffix:"-ion", literal:"pour together", definition:"the state of being unsure or not understanding"}`
+- Review: Confirmed `con-` + `fus` + `-ion`. Literal changed to "pour together".
+- Reference: Wiktionary, [confusion](https://en.wiktionary.org/wiki/confusion#English) — from Latin *confusio*; *confuse* + *-ion*.
+- Reference: Wiktionary (Latin), [confundo](https://en.wiktionary.org/wiki/confundo#Latin) — *cōnfundō* = *con-* "with, together" + *fundō* "pour".
+
+## fusion
+
+- Record: `{prefix:null, stem:"fus", suffix:"-ion", literal:"pour", definition:"the joining of two or more things into one"}`
+- Review: Confirmed `fus` + `-ion`.
+- Reference: Wiktionary, [fusion](https://en.wiktionary.org/wiki/fusion#English) — from Latin *fūsiōnem*, from *fusus*, past participle of *fundō* "to pour; to melt".
+
+## conversation
+
+- Record: `{prefix:"con-", stem:"vert", suffix:"-ion", literal:"keep company with", definition:"a talk between two or more people"}`
+- Review: Confirmed `con-` + `vert` + `-ion` with a caveat: the Latin source is *conversor* "abide, keep company with" (*con-* + *versor*, a form related to *vertō*). Literal changed from "turn with" to "keep company with".
+- Reference: Wiktionary, [conversation](https://en.wiktionary.org/wiki/conversation#English) — from Latin *conversātiō* "conversation", from *conversor* "abide, keep company with".
+- Reference: Wiktionary (Latin), [conversor](https://en.wiktionary.org/wiki/conversor#Latin) — *conversor* = *con-* + *versor* "to dwell, be busy".
+
+## convert
+
+- Record: `{prefix:"con-", stem:"vert", suffix:null, literal:"turn around", definition:"to change something into a different form or use"}`
+- Review: Confirmed `con-` + `vert`. Literal changed from "turn with" to "turn around", the source's gloss of *convertō*.
+- Reference: Wiktionary, [convert](https://en.wiktionary.org/wiki/convert#English) — from Old French *convertir*, from Latin *converto* "turn around".
+- Reference: Wiktionary (Latin), [converto](https://en.wiktionary.org/wiki/converto#Latin) — *convertō* = *con-* + *vertō*.
+
+## reverse
+
+- Record: `{prefix:"re-", stem:"vert", suffix:null, literal:"turn back", definition:"to go or turn backward; also, the opposite"}`
+- Review: Confirmed `re-` + `vert` via Latin *reversus* (*re-* + *versō*, a form related to *vertō*).
+- Reference: Wiktionary, [reverse](https://en.wiktionary.org/wiki/reverse#English) — from Latin *reversus*, perfect passive participle of *reversō*, from *re-* + *versō*.
+- Reference: Wiktionary (Latin), [reverso](https://en.wiktionary.org/wiki/reverso#Latin) — *reversō*: from *re-* + *versō*; "to turn back, turn around".
+
+## correct
+
+- Record: `{prefix:"con-", stem:"rect", suffix:null, literal:"make straight", definition:"right, with no mistakes"}`
+- Review: Confirmed `con-` + `rect` via Latin *corrigere* (*con-* + *regō*). Literal changed from "straight with" to "make straight"; replaced "censure severely".
+- Reference: Wiktionary, [correct](https://en.wiktionary.org/wiki/correct#English) — from Latin *correctus* "improved, amended, correct", past participle of *corrigere* "to make straight, make right, make better, improve, correct", from *con-* "together" + combining form of *rego*.
+- Reference: Wiktionary (Latin), [corrigo](https://en.wiktionary.org/wiki/corrigo#Latin) — *corrigō* = *con-* + *regō*: "to correct (set right)".
+
+## correction
+
+- Record: `{prefix:"con-", stem:"rect", suffix:"-ion", literal:"make straight", definition:"a change that fixes a mistake"}`
+- Review: Confirmed `con-` + `rect` + `-ion`. Literal changed to "make straight".
+- Reference: Wiktionary, [correction](https://en.wiktionary.org/wiki/correction#English) — from Old French *correccion*, from Latin *corrēctiō*.
+- Reference: Wiktionary (Latin), [corrigo](https://en.wiktionary.org/wiki/corrigo#Latin) — *corrigō* = *con-* + *regō*: "to correct (set right)".
+
+## regent
+
+- Record: `{prefix:null, stem:"rect", suffix:"-ent", literal:"rule", definition:"a person who rules in place of a king or queen who cannot"}`
+- Review: Confirmed `rect` + `-ent` via Latin *regēns*, from *regō* "to govern". Literal changed from "straight" to "rule".
+- Reference: Wiktionary, [regent](https://en.wiktionary.org/wiki/regent#English) — from Latin *regēns* "ruling; ruler, governor, prince", present participle of *regō* "to govern, to steer".
+- Reference: Wiktionary (Latin), [regens](https://en.wiktionary.org/wiki/regens#Latin) — present active participle of *regō* "rule".
+
+## region
+
+- Record: `{prefix:null, stem:"rect", suffix:"-ion", literal:"direction", definition:"an area of land or of the world"}`
+- Review: Confirmed `rect` + `-ion` via Latin *regiō* (*regō* + *-iō*). Literal changed from "straight" to "direction", the Latin entry's first sense of *regiō*.
+- Reference: Wiktionary, [region](https://en.wiktionary.org/wiki/region#English) — from Latin *regiō*, from *regō*.
+- Reference: Wiktionary (Latin), [regio](https://en.wiktionary.org/wiki/regio#Latin) — *regiō* = *regō* + *-iō*: "direction, line".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -2106,3 +2305,5 @@ Words held back from teaching modes, with the reason.
 - currency — from Medieval Latin *currentia* (*currēns* + *-ia*), *current* + *-cy*; as with *tendency*, the recorded `-ence` suffix does not represent the English *-ency* ending; definition corrected to "the money used in a country" ([Wiktionary](https://en.wiktionary.org/wiki/currency))
 - intercourse — the decomposition is sound (*intercursus*, "running between"), but the main modern sense is sexual, which doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/intercourse))
 - victory — the English entry gives *victor* + *-y* and the Latin gives *victōria* = *victor* + *-ia*; neither supports the recorded `-ory` ("place for; relating to") suffix, matching the *factory* case; definition corrected to "the act of winning a battle or contest" ([Wiktionary](https://en.wiktionary.org/wiki/victory))
+- refuse — origin disputed in the source: Vulgar Latin *\*refūsāre*, either a blend of *refūtāre* and *recūsāre* or from *refūsus*, past participle of *refundere* "to pour back"; the `fus` (pour) mapping is unresolved ([Wiktionary](https://en.wiktionary.org/wiki/refuse))
+- pervert — the decomposition is sound (*pervertō*, *per-* + *vertō*), but the common modern noun sense doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/pervert))

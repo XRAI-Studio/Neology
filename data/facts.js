@@ -13,9 +13,9 @@ window.WF.FACTS = {
   "inspiration": "🌬️ Inspiration = “breathed into” — people thought ideas were divine breath blown into you!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/emotion#English (verified 2026-10-07)
   "emotion": "💨 Emotion comes from Latin emovere, “to move out, stir up” — built from e- (out) and movere (to move).",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/confuse#English (verified 2026-10-07)
   "confuse": "🥤 Confused = “poured together” — like two drinks mixed into one murky, unrecognizable cup!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/confusion#English (verified 2026-10-07)
   "confusion": "🥤 Confusion pictures two liquids poured together into a blend you can’t untangle!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/distract#English (verified 2026-10-07)
   "distract": "🤼 Distracted literally means “pulled apart” — your attention yanked in two directions at once!",
@@ -37,9 +37,9 @@ window.WF.FACTS = {
   "submit": "👇 Submit literally means “send under” — placing yourself beneath someone’s authority!",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/accurate (checked 2026-07-20)
   "accurate": "Accurate first meant 'done with care.' Its Latin family joins ad- ('to') with cura ('care').",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/conclude#English (verified 2026-10-07)
   "conclude": "📦 Conclude = “close together” — finishing an argument was like shutting the lid on a box!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/conclusion#English (verified 2026-10-07)
   "conclusion": "📦 A conclusion literally CLOSES the box on your story or argument!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/postpone#English (verified 2026-10-07)
   "postpone": "🗓️ Postpone = “place after” — from Latin postponere, “to put after,” built from post- (after) and ponere (to put).",
@@ -61,9 +61,9 @@ window.WF.FACTS = {
   "assist": "🤝 Assist = “stand at” — from Latin assistere, “to stand at or by,” built from ad- (to, at) and sistere (to stand).",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/sequence#English (verified 2026-10-07)
   "sequence": "👣 A sequence is literally “a following” — one thing walking behind another in a line!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "department": "🔪 A department is a piece “shared down” — sliced off a bigger whole!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/department#English (verified 2026-10-07)
+  "department": "🔪 A department is a part “shared away” — Latin departire meant “to divide,” slicing a bigger whole into pieces!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/compartment#English (verified 2026-10-07)
   "compartment": "📦 A compartment is a space “shared with” others — one slice of a divided box!",
   // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/assessor#Latin (verified 2026-10-07)
   "assessment": "⚖️ An assessor originally SAT BESIDE a judge — assessment means “sit by”!",
@@ -87,8 +87,8 @@ window.WF.FACTS = {
   "incredible": "🤯 Incredible = “not believable” — so amazing your brain refuses to believe it!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/accept#English (verified 2026-10-07)
   "accept": " Accept traces to Latin acceptare, “to receive,” built from ad- (to) and capere (take).",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/aggression (checked 2026-07-20)
-  "aggression": " Aggression comes through Latin aggredi, to approach or attack  literally a stepping toward something.",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/aggression#English (verified 2026-10-07)
+  "aggression": "Aggression comes through Latin aggredi, to approach or attack — literally a stepping toward something.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/application#English (verified 2026-10-07)
   "application": " Application comes from Latin applicare, attach or join to, like putting one thing against another.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/appointment (checked 2026-07-20)
@@ -105,12 +105,12 @@ window.WF.FACTS = {
   "concept": " Concept comes from Latin conceptus, “a thought” or “a conceiving,” from concipere, “to take in.”",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/conduct#English (verified 2026-10-07)
   "conduct": " Conduct comes from Latin conducere, lead or bring together.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/confirm (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/confirm#English (verified 2026-10-07)
   "confirm": " Confirm comes from Latin confirmare, make firm or strengthen.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/congregation (checked 2026-07-20)
   "congregation": " Congregation comes from Latin congregare, gather into a flock.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/congress (checked 2026-07-20)
-  "congress": " Congress comes from Latin congressus, a meeting or encounter  a stepping together.",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/congress#English (verified 2026-10-07)
+  "congress": "Congress comes from Latin congressus, a meeting or encounter — a stepping together.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/conscience (checked 2026-07-20)
   "conscience": " Conscience comes from Latin conscientia, knowledge within oneself or shared knowledge.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/constant#English (verified 2026-10-07)
@@ -153,7 +153,7 @@ window.WF.FACTS = {
   "except": " Except comes from Latin excipere, take out, removing one thing from the group.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/excessive#English (verified 2026-10-07)
   "excessive": " Excessive belongs to a Latin family meaning go beyond or exceed a boundary.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/exclusive (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/exclusive#English (verified 2026-10-07)
   "exclusive": " Exclusive comes from Latin excludere, shut out.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/expedition (checked 2026-07-20)
   "expedition": " Expedition comes from Latin expedire, free the feet, readying someone to move quickly.",
@@ -185,13 +185,13 @@ window.WF.FACTS = {
   "involve": " Involve comes from Latin involvere, roll in or wrap up.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/innocent (checked 2026-07-20)
   "innocent": " Innocent comes from Latin innocens, not harming.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/infirmary (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/infirmary#English (verified 2026-10-07)
   "infirmary": " Infirmary grew from infirmus, Latin for weak or not strong.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/produce#English (verified 2026-10-07)
   "produce": " Produce comes from Latin producere, lead or bring forth.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/product#English (verified 2026-10-07)
   "product": " Product comes from Latin productus, “brought forth,” from producere, “to lead forth.”",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/progress (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/progress#English (verified 2026-10-07)
   "progress": " Progress comes from Latin progressus, a going forward.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/promise#English (verified 2026-10-07)
   "promise": " Promise comes from Latin promittere, send forth or pledge beforehand.",
