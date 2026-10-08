@@ -1703,6 +1703,204 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `oper` + `-or`.
 - Reference: Wiktionary, [operator](https://en.wiktionary.org/wiki/operator#English) — from Latin *operātor*, from *operor* "work, labour"; *operate* + *-or*.
 
+## assessment
+
+- Record: `{prefix:"ad-", stem:"sed", suffix:"-ment", literal:"sit by", definition:"a judgment about how good, bad, or valuable something is"}`
+- Review: Confirmed `ad-` + `sed` + `-ment` via *assess*, from Latin *assideō* "to sit by". Literal changed from "sit to" to "sit by"; replaced the tax-value gloss.
+- Reference: Wiktionary, [assessment](https://en.wiktionary.org/wiki/assessment#English) — *assess* + *-ment*.
+- Reference: Wiktionary, [assess](https://en.wiktionary.org/wiki/assess#English) — from Medieval Latin *assessare*, originally the frequentative of Latin *assessus*, past participle of *assideō*.
+- Reference: Wiktionary (Latin), [assideo](https://en.wiktionary.org/wiki/assideo#Latin) — *assideō* = *ad-* "to, towards, at" + *sedeō* "sit; settle down" ("to sit by").
+
+## obsession
+
+- Record: `{prefix:"ob-", stem:"sed", suffix:"-ion", literal:"sit against", definition:"an idea or interest that fills someone's mind all the time"}`
+- Review: Confirmed `ob-` + `sed` + `-ion`.
+- Reference: Wiktionary, [obsession](https://en.wiktionary.org/wiki/obsession#English) — from Latin *obsessio* "a besieging", from *obsidere* "to besiege"; *obsess* + *-ion*.
+- Reference: Wiktionary, [obsess](https://en.wiktionary.org/wiki/obsess#English) — from Latin *obsessus*, perfect passive participle of *obsideō* "sit on or in, remain, besiege", from *ob-* "before" + *sedeō* "to sit".
+
+## president
+
+- Record: `{prefix:"pre-", stem:"sed", suffix:"-ent", literal:"sit before", definition:"the leader of a country, club, or company"}`
+- Review: Confirmed `pre-` + `sed` + `-ent` (Latin *prae-*); widened the definition.
+- Reference: Wiktionary, [president](https://en.wiktionary.org/wiki/president#English) — from Latin *praesidēns* "presiding over; president, leader", the present active participle of *praesideō* "preside over".
+- Reference: Wiktionary (Latin), [praesideo](https://en.wiktionary.org/wiki/praesideo#Latin) — *praesideō* = *prae-* + *sedeō* "sit".
+
+## residence
+
+- Record: `{prefix:"re-", stem:"sed", suffix:"-ence", literal:"sit back", definition:"the place where someone lives"}`
+- Review: Confirmed `re-` + `sed` + `-ence`.
+- Reference: Wiktionary, [residence](https://en.wiktionary.org/wiki/residence#English) — from Medieval Latin *residentia*, from *residēns*, present participle of *resideō*; *reside* + *-ence*.
+- Reference: Wiktionary (Latin), [resideo](https://en.wiktionary.org/wiki/resideo#Latin) — *resideō* = *re-* "back" + *sedeō* "sit, be situated".
+
+## resident
+
+- Record: `{prefix:"re-", stem:"sed", suffix:"-ent", literal:"sit back", definition:"a person who lives in a particular place"}`
+- Review: Confirmed `re-` + `sed` + `-ent`; replaced the adjective gloss with the noun.
+- Reference: Wiktionary, [resident](https://en.wiktionary.org/wiki/resident#English) — from Latin *residēns*, present participle of *resideō* "to remain behind, reside, dwell", from *re-* "back" + *sedeō* "to sit".
+
+## sedative
+
+- Record: `{prefix:null, stem:"sed", suffix:"-ive", literal:"sit", definition:"a medicine that makes someone calm or sleepy"}`
+- Review: Confirmed `sed` + `-ive` with a caveat: it comes through *sedate*, from Latin *sēdō* "to allay, calm", which the Latin entry derives from *sedeō*.
+- Reference: Wiktionary, [sedative](https://en.wiktionary.org/wiki/sedative#English) — from Medieval Latin *sēdātīvus*; *sedate* + *-ive*.
+- Reference: Wiktionary, [sedate](https://en.wiktionary.org/wiki/sedate#English) — from Latin *sēdātus* "calm, quiet, composed", participial adjective from *sēdō* "to allay".
+- Reference: Wiktionary (Latin), [sedo](https://en.wiktionary.org/wiki/sedo#Latin) — *sēdō*: derived from *sedeō*.
+
+## session
+
+- Record: `{prefix:null, stem:"sed", suffix:"-ion", literal:"sit", definition:"a period of time spent doing a particular activity"}`
+- Review: Confirmed `sed` + `-ion`.
+- Reference: Wiktionary, [session](https://en.wiktionary.org/wiki/session#English) — from Latin *sessiō* "a sitting", from *sedeō* "sit".
+
+## depression
+
+- Record: `{prefix:"de-", stem:"press", suffix:"-ion", literal:"press down", definition:"a deep feeling of sadness that lasts a long time, or a hollow in the ground"}`
+- Review: Confirmed `de-` + `press` + `-ion`.
+- Reference: Wiktionary, [depression](https://en.wiktionary.org/wiki/depression#English) — from Latin *dēpressiō*; *depress* + *-ion*.
+- Reference: Wiktionary (Latin), [deprimo](https://en.wiktionary.org/wiki/deprimo#Latin) — *dēprimō* = *dē-* + *premō*.
+
+## express
+
+- Record: `{prefix:"ex-", stem:"press", suffix:null, literal:"press out of", definition:"to show or tell what you think or feel"}`
+- Review: Confirmed `ex-` + `press`; replaced the delivery-service noun sense with the verb.
+- Reference: Wiktionary, [express](https://en.wiktionary.org/wiki/express#English) — from Old French *espresser*, *expresser*, from frequentative form of Latin *exprimere*.
+- Reference: Wiktionary (Latin), [exprimo](https://en.wiktionary.org/wiki/exprimo#Latin) — *exprimō* = *ex-* "out of, from" + *premō* "press".
+
+## expression
+
+- Record: `{prefix:"ex-", stem:"press", suffix:"-ion", literal:"press out of", definition:"the look on someone's face, or a way of showing a feeling"}`
+- Review: Confirmed `ex-` + `press` + `-ion`.
+- Reference: Wiktionary, [expression](https://en.wiktionary.org/wiki/expression#English) — from Late Latin *expressiō* "a pressing out"; *express* + *-ion*.
+
+## impress
+
+- Record: `{prefix:"in-", stem:"press", suffix:null, literal:"press into", definition:"to make someone admire you"}`
+- Review: Confirmed `in-` + `press`; replaced the circular definition.
+- Reference: Wiktionary, [impress](https://en.wiktionary.org/wiki/impress#English) — from Latin *impressus*, perfect passive participle of *imprimere* "to press into or upon, stick, stamp", from *in* "in, upon" + *premere* "to press".
+
+## impression
+
+- Record: `{prefix:"in-", stem:"press", suffix:"-ion", literal:"press into", definition:"an idea or feeling you get about someone or something"}`
+- Review: Confirmed `in-` + `press` + `-ion`.
+- Reference: Wiktionary, [impression](https://en.wiktionary.org/wiki/impression#English) — from Latin *impressio*; *impress* + *-ion*.
+- Reference: Wiktionary (Latin), [imprimo](https://en.wiktionary.org/wiki/imprimo#Latin) — *imprimō* = *in-* + *premō* "to press".
+
+## impressive
+
+- Record: `{prefix:"in-", stem:"press", suffix:"-ive", literal:"press into", definition:"so good that people admire it"}`
+- Review: Confirmed as *impress* + *-ive*.
+- Reference: Wiktionary, [impressive](https://en.wiktionary.org/wiki/impressive#English) — *impress* + *-ive*.
+
+## pressure
+
+- Record: `{prefix:null, stem:"press", suffix:"-ure", literal:"press", definition:"the force of pressing on something"}`
+- Review: Confirmed `press` + `-ure` (Latin *pressūra*).
+- Reference: Wiktionary, [pressure](https://en.wiktionary.org/wiki/pressure#English) — from Latin *pressūra*.
+- Reference: Wiktionary (Latin), [pressura](https://en.wiktionary.org/wiki/pressura#Latin) — *pressūra* = *premō* "to squeeze, press" + *-tūra*.
+
+## application
+
+- Record: `{prefix:"ad-", stem:"plic", suffix:"-ion", literal:"fold to", definition:"a form you fill out to ask for something, or the act of putting something to use"}`
+- Review: Confirmed `ad-` + `plic` + `-ion` (Latin *applicō*). The English entry analyses it as *apply* + *-ication*; the `-ion` record follows the Latin *applicātiō* (stem *applicāt-* + *-iō*), a simplified mapping.
+- Reference: Wiktionary, [application](https://en.wiktionary.org/wiki/application#English) — from Latin *applicātiōnem*, accusative singular of *applicātiō* "attachment"; *apply* + *-ication*.
+- Reference: Wiktionary (Latin), [applico](https://en.wiktionary.org/wiki/applico#Latin) — *applicō* = *ad-* + *plicō* "fold; arrive".
+
+## apply
+
+- Record: `{prefix:"ad-", stem:"plic", suffix:null, literal:"fold to", definition:"to ask formally for something, or to put something to use"}`
+- Review: Confirmed `ad-` + `plic` via *applicant*/Latin *applicāre*.
+- Reference: Wiktionary, [apply](https://en.wiktionary.org/wiki/apply#English) — see *applicant*.
+- Reference: Wiktionary, [applicant](https://en.wiktionary.org/wiki/applicant#English) — from Latin *applicans*, present participle of *applicare*.
+- Reference: Wiktionary (Latin), [applico](https://en.wiktionary.org/wiki/applico#Latin) — *applicō* = *ad-* + *plicō* "fold; arrive".
+
+## reply
+
+- Record: `{prefix:"re-", stem:"plic", suffix:null, literal:"fold back", definition:"to answer someone"}`
+- Review: Confirmed `re-` + `plic`.
+- Reference: Wiktionary, [reply](https://en.wiktionary.org/wiki/reply#English) — from Old French *replier* "to reply", from Latin *replicō* "to fold back" (in Late or Medieval Latin "to reply, repeat"), from *re* + *plicō* "to fold".
+
+## command
+
+- Record: `{prefix:"con-", stem:"man", suffix:null, literal:"entrust", definition:"an order telling someone to do something"}`
+- Review: Confirmed `con-` + `man`: *commendō* is *con-* + *mandō*, and *mandō* is *manus* "hand" + *-dō* ("hand over"). Literal changed from "hand with" to "entrust".
+- Reference: Wiktionary, [command](https://en.wiktionary.org/wiki/command#English) — from Late Latin *commandāre*, from Latin *commendāre*; ultimately from *com-* + *mandō*.
+- Reference: Wiktionary (Latin), [mando](https://en.wiktionary.org/wiki/mando#Latin) — *mandō*: equivalent to *manus* + *-dō*.
+- Reference: Wiktionary (Latin), [commendo](https://en.wiktionary.org/wiki/commendo#Latin) — *commendō* = *con-* + *mandō* "commit, entrust, enjoin".
+
+## commandant
+
+- Record: `{prefix:"con-", stem:"man", suffix:"-ant", literal:"entrust", definition:"an officer in charge of a military base or unit"}`
+- Review: Confirmed as French *commandant*, the present participle of French *commander* (the `-ant` ending); see *command*. Literal changed to "entrust".
+- Reference: Wiktionary, [commandant](https://en.wiktionary.org/wiki/commandant#English) — from French *commandant*, from *commander*.
+- Reference: Wiktionary (French), [commandant](https://en.wiktionary.org/wiki/commandant#French) — present participle of *commander*.
+
+## commander
+
+- Record: `{prefix:"con-", stem:"man", suffix:"-er", literal:"entrust", definition:"a person who is in charge, especially in the army or navy"}`
+- Review: Confirmed as *command* + *-er*; see *command*. Literal changed to "entrust".
+- Reference: Wiktionary, [commander](https://en.wiktionary.org/wiki/commander#English) — from Old French *comandeor*, from *comander*; *command* + *-er*.
+
+## demand
+
+- Record: `{prefix:"de-", stem:"man", suffix:null, literal:"hand over", definition:"to ask for something firmly"}`
+- Review: Confirmed `de-` + `man` (Latin *dēmandō*, *dē-* + *mandō* "hand over"). Literal changed from "hand down" to "hand over".
+- Reference: Wiktionary, [demand](https://en.wiktionary.org/wiki/demand#English) — from Old French *demander*, from Latin *dēmandō*, *dēmandāre*.
+- Reference: Wiktionary (Latin), [demando](https://en.wiktionary.org/wiki/demando#Latin) — *dēmandō* = *dē-* + *mandō* "hand over; I entrust".
+
+## mandatory
+
+- Record: `{prefix:null, stem:"man", suffix:"-ory", literal:"hand over", definition:"required by a rule or law"}`
+- Review: Confirmed `man` + `-ory` via Latin *mandātōrius*, from *mandātor*, from *mandō* (*manus* + *-dō*). Literal changed from "hand" to "hand over".
+- Reference: Wiktionary, [mandatory](https://en.wiktionary.org/wiki/mandatory#English) — from Late Latin *mandatorius* "of or belonging to a mandator", from *mandātor* "one who commands"; *mandate* + *-ory*.
+- Reference: Wiktionary (Latin), [mando](https://en.wiktionary.org/wiki/mando#Latin) — *mandō*: equivalent to *manus* + *-dō*.
+
+## manual
+
+- Record: `{prefix:null, stem:"man", suffix:"-al", literal:"hand", definition:"done with the hands; also, a book of instructions"}`
+- Review: Confirmed `man` + `-al`.
+- Reference: Wiktionary, [manual](https://en.wiktionary.org/wiki/manual#English) — from Latin *manuālis*, from *manus* "hand"; the noun from Late Latin *manuāle* "handbook, manual".
+
+## construction
+
+- Record: `{prefix:"con-", stem:"struct", suffix:"-ion", literal:"build with", definition:"the work of building something"}`
+- Review: Confirmed `con-` + `struct` + `-ion`.
+- Reference: Wiktionary, [construction](https://en.wiktionary.org/wiki/construction#English) — from Latin *cōnstructiō*, from *cōnstruō*, *cōnstruere*; *construct* + *-ion*.
+- Reference: Wiktionary (Latin), [construo](https://en.wiktionary.org/wiki/construo#Latin) — *cōnstruō* = *con-* "with" + *struō* "pile up, arrange; build, erect".
+
+## destruction
+
+- Record: `{prefix:"de-", stem:"struct", suffix:"-ion", literal:"tear down", definition:"the act of badly damaging or ruining something"}`
+- Review: Confirmed `de-` + `struct` + `-ion`. Literal changed from "build down" to "tear down", the source's gloss of *dēstruō*.
+- Reference: Wiktionary, [destruction](https://en.wiktionary.org/wiki/destruction#English) — from Latin *dēstrūctiō*.
+- Reference: Wiktionary, [destructive](https://en.wiktionary.org/wiki/destructive#English) — from Latin *dēstruō*, *dēstruere* "to tear down, destroy".
+- Reference: Wiktionary (Latin), [destruo](https://en.wiktionary.org/wiki/destruo#Latin) — *dēstruō* = *dē-* + *struō* "put together".
+
+## destructive
+
+- Record: `{prefix:"de-", stem:"struct", suffix:"-ive", literal:"tear down", definition:"causing a lot of damage"}`
+- Review: Confirmed `de-` + `struct` + `-ive`. Literal changed from "build down" to "tear down".
+- Reference: Wiktionary, [destructive](https://en.wiktionary.org/wiki/destructive#English) — from Latin *dēstrūctīvus*, from past participle of *dēstruō*, *dēstruere* "to tear down, destroy" + *-īvus*.
+
+## instruction
+
+- Record: `{prefix:"in-", stem:"struct", suffix:"-ion", literal:"build into", definition:"information that tells you how to do something"}`
+- Review: Confirmed `in-` + `struct` + `-ion`; replaced "the profession of a teacher".
+- Reference: Wiktionary, [instruction](https://en.wiktionary.org/wiki/instruction#English) — from Latin *instructio*; *instruct* + *-ion*.
+- Reference: Wiktionary (Latin), [instruo](https://en.wiktionary.org/wiki/instruo#Latin) — *īnstruō* = *in-* "in, at, on" + *struō* "pile up, arrange; construct".
+
+## instructor
+
+- Record: `{prefix:"in-", stem:"struct", suffix:"-or", literal:"build into", definition:"a person who teaches a skill"}`
+- Review: Confirmed `in-` + `struct` + `-or`.
+- Reference: Wiktionary, [instructor](https://en.wiktionary.org/wiki/instructor#English) — from Latin *instructor*; *instruct* + *-or*.
+- Reference: Wiktionary (Latin), [instruo](https://en.wiktionary.org/wiki/instruo#Latin) — *īnstruō* = *in-* "in, at, on" + *struō* "pile up, arrange; construct".
+
+## structure
+
+- Record: `{prefix:null, stem:"struct", suffix:"-ure", literal:"build", definition:"something that has been built, or the way the parts of something are arranged"}`
+- Review: Confirmed `struct` + `-ure`.
+- Reference: Wiktionary, [structure](https://en.wiktionary.org/wiki/structure#English) — from Latin *structūra* "a fitting together, adjustment, building, erection", from *struere*, past participle *structus* "pile up, arrange, assemble, build".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -1723,3 +1921,6 @@ Words held back from teaching modes, with the reason.
 - interference — not a *ferō* ("carry") word: from *interfere*, from Old French *entreferir*, *entre-* + *ferir* "to hit, to strike", from Latin *feriō*; no `strike` stem exists ([Wiktionary](https://en.wiktionary.org/wiki/interfere))
 - factory — the English entry gives "probably *factor* + *-y*", so the recorded `-ory` suffix is not supported (Latin *factōrium* "oil press" is only a comparison); definition corrected to "a building where goods are made" ([Wiktionary](https://en.wiktionary.org/wiki/factory))
 - tendency — from Medieval Latin *tendentia* (from *tendēns*, *tendō*), but the English ending is *-ency*, and the recorded `-ence` suffix is not supported by the source; definition corrected to "a habit of acting or happening in a particular way" ([Wiktionary](https://en.wiktionary.org/wiki/tendency))
+- comply — not a *plicō* ("fold") word: from Latin *complēre* "to fill up, complete" (*con-* + *pleō*), via Italian/Catalan/Spanish; no `fill` stem exists ([Wiktionary](https://en.wiktionary.org/wiki/comply))
+- supply — not a *plicō* ("fold") word: from Latin *suppleō* "to fill up, make full, complete, supply" (*sub-* + *pleō*); the Middle English spelling was later modified ([Wiktionary](https://en.wiktionary.org/wiki/supply))
+- complex — from Latin *complector* (*com-* + *plectō* "to weave, braid"), a different verb from *plicō* "fold" though from the same root; held back for consistency with other sister-verb cases ([Wiktionary](https://en.wiktionary.org/wiki/complex))

@@ -918,7 +918,7 @@ window.WF.SUFFIXES = [
 ];
 window.WF.FAMILY_NOTES = {
   "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand at,' and attention means 'stretch to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
-  "con-": "The “con- family” is about doing things TOGETHER. Comfort = “strong with” (lending someone your strength), command = “hand with” (taking things in hand), confuse = “pour together” (a murky mixed-up drink), and conclude = “close with” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
+  "con-": "The “con- family” is about doing things TOGETHER. Comfort = “strong with” (lending someone your strength), command = “entrust” (from mandare, “hand over”), confuse = “pour together” (a murky mixed-up drink), and conclude = “close with” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
   "de-": "The “de- family” points DOWN and AWAY. Depend = “hang down from” (like dangling from a rope you trust!), describe = “write down,” and depart = “share away” — splitting off from the group. When you see de-, picture something dropping or leaving.",
   "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (from Latin emovere, “stir up”), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
   "in-": "The sneaky “in- family” has TWO jobs: going INTO (inject = throw in, inspire = breathe in) and saying NOT (invisible = not seeable, incredible = not believable). It also shape-shifts: im-, il-, ir-. You have to read the whole word to know which in- you’ve met!",
@@ -1117,8 +1117,8 @@ window.WF.WORDS = [
     "plic",
     "-ion",
     "fold to",
-    "the work of applying something",
-    false
+    "a form you fill out to ask for something, or the act of putting something to use",
+    true
   ],
   [
     "apply",
@@ -1126,8 +1126,8 @@ window.WF.WORDS = [
     "plic",
     null,
     "fold to",
-    "put into service",
-    false
+    "to ask formally for something, or to put something to use",
+    true
   ],
   [
     "appoint",
@@ -1161,9 +1161,9 @@ window.WF.WORDS = [
     "ad-",
     "sed",
     "-ment",
-    "sit to",
-    "the market value set on assets",
-    false
+    "sit by",
+    "a judgment about how good, bad, or valuable something is",
+    true
   ],
   [
     "assign",
@@ -1377,27 +1377,27 @@ window.WF.WORDS = [
     "con-",
     "man",
     null,
-    "hand with",
-    "the power or authority to command",
-    false
+    "entrust",
+    "an order telling someone to do something",
+    true
   ],
   [
     "commandant",
     "con-",
     "man",
     "-ant",
-    "hand with",
-    "an officer in command of a military unit",
-    false
+    "entrust",
+    "an officer in charge of a military base or unit",
+    true
   ],
   [
     "commander",
     "con-",
     "man",
     "-er",
-    "hand with",
-    "an officer in command of a military unit",
-    false
+    "entrust",
+    "a person who is in charge, especially in the army or navy",
+    true
   ],
   [
     "commission",
@@ -1702,8 +1702,8 @@ window.WF.WORDS = [
     "struct",
     "-ion",
     "build with",
-    "the creation of a construct",
-    false
+    "the work of building something",
+    true
   ],
   [
     "contact",
@@ -2034,9 +2034,9 @@ window.WF.WORDS = [
     "de-",
     "man",
     null,
-    "hand down",
-    "required activity",
-    false
+    "hand over",
+    "to ask for something firmly",
+    true
   ],
   [
     "depart",
@@ -2098,8 +2098,8 @@ window.WF.WORDS = [
     "press",
     "-ion",
     "press down",
-    "a sunken or depressed geological formation",
-    false
+    "a deep feeling of sadness that lasts a long time, or a hollow in the ground",
+    true
   ],
   [
     "describe",
@@ -2160,18 +2160,18 @@ window.WF.WORDS = [
     "de-",
     "struct",
     "-ion",
-    "build down",
-    "a final state",
-    false
+    "tear down",
+    "the act of badly damaging or ruining something",
+    true
   ],
   [
     "destructive",
     "de-",
     "struct",
     "-ive",
-    "build down",
-    "causing destruction or much damage",
-    false
+    "tear down",
+    "causing a lot of damage",
+    true
   ],
   [
     "detention",
@@ -2620,8 +2620,8 @@ window.WF.WORDS = [
     "press",
     null,
     "press out of",
-    "rapid transport of goods",
-    false
+    "to show or tell what you think or feel",
+    true
   ],
   [
     "expression",
@@ -2629,8 +2629,8 @@ window.WF.WORDS = [
     "press",
     "-ion",
     "press out of",
-    "expression without words",
-    false
+    "the look on someone's face, or a way of showing a feeling",
+    true
   ],
   [
     "extend",
@@ -2917,8 +2917,8 @@ window.WF.WORDS = [
     "press",
     null,
     "press into",
-    "impress positively",
-    false
+    "to make someone admire you",
+    true
   ],
   [
     "impression",
@@ -2926,8 +2926,8 @@ window.WF.WORDS = [
     "press",
     "-ion",
     "press into",
-    "an outward appearance",
-    false
+    "an idea or feeling you get about someone or something",
+    true
   ],
   [
     "impressive",
@@ -2935,8 +2935,8 @@ window.WF.WORDS = [
     "press",
     "-ive",
     "press into",
-    "producing a strong effect",
-    false
+    "so good that people admire it",
+    true
   ],
   [
     "impulse",
@@ -3205,8 +3205,8 @@ window.WF.WORDS = [
     "struct",
     "-ion",
     "build into",
-    "the profession of a teacher",
-    false
+    "information that tells you how to do something",
+    true
   ],
   [
     "instructor",
@@ -3214,8 +3214,8 @@ window.WF.WORDS = [
     "struct",
     "-or",
     "build into",
-    "a person whose occupation is teaching",
-    false
+    "a person who teaches a skill",
+    true
   ],
   [
     "intact",
@@ -3474,9 +3474,9 @@ window.WF.WORDS = [
     null,
     "man",
     "-ory",
-    "hand",
-    "required by rule",
-    false
+    "hand over",
+    "required by a rule or law",
+    true
   ],
   [
     "manual",
@@ -3484,8 +3484,8 @@ window.WF.WORDS = [
     "man",
     "-al",
     "hand",
-    "a small handbook",
-    false
+    "done with the hands; also, a book of instructions",
+    true
   ],
   [
     "memorable",
@@ -3682,8 +3682,8 @@ window.WF.WORDS = [
     "sed",
     "-ion",
     "sit against",
-    "an unhealthy and compulsive preoccupation with something or someone",
-    false
+    "an idea or interest that fills someone's mind all the time",
+    true
   ],
   [
     "obtain",
@@ -4051,8 +4051,8 @@ window.WF.WORDS = [
     "sed",
     "-ent",
     "sit before",
-    "the chief executive of a republic",
-    false
+    "the leader of a country, club, or company",
+    true
   ],
   [
     "pressure",
@@ -4060,8 +4060,8 @@ window.WF.WORDS = [
     "press",
     "-ure",
     "press",
-    "the act of pressing",
-    false
+    "the force of pressing on something",
+    true
   ],
   [
     "pretend",
@@ -4546,8 +4546,8 @@ window.WF.WORDS = [
     "plic",
     null,
     "fold back",
-    "react verbally",
-    false
+    "to answer someone",
+    true
   ],
   [
     "report",
@@ -4627,8 +4627,8 @@ window.WF.WORDS = [
     "sed",
     "-ence",
     "sit back",
-    "the act of dwelling in a place",
-    false
+    "the place where someone lives",
+    true
   ],
   [
     "resident",
@@ -4636,8 +4636,8 @@ window.WF.WORDS = [
     "sed",
     "-ent",
     "sit back",
-    "living in a particular place",
-    false
+    "a person who lives in a particular place",
+    true
   ],
   [
     "resign",
@@ -4807,8 +4807,8 @@ window.WF.WORDS = [
     "sed",
     "-ive",
     "sit",
-    "tending to soothe or tranquilize",
-    false
+    "a medicine that makes someone calm or sleepy",
+    true
   ],
   [
     "seduce",
@@ -4915,8 +4915,8 @@ window.WF.WORDS = [
     "sed",
     "-ion",
     "sit",
-    "a meeting devoted to a particular activity",
-    false
+    "a period of time spent doing a particular activity",
+    true
   ],
   [
     "signal",
@@ -4996,8 +4996,8 @@ window.WF.WORDS = [
     "struct",
     "-ure",
     "build",
-    "a thing constructed",
-    false
+    "something that has been built, or the way the parts of something are arranged",
+    true
   ],
   [
     "subject",

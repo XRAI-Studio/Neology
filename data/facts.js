@@ -5,7 +5,7 @@ window.WF.FACTS = {
   "addict": "⚖️ In ancient Rome, an “addict” was a person a judge handed over to their creditor as a debt slave!",
   // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/addictus#Latin and https://en.wiktionary.org/wiki/addico#Latin (verified 2026-10-07)
   "addiction": "⚖️ Roman judges could hand a debtor over to the person they owed — Latin addictus meant “handed over,” from ad- (to) and dicere (to say).",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/obsession#English (verified 2026-10-07)
   "obsession": "🏰 Obsession literally means “to sit against” — like a Roman army camping outside a city’s walls in a siege!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "inspire": "🌬️ Ancients believed the gods literally breathed great ideas INTO artists’ lungs!",
@@ -25,14 +25,14 @@ window.WF.FACTS = {
   "conviction": "⚔️ A conviction is a belief that has CONQUERED every doubt in your mind!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "convict": "⚔️ To convict = to conquer someone in court. Same vinc as invincible!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "president": "👑 President literally means “the one who SITS in front” — the best seat at the meeting!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/president#English (verified 2026-10-07)
+  "president": "👑 President literally means “the one who SITS in front” — the person presiding at a meeting!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "extortion": "🧻 Extortion = “twist out” — like wringing money from someone the way you wring water from a towel!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "command": "✋ Command = “hand with” — real authority meant literally getting your hands on the situation!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "commander": "✋ A commander takes things “in hand” — com + man(hand), same root as manual!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/command#English (verified 2026-10-07)
+  "command": "✋ Command comes from Latin commendare, “to entrust,” built on mandare, “to hand over” — and mandare comes from manus, “hand.”",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/commander#English (verified 2026-10-07)
+  "commander": "✋ Commander shares a root with manual: Latin mandare, “to hand over,” comes from manus, “hand.”",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/submit#English (verified 2026-10-07)
   "submit": "👇 Submit literally means “send under” — placing yourself beneath someone’s authority!",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/accurate (checked 2026-07-20)
@@ -65,8 +65,8 @@ window.WF.FACTS = {
   "department": "🔪 A department is a piece “shared down” — sliced off a bigger whole!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "compartment": "📦 A compartment is a space “shared with” others — one slice of a divided box!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "assessment": "⚖️ An assessor originally SAT BESIDE a judge — assessment means “sit to”!",
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/assessor#Latin (verified 2026-10-07)
+  "assessment": "⚖️ An assessor originally SAT BESIDE a judge — assessment means “sit by”!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/extract#English (verified 2026-10-07)
   "extract": "🦷 Extract = “pull out” — exactly what a dentist does to a tooth!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
@@ -89,7 +89,7 @@ window.WF.FACTS = {
   "accept": " Accept traces to Latin acceptare, “to receive,” built from ad- (to) and capere (take).",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/aggression (checked 2026-07-20)
   "aggression": " Aggression comes through Latin aggredi, to approach or attack  literally a stepping toward something.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/application (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/application#English (verified 2026-10-07)
   "application": " Application comes from Latin applicare, attach or join to, like putting one thing against another.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/appointment (checked 2026-07-20)
   "appointment": " Appointment belongs to a word family about bringing something to a point or fixed place.",
@@ -115,7 +115,7 @@ window.WF.FACTS = {
   "conscience": " Conscience comes from Latin conscientia, knowledge within oneself or shared knowledge.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/constant#English (verified 2026-10-07)
   "constant": " Constant comes from Latin constare, stand firm.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/construction (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/construction#English (verified 2026-10-07)
   "construction": " Construction comes from Latin construere, pile up or build together.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/contemporary (checked 2026-07-20)
   "contemporary": " Contemporary literally joins together with time: people or things sharing an era.",
@@ -131,13 +131,13 @@ window.WF.FACTS = {
   "dependent": " Dependent belongs to a Latin family meaning hang down, like something hanging from its support.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/deposit#English (verified 2026-10-07)
   "deposit": " Deposit comes from Latin deponere, lay down or put aside.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/depression (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/depression#English (verified 2026-10-07)
   "depression": " Depression comes from Latin depressio, a pressing down.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/describe (checked 2026-07-20)
   "describe": " Describe comes from Latin describere, write down or copy out.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/design#English (verified 2026-10-07)
   "design": " Design comes from Latin designare, mark out or designate.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/destruction (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/destruction#English (verified 2026-10-07)
   "destruction": " Destruction comes from Latin destruere, tear down, the opposite direction of construction.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/detention#English (verified 2026-10-07)
   "detention": " Detention comes from Latin detinere, hold back.",
@@ -161,7 +161,7 @@ window.WF.FACTS = {
   "expense": " Expense comes from Latin expendere, weigh out or pay out.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/expose#English (verified 2026-10-07)
   "expose": " Expose comes through Latin exponere, set forth or put out in view.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/express (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/express#English (verified 2026-10-07)
   "express": " Express comes from Latin exprimere, press out, as juice is pressed from fruit.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/extend#English (verified 2026-10-07)
   "extend": " Extend comes from Latin extendere, stretch out.",
@@ -175,7 +175,7 @@ window.WF.FACTS = {
   "inject": " Inject comes from Latin inicere, throw in.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/insist#English (verified 2026-10-07)
   "insist": " Insist comes from Latin insistere, stand upon or persist.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/instruct (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/instruction#English (verified 2026-10-07)
   "instruction": "Instruction comes from Latin instruere, 'arrange, equip, or build up.'",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/intact (checked 2026-07-20)
   "intact": " Intact comes from Latin intactus, untouched.",
