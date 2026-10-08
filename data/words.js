@@ -53,7 +53,7 @@ window.WF.PREFIXES = [
   ],
   [
     "in-",
-    "into, not",
+    "into, on, not",
     "invisible"
   ],
   [
@@ -902,7 +902,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-er",
-    "one who; more",
+    "one who; that which; more",
     "porter"
   ],
   [
@@ -923,7 +923,7 @@ window.WF.FAMILY_NOTES = {
   "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (from Latin emovere, “stir up”), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
   "in-": "The sneaky “in- family” has TWO jobs: going INTO (inject = throw in, inspire = breathe in) and saying NOT (invisible = not seeable, incredible = not believable). It also shape-shifts: im-, il-, ir-. You have to read the whole word to know which in- you’ve met!",
   "pro-": "The “pro- family” charges FORWARD. Propel = “drive forward,” project = “throw forward,” promote = “move forward,” and produce = “lead forward.” Pro- words are the go-getters of English — always pushing ahead!",
-  "re-": "The mighty “re- family” goes BACK and AGAIN — it’s the most-used prefix in English! Reject = “throw back,” record = “heart back” (returning something to your heart to remember it!), reflect = “bend back” (like light off a mirror), and revolve = “roll back around.”",
+  "re-": "The mighty “re- family” goes BACK and AGAIN — it’s the most-used prefix in English! Reject = “throw back,” record = “heart back” (from recordari, “to call to mind”), reflect = “bend back” (like light off a mirror), and revolve = “roll back around.”",
   "sub-": "The “sub- family” lives UNDER everything. Submit = “send under” (placing yourself beneath someone’s authority), submerge = “plunge under,” support = “carry from under” (holding something up!). It disguises itself as sup-, sus-, suc-, suf-.",
   "trans-": "The “trans- family” crosses OVER. Transport = “carry across,” transmit = “send across,” translucent = “light shining across/through.” Trans- words are bridges — they always take something from one side to the other.",
   "post-": "The “post- family” comes AFTER. Postpone = “place after” — ancient people pictured time as a road, and delaying meant setting a task farther down the path. A postscript (P.S.!) is “written after” the letter ends.",
@@ -1603,8 +1603,8 @@ window.WF.WORDS = [
     "greg",
     "-ion",
     "flock with",
-    "the act of congregating",
-    false
+    "a group of people gathered together, especially for worship",
+    true
   ],
   [
     "congress",
@@ -2305,8 +2305,8 @@ window.WF.WORDS = [
     "doc",
     "-or",
     "teach",
-    "a licensed medical practitioner",
-    false
+    "a person trained to treat sick or injured people",
+    true
   ],
   [
     "donate",
@@ -2340,9 +2340,9 @@ window.WF.WORDS = [
     null,
     "dur",
     "-ion",
-    "hard",
-    "continuance in time",
-    false
+    "lasting",
+    "how long something lasts",
+    true
   ],
   [
     "educate",
@@ -2844,8 +2844,8 @@ window.WF.WORDS = [
     null,
     "grat",
     "-ude",
-    "pleasing",
-    "a feeling of thankfulness and appreciation",
+    "thankful",
+    "a feeling of being thankful",
     false
   ],
   [
@@ -2854,26 +2854,26 @@ window.WF.WORDS = [
     "grav",
     "-ity",
     "heavy",
-    "a solemn and dignified feeling",
-    false
+    "the force that pulls things toward the Earth; also, seriousness",
+    true
   ],
   [
     "illusion",
     "in-",
     "lud",
     "-ion",
-    "play into",
-    "the act of deluding",
-    false
+    "play at",
+    "something that seems real but is not",
+    true
   ],
   [
     "immediate",
     "in-",
     "med",
     "-ate",
-    "middle into",
-    "having no intervening medium",
-    false
+    "not in between",
+    "happening right away",
+    true
   ],
   [
     "immigration",
@@ -2881,8 +2881,8 @@ window.WF.WORDS = [
     "migr",
     "-ion",
     "move into",
-    "the body of immigrants arriving during a specified interval",
-    false
+    "the act of coming to live in a new country",
+    true
   ],
   [
     "immortal",
@@ -2988,9 +2988,9 @@ window.WF.WORDS = [
     "in-",
     "cred",
     "-ible",
-    "believe into",
-    "beyond belief or understanding",
-    false
+    "not believable",
+    "so amazing it is hard to believe",
+    true
   ],
   [
     "indicate",
@@ -3033,9 +3033,9 @@ window.WF.WORDS = [
     "in-",
     "flu",
     "-ence",
-    "not flow",
-    "causing something without any direct or apparent effort",
-    false
+    "flow into",
+    "the power to affect what someone does or thinks",
+    true
   ],
   [
     "inform",
@@ -3330,9 +3330,9 @@ window.WF.WORDS = [
     "in-",
     "trud",
     "-er",
-    "not push",
-    "someone who intrudes on the privacy or property of another without permission",
-    false
+    "push into",
+    "a person who goes somewhere without permission",
+    true
   ],
   [
     "invent",
@@ -3403,8 +3403,8 @@ window.WF.WORDS = [
     "junct",
     "-ion",
     "join",
-    "the state of being joined together",
-    false
+    "a place where roads or lines meet",
+    true
   ],
   [
     "laboratory",
@@ -3430,8 +3430,8 @@ window.WF.WORDS = [
     "liber",
     "-al",
     "free",
-    "showing or characterized by broad-mindedness",
-    false
+    "open to new ideas; also, generous",
+    true
   ],
   [
     "liberation",
@@ -3439,8 +3439,8 @@ window.WF.WORDS = [
     "liber",
     "-ion",
     "free",
-    "the act of liberating someone or something",
-    false
+    "the act of setting someone or something free",
+    true
   ],
   [
     "local",
@@ -3493,8 +3493,8 @@ window.WF.WORDS = [
     "memor",
     "-able",
     "remember",
-    "worth remembering",
-    false
+    "worth remembering; easy to remember",
+    true
   ],
   [
     "missile",
@@ -3574,8 +3574,8 @@ window.WF.WORDS = [
     "mut",
     "-ant",
     "change",
-    "an animal that has undergone mutation",
-    false
+    "a living thing that is different because of a change in its genes",
+    true
   ],
   [
     "nation",
@@ -3610,8 +3610,8 @@ window.WF.WORDS = [
     "nav",
     "-al",
     "ship",
-    "connected with or belonging to or used in a navy",
-    false
+    "relating to a navy or warships",
+    true
   ],
   [
     "nonsense",
@@ -3628,8 +3628,8 @@ window.WF.WORDS = [
     "numer",
     "-ous",
     "number",
-    "amounting to a large indefinite number",
-    false
+    "many",
+    true
   ],
   [
     "object",
@@ -4087,8 +4087,8 @@ window.WF.WORDS = [
     "prim",
     "-ary",
     "first",
-    "a preliminary election where delegates or nominees are chosen",
-    false
+    "first or most important",
+    true
   ],
   [
     "primitive",
@@ -4096,8 +4096,8 @@ window.WF.WORDS = [
     "prim",
     "-ive",
     "first",
-    "a person who belongs to an early stage of civilization",
-    false
+    "belonging to an early stage of development; very simple",
+    true
   ],
   [
     "private",
@@ -4105,8 +4105,8 @@ window.WF.WORDS = [
     "priv",
     "-ate",
     "separate",
-    "concerning things deeply private and personal",
-    false
+    "belonging to or meant for one person or group, not everyone",
+    true
   ],
   [
     "probable",
@@ -4383,9 +4383,9 @@ window.WF.WORDS = [
     "re-",
     "cogn",
     "-ion",
-    "know back",
-    "approval",
-    false
+    "know again",
+    "the act of knowing someone or something you have seen before; also, praise for something done",
+    true
   ],
   [
     "record",
@@ -4393,8 +4393,8 @@ window.WF.WORDS = [
     "cord",
     null,
     "heart back",
-    "the number of wins versus losses and ties a team has had",
-    false
+    "to write down or save something so it can be used later; also, a written account",
+    true
   ],
   [
     "recorder",
@@ -4402,8 +4402,8 @@ window.WF.WORDS = [
     "cord",
     "-er",
     "heart back",
-    "equipment for making records",
-    false
+    "a machine that records sound or pictures; also, a simple flute-like instrument",
+    true
   ],
   [
     "reduce",
@@ -4591,7 +4591,7 @@ window.WF.WORDS = [
     "simil",
     "-ance",
     "like back",
-    "similarity in appearance or external or superficial details",
+    "the way two things look or seem alike",
     false
   ],
   [
@@ -4726,8 +4726,8 @@ window.WF.WORDS = [
     "vit",
     null,
     "life back",
-    "give new life or energy to",
-    false
+    "to bring back to life, strength, or use",
+    true
   ],
   [
     "revolution",
@@ -4942,7 +4942,7 @@ window.WF.WORDS = [
     "sol",
     "-ude",
     "alone",
-    "a solitary place",
+    "the state of being alone",
     false
   ],
   [
@@ -4960,8 +4960,8 @@ window.WF.WORDS = [
     "son",
     "-ic",
     "sound",
-    "relating to audible sound",
-    false
+    "relating to sound",
+    true
   ],
   [
     "statement",
@@ -5311,8 +5311,8 @@ window.WF.WORDS = [
     "urb",
     "-an",
     "city",
-    "located in or characteristic of a city or city life",
-    false
+    "relating to a city",
+    true
   ],
   [
     "vacant",
@@ -5356,8 +5356,8 @@ window.WF.WORDS = [
     "ver",
     "-fy",
     "true",
-    "make sure or demonstrate that something is true, accurate, or justified",
-    false
+    "to check that something is true or correct",
+    true
   ],
   [
     "version",
@@ -5419,8 +5419,8 @@ window.WF.WORDS = [
     "vit",
     "-al",
     "life",
-    "full of spirit",
-    false
+    "extremely important; also, needed to stay alive",
+    true
   ],
   [
     "vocal",

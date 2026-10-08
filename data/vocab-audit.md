@@ -9,36 +9,42 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Record: `{prefix:"ad-", stem:"cur", suffix:"-ate", literal:"take care of", definition:"correct in all details; exact"}`
 - Review: corrected the source's false `curr`/“run” decomposition and completed its truncated definition.
 - Reference: Online Etymology Dictionary, [accurate](https://www.etymonline.com/word/accurate) — Latin *accurare* “take care of,” from *ad* + *curare*.
+- Reference (re-verified 2026-10-07): Wiktionary (Latin), [accuro](https://en.wiktionary.org/wiki/accuro#Latin) — *accūrō* = *ad-* "to, towards, at" + *cūrō* "care for": "to take care of, do something with care"; [accuratus](https://en.wiktionary.org/wiki/accuratus#Latin) — "prepared with care".
 
 ## container
 
 - Record: `{prefix:"con-", stem:"ten", suffix:"-er", literal:"hold with", definition:"an object used to hold or transport things"}`
-- Review: completed the truncated definition and confirmed the `con-` + `ten` family.
+- Review: completed the truncated definition and confirmed the `con-` + `ten` family. The shared `-er` gloss was widened to "one who; that which; more" because this word names a thing (Wiktionary [-er](https://en.wiktionary.org/wiki/-er#English): "a person or thing that does an action").
 - Reference: Online Etymology Dictionary, [container](https://www.etymonline.com/word/container) and its linked *contain* entry — Latin *continere*, “hold together, enclose.”
+- Reference (re-verified 2026-10-07): Wiktionary, [container](https://en.wiktionary.org/wiki/container#English) — equivalent to *contain* + *-er*; [contain](https://en.wiktionary.org/wiki/contain#English) — from Latin *continēre* "to hold or keep together, comprise, contain", *con-* + *teneō* "to hold".
 
 ## evolution
 
 - Record: `{prefix:"ex-", stem:"volv", suffix:"-ion", literal:"roll out of", definition:"the gradual development of something, especially from a simpler to a more complex form"}`
 - Review: completed the truncated definition and confirmed the “unrolling” origin.
 - Reference: Online Etymology Dictionary, [evolution](https://www.etymonline.com/word/evolution) — Latin *evolutio*, “unrolling,” from *evolvere*.
+- Reference (re-verified 2026-10-07): Wiktionary, [evolution](https://en.wiktionary.org/wiki/evolution#English) — from Latin *ēvolūtiō* "the act of unrolling, unfolding or opening", from *ēvolvō* "unroll, unfold", from *ex* + *volvō* "roll".
 
 ## sensor
 
 - Record: `{prefix:null, stem:"sens", suffix:"-or", literal:"feel", definition:"a device that detects or measures a physical property and records, indicates, or responds to it"}`
 - Review: completed the truncated device definition and confirmed the sense/perception family.
 - Reference: Online Etymology Dictionary, [sensor](https://www.etymonline.com/word/sensor) — a device giving a signal about physical activity, related to *sensory* and *sense*.
+- Reference (re-verified 2026-10-07): Wiktionary, [sensor](https://en.wiktionary.org/wiki/sensor#English) — formed (1925–30) from Latin *sentiō* "to feel" + *-tor*; surface analysis *sense* + *-or*.
 
 ## infection
 
 - Record: `{prefix:"in-", stem:"fac", suffix:"-ion", literal:"make into", definition:"the invasion and growth of harmful microorganisms in the body"}`
 - Review: replaced the irrelevant phonetics gloss with the common disease sense; confirmed the Latin *inficere* family.
 - Reference: Online Etymology Dictionary, [infection](https://www.etymonline.com/word/infection) — “infectious disease; contaminated condition,” from Latin *infectio*/*inficere*.
+- Reference (re-verified 2026-10-07): Wiktionary, [infection](https://en.wiktionary.org/wiki/infection#English) — from Late Latin *īnfectiō*; [inficio](https://en.wiktionary.org/wiki/inficio#Latin) — *īnficiō* = *in-* "in, at, on" + *faciō* "to perform, do".
 
 ## version
 
 - Record: `{prefix:null, stem:"vert", suffix:"-ion", literal:"turn", definition:"a particular form of something that differs from other forms"}`
 - Review: corrected the source's false `ver`/“true” mapping to the `vers`/`vert` “turn” family and clarified the definition.
 - Reference: Online Etymology Dictionary, [version](https://www.etymonline.com/word/version) — Medieval Latin *versio*, “a turning; a translation,” from Latin *vertere*, “to turn.”
+- Reference (re-verified 2026-10-07): Wiktionary, [version](https://en.wiktionary.org/wiki/version#English) — from Medieval Latin *versiō*, from *vertō* "to turn"; [versio](https://en.wiktionary.org/wiki/versio#Latin) — "a turning, change, version; translation".
 
 ## accept
 
@@ -2906,6 +2912,187 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `in-` + `spir`; replaced "heighten or intensify".
 - Reference: Wiktionary, [inspire](https://en.wiktionary.org/wiki/inspire#English) — from Old French *inspirer*, from Latin *īnspīrō*, *īnspīrāre* "inspire", itself a loan-translation of Biblical Greek *πνέω* "breathe", from *in* + *spīrō* "breathe".
 
+## liberal
+
+- Record: `{prefix:null, stem:"liber", suffix:"-al", literal:"free", definition:"open to new ideas; also, generous"}`
+- Review: Confirmed `liber` + `-al` (Latin *līberālis*).
+- Reference: Wiktionary, [liberal](https://en.wiktionary.org/wiki/liberal#English) — from Old French *liberal*, from Latin *līberālis* "befitting a freeman", from *līber* "free".
+
+## liberation
+
+- Record: `{prefix:null, stem:"liber", suffix:"-ion", literal:"free", definition:"the act of setting someone or something free"}`
+- Review: Confirmed `liber` + `-ion`.
+- Reference: Wiktionary, [liberation](https://en.wiktionary.org/wiki/liberation#English) — from Middle French *libération*, and from Latin *liberatio* "a freeing", from *liberare*, past participle *liberatus* "set free".
+
+## primary
+
+- Record: `{prefix:null, stem:"prim", suffix:"-ary", literal:"first", definition:"first or most important"}`
+- Review: Confirmed `prim` + `-ary`; replaced the election sense.
+- Reference: Wiktionary, [primary](https://en.wiktionary.org/wiki/primary#English) — from Latin *prīmārius* "of the first (rank); chief, principal", from *prīmus* + *-ārius* (whence *-ary*).
+
+## primitive
+
+- Record: `{prefix:null, stem:"prim", suffix:"-ive", literal:"first", definition:"belonging to an early stage of development; very simple"}`
+- Review: Confirmed `prim` + `-ive`; replaced the person-noun sense.
+- Reference: Wiktionary, [primitive](https://en.wiktionary.org/wiki/primitive#English) — from Old French *primitif*, from Latin *prīmitīvus* "first or earliest of its kind", from *prīmus* "first".
+
+## record
+
+- Record: `{prefix:"re-", stem:"cord", suffix:null, literal:"heart back", definition:"to write down or save something so it can be used later; also, a written account"}`
+- Review: Confirmed `re-` + `cord` via Old French *recorder* "to register, to recall", from Latin *recordor* (*re-* + *cor* "heart; mind").
+- Reference: Wiktionary, [recorder](https://en.wiktionary.org/wiki/recorder#English) — from Old French *recordour*, … from Medieval Latin *recordātor*, from Latin *recordor* "call to mind, remember".
+- Reference: Wiktionary (Latin), [recordor](https://en.wiktionary.org/wiki/recordor#Latin) — *recordor* = *re-* "back, again" + *cor* "heart; mind" (stem *cord-*) + *-ō*.
+
+## recorder
+
+- Record: `{prefix:"re-", stem:"cord", suffix:"-er", literal:"heart back", definition:"a machine that records sound or pictures; also, a simple flute-like instrument"}`
+- Review: Confirmed `re-` + `cord` + `-er`. The shared `-er` gloss was widened to "one who; that which; more" because this word names a thing (Wiktionary [-er](https://en.wiktionary.org/wiki/-er#English): "a person or thing that does an action").
+- Reference: Wiktionary, [recorder](https://en.wiktionary.org/wiki/recorder#English) — from Old French *recordour*, … from Medieval Latin *recordātor*, from Latin *recordor* "call to mind, remember".
+- Reference: Wiktionary (Latin), [recordor](https://en.wiktionary.org/wiki/recordor#Latin) — *recordor* = *re-* "back, again" + *cor* "heart; mind".
+
+## revive
+
+- Record: `{prefix:"re-", stem:"vit", suffix:null, literal:"life back", definition:"to bring back to life, strength, or use"}`
+- Review: Confirmed `re-` + `vit` with a caveat: Latin *revīvō* is *re-* + *vīvō* "live", and *vīta* "life" itself comes from *vīvō*.
+- Reference: Wiktionary, [revive](https://en.wiktionary.org/wiki/revive#English) — from Late Middle English *reviven* "to recover from illness; … to return to life".
+- Reference: Wiktionary, [vital](https://en.wiktionary.org/wiki/vital#English) — from Latin *vītālis* "of life, life-giving", from *vīta* "life", from *vīvō* "to live".
+- Reference: Wiktionary (Latin), [revivo](https://en.wiktionary.org/wiki/revivo#Latin) — *revīvō* = *re-* + *vīvō*: "to live again".
+
+## vital
+
+- Record: `{prefix:null, stem:"vit", suffix:"-al", literal:"life", definition:"extremely important; also, needed to stay alive"}`
+- Review: Confirmed `vit` + `-al`; replaced "full of spirit".
+- Reference: Wiktionary, [vital](https://en.wiktionary.org/wiki/vital#English) — from Latin *vītālis* "of life, life-giving", from *vīta* "life", from *vīvō* "to live".
+
+## congregation
+
+- Record: `{prefix:"con-", stem:"greg", suffix:"-ion", literal:"flock with", definition:"a group of people gathered together, especially for worship"}`
+- Review: Confirmed `con-` + `greg` + `-ion`.
+- Reference: Wiktionary, [congregation](https://en.wiktionary.org/wiki/congregation#English) — from Latin *congregātiō*, itself from *congregō* "to herd into a flock".
+- Reference: Wiktionary (Latin), [congrego](https://en.wiktionary.org/wiki/congrego#Latin) — *congregō* = *con-* "with" + *gregō* "herd, assemble".
+
+## doctor
+
+- Record: `{prefix:null, stem:"doc", suffix:"-or", literal:"teach", definition:"a person trained to treat sick or injured people"}`
+- Review: Confirmed `doc` + `-or` (Latin *doctor* "teacher", from *doceō* "to teach").
+- Reference: Wiktionary, [doctor](https://en.wiktionary.org/wiki/doctor#English) — from Latin *doctor* "teacher", from *doceō* "to teach".
+
+## duration
+
+- Record: `{prefix:null, stem:"dur", suffix:"-ion", literal:"lasting", definition:"how long something lasts"}`
+- Review: Confirmed `dur` + `-ion` (Medieval Latin *dūrātiō*, from *dūrō* "to last", from *dūrus* "hard"). Literal changed from "hard" to "lasting".
+- Reference: Wiktionary, [duration](https://en.wiktionary.org/wiki/duration#English) — from late Old French *duracion*, from Medieval Latin *dūrātiō*.
+- Reference: Wiktionary (Latin), [duro](https://en.wiktionary.org/wiki/duro#Latin) — *dūrō* = *dūrus* "hard" + *-ō*: "to harden; to last or endure".
+
+## gravity
+
+- Record: `{prefix:null, stem:"grav", suffix:"-ity", literal:"heavy", definition:"the force that pulls things toward the Earth; also, seriousness"}`
+- Review: Confirmed `grav` + `-ity` (Latin *gravitās* "heaviness, weight"); added the physics sense.
+- Reference: Wiktionary, [gravity](https://en.wiktionary.org/wiki/gravity#English) — from French *gravité* "seriousness, solemnity; … (physics) gravity", or from its etymon Latin *gravitās* "heaviness, weight".
+
+## illusion
+
+- Record: `{prefix:"in-", stem:"lud", suffix:"-ion", literal:"play at", definition:"something that seems real but is not"}`
+- Review: Confirmed `in-` + `lud` + `-ion` (Latin *illūdere*, *in-* "at, upon" + *lūdere* "to play, mock, trick"). Literal changed from "play into" to "play at"; the shared `in-` gloss was widened to "into, on, not" (see the Latin prefix entry: "against; into; on, upon").
+- Reference: Wiktionary, [illusion](https://en.wiktionary.org/wiki/illusion#English) — from Latin *illūsiō*, from *illūdere*, from *in-* "at, upon" + *lūdere* "to play, mock, trick".
+- Reference: Wiktionary (Latin), [in-](https://en.wiktionary.org/wiki/in-#Latin) — prepositional prefix: "in, within"; "against; into; on, upon; to, towards".
+
+## immediate
+
+- Record: `{prefix:"in-", stem:"med", suffix:"-ate", literal:"not in between", definition:"happening right away"}`
+- Review: Confirmed `in-` (not) + `med` + `-ate` (Late Latin *immediātus* "without in-between"). Literal changed from "middle into" to "not in between".
+- Reference: Wiktionary, [immediate](https://en.wiktionary.org/wiki/immediate#English) — from Late Latin *immediātus* "without in-between", from *in* + *mediātus*.
+
+## immigration
+
+- Record: `{prefix:"in-", stem:"migr", suffix:"-ion", literal:"move into", definition:"the act of coming to live in a new country"}`
+- Review: Confirmed `in-` + `migr` + `-ion` (*immigrate* + *-ion*).
+- Reference: Wiktionary, [immigration](https://en.wiktionary.org/wiki/immigration#English) — *immigrate* + *-ion*.
+- Reference: Wiktionary, [immigrate](https://en.wiktionary.org/wiki/immigrate#English) — from Latin *immigratus*, past participle of *immigro* "remove, move into".
+- Reference: Wiktionary (Latin), [immigro](https://en.wiktionary.org/wiki/immigro#Latin) — *immigrō* = *in-* "in, at, on" + *migrō* "depart, migrate".
+
+## incredible
+
+- Record: `{prefix:"in-", stem:"cred", suffix:"-ible", literal:"not believable", definition:"so amazing it is hard to believe"}`
+- Review: Confirmed `in-` (not) + `cred` + `-ible`. Literal changed from "believe into" to "not believable".
+- Reference: Wiktionary, [incredible](https://en.wiktionary.org/wiki/incredible#English) — from Latin *incrēdibilis* "that cannot be believed", from *in-* "not" + *crēdibilis* "worthy of belief", from *crēdō* "believe".
+
+## influence
+
+- Record: `{prefix:"in-", stem:"flu", suffix:"-ence", literal:"flow into", definition:"the power to affect what someone does or thinks"}`
+- Review: Confirmed `in-` + `flu` + `-ence`. Literal changed from "not flow" to "flow into": *in-* here means "in", not "not".
+- Reference: Wiktionary, [influence](https://en.wiktionary.org/wiki/influence#English) — from Middle English *influence*, from Old French *influence*.
+- Reference: Wiktionary (French), [influence](https://en.wiktionary.org/wiki/influence#French) — borrowed from Medieval Latin *īnfluentia*, from Latin *īnfluēns* "flowing in", present active participle of *īnfluō* "flow into", from *in-* + *fluō* "flow".
+
+## intruder
+
+- Record: `{prefix:"in-", stem:"trud", suffix:"-er", literal:"push into", definition:"a person who goes somewhere without permission"}`
+- Review: Confirmed `in-` + `trud` + `-er` (*intrude* + *-er*). Literal changed from "not push" to "push into".
+- Reference: Wiktionary, [intruder](https://en.wiktionary.org/wiki/intruder#English) — *intrude* + *-er* (agent noun).
+- Reference: Wiktionary, [intrude](https://en.wiktionary.org/wiki/intrude#English) — from Latin *intrudere*, from *in-* + *trudere* "to thrust".
+
+## junction
+
+- Record: `{prefix:null, stem:"junct", suffix:"-ion", literal:"join", definition:"a place where roads or lines meet"}`
+- Review: Confirmed `junct` + `-ion`.
+- Reference: Wiktionary, [junction](https://en.wiktionary.org/wiki/junction#English) — from Latin *iūnctiō* "union, joining, uniting", from *iungō* "join, attach together".
+
+## memorable
+
+- Record: `{prefix:null, stem:"memor", suffix:"-able", literal:"remember", definition:"worth remembering; easy to remember"}`
+- Review: Confirmed `memor` + `-able`.
+- Reference: Wiktionary, [memorable](https://en.wiktionary.org/wiki/memorable#English) — from Latin *memorābilis*, from *memorō* "to bring to remembrance", from *memor* "mindful, remembering".
+
+## mutant
+
+- Record: `{prefix:null, stem:"mut", suffix:"-ant", literal:"change", definition:"a living thing that is different because of a change in its genes"}`
+- Review: Confirmed `mut` + `-ant` (Latin *mūtāns*, from *mūtō* "change").
+- Reference: Wiktionary, [mutant](https://en.wiktionary.org/wiki/mutant#English) — from Latin *mūtāns*, present participle of *mūtō*.
+
+## naval
+
+- Record: `{prefix:null, stem:"nav", suffix:"-al", literal:"ship", definition:"relating to a navy or warships"}`
+- Review: Confirmed `nav` + `-al`.
+- Reference: Wiktionary, [naval](https://en.wiktionary.org/wiki/naval#English) — from Middle French *naval*, from Latin *nāvālis*; *navy* + *-al*.
+
+## numerous
+
+- Record: `{prefix:null, stem:"numer", suffix:"-ous", literal:"number", definition:"many"}`
+- Review: Confirmed `numer` + `-ous` (Latin *numerōsus*).
+- Reference: Wiktionary, [numerous](https://en.wiktionary.org/wiki/numerous#English) — from Latin *numerōsus* "numerous, abundant", from *numerus* "number".
+
+## private
+
+- Record: `{prefix:null, stem:"priv", suffix:"-ate", literal:"separate", definition:"belonging to or meant for one person or group, not everyone"}`
+- Review: Confirmed `priv` + `-ate` (Latin *prīvātus*, past participle of *prīvō*, from *prīvus* "single; private").
+- Reference: Wiktionary, [private](https://en.wiktionary.org/wiki/private#English) — from Latin *prīvātus* "bereaved, deprived, set apart from".
+- Reference: Wiktionary (Latin), [privo](https://en.wiktionary.org/wiki/privo#Latin) — *prīvō* = *prīvus* "single; private" + *-ō*.
+
+## recognition
+
+- Record: `{prefix:"re-", stem:"cogn", suffix:"-ion", literal:"know again", definition:"the act of knowing someone or something you have seen before; also, praise for something done"}`
+- Review: Confirmed `re-` + `cogn` + `-ion`. Literal changed from "know back" to "know again", matching *recognōscō* "to know again".
+- Reference: Wiktionary, [recognition](https://en.wiktionary.org/wiki/recognition#English) — from Latin *recognitiōnem*, from *recognitus*, past participle of *recognōscō*.
+- Reference: Wiktionary (Latin), [recognosco](https://en.wiktionary.org/wiki/recognosco#Latin) — *recognōscō* = *re-* "back; again" + *cognōscō* "know, recognize": "to know again".
+
+## sonic
+
+- Record: `{prefix:null, stem:"son", suffix:"-ic", literal:"sound", definition:"relating to sound"}`
+- Review: Confirmed `son` + `-ic` (Latin *sonus* "sound" + *-ic*).
+- Reference: Wiktionary, [sonic](https://en.wiktionary.org/wiki/sonic#English) — Latin *sonus* + *-ic*.
+
+## urban
+
+- Record: `{prefix:null, stem:"urb", suffix:"-an", literal:"city", definition:"relating to a city"}`
+- Review: Confirmed `urb` + `-an` (Latin *urbānus*).
+- Reference: Wiktionary, [urban](https://en.wiktionary.org/wiki/urban#English) — from Middle French *urbain* "belonging to a city, urban", or from its etymon Latin *urbānus*; Latin *urbānus* + *-an*.
+
+## verify
+
+- Record: `{prefix:null, stem:"ver", suffix:"-fy", literal:"true", definition:"to check that something is true or correct"}`
+- Review: Confirmed `ver` + `-fy` (Medieval Latin *vērificāre* "make true").
+- Reference: Wiktionary, [verify](https://en.wiktionary.org/wiki/verify#English) — from Old French *verifier*, from Medieval Latin *vērificāre* "make true", from Latin *vērus* "true" + *faciō* "do, make".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -2936,3 +3123,8 @@ Words held back from teaching modes, with the reason.
 - pervert — the decomposition is sound (*pervertō*, *per-* + *vertō*), but the common modern noun sense doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/pervert))
 - tribal — from Latin *tribālis* (*tribus* "tribe" + *-ālis*); the `trib` tile is taught as "give, pay" (from *tribuō*), which misstates the meaning of *tribal*; definition corrected to "relating to a tribe" ([Wiktionary](https://en.wiktionary.org/wiki/tribal))
 - emergency — from Medieval Latin *emergentia* (*emergens*, from *emergo*), *emergent* + *-cy*; as with *tendency* and *currency*, the recorded `-ence` suffix does not represent the English *-ency* ending; definition corrected to "a sudden, dangerous situation that needs quick action" ([Wiktionary](https://en.wiktionary.org/wiki/emergency))
+- percent — from New Latin *per centum* "by the hundred": here *per* is the Latin preposition "by, for every", which the shared `per-` tile ("through, thoroughly") does not teach. Wiktionary's `per-` entry does list a separate "by"/"per" prefix (as in *perchance*, *perhaps*), so these could return if that sense is added to the tile ([Wiktionary](https://en.wiktionary.org/wiki/percent))
+- percentage — *percent* + *-age*; inherits the *per* ("for every") mismatch of *percent* ([Wiktionary](https://en.wiktionary.org/wiki/percentage))
+- gratitude — from Medieval Latin *grātitūdō*; the sources give a *-tūdō*/*-itude* ending, not the recorded `-ude` suffix; definition corrected to "a feeling of being thankful" ([Wiktionary](https://en.wiktionary.org/wiki/gratitude))
+- solitude — *sole* + *-itude* (Latin *sōlitūdō* = *sōlus* + *-tūdō*); the recorded `-ude` suffix is not supported; definition corrected to "the state of being alone" ([Wiktionary](https://en.wiktionary.org/wiki/solitude))
+- resemblance — the ancestry *re-* + Old French *sembler* (< Late Latin *similāre*) is supported, but the sources do not establish the sense of *re-* here, so the literal "like back" is unsupported; definition corrected to "the way two things look or seem alike" ([Wiktionary](https://en.wiktionary.org/wiki/resemble))

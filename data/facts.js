@@ -35,16 +35,16 @@ window.WF.FACTS = {
   "commander": "✋ Commander shares a root with manual: Latin mandare, “to hand over,” comes from manus, “hand.”",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/submit#English (verified 2026-10-07)
   "submit": "👇 Submit literally means “send under” — placing yourself beneath someone’s authority!",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/accurate (checked 2026-07-20)
-  "accurate": "Accurate first meant 'done with care.' Its Latin family joins ad- ('to') with cura ('care').",
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/accuratus#Latin and https://en.wiktionary.org/wiki/accuro#Latin (verified 2026-10-07)
+  "accurate": "Accurate comes from Latin accuratus, “prepared with care,” from ad- (to) and curare (to care for).",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/conclude#English (verified 2026-10-07)
   "conclude": "📦 Conclude = “close together” — finishing an argument was like shutting the lid on a box!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/conclusion#English (verified 2026-10-07)
   "conclusion": "📦 A conclusion literally CLOSES the box on your story or argument!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/postpone#English (verified 2026-10-07)
   "postpone": "🗓️ Postpone = “place after” — from Latin postponere, “to put after,” built from post- (after) and ponere (to put).",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "record": "❤️ Record = “back to the heart” — Romans believed memory lived in the heart, so remembering meant returning something to it!",
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/recordor#Latin (verified 2026-10-07)
+  "record": "❤️ Record comes from Latin recordari, “to call to mind,” built on cor — a word that meant both “heart” and “mind”!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/reflect#English (verified 2026-10-07)
   "reflect": "🪞 Reflect = “bend back” — exactly what light does on a mirror, and what your mind does on an idea!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/reflection#English (verified 2026-10-07)
@@ -83,7 +83,7 @@ window.WF.FACTS = {
   "project": "🎯 Project = “throw forward” — hurling an idea into the future!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/invisible#English (verified 2026-10-07)
   "invisible": "👻 Invisible uses the sneaky NOT in- : “not able to be seen”!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/incredible#English (verified 2026-10-07)
   "incredible": "🤯 Incredible = “not believable” — so amazing your brain refuses to believe it!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/accept#English (verified 2026-10-07)
   "accept": " Accept traces to Latin acceptare, “to receive,” built from ad- (to) and capere (take).",
@@ -107,7 +107,7 @@ window.WF.FACTS = {
   "conduct": " Conduct comes from Latin conducere, lead or bring together.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/confirm#English (verified 2026-10-07)
   "confirm": " Confirm comes from Latin confirmare, make firm or strengthen.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/congregation (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/congregation#English (verified 2026-10-07)
   "congregation": " Congregation comes from Latin congregare, gather into a flock.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/congress#English (verified 2026-10-07)
   "congress": "Congress comes from Latin congressus, a meeting or encounter — a stepping together.",
@@ -205,14 +205,14 @@ window.WF.FACTS = {
   "prospect": " Prospect comes from Latin prospectus, look forward or view ahead.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/provide#English (verified 2026-10-07)
   "provide": " Provide comes from Latin providere, foresee and prepare ahead.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/container (checked 2026-07-20)
-  "container": "Container has meant 'that which contains' since about 1500; contain comes from Latin continere, 'hold together or enclose.'",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/evolution (checked 2026-07-20)
-  "evolution": "Evolution first meant the opening of something rolled up, from Latin evolutio, 'an unrolling.'",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/sensor (checked 2026-07-20)
-  "sensor": "Sensor was coined for a device that signals physical activity and belongs to the sense and sensory word family.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/infection (checked 2026-07-20)
-  "infection": "Infection once meant contamination or poisoning; its Latin ancestor inficere meant stain, spoil, or put into.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/version (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/container#English and https://en.wiktionary.org/wiki/contain#English (verified 2026-10-07)
+  "container": "Container is contain + -er; contain comes from Latin continere, “to hold or keep together.”",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/evolution#English (verified 2026-10-07)
+  "evolution": "Evolution has an older meaning of unrolling or unfolding something rolled up, from Latin evolutio, “an unrolling.”",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/sensor#English (verified 2026-10-07)
+  "sensor": "Sensor dates from around 1925–30, formed from Latin sentire, “to feel,” plus -tor; it can also be read as sense + -or.",
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/inficio#Latin (verified 2026-10-07)
+  "infection": "Infection comes from Latin inficere, which could mean “to dye, stain, poison, or spoil” — built from in- and facere (to do).",
+  // Source: Wiktionary (Latin), https://en.wiktionary.org/wiki/versio#Latin (verified 2026-10-07)
   "version": "Version comes from Latin versio, 'a turning' or translation, from vertere, 'to turn.'"
 };
