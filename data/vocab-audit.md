@@ -766,6 +766,197 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed as *transport* + *-er*; generalized the car-truck gloss.
 - Reference: Wiktionary, [transporter](https://en.wiktionary.org/wiki/transporter#English) — *transport* + *-er* (agent noun), attested 1535.
 
+## circumstance
+
+- Record: `{prefix:"circum-", stem:"stat", suffix:null, literal:"stand around", definition:"a fact or condition that affects a situation"}`
+- Review: Confirmed `circum-` + `stat` via *circumstāns* "surrounding".
+- Reference: Wiktionary, [circumstance](https://en.wiktionary.org/wiki/circumstance#English) — from Old French *circonstance*, from Latin *circumstantia*.
+- Reference: Wiktionary (Latin), [circumstantia](https://en.wiktionary.org/wiki/circumstantia#Latin) — *circumstantia*: from *circumstāns* "surrounding; encircling".
+- Reference: Wiktionary (Latin), [circumsto](https://en.wiktionary.org/wiki/circumsto#Latin) — *circumstō* = *circum-* "round; about" + *stō* "to stand".
+
+## constant
+
+- Record: `{prefix:"con-", stem:"stat", suffix:null, literal:"stand with", definition:"staying the same; not changing"}`
+- Review: Confirmed `con-` + `stat`.
+- Reference: Wiktionary, [constant](https://en.wiktionary.org/wiki/constant#English) — from Latin *constans*, from *consto*, *cōnstāre* "to stand firm".
+- Reference: Wiktionary (Latin), [consto](https://en.wiktionary.org/wiki/consto#Latin) — *cōnstō* = *con-* "together" + *stō* "stand".
+
+## constitution
+
+- Record: `{prefix:"con-", stem:"stat", suffix:"-ion", literal:"stand with", definition:"the basic laws and principles of a country or organization"}`
+- Review: Confirmed `con-` + `stat` + `-ion` with a caveat: Latin *cōnstituō* is *con-* + *statuō* "set up, establish", a causative relative of *stāre*, not *stō* itself. Replaced the generic "act of forming" gloss.
+- Reference: Wiktionary, [constitution](https://en.wiktionary.org/wiki/constitution#English) — a learned borrowing from Latin *cōnstitūtiō*.
+- Reference: Wiktionary (Latin), [constituo](https://en.wiktionary.org/wiki/constituo#Latin) — *cōnstituō* = *con-* "with" + *statuō* "set up; establish".
+
+## estate
+
+- Record: `{prefix:null, stem:"stat", suffix:null, literal:"stand", definition:"a large piece of land with a house on it, or everything a person owns"}`
+- Review: Corrected the decomposition: the initial *e-* comes from the French spelling *estat* (from Latin *status*), not from the prefix *ex-*. Changed to `stat` alone with literal "stand".
+- Reference: Wiktionary, [estate](https://en.wiktionary.org/wiki/estate#English) — from Old French *estat* (French *état*), from Latin *status*; doublet of *state*, *status*.
+- Reference: Wiktionary, [state](https://en.wiktionary.org/wiki/state#English) — from Old French *estat* and Latin *stātus* "manner of standing, attitude, position", from *stō*, *stāre* "to stand".
+
+## instance
+
+- Record: `{prefix:"in-", stem:"stat", suffix:null, literal:"stand near", definition:"an example or single occurrence of something"}`
+- Review: Confirmed `in-` + `stat` via *īnstāns*. Literal changed from "stand into" to "stand near", following the English *instant* entry; here *in-* means "on, near" (the Latin *insto* entry glosses it "after", i.e. "stand behind"), not "into" or "not".
+- Reference: Wiktionary, [instance](https://en.wiktionary.org/wiki/instance#English) — from Latin *īnstantia* "a being near, presence", from *īnstāns* "urgent"; see *instant*.
+- Reference: Wiktionary (Latin), [insto](https://en.wiktionary.org/wiki/insto#Latin) — *īnstō* = *in-* + *stō* "to stand".
+
+## instant
+
+- Record: `{prefix:"in-", stem:"stat", suffix:null, literal:"stand near", definition:"happening right away; also, a very short moment"}`
+- Review: Confirmed `in-` + `stat`. Literal changed from "stand into" to "stand near", matching the source's literal gloss "standing near"; here *in-* means "on, near" (the Latin *insto* entry glosses it "after"), not "into" or "not".
+- Reference: Wiktionary, [instant](https://en.wiktionary.org/wiki/instant#English) — from Latin *īnstāns* "present, pressing, urgent" (literally "standing near"), present active participle of *īnstō*.
+- Reference: Wiktionary (Latin), [insto](https://en.wiktionary.org/wiki/insto#Latin) — *īnstō* = *in-* + *stō* "to stand".
+
+## institution
+
+- Record: `{prefix:"in-", stem:"stat", suffix:"-ion", literal:"stand into", definition:"an established organization, such as a school, bank, or hospital"}`
+- Review: Confirmed `in-` + `stat` + `-ion` with the same *statuō* caveat as *constitution*.
+- Reference: Wiktionary, [institution](https://en.wiktionary.org/wiki/institution#English) — from Latin *institūtiō*, from *instituō* "to set up", from *in-* "in, on" + *statuō* "to set up, establish".
+
+## statement
+
+- Record: `{prefix:null, stem:"stat", suffix:"-ment", literal:"stand", definition:"something that someone says or writes officially"}`
+- Review: Confirmed as *state* + *-ment*; *state* comes from Latin *stātus*, from *stāre*.
+- Reference: Wiktionary, [statement](https://en.wiktionary.org/wiki/statement#English) — *state* + *-ment*.
+- Reference: Wiktionary, [state](https://en.wiktionary.org/wiki/state#English) — from Latin *stātus* "manner of standing, attitude, position", from *stō*, *stāre* "to stand".
+
+## station
+
+- Record: `{prefix:null, stem:"stat", suffix:"-ion", literal:"stand", definition:"a stopping place for trains or buses, or a building used for a particular service"}`
+- Review: Confirmed `stat` + `-ion`; replaced the "social situation" gloss.
+- Reference: Wiktionary, [station](https://en.wiktionary.org/wiki/station#English) — from Latin *statiōnem*, accusative of *statiō* "standing, post, job, position".
+- Reference: Wiktionary (Latin), [statio](https://en.wiktionary.org/wiki/statio#Latin) — *statiō* = *stō* "to stand" + *-tiō*.
+
+## substance
+
+- Record: `{prefix:"sub-", stem:"stat", suffix:null, literal:"stand under", definition:"a particular kind of matter or material"}`
+- Review: Confirmed `sub-` + `stat`; replaced "the idea that is intended".
+- Reference: Wiktionary, [substance](https://en.wiktionary.org/wiki/substance#English) — from Latin *substantia* "substance, essence", from *substāns*, present active participle of *substō* "exist" (literally "stand under"), from *sub* + *stō* "stand".
+
+## adventure
+
+- Record: `{prefix:"ad-", stem:"ven", suffix:"-ure", literal:"come to", definition:"an exciting or unusual experience"}`
+- Review: Confirmed `ad-` + `ven` + `-ure`; replaced the verb gloss "put at risk".
+- Reference: Wiktionary, [adventure](https://en.wiktionary.org/wiki/adventure#English) — from Vulgar Latin *\*adventūra*, from Latin *adventūrus* "about to arrive", future active participle of *adveniō* "to arrive".
+- Reference: Wiktionary (Latin), [advenio](https://en.wiktionary.org/wiki/advenio#Latin) — *adveniō* = *ad-* "toward" + *veniō* "come".
+
+## convent
+
+- Record: `{prefix:"con-", stem:"ven", suffix:null, literal:"come with", definition:"a building where nuns live and work together"}`
+- Review: Confirmed `con-` + `ven`.
+- Reference: Wiktionary, [convent](https://en.wiktionary.org/wiki/convent#English) — from Latin *conventus*, perfect participle of *convenio*; see *con-* + *venio*.
+
+## convention
+
+- Record: `{prefix:"con-", stem:"ven", suffix:"-ion", literal:"come with", definition:"a large formal meeting of people who share an interest"}`
+- Review: Confirmed `con-` + `ven` + `-ion`.
+- Reference: Wiktionary, [convention](https://en.wiktionary.org/wiki/convention#English) — from Latin *conventiō* "meeting, assembling; agreement", from *conveniō* "come, gather or meet together", from *con-* "with, together" + *veniō* "come".
+
+## event
+
+- Record: `{prefix:"ex-", stem:"ven", suffix:null, literal:"come out of", definition:"something that happens, especially something important"}`
+- Review: Confirmed `ex-` + `ven` (Latin *ē-* is a short form of *ex*).
+- Reference: Wiktionary, [event](https://en.wiktionary.org/wiki/event#English) — from Latin *ēventus* "an event, occurrence", from *ēveniō* "to happen, … to come out", from *ē* "out of, from", short form of *ex* + *veniō* "come".
+
+## intervene
+
+- Record: `{prefix:"inter-", stem:"ven", suffix:null, literal:"come between", definition:"to step in to change what is happening"}`
+- Review: Confirmed `inter-` + `ven`.
+- Reference: Wiktionary, [intervene](https://en.wiktionary.org/wiki/intervene#English) — back-formation from *intervention*, and/or from Latin *interveniō* "come between".
+- Reference: Wiktionary (Latin), [intervenio](https://en.wiktionary.org/wiki/intervenio#Latin) — *interveniō* = *inter-* "between" + *veniō* "come".
+
+## intervention
+
+- Record: `{prefix:"inter-", stem:"ven", suffix:"-ion", literal:"come between", definition:"the act of stepping in to change what is happening"}`
+- Review: Confirmed `inter-` + `ven` + `-ion`.
+- Reference: Wiktionary, [intervention](https://en.wiktionary.org/wiki/intervention#English) — from Latin *interventiō*; morphologically *intervene* + *-tion*.
+
+## invent
+
+- Record: `{prefix:"in-", stem:"ven", suffix:null, literal:"come into", definition:"to create something new that did not exist before"}`
+- Review: Confirmed `in-` + `ven`; replaced the "make up something untrue" sense.
+- Reference: Wiktionary, [invent](https://en.wiktionary.org/wiki/invent#English) — from Latin *inventus*, perfect passive participle of *inveniō* "come upon, meet with, find, discover", from *in* "in, on" + *veniō* "come".
+
+## invention
+
+- Record: `{prefix:"in-", stem:"ven", suffix:"-ion", literal:"come into", definition:"something new that someone has created"}`
+- Review: Confirmed `in-` + `ven` + `-ion`; replaced the circular "the act of inventing".
+- Reference: Wiktionary, [invention](https://en.wiktionary.org/wiki/invention#English) — from Latin *inventiō*, from *inveniō*, *invenīre* "to discover, find, invent", from *in-* + *veniō* "to come".
+
+## inventory
+
+- Record: `{prefix:"in-", stem:"ven", suffix:"-ory", literal:"come into", definition:"a complete list of items, such as the goods a store has"}`
+- Review: Confirmed `in-` + `ven` + `-ory`.
+- Reference: Wiktionary, [inventory](https://en.wiktionary.org/wiki/inventory#English) — from Medieval Latin *inventōrium*, alteration of Late Latin *inventārium*, from *inveniō* "to find out".
+
+## prevent
+
+- Record: `{prefix:"pre-", stem:"ven", suffix:null, literal:"come before", definition:"to stop something from happening"}`
+- Review: Confirmed `pre-` + `ven` (Latin *prae-*).
+- Reference: Wiktionary, [prevent](https://en.wiktionary.org/wiki/prevent#English) — from Latin *praeventus*, perfect passive participle of *praeveniō* "to anticipate", from *prae* "before" + *veniō* "to come".
+
+## venture
+
+- Record: `{prefix:null, stem:"ven", suffix:"-ure", literal:"come", definition:"a new and risky project or journey"}`
+- Review: Confirmed `ven` + `-ure` with a caveat: *venture* is a clipping of *adventure* (from Latin *adveniō*), so it lost the `ad-` prefix in English.
+- Reference: Wiktionary, [venture](https://en.wiktionary.org/wiki/venture#English) — clipping of *adventure*.
+- Reference: Wiktionary, [adventure](https://en.wiktionary.org/wiki/adventure#English) — from Latin *adventūrus*, future active participle of *adveniō* "to arrive".
+
+## evidence
+
+- Record: `{prefix:"ex-", stem:"vid", suffix:"-ence", literal:"see out of", definition:"facts or signs that show something is true"}`
+- Review: Confirmed `ex-` + `vid` + `-ence`.
+- Reference: Wiktionary, [evidence](https://en.wiktionary.org/wiki/evidence#English) — from Latin *evidentia* "clearness, in Late Latin a proof", from *evidens* "clear, evident".
+- Reference: Wiktionary (Latin), [evidens](https://en.wiktionary.org/wiki/evidens#Latin) — from *ē-* "out-, ex-" + *videō* "see".
+
+## invisible
+
+- Record: `{prefix:"in-", stem:"vid", suffix:"-ible", literal:"not see", definition:"impossible to see"}`
+- Review: Confirmed `in-` (not) + `vid` + `-ible`.
+- Reference: Wiktionary, [invisible](https://en.wiktionary.org/wiki/invisible#English) — from Late Latin *invīsibilis*; morphologically *in-* (inverse) + *visible*.
+- Reference: Wiktionary (Latin), [invisibilis](https://en.wiktionary.org/wiki/invisibilis#Latin) — *invīsibilis* = *in-* "not" + *vīsibilis*.
+
+## provide
+
+- Record: `{prefix:"pro-", stem:"vid", suffix:null, literal:"see forward", definition:"to give someone something they need"}`
+- Review: Confirmed `pro-` + `vid`.
+- Reference: Wiktionary, [provide](https://en.wiktionary.org/wiki/provide#English) — from Latin *prōvideō*, *prōvidēre* "to foresee, act with foresight".
+- Reference: Wiktionary (Latin), [provideo](https://en.wiktionary.org/wiki/provideo#Latin) — *prōvideō* = *prō-* "prior, fore-" + *videō* "to see".
+
+## providence
+
+- Record: `{prefix:"pro-", stem:"vid", suffix:"-ence", literal:"see forward", definition:"care and guidance believed to come from God or nature"}`
+- Review: Confirmed `pro-` + `vid` + `-ence`. The source definition named the city of Providence, Rhode Island; replaced it with the word's sense.
+- Reference: Wiktionary, [providence](https://en.wiktionary.org/wiki/providence#English) — from Latin *prōvidentia* "providence, foresight", from the present participle of *prōvidēre* "to provide".
+
+## supervision
+
+- Record: `{prefix:"super-", stem:"vid", suffix:"-ion", literal:"see above", definition:"the act of watching over people or work to make sure it is done right"}`
+- Review: Confirmed `super-` + `vid` + `-ion`.
+- Reference: Wiktionary, [supervision](https://en.wiktionary.org/wiki/supervision#English) — from Latin *supervisiō*.
+- Reference: Wiktionary, [supervisor](https://en.wiktionary.org/wiki/supervisor#English) — from Latin *supervīsor*, from *supervideō*, in turn from *super* + *videō*.
+
+## supervisor
+
+- Record: `{prefix:"super-", stem:"vid", suffix:"-or", literal:"see above", definition:"a person who is in charge of other people's work"}`
+- Review: Confirmed `super-` + `vid` + `-or`.
+- Reference: Wiktionary, [supervisor](https://en.wiktionary.org/wiki/supervisor#English) — from Latin *supervīsor*, from *supervideō*, in turn from *super* + *videō*.
+
+## visible
+
+- Record: `{prefix:null, stem:"vid", suffix:"-ible", literal:"see", definition:"able to be seen"}`
+- Review: Confirmed `vid` + `-ible`.
+- Reference: Wiktionary, [visible](https://en.wiktionary.org/wiki/visible#English) — from Late Latin *visibilis* "that may be seen", from Latin *videre* "to see".
+- Reference: Wiktionary (Latin), [visibilis](https://en.wiktionary.org/wiki/visibilis#Latin) — *vīsibilis* = *videō* "see" + *-bilis*.
+
+## vision
+
+- Record: `{prefix:null, stem:"vid", suffix:"-ion", literal:"see", definition:"the ability to see"}`
+- Review: Confirmed `vid` + `-ion`; definition unchanged.
+- Reference: Wiktionary, [vision](https://en.wiktionary.org/wiki/vision#English) — from Latin *vīsiō* "vision, seeing", from *visus* "that which is seen", from *videō* "to see" + *-iō*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -779,3 +970,7 @@ Words held back from teaching modes, with the reason.
 - performance — same as *perform*: *perform* + *-ance*, and *perform* is not from *forma* ([Wiktionary](https://en.wiktionary.org/wiki/performance))
 - performer — same as *perform*: *perform* + *-er* ([Wiktionary](https://en.wiktionary.org/wiki/performer))
 - mobile — Latin *mōbilis* is *moveō* + *-bilis*, which fits the `mot` family but not the recorded `-ile` suffix; definition corrected to "able to move or be moved easily" but held back until the suffix can be represented accurately ([Wiktionary](https://en.wiktionary.org/wiki/mobilis#Latin))
+- static — Greek *statikós*, from *hístēmi* "to make stand"; cognate with Latin *stāre* but not derived from it, so the `stat` (Latin) decomposition is not supported; definition corrected to "not moving or changing" ([Wiktionary](https://en.wiktionary.org/wiki/static))
+- advise — comes via Late Latin *advisō* = *ad* + *vīsō*; Wiktionary disagrees on whether *vīsō* derives from *videō* (English *visit* entry) or is a sister formation from the same root (Latin *viso* entry), so the `vid` mapping is unresolved; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/viso#Latin))
+- advisor — *advise* + *-or*; inherits the unresolved `vid` mapping of *advise*; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/advisor))
+- visitor — *visit* + *-or*, from Latin *vīsitō*, frequentative of *vīsō*; same unresolved *vīsō*/*videō* conflict as *advise*; definition corrected ([Wiktionary](https://en.wiktionary.org/wiki/visit))

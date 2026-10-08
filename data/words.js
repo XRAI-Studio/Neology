@@ -1036,8 +1036,8 @@ window.WF.WORDS = [
     "ven",
     "-ure",
     "come to",
-    "put at risk",
-    false
+    "an exciting or unusual experience",
+    true
   ],
   [
     "advise",
@@ -1045,7 +1045,7 @@ window.WF.WORDS = [
     "vid",
     null,
     "see to",
-    "give advice to",
+    "to suggest what someone should do",
     false
   ],
   [
@@ -1054,7 +1054,7 @@ window.WF.WORDS = [
     "vid",
     "-or",
     "see to",
-    "an expert who gives advice",
+    "a person who gives advice",
     false
   ],
   [
@@ -1315,8 +1315,8 @@ window.WF.WORDS = [
     "stat",
     null,
     "stand around",
-    "information that should be kept in mind when making a decision",
-    false
+    "a fact or condition that affects a situation",
+    true
   ],
   [
     "collect",
@@ -1684,8 +1684,8 @@ window.WF.WORDS = [
     "stat",
     null,
     "stand with",
-    "unvarying in nature",
-    false
+    "staying the same; not changing",
+    true
   ],
   [
     "constitution",
@@ -1693,8 +1693,8 @@ window.WF.WORDS = [
     "stat",
     "-ion",
     "stand with",
-    "the act of forming or establishing something",
-    false
+    "the basic laws and principles of a country or organization",
+    true
   ],
   [
     "construction",
@@ -1792,8 +1792,8 @@ window.WF.WORDS = [
     "ven",
     null,
     "come with",
-    "a religious residence especially for nuns",
-    false
+    "a building where nuns live and work together",
+    true
   ],
   [
     "convention",
@@ -1801,8 +1801,8 @@ window.WF.WORDS = [
     "ven",
     "-ion",
     "come with",
-    "a large formal assembly",
-    false
+    "a large formal meeting of people who share an interest",
+    true
   ],
   [
     "conversation",
@@ -2454,12 +2454,12 @@ window.WF.WORDS = [
   ],
   [
     "estate",
-    "ex-",
+    null,
     "stat",
     null,
-    "stand out of",
-    "everything you own",
-    false
+    "stand",
+    "a large piece of land with a house on it, or everything a person owns",
+    true
   ],
   [
     "evacuate",
@@ -2494,8 +2494,8 @@ window.WF.WORDS = [
     "ven",
     null,
     "come out of",
-    "a special set of circumstances",
-    false
+    "something that happens, especially something important",
+    true
   ],
   [
     "evidence",
@@ -2503,8 +2503,8 @@ window.WF.WORDS = [
     "vid",
     "-ence",
     "see out of",
-    "your basis for belief or disbelief",
-    false
+    "facts or signs that show something is true",
+    true
   ],
   [
     "evolution",
@@ -3177,18 +3177,18 @@ window.WF.WORDS = [
     "in-",
     "stat",
     null,
-    "stand into",
-    "an occurrence of something",
-    false
+    "stand near",
+    "an example or single occurrence of something",
+    true
   ],
   [
     "instant",
     "in-",
     "stat",
     null,
-    "stand into",
-    "occurring with no delay",
-    false
+    "stand near",
+    "happening right away; also, a very short moment",
+    true
   ],
   [
     "institution",
@@ -3196,8 +3196,8 @@ window.WF.WORDS = [
     "stat",
     "-ion",
     "stand into",
-    "an organization founded and united for a specific purpose",
-    false
+    "an established organization, such as a school, bank, or hospital",
+    true
   ],
   [
     "instruction",
@@ -3313,8 +3313,8 @@ window.WF.WORDS = [
     "ven",
     null,
     "come between",
-    "occur between other event or between certain points of time",
-    false
+    "to step in to change what is happening",
+    true
   ],
   [
     "intervention",
@@ -3322,8 +3322,8 @@ window.WF.WORDS = [
     "ven",
     "-ion",
     "come between",
-    "the act of intervening (as to mediate a dispute, etc.)",
-    false
+    "the act of stepping in to change what is happening",
+    true
   ],
   [
     "intruder",
@@ -3340,8 +3340,8 @@ window.WF.WORDS = [
     "ven",
     null,
     "come into",
-    "make up something artificial or untrue",
-    false
+    "to create something new that did not exist before",
+    true
   ],
   [
     "invention",
@@ -3349,8 +3349,8 @@ window.WF.WORDS = [
     "ven",
     "-ion",
     "come into",
-    "the act of inventing",
-    false
+    "something new that someone has created",
+    true
   ],
   [
     "inventory",
@@ -3358,8 +3358,8 @@ window.WF.WORDS = [
     "ven",
     "-ory",
     "come into",
-    "the merchandise that a shop has on hand",
-    false
+    "a complete list of items, such as the goods a store has",
+    true
   ],
   [
     "invincible",
@@ -3376,8 +3376,8 @@ window.WF.WORDS = [
     "vid",
     "-ible",
     "not see",
-    "not prominent or readily noticeable",
-    false
+    "impossible to see",
+    true
   ],
   [
     "involve",
@@ -4078,8 +4078,8 @@ window.WF.WORDS = [
     "ven",
     null,
     "come before",
-    "keep from happening or arising",
-    false
+    "to stop something from happening",
+    true
   ],
   [
     "primary",
@@ -4312,8 +4312,8 @@ window.WF.WORDS = [
     "vid",
     null,
     "see forward",
-    "give something useful or necessary to",
-    false
+    "to give someone something they need",
+    true
   ],
   [
     "providence",
@@ -4321,8 +4321,8 @@ window.WF.WORDS = [
     "vid",
     "-ence",
     "see forward",
-    "the capital and largest city of Rhode Island",
-    false
+    "care and guidance believed to come from God or nature",
+    true
   ],
   [
     "provoke",
@@ -4969,8 +4969,8 @@ window.WF.WORDS = [
     "stat",
     "-ment",
     "stand",
-    "a message that is stated or declared",
-    false
+    "something that someone says or writes officially",
+    true
   ],
   [
     "static",
@@ -4978,7 +4978,7 @@ window.WF.WORDS = [
     "stat",
     "-ic",
     "stand",
-    "angry criticism",
+    "not moving or changing",
     false
   ],
   [
@@ -4987,8 +4987,8 @@ window.WF.WORDS = [
     "stat",
     "-ion",
     "stand",
-    "proper or designated social situation",
-    false
+    "a stopping place for trains or buses, or a building used for a particular service",
+    true
   ],
   [
     "structure",
@@ -5023,8 +5023,8 @@ window.WF.WORDS = [
     "stat",
     null,
     "stand under",
-    "the idea that is intended",
-    false
+    "a particular kind of matter or material",
+    true
   ],
   [
     "succeed",
@@ -5077,8 +5077,8 @@ window.WF.WORDS = [
     "vid",
     "-ion",
     "see above",
-    "management by overseeing the performance or operation of a person or group",
-    false
+    "the act of watching over people or work to make sure it is done right",
+    true
   ],
   [
     "supervisor",
@@ -5086,8 +5086,8 @@ window.WF.WORDS = [
     "vid",
     "-or",
     "see above",
-    "a person who oversees a person, group, or activity",
-    false
+    "a person who is in charge of other people's work",
+    true
   ],
   [
     "supply",
@@ -5347,8 +5347,8 @@ window.WF.WORDS = [
     "ven",
     "-ure",
     "come",
-    "an investment that is very risky but could yield great profits",
-    false
+    "a new and risky project or journey",
+    true
   ],
   [
     "verify",
@@ -5392,8 +5392,8 @@ window.WF.WORDS = [
     "vid",
     "-ible",
     "see",
-    "obvious to the eye",
-    false
+    "able to be seen",
+    true
   ],
   [
     "vision",
@@ -5402,7 +5402,7 @@ window.WF.WORDS = [
     "-ion",
     "see",
     "the ability to see",
-    false
+    true
   ],
   [
     "visitor",
@@ -5410,7 +5410,7 @@ window.WF.WORDS = [
     "vid",
     "-or",
     "see",
-    "someone who visits",
+    "a person who comes to see a place or person",
     false
   ],
   [

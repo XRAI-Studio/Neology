@@ -77,11 +77,11 @@ window.WF.FACTS = {
   "support": "🏗️ Support = “carry from under” — holding something up from below!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "predict": "🔮 Predict = “say before” — speaking the future before it happens!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/prevent#English (verified 2026-10-07)
   "prevent": "🚧 Prevent = “come before” — getting there FIRST so something can’t happen!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "project": "🎯 Project = “throw forward” — hurling an idea into the future!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/invisible#English (verified 2026-10-07)
   "invisible": "👻 Invisible uses the sneaky NOT in- : “not able to be seen”!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "incredible": "🤯 Incredible = “not believable” — so amazing your brain refuses to believe it!",
@@ -113,7 +113,7 @@ window.WF.FACTS = {
   "congress": " Congress comes from Latin congressus, a meeting or encounter  a stepping together.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/conscience (checked 2026-07-20)
   "conscience": " Conscience comes from Latin conscientia, knowledge within oneself or shared knowledge.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/constant (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/constant#English (verified 2026-10-07)
   "constant": " Constant comes from Latin constare, stand firm.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/construction (checked 2026-07-20)
   "construction": " Construction comes from Latin construere, pile up or build together.",
@@ -121,7 +121,7 @@ window.WF.FACTS = {
   "contemporary": " Contemporary literally joins together with time: people or things sharing an era.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/contract (checked 2026-07-20)
   "contract": " Contract comes from Latin contrahere, draw together, as an agreement draws parties together.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/convention (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/convention#English (verified 2026-10-07)
   "convention": " Convention comes from Latin convenire, come together or assemble.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/decision (checked 2026-07-20)
   "decision": " Decision comes from Latin decidere, cut off  choosing cuts away the alternatives.",
@@ -145,9 +145,9 @@ window.WF.FACTS = {
   "election": " Election comes from Latin eligere, pick out or choose.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/emerge (checked 2026-07-20)
   "emerge": " Emerge comes from Latin emergere, rise out or come forth.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/estate (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/estate#English (verified 2026-10-07)
   "estate": " Estate grew from a word for state or condition, ultimately tied to Latin stare, stand.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/evidence (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/evidence#English (verified 2026-10-07)
   "evidence": " Evidence is related to Latin evidens, obvious or clearly seen.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/except#English (verified 2026-10-07)
   "except": " Except comes from Latin excipere, take out, removing one thing from the group.",
@@ -179,7 +179,7 @@ window.WF.FACTS = {
   "instruction": "Instruction comes from Latin instruere, 'arrange, equip, or build up.'",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/intact (checked 2026-07-20)
   "intact": " Intact comes from Latin intactus, untouched.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/invent (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/invent#English (verified 2026-10-07)
   "invent": " Invent comes from Latin invenire, come upon or find.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/involve (checked 2026-07-20)
   "involve": " Involve comes from Latin involvere, roll in or wrap up.",
@@ -203,7 +203,7 @@ window.WF.FACTS = {
   "prosecution": " Prosecution comes from Latin prosequi, follow after or pursue.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/prospect (checked 2026-07-20)
   "prospect": " Prospect comes from Latin prospectus, look forward or view ahead.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/provide (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/provide#English (verified 2026-10-07)
   "provide": " Provide comes from Latin providere, foresee and prepare ahead.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/container (checked 2026-07-20)
   "container": "Container has meant 'that which contains' since about 1500; contain comes from Latin continere, 'hold together or enclose.'",
