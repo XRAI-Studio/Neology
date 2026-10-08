@@ -3093,6 +3093,21 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `ver` + `-fy` (Medieval Latin *vērificāre* "make true").
 - Reference: Wiktionary, [verify](https://en.wiktionary.org/wiki/verify#English) — from Old French *verifier*, from Medieval Latin *vērificāre* "make true", from Latin *vērus* "true" + *faciō* "do, make".
 
+## percent
+
+- Record: `{prefix:"per-", stem:"cent", suffix:null, literal:"by hundred", definition:"out of every hundred; for example, 50 percent means 50 out of 100"}`
+- Review: Restored from quarantine at the owner's request once the shared `per-` tile included the sourced "by" sense. Confirmed `per-` + `cent`: New Latin *per centum* "by the hundred", where *per* means "by" (Wiktionary `per-` Etymology 2) and *centum* means "a hundred". Literal "by hundred". Replaced the awkward source gloss with a learner definition.
+- Reference: Wiktionary, [percent](https://en.wiktionary.org/wiki/percent#English) — from New Latin *per centum* "by the hundred"; sense "for every hundred".
+- Reference: Wiktionary, [per-](https://en.wiktionary.org/wiki/per-#English) — (Etymology 2) denoting the sense "by" or "per", as in *perchance* or *perhaps*.
+- Reference: Wiktionary (Latin), [centum](https://en.wiktionary.org/wiki/centum#Latin) — *centum*: "a hundred; 100".
+
+## percentage
+
+- Record: `{prefix:"per-", stem:"cent", suffix:"-age", literal:"by hundred + rate of", definition:"an amount shown as a part of a hundred, like 25 out of 100"}`
+- Review: Restored with *percent*. Confirmed `per-` + `cent` + `-age` (*percent* + *-age*, a suffix indicating a rate; the shared `-age` tile includes "rate"). Literal "by hundred + rate of".
+- Reference: Wiktionary, [percentage](https://en.wiktionary.org/wiki/percentage#English) — from *percent*, from Latin *per centum* "for every hundred", + *-age* (suffix indicating a rate); sense "the amount, number or rate of something".
+- Reference: Wiktionary, [-age](https://en.wiktionary.org/wiki/-age#English) — forming nouns indicating a rate.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -3123,8 +3138,6 @@ Words held back from teaching modes, with the reason.
 - pervert — the decomposition is sound (*pervertō*, *per-* + *vertō*), but the common modern noun sense doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/pervert))
 - tribal — from Latin *tribālis* (*tribus* "tribe" + *-ālis*); the `trib` tile is taught as "give, pay" (from *tribuō*), which misstates the meaning of *tribal*; definition corrected to "relating to a tribe" ([Wiktionary](https://en.wiktionary.org/wiki/tribal))
 - emergency — from Medieval Latin *emergentia* (*emergens*, from *emergo*), *emergent* + *-cy*; as with *tendency* and *currency*, the recorded `-ence` suffix does not represent the English *-ency* ending; definition corrected to "a sudden, dangerous situation that needs quick action" ([Wiktionary](https://en.wiktionary.org/wiki/emergency))
-- percent — from New Latin *per centum* "by the hundred": *per* here means "by, for every" (Wiktionary [per-](https://en.wiktionary.org/wiki/per-#English) Etymology 2: "by" or "per"). The shared `per-` tile now includes "by" and the literal is "by hundred", so the original tile mismatch is resolved; held back until the owner decides to restore it ([Wiktionary](https://en.wiktionary.org/wiki/percent))
-- percentage — *percent* + *-age* ("a suffix indicating a rate"); the shared `-age` tile now includes "rate" and the literal is "by hundred + rate of"; held back with *percent* until the owner decides to restore it ([Wiktionary](https://en.wiktionary.org/wiki/percentage))
 - gratitude — from Medieval Latin *grātitūdō*; the sources give a *-tūdō*/*-itude* ending, not the recorded `-ude` suffix; definition corrected to "a feeling of being thankful" ([Wiktionary](https://en.wiktionary.org/wiki/gratitude))
 - solitude — *sole* + *-itude* (Latin *sōlitūdō* = *sōlus* + *-tūdō*); the recorded `-ude` suffix is not supported; definition corrected to "the state of being alone" ([Wiktionary](https://en.wiktionary.org/wiki/solitude))
 - resemblance — the ancestry *re-* + Old French *sembler* (< Late Latin *similāre*) is supported, but the sources do not establish the sense of *re-* here, so the literal "like back" is unsupported; definition corrected to "the way two things look or seem alike" ([Wiktionary](https://en.wiktionary.org/wiki/resemble))

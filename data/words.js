@@ -3826,8 +3826,8 @@ window.WF.WORDS = [
     "cent",
     null,
     "by hundred",
-    "a proportion in relation to a whole (which is usually the amount per hundred)",
-    false
+    "out of every hundred; for example, 50 percent means 50 out of 100",
+    true
   ],
   [
     "percentage",
@@ -3835,8 +3835,8 @@ window.WF.WORDS = [
     "cent",
     "-age",
     "by hundred + rate of",
-    "a proportion in relation to a whole (which is usually the amount per hundred)",
-    false
+    "an amount shown as a part of a hundred, like 25 out of 100",
+    true
   ],
   [
     "perception",
