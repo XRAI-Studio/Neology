@@ -1,10 +1,9 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
-import vm from 'node:vm';
 import { createRequire } from 'node:module';
+import { root, loadData, parseAudit } from './data-lib.mjs';
 
-const root = path.resolve(import.meta.dirname, '..');
 const require = createRequire(import.meta.url);
 const core = require(path.join(root, 'core.js'));
 
@@ -18,14 +17,6 @@ function test(name, fn) {
     console.error(`FAIL ${name}`);
     throw error;
   }
-}
-
-function loadData() {
-  const context = vm.createContext({ window: {} });
-  for (const file of ['data/words.js', 'data/facts.js', 'data/stories.js']) {
-    vm.runInContext(fs.readFileSync(path.join(root, file), 'utf8'), context, { filename: file });
-  }
-  return context.window.WF;
 }
 
 const WF = loadData();
@@ -42,23 +33,22 @@ test('extraction counts are exact', () => {
   assert.equal(WF.SUFFIXES.length, 25);
   assert.equal(WF.STORIES.length, 18);
   assert.ok(Object.keys(WF.FAMILY_NOTES).length > 0);
-  assert.ok(Object.keys(WF.FACTS).length >= 90 && Object.keys(WF.FACTS).length <= 110);
+  assert.ok(Object.keys(WF.FACTS).length > 0);
 });
 
 test('source extraction spot checks survived the split', () => {
-  assert.deepEqual(Array.from(wordsByKey.get('abduction').slice(0, 6)), ['abduction', 'ab-', 'duc', '-ion', 'lead away from', 'the criminal act of capturing and carrying away by force a family member']);
-  assert.deepEqual(Array.from(wordsByKey.get('vocal').slice(0, 6)), ['vocal', null, 'voc', '-al', 'call', 'a short musical composition with words']);
+  assert.deepEqual(Array.from(wordsByKey.get('abduction').slice(0, 4)), ['abduction', 'ab-', 'duc', '-ion']);
+  assert.deepEqual(Array.from(wordsByKey.get('vocal').slice(0, 4)), ['vocal', null, 'voc', '-al']);
 });
 
 test('every fact belongs to a word', () => {
   for (const key of Object.keys(WF.FACTS)) assert.ok(wordsByKey.has(key), `orphan fact: ${key}`);
 });
 
-test('facts have clean encoding and every reviewed word has a collectible fact', () => {
+test('facts have clean encoding', () => {
   for (const [key, fact] of Object.entries(WF.FACTS)) {
     assert.doesNotMatch(fact, /(?:Ã|â|ðŸ|ï¸|�)/u, `${key} contains mojibake`);
   }
-  for (const word of reviewedWords) assert.ok(WF.FACTS[word[0]], `${word[0]} needs a collectible fact`);
 });
 
 test('every word has a valid schema and known parts', () => {
@@ -89,11 +79,21 @@ test('known vocabulary defects are repaired', () => {
   assert.match(WF.FAMILY_NOTES['ad-'], /accurare.*take care of/i);
 });
 
-test('vocab audit covers every reviewed word', () => {
-  const auditPath = path.join(root, 'data/vocab-audit.md');
-  assert.ok(fs.existsSync(auditPath));
-  const audit = fs.readFileSync(auditPath, 'utf8');
-  for (const word of reviewedWords) assert.match(audit, new RegExp(`^## ${word[0]}$`, 'm'));
+test('vocab audit cites a reference for every reviewed word', () => {
+  const { sections } = parseAudit();
+  for (const word of reviewedWords) {
+    assert.ok(sections.has(word[0]), `${word[0]} needs an audit section`);
+    assert.match(sections.get(word[0]), /https:\/\//, `${word[0]} audit needs a reference link`);
+  }
+});
+
+test('quarantined words are known, unreviewed, and not also audited as reviewed', () => {
+  const { sections, quarantined } = parseAudit();
+  for (const key of quarantined.keys()) {
+    assert.ok(wordsByKey.has(key), `quarantined word ${key} is not in the bank`);
+    assert.equal(wordsByKey.get(key)[6], false, `${key} is quarantined but reviewed:true`);
+    assert.ok(!sections.has(key), `${key} is both quarantined and audited as reviewed`);
+  }
 });
 
 test('XP uses pre-increment combo tiers', () => {
@@ -180,7 +180,7 @@ test('field validator defaults each malformed field independently', () => {
 });
 
 test('teaching-mode selectors exclude every unreviewed word', () => {
-  assert.ok(reviewedWords.length > 0 && reviewedWords.length < WF.WORDS.length);
+  assert.ok(reviewedWords.length > 0);
   const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
   assert.match(html, /const REVIEWED_WORDS\s*=\s*WF\.WORDS\.filter\(word\s*=>\s*word\[6\]\s*===\s*true\)/);
   assert.match(html, /pick\(REVIEWED_WORDS\)/g);

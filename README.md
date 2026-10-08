@@ -2,7 +2,7 @@
 
 Word Forge is a static, dark forge-themed educational game for exploring Latin-rooted vocabulary. It preserves five play areas—Forge, Decode, Lexicon, Flashcards, and Stories—and adds a Fact Vault, persistent XP, daily streaks, levels, sound control, and accessible serialized reward dialogs.
 
-The source bank contains 500 records. **6 reviewed words** are currently eligible for Forge, Decode, and word Flashcards; the remaining 494 are preserved but quarantined until their decompositions and definitions receive named-reference review. See [`data/vocab-audit.md`](data/vocab-audit.md).
+The source bank contains 500 records. Only words marked `reviewed:true` are taught in Forge, Decode, and word Flashcards; the rest are preserved but held back until their decompositions and definitions receive named-reference review, or are quarantined with a reason. `npm test` prints the current reviewed count, `node scripts/review-status.mjs` shows progress by stem family, and [`data/vocab-audit.md`](data/vocab-audit.md) records each decision and its reference.
 
 ## Run locally
 
@@ -24,6 +24,7 @@ npm test
 - `core.js` is the shared browser/Node progression and persistence module.
 - `data/words.js`, `data/facts.js`, and `data/stories.js` expose classic-script `window.WF.*` globals so direct `file://` loading works.
 - `scripts/check-data.mjs` validates the data split and shared core behavior.
+- `scripts/review-status.mjs` reports vocabulary review progress and the next batch to review.
 
 ## Progress, offline use, and privacy
 
