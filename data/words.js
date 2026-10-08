@@ -1018,8 +1018,8 @@ window.WF.WORDS = [
     "mit",
     "-ion",
     "send to",
-    "the fee charged for admission",
-    false
+    "permission to enter a place",
+    true
   ],
   [
     "admit",
@@ -1027,8 +1027,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send to",
-    "allow to enter",
-    false
+    "to let someone in, or to agree that something is true",
+    true
   ],
   [
     "adventure",
@@ -1405,8 +1405,8 @@ window.WF.WORDS = [
     "mit",
     "-ion",
     "send with",
-    "a special group delegated to consider some matter",
-    false
+    "a group of people officially given a particular job to do",
+    true
   ],
   [
     "commit",
@@ -1414,8 +1414,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send with",
-    "cause to be admitted",
-    false
+    "to promise yourself to something, or to carry out an act (often a wrong one)",
+    true
   ],
   [
     "commitment",
@@ -1423,8 +1423,8 @@ window.WF.WORDS = [
     "mit",
     "-ment",
     "send with",
-    "the trait of sincere and steadfast fixity of purpose",
-    false
+    "a promise to do something, or strong dedication to a cause",
+    true
   ],
   [
     "commotion",
@@ -2089,8 +2089,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place down",
-    "the phenomenon of sediment or gravel accumulating",
-    false
+    "money put into a bank account, or a layer of material left behind",
+    true
   ],
   [
     "depression",
@@ -2224,8 +2224,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send apart",
-    "cease to consider",
-    false
+    "to send someone away, or to refuse to take an idea seriously",
+    true
   ],
   [
     "disorder",
@@ -2242,8 +2242,8 @@ window.WF.WORDS = [
     "pon",
     "-al",
     "place apart",
-    "the power to use something or someone",
-    false
+    "the act of getting rid of something",
+    true
   ],
   [
     "dispose",
@@ -2251,8 +2251,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place apart",
-    "throw or cast away",
-    false
+    "to get rid of something (used as “dispose of”)",
+    true
   ],
   [
     "distract",
@@ -2602,8 +2602,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place out of",
-    "the exposure of an impostor or a fraud",
-    false
+    "to uncover something or make it visible",
+    true
   ],
   [
     "exposure",
@@ -2611,8 +2611,8 @@ window.WF.WORDS = [
     "pon",
     "-ure",
     "place out of",
-    "vulnerability to the elements",
-    false
+    "the state of being uncovered or unprotected, especially from bad weather",
+    true
   ],
   [
     "express",
@@ -3502,8 +3502,8 @@ window.WF.WORDS = [
     "mit",
     "-ile",
     "send",
-    "a rocket carrying a warhead of conventional or nuclear explosives",
-    false
+    "an object used as a weapon by being thrown or fired through the air",
+    true
   ],
   [
     "mission",
@@ -3511,8 +3511,8 @@ window.WF.WORDS = [
     "mit",
     "-ion",
     "send",
-    "an operation that is assigned by a higher headquarters",
-    false
+    "an important task that someone is sent to do",
+    true
   ],
   [
     "mobile",
@@ -3763,8 +3763,8 @@ window.WF.WORDS = [
     "pon",
     "-ent",
     "place against",
-    "someone who offers opposition",
-    false
+    "a person who competes or argues against another",
+    true
   ],
   [
     "oppose",
@@ -3772,8 +3772,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place against",
-    "be against",
-    false
+    "to be against something and try to stop it",
+    true
   ],
   [
     "opposition",
@@ -3781,8 +3781,8 @@ window.WF.WORDS = [
     "pon",
     "-ion",
     "place against",
-    "the relation between opposed entities",
-    false
+    "the act of being against something; resistance",
+    true
   ],
   [
     "order",
@@ -3899,7 +3899,7 @@ window.WF.WORDS = [
     "-ion",
     "send through",
     "approval to do something",
-    false
+    true
   ],
   [
     "permit",
@@ -3907,8 +3907,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send through",
-    "large game fish",
-    false
+    "to allow something to happen",
+    true
   ],
   [
     "persistent",
@@ -3961,8 +3961,8 @@ window.WF.WORDS = [
     "pon",
     "-ion",
     "place",
-    "a way of regarding situations or topics etc.",
-    false
+    "the place where someone or something is",
+    true
   ],
   [
     "positive",
@@ -3970,8 +3970,8 @@ window.WF.WORDS = [
     "pon",
     "-ive",
     "place",
-    "the primary form of an adjective or adverb",
-    false
+    "hopeful and confident, or greater than zero",
+    true
   ],
   [
     "postpone",
@@ -3979,8 +3979,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place after",
-    "hold back to a later time",
-    false
+    "to move an event to a later time",
+    true
   ],
   [
     "precise",
@@ -4231,8 +4231,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send forward",
-    "make a promise or commitment",
-    false
+    "to say that you will definitely do something",
+    true
   ],
   [
     "promote",
@@ -4258,8 +4258,8 @@ window.WF.WORDS = [
     "pon",
     "-al",
     "place forward",
-    "an offer of marriage",
-    false
+    "a plan or idea offered for others to consider",
+    true
   ],
   [
     "propose",
@@ -4267,8 +4267,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place forward",
-    "propose or intend",
-    false
+    "to suggest a plan or idea",
+    true
   ],
   [
     "proposition",
@@ -4276,8 +4276,8 @@ window.WF.WORDS = [
     "pon",
     "-ion",
     "place forward",
-    "a proposal offered for acceptance or rejection",
-    false
+    "an idea or plan offered for consideration",
+    true
   ],
   [
     "prosecution",
@@ -5014,8 +5014,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send under",
-    "put before",
-    false
+    "to give in to someone, or to hand in work for approval",
+    true
   ],
   [
     "substance",
@@ -5122,8 +5122,8 @@ window.WF.WORDS = [
     "pon",
     null,
     "place under",
-    "express a supposition",
-    false
+    "to think that something is probably true",
+    true
   ],
   [
     "suspension",
@@ -5248,8 +5248,8 @@ window.WF.WORDS = [
     "mit",
     "-ion",
     "send across",
-    "the act of sending a message",
-    false
+    "the act of sending something, such as a signal or message, from one place to another",
+    true
   ],
   [
     "transmit",
@@ -5257,8 +5257,8 @@ window.WF.WORDS = [
     "mit",
     null,
     "send across",
-    "transfer to another",
-    false
+    "to send or pass something from one person or place to another",
+    true
   ],
   [
     "transmitter",
@@ -5266,8 +5266,8 @@ window.WF.WORDS = [
     "mit",
     "-er",
     "send across",
-    "someone who transmits a message",
-    false
+    "a device or person that sends out signals or messages",
+    true
   ],
   [
     "transport",

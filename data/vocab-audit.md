@@ -210,6 +210,199 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `re-` + `duc`; replaced "cut down on" with a full definition.
 - Reference: Wiktionary, [reduce](https://en.wiktionary.org/wiki/reduce#English) — from Latin *redūcō*, from *re-* "back" + *dūcō* "lead".
 
+## admission
+
+- Record: `{prefix:"ad-", stem:"mit", suffix:"-ion", literal:"send to", definition:"permission to enter a place"}`
+- Review: Confirmed `ad-` + `mit` + `-ion`; replaced the circular "fee charged for admission".
+- Reference: Wiktionary, [admission](https://en.wiktionary.org/wiki/admission#English) — borrowed from Latin *admissio*; see *admit*.
+- Reference: Wiktionary (Latin), [admissio](https://en.wiktionary.org/wiki/admissio#Latin) — *admissiō* = *admittō* + *-tiō*.
+
+## admit
+
+- Record: `{prefix:"ad-", stem:"mit", suffix:null, literal:"send to", definition:"to let someone in, or to agree that something is true"}`
+- Review: Confirmed `ad-` + `mit`; added the common "agree it's true" sense.
+- Reference: Wiktionary, [admit](https://en.wiktionary.org/wiki/admit#English) — from Latin *admittō* "to allow entrance" (literally "to send to"), from *ad-* + *mittere* "to send".
+
+## commission
+
+- Record: `{prefix:"con-", stem:"mit", suffix:"-ion", literal:"send with", definition:"a group of people officially given a particular job to do"}`
+- Review: Confirmed `con-` + `mit` + `-ion`; simplified the definition.
+- Reference: Wiktionary, [commission](https://en.wiktionary.org/wiki/commission#English) — from Latin *commissiō* "sending together; commission", from *committō* + *-tiō*, from *com-* "with" + *mittō* "to send".
+
+## commit
+
+- Record: `{prefix:"con-", stem:"mit", suffix:null, literal:"send with", definition:"to promise yourself to something, or to carry out an act (often a wrong one)"}`
+- Review: Confirmed `con-` + `mit`; replaced the obscure "cause to be admitted".
+- Reference: Wiktionary, [commit](https://en.wiktionary.org/wiki/commit#English) — from Latin *committō* "to bring together, join, … commit (a wrong), … give in charge", from *com-* "together" + *mittō* "to send".
+
+## commitment
+
+- Record: `{prefix:"con-", stem:"mit", suffix:"-ment", literal:"send with", definition:"a promise to do something, or strong dedication to a cause"}`
+- Review: Confirmed as *commit* + *-ment*; simplified the definition.
+- Reference: Wiktionary, [commitment](https://en.wiktionary.org/wiki/commitment#English) — from *commit* + *-ment*.
+- Reference: Wiktionary (Latin), [committo](https://en.wiktionary.org/wiki/committo#Latin) — *committō* = *con-* + *mittō* "to send".
+
+## dismiss
+
+- Record: `{prefix:"dis-", stem:"mit", suffix:null, literal:"send apart", definition:"to send someone away, or to refuse to take an idea seriously"}`
+- Review: Confirmed `dis-` + `mit` (Latin *dī-* is a form of *dis-*); widened the definition.
+- Reference: Wiktionary, [dismiss](https://en.wiktionary.org/wiki/dismiss#English) — from Latin *dimissus* "sent away, dismissed", perfect passive participle of *dīmittō* "send away, dismiss", from *dis-* + *mittere* "to send".
+
+## missile
+
+- Record: `{prefix:null, stem:"mit", suffix:"-ile", literal:"send", definition:"an object used as a weapon by being thrown or fired through the air"}`
+- Review: Confirmed `mit` + `-ile`; replaced the warhead-specific gloss with the general sense.
+- Reference: Wiktionary, [missile](https://en.wiktionary.org/wiki/missile#English) — from Latin *missile* "thrown weapon, projectile", neuter of *missilis* "throwable", from *mittere* "to send".
+
+## mission
+
+- Record: `{prefix:null, stem:"mit", suffix:"-ion", literal:"send", definition:"an important task that someone is sent to do"}`
+- Review: Confirmed `mit` + `-ion`; replaced the military-only gloss.
+- Reference: Wiktionary, [mission](https://en.wiktionary.org/wiki/mission#English) — from Latin *missiō* "a sending, sending away, dispatching".
+- Reference: Wiktionary (Latin), [missio](https://en.wiktionary.org/wiki/missio#Latin) — *missiō* = *mittō* + *-tiō*.
+
+## permission
+
+- Record: `{prefix:"per-", stem:"mit", suffix:"-ion", literal:"send through", definition:"approval to do something"}`
+- Review: Confirmed `per-` + `mit` + `-ion`; definition unchanged.
+- Reference: Wiktionary, [permission](https://en.wiktionary.org/wiki/permission#English) — from Latin *permissiō*; equivalent to *permit* + *-ion*.
+- Reference: Wiktionary (Latin), [permitto](https://en.wiktionary.org/wiki/permitto#Latin) — *permittō* = *per-* + *mittō* "let go, release; send out".
+
+## permit
+
+- Record: `{prefix:"per-", stem:"mit", suffix:null, literal:"send through", definition:"to allow something to happen"}`
+- Review: Confirmed `per-` + `mit`. The source definition "large game fish" belonged to an unrelated homonym borrowed from Spanish; replaced it with the verb sense.
+- Reference: Wiktionary, [permit](https://en.wiktionary.org/wiki/permit#English) — from Latin *permittō* "give up, allow", from *per* "through" + *mittō* "send".
+
+## promise
+
+- Record: `{prefix:"pro-", stem:"mit", suffix:null, literal:"send forward", definition:"to say that you will definitely do something"}`
+- Review: Confirmed `pro-` + `mit`; replaced the circular "make a promise".
+- Reference: Wiktionary, [promise](https://en.wiktionary.org/wiki/promise#English) — from Latin *prōmissum* "a promise", past participle of *prōmittō* "to send forth, to say beforehand, to promise", from *pro* "forth" + *mittere* "to send".
+
+## submit
+
+- Record: `{prefix:"sub-", stem:"mit", suffix:null, literal:"send under", definition:"to give in to someone, or to hand in work for approval"}`
+- Review: Confirmed `sub-` + `mit`; replaced the terse "put before".
+- Reference: Wiktionary, [submit](https://en.wiktionary.org/wiki/submit#English) — from Latin *submittō* "place under, yield", from *sub* "under" + *mitto* "to send".
+
+## transmission
+
+- Record: `{prefix:"trans-", stem:"mit", suffix:"-ion", literal:"send across", definition:"the act of sending something, such as a signal or message, from one place to another"}`
+- Review: Confirmed `trans-` + `mit` + `-ion`; widened the definition.
+- Reference: Wiktionary, [transmission](https://en.wiktionary.org/wiki/transmission#English) — borrowed from Latin *transmissionem*, from *transmittere*.
+- Reference: Wiktionary (Latin), [transmitto](https://en.wiktionary.org/wiki/transmitto#Latin) — *trānsmittō* = *trāns-* + *mittō*.
+
+## transmit
+
+- Record: `{prefix:"trans-", stem:"mit", suffix:null, literal:"send across", definition:"to send or pass something from one person or place to another"}`
+- Review: Confirmed `trans-` + `mit`.
+- Reference: Wiktionary, [transmit](https://en.wiktionary.org/wiki/transmit#English) — from Latin *trānsmittō* "transmit" (literally "across-send").
+
+## transmitter
+
+- Record: `{prefix:"trans-", stem:"mit", suffix:"-er", literal:"send across", definition:"a device or person that sends out signals or messages"}`
+- Review: Confirmed as *transmit* + *-er*.
+- Reference: Wiktionary, [transmitter](https://en.wiktionary.org/wiki/transmitter#English) — *transmit* + *-er* (agent noun).
+
+## deposit
+
+- Record: `{prefix:"de-", stem:"pon", suffix:null, literal:"place down", definition:"money put into a bank account, or a layer of material left behind"}`
+- Review: Confirmed `de-` + `pon`; replaced the geology-only gloss with the common senses.
+- Reference: Wiktionary, [deposit](https://en.wiktionary.org/wiki/deposit#English) — from Latin *depositus*, past participle of *depono* "put down".
+- Reference: Wiktionary (Latin), [depono](https://en.wiktionary.org/wiki/depono#Latin) — *dēpōnō* = *dē-* + *pōnō* "place, put".
+
+## disposal
+
+- Record: `{prefix:"dis-", stem:"pon", suffix:"-al", literal:"place apart", definition:"the act of getting rid of something"}`
+- Review: Confirmed as *dispose* + *-al*; chose the everyday sense. See the *dispose* caveat.
+- Reference: Wiktionary, [disposal](https://en.wiktionary.org/wiki/disposal#English) — *dispose* + *-al*.
+
+## dispose
+
+- Record: `{prefix:"dis-", stem:"pon", suffix:null, literal:"place apart", definition:"to get rid of something (used as “dispose of”)"}`
+- Review: Confirmed `dis-` + `pon` with a caveat: the English word came through French *disposer*, whose form was influenced by *poser* (which goes back to Latin *pausāre*), but the French entry gives the source as Latin *dispōnō*.
+- Reference: Wiktionary, [dispose](https://en.wiktionary.org/wiki/dispose#English) — borrowed from French *disposer*.
+- Reference: Wiktionary (French), [disposer](https://en.wiktionary.org/wiki/disposer#French) — borrowed from Latin *dispōnō*, and influenced by French *poser*.
+- Reference: Wiktionary (Latin), [dispono](https://en.wiktionary.org/wiki/dispono#Latin) — *dispōnō* = *dis-* + *pōnō* "place, put".
+
+## expose
+
+- Record: `{prefix:"ex-", stem:"pon", suffix:null, literal:"place out of", definition:"to uncover something or make it visible"}`
+- Review: Confirmed `ex-` + `pon` with the *poser* caveat. The source definition described the noun *exposé*; replaced with the verb sense.
+- Reference: Wiktionary, [expose](https://en.wiktionary.org/wiki/expose#English) — from Old French *exposer* "to lay open, set forth", from Latin *expōnō* "set forth", with contamination from Old French *poser*.
+- Reference: Wiktionary (Latin), [expono](https://en.wiktionary.org/wiki/expono#Latin) — *expōnō* = *ex-* + *pōnō* "to place, put".
+
+## exposure
+
+- Record: `{prefix:"ex-", stem:"pon", suffix:"-ure", literal:"place out of", definition:"the state of being uncovered or unprotected, especially from bad weather"}`
+- Review: Confirmed as *expose* + *-ure*.
+- Reference: Wiktionary, [exposure](https://en.wiktionary.org/wiki/exposure#English) — *expose* + *-ure* (action noun).
+
+## opponent
+
+- Record: `{prefix:"ob-", stem:"pon", suffix:"-ent", literal:"place against", definition:"a person who competes or argues against another"}`
+- Review: Confirmed `ob-` + `pon` + `-ent`.
+- Reference: Wiktionary, [opponent](https://en.wiktionary.org/wiki/opponent#English) — from Latin *oppōnēns* "opposing", present active participle of *oppōnō* "to oppose".
+- Reference: Wiktionary (Latin), [oppono](https://en.wiktionary.org/wiki/oppono#Latin) — *oppōnō* = *ob-* "against" + *pōnō* "put".
+
+## oppose
+
+- Record: `{prefix:"ob-", stem:"pon", suffix:null, literal:"place against", definition:"to be against something and try to stop it"}`
+- Review: Confirmed `ob-` + `pon` with the *poser* caveat; expanded "be against".
+- Reference: Wiktionary, [oppose](https://en.wiktionary.org/wiki/oppose#English) — from Old French *opposer*, from Latin *ob* "before, against" + Medieval Latin *pono* "to put", taking the place of *oppono*.
+
+## opposition
+
+- Record: `{prefix:"ob-", stem:"pon", suffix:"-ion", literal:"place against", definition:"the act of being against something; resistance"}`
+- Review: Confirmed `ob-` + `pon` + `-ion`.
+- Reference: Wiktionary, [opposition](https://en.wiktionary.org/wiki/opposition#English) — from Late Latin *oppositiō*, from the past participle stem of classical *oppōnō* "to set against".
+
+## position
+
+- Record: `{prefix:null, stem:"pon", suffix:"-ion", literal:"place", definition:"the place where someone or something is"}`
+- Review: Confirmed `pon` + `-ion`; chose the core "place" sense.
+- Reference: Wiktionary, [position](https://en.wiktionary.org/wiki/position#English) — from Latin *positiō* "a putting, position", from *positus* "placed", past participle of *pōnō* "to place".
+
+## positive
+
+- Record: `{prefix:null, stem:"pon", suffix:"-ive", literal:"place", definition:"hopeful and confident, or greater than zero"}`
+- Review: Confirmed `pon` + `-ive`; replaced the grammar-only gloss.
+- Reference: Wiktionary, [positive](https://en.wiktionary.org/wiki/positive#English) — from Latin *positivus*, from the past participle stem of *ponere* "to place".
+
+## postpone
+
+- Record: `{prefix:"post-", stem:"pon", suffix:null, literal:"place after", definition:"to move an event to a later time"}`
+- Review: Confirmed `post-` + `pon`.
+- Reference: Wiktionary, [postpone](https://en.wiktionary.org/wiki/postpone#English) — from Latin *postpōnō* "to put after; to postpone", from *post* "after" + *pōnō* "to put; to place".
+
+## proposal
+
+- Record: `{prefix:"pro-", stem:"pon", suffix:"-al", literal:"place forward", definition:"a plan or idea offered for others to consider"}`
+- Review: Confirmed as *propose* + *-al*; replaced the marriage-only sense.
+- Reference: Wiktionary, [proposal](https://en.wiktionary.org/wiki/proposal#English) — *propose* + *-al*.
+
+## propose
+
+- Record: `{prefix:"pro-", stem:"pon", suffix:null, literal:"place forward", definition:"to suggest a plan or idea"}`
+- Review: Confirmed `pro-` + `pon` with the *poser* caveat; replaced the circular definition.
+- Reference: Wiktionary, [propose](https://en.wiktionary.org/wiki/propose#English) — from Latin *prōpōnō*, with conjugation altered based on Old French *poser*.
+- Reference: Wiktionary (Latin), [propono](https://en.wiktionary.org/wiki/propono#Latin) — *prōpōnō* = *prō-* + *pōnō* "put, place".
+
+## proposition
+
+- Record: `{prefix:"pro-", stem:"pon", suffix:"-ion", literal:"place forward", definition:"an idea or plan offered for consideration"}`
+- Review: Confirmed `pro-` + `pon` + `-ion`.
+- Reference: Wiktionary, [proposition](https://en.wiktionary.org/wiki/proposition#English) — from Latin *prōpositiō*, from the verb *prōponō*.
+
+## suppose
+
+- Record: `{prefix:"sub-", stem:"pon", suffix:null, literal:"place under", definition:"to think that something is probably true"}`
+- Review: Confirmed `sub-` + `pon` with a caveat for reviewers: the English entry describes Old French *supposer* as *sub-* + *poser* "to place", corresponding in meaning to Latin *supponere*; the French entry says *supposer* was borrowed from Latin *suppōnō* and altered based on *poser*.
+- Reference: Wiktionary, [suppose](https://en.wiktionary.org/wiki/suppose#English) — from Old French *supposer*, equivalent to *sub-* "under" + *poser* "to place"; corresponding in meaning to Latin *supponere* "to put under".
+- Reference: Wiktionary (French), [supposer](https://en.wiktionary.org/wiki/supposer#French) — borrowed from Latin *suppōnō*, altered based on French *poser*.
+- Reference: Wiktionary (Latin), [suppono](https://en.wiktionary.org/wiki/suppono#Latin) — *suppōnō* = *sub-* "under" + *pōnō* "put, place".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.

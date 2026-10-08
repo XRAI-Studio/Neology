@@ -33,7 +33,7 @@ window.WF.FACTS = {
   "command": "✋ Command = “hand with” — real authority meant literally getting your hands on the situation!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "commander": "✋ A commander takes things “in hand” — com + man(hand), same root as manual!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/submit#English (verified 2026-10-07)
   "submit": "👇 Submit literally means “send under” — placing yourself beneath someone’s authority!",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/accurate (checked 2026-07-20)
   "accurate": "Accurate first meant 'done with care.' Its Latin family joins ad- ('to') with cura ('care').",
@@ -41,8 +41,8 @@ window.WF.FACTS = {
   "conclude": "📦 Conclude = “close together” — finishing an argument was like shutting the lid on a box!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "conclusion": "📦 A conclusion literally CLOSES the box on your story or argument!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "postpone": "🗓️ Postpone = “place after” — ancients pictured time as a road and moved tasks farther down the path!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/postpone#English (verified 2026-10-07)
+  "postpone": "🗓️ Postpone = “place after” — from Latin postponere, “to put after,” built from post- (after) and ponere (to put).",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "record": "❤️ Record = “back to the heart” — Romans believed memory lived in the heart, so remembering meant returning something to it!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
@@ -129,7 +129,7 @@ window.WF.FACTS = {
   "define": " Define comes from Latin definire, set bounds or limits.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/dependent (checked 2026-07-20)
   "dependent": " Dependent belongs to a Latin family meaning hang down, like something hanging from its support.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/deposit (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/deposit#English (verified 2026-10-07)
   "deposit": " Deposit comes from Latin deponere, lay down or put aside.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/depression (checked 2026-07-20)
   "depression": " Depression comes from Latin depressio, a pressing down.",
@@ -159,7 +159,7 @@ window.WF.FACTS = {
   "expedition": " Expedition comes from Latin expedire, free the feet, readying someone to move quickly.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/expense (checked 2026-07-20)
   "expense": " Expense comes from Latin expendere, weigh out or pay out.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/expose (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/expose#English (verified 2026-10-07)
   "expose": " Expose comes through Latin exponere, set forth or put out in view.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/express (checked 2026-07-20)
   "express": " Express comes from Latin exprimere, press out, as juice is pressed from fruit.",
@@ -193,11 +193,11 @@ window.WF.FACTS = {
   "product": " Product comes from Latin productus, “brought forth,” from producere, “to lead forth.”",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/progress (checked 2026-07-20)
   "progress": " Progress comes from Latin progressus, a going forward.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/promise (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/promise#English (verified 2026-10-07)
   "promise": " Promise comes from Latin promittere, send forth or pledge beforehand.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/promote (checked 2026-07-20)
   "promote": " Promote comes from Latin promovere, move forward.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/proposal (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/proposal#English (verified 2026-10-07)
   "proposal": " Proposal belongs to the Latin ponere family, put or place, so it puts an idea forward.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/prosecution (checked 2026-07-20)
   "prosecution": " Prosecution comes from Latin prosequi, follow after or pursue.",
