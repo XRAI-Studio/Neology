@@ -187,6 +187,7 @@ test('teaching-mode selectors exclude every unreviewed word', () => {
   assert.match(html, /if\(fcTab==="words"\)return REVIEWED_WORDS\.map/);
   assert.doesNotMatch(html, /pick\(WORDS\)/);
   assert.doesNotMatch(html, /if\(fcTab==="words"\)return WORDS\.map/);
+  assert.match(html, /function familyWords\(prefix\)\{\s*return REVIEWED_WORDS\.filter/);
   assert.match(html, /const w=current\.w;\s*markResult\(ok,w\[0\]\)/);
   assert.match(html, /COLLECTIBLE_FACT_KEYS=FACT_KEYS\.filter/);
 });

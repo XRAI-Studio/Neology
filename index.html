@@ -770,7 +770,7 @@ function toggleFamily(prefix){
   renderLexGrid();
 }
 function familyWords(prefix){
-  return WORDS.filter(w=>w[1]===prefix).map(w=>w[0]).slice(0,14);
+  return REVIEWED_WORDS.filter(w=>w[1]===prefix).map(w=>w[0]).slice(0,14);
 }
 
 /* ============ DONE ============ */
