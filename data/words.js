@@ -792,7 +792,7 @@ window.WF.STEMS = [
 window.WF.SUFFIXES = [
   [
     "-able",
-    "able to be",
+    "able to be; giving",
     "portable"
   ],
   [
@@ -862,7 +862,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-ive",
-    "tending to",
+    "tending to; relating to",
     "active"
   ],
   [
@@ -882,7 +882,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-ous",
-    "full of",
+    "full of; having",
     "famous"
   ],
   [
@@ -1135,8 +1135,8 @@ window.WF.WORDS = [
     "punct",
     null,
     "point to",
-    "furnish",
-    false
+    "to choose someone for a job; also, to set a time for something",
+    true
   ],
   [
     "appointment",
@@ -1144,8 +1144,8 @@ window.WF.WORDS = [
     "punct",
     "-ment",
     "point to",
-    "a meeting arranged in advance",
-    false
+    "an arranged meeting at a particular time",
+    true
   ],
   [
     "approval",
@@ -1360,8 +1360,8 @@ window.WF.WORDS = [
     "fort",
     null,
     "strong with",
-    "the act of consoling",
-    false
+    "a relaxed feeling with no pain or worry; also, kindness to someone who is upset",
+    true
   ],
   [
     "comfortable",
@@ -1369,8 +1369,8 @@ window.WF.WORDS = [
     "fort",
     "-able",
     "strong with",
-    "more than adequate",
-    false
+    "making you feel relaxed and free from pain",
+    true
   ],
   [
     "command",
@@ -1630,8 +1630,8 @@ window.WF.WORDS = [
     "sci",
     "-ence",
     "know with",
-    "conformity to one's own sense of right conduct",
-    false
+    "the inner sense of what is right and wrong",
+    true
   ],
   [
     "conscious",
@@ -1639,8 +1639,8 @@ window.WF.WORDS = [
     "sci",
     "-ous",
     "know with",
-    "knowing and perceiving",
-    false
+    "awake and aware of what is happening",
+    true
   ],
   [
     "consent",
@@ -1783,8 +1783,8 @@ window.WF.WORDS = [
     "trib",
     "-ion",
     "give with",
-    "the part played by a person in bringing about a result",
-    false
+    "something you give or do to help",
+    true
   ],
   [
     "convent",
@@ -1882,8 +1882,8 @@ window.WF.WORDS = [
     "corp",
     "-al",
     "body",
-    "possessing or existing in bodily form",
-    false
+    "relating to the body",
+    true
   ],
   [
     "corporate",
@@ -1891,8 +1891,8 @@ window.WF.WORDS = [
     "corp",
     "-ate",
     "body",
-    "of or belonging to a corporation",
-    false
+    "relating to a large company",
+    true
   ],
   [
     "corporation",
@@ -1900,8 +1900,8 @@ window.WF.WORDS = [
     "corp",
     "-ion",
     "body",
-    "slang for a paunch",
-    false
+    "a large company or business",
+    true
   ],
   [
     "correct",
@@ -1926,18 +1926,18 @@ window.WF.WORDS = [
     "con-",
     "rupt",
     null,
-    "break with",
-    "place under suspicion or cast doubt upon",
-    false
+    "break together",
+    "dishonest, especially by taking bribes",
+    true
   ],
   [
     "corruption",
     "con-",
     "rupt",
     "-ion",
-    "break with",
-    "in a state of progressive putrefaction",
-    false
+    "break together",
+    "dishonest or illegal behavior, especially by people in power",
+    true
   ],
   [
     "currency",
@@ -2278,8 +2278,8 @@ window.WF.WORDS = [
     "trib",
     "-ion",
     "give apart",
-    "the act of distributing or spreading or apportioning",
-    false
+    "the act of giving or sharing things out",
+    true
   ],
   [
     "disturb",
@@ -2314,8 +2314,8 @@ window.WF.WORDS = [
     "don",
     "-ate",
     "give",
-    "give to a charity or good cause",
-    false
+    "to give something, especially to a charity",
+    true
   ],
   [
     "donation",
@@ -2323,8 +2323,8 @@ window.WF.WORDS = [
     "don",
     "-ion",
     "give",
-    "a voluntary gift (as of money or service or ideas) made to some worthwhile cause",
-    false
+    "something given to help a person or cause",
+    true
   ],
   [
     "donor",
@@ -2332,8 +2332,8 @@ window.WF.WORDS = [
     "don",
     "-or",
     "give",
-    "person who makes a gift of property",
-    false
+    "a person who gives something, such as money or blood",
+    true
   ],
   [
     "duration",
@@ -2386,8 +2386,8 @@ window.WF.WORDS = [
     "fort",
     null,
     "strong out of",
-    "a notable achievement",
-    false
+    "hard work or energy used to do something",
+    true
   ],
   [
     "elaborate",
@@ -2737,8 +2737,8 @@ window.WF.WORDS = [
     "flect",
     "-ible",
     "bend",
-    "able to flex",
-    false
+    "able to bend easily; also, able to change easily",
+    true
   ],
   [
     "formal",
@@ -3106,8 +3106,8 @@ window.WF.WORDS = [
     "sect",
     null,
     "cut into",
-    "small air-breathing arthropod",
-    false
+    "a small animal with six legs and a body in three parts",
+    true
   ],
   [
     "insensitive",
@@ -3304,8 +3304,8 @@ window.WF.WORDS = [
     "rupt",
     null,
     "break between",
-    "make a break in",
-    false
+    "to stop someone while they are speaking or doing something",
+    true
   ],
   [
     "intervene",
@@ -3448,8 +3448,8 @@ window.WF.WORDS = [
     "loc",
     "-al",
     "place",
-    "anesthetic that numbs a particular area of the body",
-    false
+    "belonging to or near a particular place",
+    true
   ],
   [
     "locate",
@@ -3457,8 +3457,8 @@ window.WF.WORDS = [
     "loc",
     "-ate",
     "place",
-    "assign a location to",
-    false
+    "to find where something is",
+    true
   ],
   [
     "location",
@@ -3466,8 +3466,8 @@ window.WF.WORDS = [
     "loc",
     "-ion",
     "place",
-    "a point or extent in space",
-    false
+    "a place or position",
+    true
   ],
   [
     "mandatory",
@@ -3583,8 +3583,8 @@ window.WF.WORDS = [
     "nat",
     "-ion",
     "born",
-    "the people who live in a nation or country",
-    false
+    "a country and the people who live in it",
+    true
   ],
   [
     "native",
@@ -3592,8 +3592,8 @@ window.WF.WORDS = [
     "nat",
     "-ive",
     "born",
-    "indigenous plants and animals",
-    false
+    "belonging to a place by birth",
+    true
   ],
   [
     "nature",
@@ -3601,8 +3601,8 @@ window.WF.WORDS = [
     "nat",
     "-ure",
     "born",
-    "a causal agent creating and controlling things in the universe",
-    false
+    "the natural world of plants, animals, and landscapes",
+    true
   ],
   [
     "naval",
@@ -4438,8 +4438,8 @@ window.WF.WORDS = [
     "flect",
     null,
     "bend back",
-    "manifest or bring back",
-    false
+    "to throw back light or sound; also, to think carefully",
+    true
   ],
   [
     "reflection",
@@ -4447,8 +4447,8 @@ window.WF.WORDS = [
     "flect",
     "-ion",
     "bend back",
-    "expression without words",
-    false
+    "an image seen in a mirror or water; also, careful thought",
+    true
   ],
   [
     "reform",
@@ -4681,8 +4681,8 @@ window.WF.WORDS = [
     "solv",
     "-ion",
     "loosen back",
-    "the trait of being resolute",
-    false
+    "a firm decision to do something; also, the solving of a problem",
+    true
   ],
   [
     "resolve",
@@ -4690,8 +4690,8 @@ window.WF.WORDS = [
     "solv",
     null,
     "loosen back",
-    "bring to an end",
-    false
+    "to find an answer to a problem; also, to decide firmly",
+    true
   ],
   [
     "respect",
@@ -4753,8 +4753,8 @@ window.WF.WORDS = [
     "sci",
     "-ence",
     "know",
-    "a particular branch of scientific knowledge",
-    false
+    "the study of the natural world through observation and experiments",
+    true
   ],
   [
     "secret",
@@ -4780,8 +4780,8 @@ window.WF.WORDS = [
     "sect",
     "-ion",
     "cut",
-    "a self-contained part of a larger composition (written or musical)",
-    false
+    "one of the parts that something is divided into",
+    true
   ],
   [
     "sector",
@@ -4789,8 +4789,8 @@ window.WF.WORDS = [
     "sect",
     "-or",
     "cut",
-    "a particular aspect of life or activity",
-    false
+    "a part or area of something, such as a business area",
+    true
   ],
   [
     "security",
@@ -4951,8 +4951,8 @@ window.WF.WORDS = [
     "solv",
     "-ion",
     "loosen",
-    "a method for solving a problem",
-    false
+    "an answer to a problem",
+    true
   ],
   [
     "sonic",
@@ -5302,7 +5302,7 @@ window.WF.WORDS = [
     "trib",
     "-al",
     "give",
-    "relating to or characteristic of a tribe",
+    "relating to a tribe",
     false
   ],
   [

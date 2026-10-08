@@ -45,9 +45,9 @@ window.WF.FACTS = {
   "postpone": "🗓️ Postpone = “place after” — from Latin postponere, “to put after,” built from post- (after) and ponere (to put).",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "record": "❤️ Record = “back to the heart” — Romans believed memory lived in the heart, so remembering meant returning something to it!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/reflect#English (verified 2026-10-07)
   "reflect": "🪞 Reflect = “bend back” — exactly what light does on a mirror, and what your mind does on an idea!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/reflection#English (verified 2026-10-07)
   "reflection": "🪞 A reflection literally BENDS light (or your thoughts) back at you!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/depend#English (verified 2026-10-07)
   "depend": "🪢 Depend = “hang down from” — to depend on someone is to dangle from a rope you trust!",
@@ -69,7 +69,7 @@ window.WF.FACTS = {
   "assessment": "⚖️ An assessor originally SAT BESIDE a judge — assessment means “sit by”!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/extract#English (verified 2026-10-07)
   "extract": "🦷 Extract = “pull out” — exactly what a dentist does to a tooth!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/interrupt#English (verified 2026-10-07)
   "interrupt": "💥 Interrupt = “break between” — smashing into the middle of someone’s sentence!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/transport#English (verified 2026-10-07)
   "transport": "🌉 Trans- words are bridges — transport literally “carries across”!",
@@ -91,11 +91,11 @@ window.WF.FACTS = {
   "aggression": "Aggression comes through Latin aggredi, to approach or attack — literally a stepping toward something.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/application#English (verified 2026-10-07)
   "application": " Application comes from Latin applicare, attach or join to, like putting one thing against another.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/appointment (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/appointment#English (verified 2026-10-07)
   "appointment": " Appointment belongs to a word family about bringing something to a point or fixed place.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/collect#English (verified 2026-10-07)
   "collect": "Collect comes from Latin colligere, gather together — exactly what a collection does.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/comfort (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/comfort#English (verified 2026-10-07)
   "comfort": " Comfort once carried the force of strengthening: its Latin family combines together with strong.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/compensate#English (verified 2026-10-07)
   "compensate": " Compensate comes from Latin for weighing one thing against another to make a balance.",
@@ -111,7 +111,7 @@ window.WF.FACTS = {
   "congregation": " Congregation comes from Latin congregare, gather into a flock.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/congress#English (verified 2026-10-07)
   "congress": "Congress comes from Latin congressus, a meeting or encounter — a stepping together.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/conscience (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/conscience#English (verified 2026-10-07)
   "conscience": " Conscience comes from Latin conscientia, knowledge within oneself or shared knowledge.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/constant#English (verified 2026-10-07)
   "constant": " Constant comes from Latin constare, stand firm.",

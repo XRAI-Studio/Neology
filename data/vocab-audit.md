@@ -2468,6 +2468,226 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed `in-` (not) + *audible*.
 - Reference: Wiktionary, [inaudible](https://en.wiktionary.org/wiki/inaudible#English) — *in-* + *audible*.
 
+## comfort
+
+- Record: `{prefix:"con-", stem:"fort", suffix:null, literal:"strong with", definition:"a relaxed feeling with no pain or worry; also, kindness to someone who is upset"}`
+- Review: Confirmed `con-` + `fort` via Late Latin *cōnfortō* (*con-* + *fortis* "strong").
+- Reference: Wiktionary, [comfort](https://en.wiktionary.org/wiki/comfort#English) — from Old French *confort*, from the stem of Late Latin *confortō*.
+- Reference: Wiktionary (Latin), [conforto](https://en.wiktionary.org/wiki/conforto#Latin) — *cōnfortō* = *con-* + *fortis* + *-ō*.
+
+## comfortable
+
+- Record: `{prefix:"con-", stem:"fort", suffix:"-able", literal:"strong with", definition:"making you feel relaxed and free from pain"}`
+- Review: Confirmed as *comfort* + *-able*; replaced "more than adequate". Here *-able* is active ("providing comfort"), so the shared `-able` gloss was widened to "able to be; giving" (Wiktionary [-able](https://en.wiktionary.org/wiki/-able#English): "giving, or inclined to").
+- Reference: Wiktionary, [comfortable](https://en.wiktionary.org/wiki/comfortable#English) — from Old French *confortable*, from *conforter*; *comfort* + *-able*.
+
+## effort
+
+- Record: `{prefix:"ex-", stem:"fort", suffix:null, literal:"strong out of", definition:"hard work or energy used to do something"}`
+- Review: Confirmed `ex-` + `fort` via Vulgar Latin *\*exfortiō*.
+- Reference: Wiktionary, [effort](https://en.wiktionary.org/wiki/effort#English) — from Old French *esfort*, deverbal of *esforcier* "to force, exert", from Vulgar Latin *\*exfortiō*, from Latin *ex* + *fortis* "strong".
+
+## conscience
+
+- Record: `{prefix:"con-", stem:"sci", suffix:"-ence", literal:"know with", definition:"the inner sense of what is right and wrong"}`
+- Review: Confirmed `con-` + `sci` + `-ence`.
+- Reference: Wiktionary, [conscience](https://en.wiktionary.org/wiki/conscience#English) — from Latin *conscientia* "knowledge within oneself", from *consciens*, present participle of *conscire* "to know, to be conscious".
+
+## conscious
+
+- Record: `{prefix:"con-", stem:"sci", suffix:"-ous", literal:"know with", definition:"awake and aware of what is happening"}`
+- Review: Confirmed `con-` + `sci` + `-ous`. English *-ous* here adapts the Latin adjective ending *-us* (Wiktionary [-ous](https://en.wiktionary.org/wiki/-ous#English): "a means of adapting adjectives borrowed from Latin that originally ended simply in *-us*"), so the shared `-ous` gloss was widened to "full of; having" ("possession of").
+- Reference: Wiktionary, [conscious](https://en.wiktionary.org/wiki/conscious#English) — from Latin *cōnscius* "conscious, conscious of guilt", itself from *con-* ….
+- Reference: Wiktionary (Latin), [conscius](https://en.wiktionary.org/wiki/conscius#Latin) — *cōnscius* = *cōnsciō* + *-us*, or *con-* + *scius*.
+
+## science
+
+- Record: `{prefix:null, stem:"sci", suffix:"-ence", literal:"know", definition:"the study of the natural world through observation and experiments"}`
+- Review: Confirmed `sci` + `-ence`.
+- Reference: Wiktionary, [science](https://en.wiktionary.org/wiki/science#English) — from Latin *scientia* "knowledge", from *sciēns*.
+- Reference: Wiktionary (Latin), [scientia](https://en.wiktionary.org/wiki/scientia#Latin) — *scientia* = *sciēns* "knowing, aware" + *-ia*.
+
+## contribution
+
+- Record: `{prefix:"con-", stem:"trib", suffix:"-ion", literal:"give with", definition:"something you give or do to help"}`
+- Review: Confirmed `con-` + `trib` + `-ion`.
+- Reference: Wiktionary, [contribution](https://en.wiktionary.org/wiki/contribution#English) — from Latin *contribūtiō*, from *contribuēre*; *contribute* + *-ion*.
+- Reference: Wiktionary (Latin), [contribuo](https://en.wiktionary.org/wiki/contribuo#Latin) — *contribuō* = *con-* + *tribuō*.
+
+## distribution
+
+- Record: `{prefix:"dis-", stem:"trib", suffix:"-ion", literal:"give apart", definition:"the act of giving or sharing things out"}`
+- Review: Confirmed `dis-` + `trib` + `-ion`.
+- Reference: Wiktionary, [distribution](https://en.wiktionary.org/wiki/distribution#English) — from Latin *distributio*, from *distribuere* "to distribute", from *dis-* "apart" + *tribuere* "to assign, allot".
+
+## corporal
+
+- Record: `{prefix:null, stem:"corp", suffix:"-al", literal:"body", definition:"relating to the body"}`
+- Review: Confirmed `corp` + `-al` for the adjective (Latin *corporālis*). The military rank *corporal* is a separate word with a different origin and is not taught here.
+- Reference: Wiktionary, [corporal](https://en.wiktionary.org/wiki/corporal#English) — from Latin *corporālis*, from *corpus* "body".
+- Reference: Wiktionary (Latin), [corporalis](https://en.wiktionary.org/wiki/corporalis#Latin) — *corporālis* = *corpus* + *-ālis*.
+
+## corporate
+
+- Record: `{prefix:null, stem:"corp", suffix:"-ate", literal:"body", definition:"relating to a large company"}`
+- Review: Confirmed `corp` + `-ate`.
+- Reference: Wiktionary, [corporate](https://en.wiktionary.org/wiki/corporate#English) — from Middle English *corporat* "corporeal, physical, embodied; incorporated".
+- Reference: Wiktionary, [corporation](https://en.wiktionary.org/wiki/corporation#English) — from Latin *corporatus*, past participle of *corporō* "to form into a body".
+
+## corporation
+
+- Record: `{prefix:null, stem:"corp", suffix:"-ion", literal:"body", definition:"a large company or business"}`
+- Review: Confirmed `corp` + `-ion`; replaced the slang "paunch" sense.
+- Reference: Wiktionary, [corporation](https://en.wiktionary.org/wiki/corporation#English) — from Late Latin *corporatio* "assumption of a body", from *corporatus*, past participle of *corporō* "to form into a body".
+
+## corrupt
+
+- Record: `{prefix:"con-", stem:"rupt", suffix:null, literal:"break together", definition:"dishonest, especially by taking bribes"}`
+- Review: Confirmed `con-` + `rupt`. Literal changed from "break with" to "break together", matching the source's gloss of *com-*.
+- Reference: Wiktionary, [corrupt](https://en.wiktionary.org/wiki/corrupt#English) — from Latin *corruptus*, past participle of *corrumpō* "to destroy, ruin, injure, spoil, corrupt, bribe", from *com-* "together" + *rumpō* "to break in pieces".
+
+## corruption
+
+- Record: `{prefix:"con-", stem:"rupt", suffix:"-ion", literal:"break together", definition:"dishonest or illegal behavior, especially by people in power"}`
+- Review: Confirmed `con-` + `rupt` + `-ion`. Literal changed to "break together".
+- Reference: Wiktionary, [corruption](https://en.wiktionary.org/wiki/corruption#English) — from French *corruption*, from Latin *corruptiō*; *corrupt* + *-ion*.
+- Reference: Wiktionary (Latin), [corrumpo](https://en.wiktionary.org/wiki/corrumpo#Latin) — *corrumpō* = *con-* + *rumpō* "break".
+
+## interrupt
+
+- Record: `{prefix:"inter-", stem:"rupt", suffix:null, literal:"break between", definition:"to stop someone while they are speaking or doing something"}`
+- Review: Confirmed `inter-` + `rupt`.
+- Reference: Wiktionary, [interrupt](https://en.wiktionary.org/wiki/interrupt#English) — from Latin *interruptus*, past participle of *interrumpere* "to break apart/off, interrupt", from *inter* "between" + ….
+- Reference: Wiktionary (Latin), [interrumpo](https://en.wiktionary.org/wiki/interrumpo#Latin) — *interrumpō* = *inter-* + *rumpō*.
+
+## donate
+
+- Record: `{prefix:null, stem:"don", suffix:"-ate", literal:"give", definition:"to give something, especially to a charity"}`
+- Review: Confirmed `don` + `-ate` (back-formation from *donation*).
+- Reference: Wiktionary, [donate](https://en.wiktionary.org/wiki/donate#English) — back-formation from *donation* … ultimately from Latin *dōnāre* "to give".
+
+## donation
+
+- Record: `{prefix:null, stem:"don", suffix:"-ion", literal:"give", definition:"something given to help a person or cause"}`
+- Review: Confirmed `don` + `-ion`.
+- Reference: Wiktionary, [donation](https://en.wiktionary.org/wiki/donation#English) — from Latin *dōnātiō* "a present", from *dōnō* "to give", from *dōnum* "a gift".
+
+## donor
+
+- Record: `{prefix:null, stem:"don", suffix:"-or", literal:"give", definition:"a person who gives something, such as money or blood"}`
+- Review: Confirmed `don` + `-or` via Old French *doneur*; the French entries show *donneur* = *donner* + *-eur* and *donner* < Old French *doner* < Latin *dōnāre*.
+- Reference: Wiktionary, [donor](https://en.wiktionary.org/wiki/donor#English) — from Anglo-Norman *donour*, from Old French *doneur*.
+- Reference: Wiktionary (French), [donner](https://en.wiktionary.org/wiki/donner#French) — from Middle French *donner*, from Old French *doner*, from Latin *dōnō*, *dōnāre*.
+
+## flexible
+
+- Record: `{prefix:null, stem:"flect", suffix:"-ible", literal:"bend", definition:"able to bend easily; also, able to change easily"}`
+- Review: Confirmed `flect` + `-ible` (Latin *flexibilis*); replaced the circular "able to flex".
+- Reference: Wiktionary, [flexible](https://en.wiktionary.org/wiki/flexible#English) — from Latin *flexibilis*, from *flectō* "to bend, curve".
+- Reference: Wiktionary (Latin), [flexibilis](https://en.wiktionary.org/wiki/flexibilis#Latin) — *flexibilis* = *flectō* "to bend, curve" + *-bilis*.
+
+## reflect
+
+- Record: `{prefix:"re-", stem:"flect", suffix:null, literal:"bend back", definition:"to throw back light or sound; also, to think carefully"}`
+- Review: Confirmed `re-` + `flect`.
+- Reference: Wiktionary, [reflect](https://en.wiktionary.org/wiki/reflect#English) — from Old French *reflecter* "to bend back, turn back", from Latin *reflectō* "to reflect", from *re-* "again" + *flectō* "to bend, to curve".
+
+## reflection
+
+- Record: `{prefix:"re-", stem:"flect", suffix:"-ion", literal:"bend back", definition:"an image seen in a mirror or water; also, careful thought"}`
+- Review: Confirmed `re-` + `flect` + `-ion`; replaced "expression without words".
+- Reference: Wiktionary, [reflection](https://en.wiktionary.org/wiki/reflection#English) — from Late Latin *reflexiō*, from the participle stem of *reflectō*.
+- Reference: Wiktionary (Latin), [reflecto](https://en.wiktionary.org/wiki/reflecto#Latin) — *reflectō* = *re-* + *flectō*.
+
+## insect
+
+- Record: `{prefix:"in-", stem:"sect", suffix:null, literal:"cut into", definition:"a small animal with six legs and a body in three parts"}`
+- Review: Confirmed `in-` + `sect` (Latin *īnsecō* "to cut into").
+- Reference: Wiktionary, [insect](https://en.wiktionary.org/wiki/insect#English) — from Latin *īnsectum*, from *īnsectus* "cut into, cut up, with a notched or divided body", from perfect passive participle of *īnsecō* "to cut into, to cut up", from *in-* + *secō* "to cut".
+
+## section
+
+- Record: `{prefix:null, stem:"sect", suffix:"-ion", literal:"cut", definition:"one of the parts that something is divided into"}`
+- Review: Confirmed `sect` + `-ion`.
+- Reference: Wiktionary, [section](https://en.wiktionary.org/wiki/section#English) — from Latin *sectiō* "cutting, cutting off", from *sectus*, past participle of *secāre* "to cut".
+
+## sector
+
+- Record: `{prefix:null, stem:"sect", suffix:"-or", literal:"cut", definition:"a part or area of something, such as a business area"}`
+- Review: Confirmed `sect` + `-or` (Latin *sector* "cutter").
+- Reference: Wiktionary, [sector](https://en.wiktionary.org/wiki/sector#English) — borrowed from Latin *sector* "cutter".
+- Reference: Wiktionary (Latin), [sector](https://en.wiktionary.org/wiki/sector#Latin) — *sector* = *secō* "cut, cut off" + *-tor*.
+
+## local
+
+- Record: `{prefix:null, stem:"loc", suffix:"-al", literal:"place", definition:"belonging to or near a particular place"}`
+- Review: Confirmed `loc` + `-al`; replaced the anesthetic sense.
+- Reference: Wiktionary, [local](https://en.wiktionary.org/wiki/local#English) — from Late Latin *locālis* "belonging to a place"; ultimately from Latin *locus* "a place".
+
+## locate
+
+- Record: `{prefix:null, stem:"loc", suffix:"-ate", literal:"place", definition:"to find where something is"}`
+- Review: Confirmed `loc` + `-ate`.
+- Reference: Wiktionary, [locate](https://en.wiktionary.org/wiki/locate#English) — from Latin *locātus*, perfect passive participle of *locō* "to place", from *locus* "place".
+
+## location
+
+- Record: `{prefix:null, stem:"loc", suffix:"-ion", literal:"place", definition:"a place or position"}`
+- Review: Confirmed `loc` + `-ion`.
+- Reference: Wiktionary, [location](https://en.wiktionary.org/wiki/location#English) — from Latin *locatio* "a placing", from *locare* "to place, put, set", from *locus* "a place".
+
+## nation
+
+- Record: `{prefix:null, stem:"nat", suffix:"-ion", literal:"born", definition:"a country and the people who live in it"}`
+- Review: Confirmed `nat` + `-ion`.
+- Reference: Wiktionary, [nation](https://en.wiktionary.org/wiki/nation#English) — from Latin *nātiōnem*, accusative of *nātiō* "nation".
+- Reference: Wiktionary (Latin), [natio](https://en.wiktionary.org/wiki/natio#Latin) — *nātiō*: root *\*ǵenh₁-*; sense "birth".
+
+## native
+
+- Record: `{prefix:null, stem:"nat", suffix:"-ive", literal:"born", definition:"belonging to a place by birth"}`
+- Review: Confirmed `nat` + `-ive`. Latin *nātīvus* means "inborn", so the shared `-ive` gloss was widened to "tending to; relating to" (Wiktionary [-ive](https://en.wiktionary.org/wiki/-ive#English): "signifying relating or belonging to, of the nature of, tending to").
+- Reference: Wiktionary, [native](https://en.wiktionary.org/wiki/native#English) — from Latin *nātīvus*, from *nātus* "birth".
+- Reference: Wiktionary (Latin), [nativus](https://en.wiktionary.org/wiki/nativus#Latin) — *nātīvus* = *nātus* "born" + *-īvus*.
+
+## nature
+
+- Record: `{prefix:null, stem:"nat", suffix:"-ure", literal:"born", definition:"the natural world of plants, animals, and landscapes"}`
+- Review: Confirmed `nat` + `-ure`.
+- Reference: Wiktionary, [nature](https://en.wiktionary.org/wiki/nature#English) — from Latin *nātūra* "birth, origin, natural constitution or quality".
+
+## resolution
+
+- Record: `{prefix:"re-", stem:"solv", suffix:"-ion", literal:"loosen back", definition:"a firm decision to do something; also, the solving of a problem"}`
+- Review: Confirmed `re-` + `solv` + `-ion`.
+- Reference: Wiktionary, [resolution](https://en.wiktionary.org/wiki/resolution#English) — from Latin *resolūtiō* "a loosening, solution", from *resolvō* "to loosen".
+- Reference: Wiktionary (Latin), [resolvo](https://en.wiktionary.org/wiki/resolvo#Latin) — *resolvō* = *re-* "back" + *solvō* "to loosen, unbind".
+
+## resolve
+
+- Record: `{prefix:"re-", stem:"solv", suffix:null, literal:"loosen back", definition:"to find an answer to a problem; also, to decide firmly"}`
+- Review: Confirmed `re-` + `solv`.
+- Reference: Wiktionary, [resolve](https://en.wiktionary.org/wiki/resolve#English) — from Latin *resolvō* "loosen, thaw, melt, resolve", equivalent to *re-* + *solve*.
+
+## solution
+
+- Record: `{prefix:null, stem:"solv", suffix:"-ion", literal:"loosen", definition:"an answer to a problem"}`
+- Review: Confirmed `solv` + `-ion`.
+- Reference: Wiktionary, [solution](https://en.wiktionary.org/wiki/solution#English) — from Latin *solūtiōnem*, accusative singular of *solūtiō*, from the verb *solvō*.
+- Reference: Wiktionary (Latin), [solutio](https://en.wiktionary.org/wiki/solutio#Latin) — *solūtiō* = *solvō* "loosen; solve" + *-tiō*.
+
+## appoint
+
+- Record: `{prefix:"ad-", stem:"punct", suffix:null, literal:"point to", definition:"to choose someone for a job; also, to set a time for something"}`
+- Review: Confirmed `ad-` + `punct` via Late Latin *appunctō* (*ad* + *punctum* "a point").
+- Reference: Wiktionary, [appoint](https://en.wiktionary.org/wiki/appoint#English) — from Old French *apointier*, from Late Latin *appunctō* "to bring back to the point, restore …"; Latin *ad* + *punctum* "a point".
+
+## appointment
+
+- Record: `{prefix:"ad-", stem:"punct", suffix:"-ment", literal:"point to", definition:"an arranged meeting at a particular time"}`
+- Review: Confirmed as *appoint* + *-ment*.
+- Reference: Wiktionary, [appointment](https://en.wiktionary.org/wiki/appointment#English) — from Old French *appointement*; *appoint* + *-ment*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -2496,3 +2716,4 @@ Words held back from teaching modes, with the reason.
 - victory — the English entry gives *victor* + *-y* and the Latin gives *victōria* = *victor* + *-ia*; neither supports the recorded `-ory` ("place for; relating to") suffix, matching the *factory* case; definition corrected to "the act of winning a battle or contest" ([Wiktionary](https://en.wiktionary.org/wiki/victory))
 - refuse — origin disputed in the source: Vulgar Latin *\*refūsāre*, either a blend of *refūtāre* and *recūsāre* or from *refūsus*, past participle of *refundere* "to pour back"; the `fus` (pour) mapping is unresolved ([Wiktionary](https://en.wiktionary.org/wiki/refuse))
 - pervert — the decomposition is sound (*pervertō*, *per-* + *vertō*), but the common modern noun sense doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/pervert))
+- tribal — from Latin *tribālis* (*tribus* "tribe" + *-ālis*); the `trib` tile is taught as "give, pay" (from *tribuō*), which misstates the meaning of *tribal*; definition corrected to "relating to a tribe" ([Wiktionary](https://en.wiktionary.org/wiki/tribal))
