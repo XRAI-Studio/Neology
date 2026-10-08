@@ -2279,6 +2279,195 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Reference: Wiktionary, [region](https://en.wiktionary.org/wiki/region#English) — from Latin *regiō*, from *regō*.
 - Reference: Wiktionary (Latin), [regio](https://en.wiktionary.org/wiki/regio#Latin) — *regiō* = *regō* + *-iō*: "direction, line".
 
+## decision
+
+- Record: `{prefix:"de-", stem:"cis", suffix:"-ion", literal:"cut off", definition:"a choice that you make after thinking"}`
+- Review: Confirmed `de-` + `cis` + `-ion` (Latin *dēcīdō*, *dē* + *caedō* "cut"). Literal changed from "cut down" to "cut off", the source's gloss of *dēcīdō*.
+- Reference: Wiktionary, [decision](https://en.wiktionary.org/wiki/decision#English) — from Latin *dēcīsiō*, from *dēcīdō* "to decide".
+- Reference: Wiktionary, [decide](https://en.wiktionary.org/wiki/decide#English) — from Latin *dēcīdere*, infinitive of *dēcīdō* "cut off, decide", from *dē* "down from" + *caedō* "cut".
+
+## decisive
+
+- Record: `{prefix:"de-", stem:"cis", suffix:"-ive", literal:"cut off", definition:"able to make choices quickly and firmly; also, settling something clearly"}`
+- Review: Confirmed as *decide* + *-ive* (via French *décisif*). Literal changed to "cut off".
+- Reference: Wiktionary, [decisive](https://en.wiktionary.org/wiki/decisive#English) — from Middle French *décisif*, equivalent to *decide* + *-ive*.
+- Reference: Wiktionary, [decide](https://en.wiktionary.org/wiki/decide#English) — from Latin *dēcīdō* "cut off, decide", from *dē* "down from" + *caedō* "cut".
+
+## precise
+
+- Record: `{prefix:"pre-", stem:"cis", suffix:null, literal:"cut before", definition:"exact and accurate"}`
+- Review: Confirmed `pre-` + `cis` (Latin *praecīdō*, *prae-* + *caedō*).
+- Reference: Wiktionary, [precise](https://en.wiktionary.org/wiki/precise#English) — from Middle French *précis*, from Latin *praecīsus*, perfect passive participle of *praecīdere*, from *prae-* "before, in front" + *caedere* "cut; strike".
+
+## precision
+
+- Record: `{prefix:"pre-", stem:"cis", suffix:"-ion", literal:"cut before", definition:"the quality of being exact and accurate"}`
+- Review: Confirmed as *precise* + *-ion*.
+- Reference: Wiktionary, [precision](https://en.wiktionary.org/wiki/precision#English) — from Middle French *precision*; *precise* + *-ion*.
+- Reference: Wiktionary (Latin), [praecido](https://en.wiktionary.org/wiki/praecido#Latin) — *praecīdō* = *prae-* + *caedō* "cut; strike".
+
+## define
+
+- Record: `{prefix:"de-", stem:"fin", suffix:null, literal:"set a limit", definition:"to explain exactly what a word or idea means"}`
+- Review: Confirmed `de-` + `fin` (Latin *dēfīniō*). Literal changed from "end down" to "set a limit", the source's gloss of *fīniō*. Here *dē-* is intensive ("completely"), so the shared `de-` gloss was widened to "down, away, completely" (Wiktionary [de-](https://en.wiktionary.org/wiki/de-#English): "intensifying").
+- Reference: Wiktionary, [define](https://en.wiktionary.org/wiki/define#English) — from Latin *dēfīniō* "limit, settle, define", from *dē* + *fīniō* "set a limit, bound, end".
+
+## definition
+
+- Record: `{prefix:"de-", stem:"fin", suffix:"-ion", literal:"set a limit", definition:"an explanation of what a word or idea means"}`
+- Review: Confirmed `de-` + `fin` + `-ion` (*define* + *-ition*). Literal changed to "set a limit"; replaced "clarity of outline". See *define*: `de-` is intensive here.
+- Reference: Wiktionary, [definition](https://en.wiktionary.org/wiki/definition#English) — from Latin *dēfīnītiō*, from *dēfīniō*; *define* + *-ition*.
+- Reference: Wiktionary (Latin), [definio](https://en.wiktionary.org/wiki/definio#Latin) — *dēfīniō* = *dē-* + *fīniō* "set a limit, bound, end".
+
+## final
+
+- Record: `{prefix:null, stem:"fin", suffix:"-al", literal:"end", definition:"coming at the end; last"}`
+- Review: Confirmed `fin` + `-al`.
+- Reference: Wiktionary, [final](https://en.wiktionary.org/wiki/final#English) — from Latin *fīnālis* "of or relating to the end or to boundaries", from *fīnis* "end".
+
+## finance
+
+- Record: `{prefix:null, stem:"fin", suffix:"-ance", literal:"end", definition:"the management of money"}`
+- Review: Confirmed `fin` + `-ance` with a caveat: it comes through Middle French *finer* "to pay ransom", from *fin* "end", from Latin *fīnis*.
+- Reference: Wiktionary, [finance](https://en.wiktionary.org/wiki/finance#English) — from Middle French *finance*, from *finer* "to pay ransom", from *fin* "end", from Latin *fīnis*.
+
+## describe
+
+- Record: `{prefix:"de-", stem:"scrib", suffix:null, literal:"write down", definition:"to say or write what someone or something is like"}`
+- Review: Confirmed `de-` + `scrib`.
+- Reference: Wiktionary, [describe](https://en.wiktionary.org/wiki/describe#English) — from Latin *dēscrībō* "to copy off, transcribe, sketch off, describe in painting or writing", from *dē* "off" + *scrībō* "write".
+
+## description
+
+- Record: `{prefix:"de-", stem:"scrib", suffix:"-ion", literal:"write down", definition:"words that tell what someone or something is like"}`
+- Review: Confirmed `de-` + `scrib` + `-ion`; replaced "sort or variety".
+- Reference: Wiktionary, [description](https://en.wiktionary.org/wiki/description#English) — from Latin *dēscrīptiō*, noun of action of *dēscrībō* "to describe"; *describe* + *-tion*.
+- Reference: Wiktionary (Latin), [describo](https://en.wiktionary.org/wiki/describo#Latin) — *dēscrībō* = *dē-* + *scrībō* "write".
+
+## prescription
+
+- Record: `{prefix:"pre-", stem:"scrib", suffix:"-ion", literal:"write before", definition:"a doctor's written instructions for medicine"}`
+- Review: Confirmed `pre-` + `scrib` + `-ion`.
+- Reference: Wiktionary, [prescription](https://en.wiktionary.org/wiki/prescription#English) — from Latin *praescriptio* "preface; pretext; something written ahead of time", from *prae-* "before" + *scribere* "to write" + *-tio*.
+
+## transcript
+
+- Record: `{prefix:"trans-", stem:"scrib", suffix:null, literal:"write across", definition:"a written copy of what was said"}`
+- Review: Confirmed `trans-` + `scrib`.
+- Reference: Wiktionary, [transcript](https://en.wiktionary.org/wiki/transcript#English) — from Latin *transcriptum*, from *transcribere*.
+- Reference: Wiktionary (Latin), [transcribo](https://en.wiktionary.org/wiki/transcribo#Latin) — *trānscrībō* = *trāns-* + *scrībō*.
+
+## disorder
+
+- Record: `{prefix:"dis-", stem:"ordin", suffix:null, literal:"lack of order", definition:"a lack of order; a mess"}`
+- Review: Corrected the decomposition: the record had a `-er` suffix, but *disorder* is *dis-* + *order*, and the *-er* of *order* is not a suffix (it is French *ordre*, from Latin *ōrdinem*). Suffix removed. Literal changed from "order apart" to "lack of order"; *dis-* here is negative, so the shared `dis-` gloss was widened to "apart, away, not" (Wiktionary [dis-](https://en.wiktionary.org/wiki/dis-#English): "not, the reverse of").
+- Reference: Wiktionary, [disorder](https://en.wiktionary.org/wiki/disorder#English) — from Old French *desordre*, from *des-* + *ordre*; surface analysis *dis-* + *order* (<< Latin *ōrdō*).
+
+## extraordinary
+
+- Record: `{prefix:"extra-", stem:"ordin", suffix:"-ary", literal:"outside the order", definition:"very unusual or remarkable"}`
+- Review: Confirmed `extra-` + `ordin` + `-ary`. Literal changed from "order outside" to "outside the order", the Latin phrase behind the word.
+- Reference: Wiktionary, [extraordinary](https://en.wiktionary.org/wiki/extraordinary#English) — from Latin *extrāōrdinārius*; surface analysis *extra-* + *ordinary*.
+- Reference: Wiktionary (Latin), [extraordinarius](https://en.wiktionary.org/wiki/extraordinarius#Latin) — from the phrase *extrā ōrdinem* "outside the order".
+
+## order
+
+- Record: `{prefix:null, stem:"ordin", suffix:null, literal:"order", definition:"the way things are arranged; also, a command to do something"}`
+- Review: Corrected the decomposition: removed the `-er` suffix, which is not a suffix here; *order* comes from Old French *ordre*, from Latin *ōrdinem*, accusative of *ōrdō*. Replaced "a degree in a continuum".
+- Reference: Wiktionary, [order](https://en.wiktionary.org/wiki/order#English) — from Old French *ordre*, *ordene* "order, rank", from Latin *ōrdinem*, accusative of *ōrdō* "row, rank, regular arrangement".
+
+## ordinary
+
+- Record: `{prefix:null, stem:"ordin", suffix:"-ary", literal:"order", definition:"normal and usual; not special"}`
+- Review: Confirmed `ordin` + `-ary`; replaced the probate-judge sense.
+- Reference: Wiktionary, [ordinary](https://en.wiktionary.org/wiki/ordinary#English) — from Medieval Latin *ordinarius*, noun use of Latin *ōrdinārius* "regular, orderly", from *ōrdō* "order".
+
+## evacuate
+
+- Record: `{prefix:"ex-", stem:"vac", suffix:"-ate", literal:"empty out of", definition:"to move people out of a dangerous place"}`
+- Review: Confirmed `ex-` + `vac` + `-ate`.
+- Reference: Wiktionary, [evacuate](https://en.wiktionary.org/wiki/evacuate#English) — from Latin *ēvacuātus*, the perfect passive participle of *ēvacuō* "to empty out, evacuate".
+- Reference: Wiktionary (Latin), [evacuo](https://en.wiktionary.org/wiki/evacuo#Latin) — *ēvacuō* = *ex-* + *vacuō* "make empty".
+
+## evacuation
+
+- Record: `{prefix:"ex-", stem:"vac", suffix:"-ion", literal:"empty out of", definition:"the act of moving people out of a dangerous place"}`
+- Review: Confirmed `ex-` + `vac` + `-ion`.
+- Reference: Wiktionary, [evacuation](https://en.wiktionary.org/wiki/evacuation#English) — from Late Latin *ēvacuātiō*; *evacuate* + *-ion*.
+
+## vacant
+
+- Record: `{prefix:null, stem:"vac", suffix:"-ant", literal:"empty", definition:"empty; not being used"}`
+- Review: Confirmed `vac` + `-ant`.
+- Reference: Wiktionary, [vacant](https://en.wiktionary.org/wiki/vacant#English) — from Old French *vacant*, from Latin *vacāns*.
+- Reference: Wiktionary (Latin), [vacans](https://en.wiktionary.org/wiki/vacans#Latin) — present active participle of *vacō*.
+
+## vacation
+
+- Record: `{prefix:null, stem:"vac", suffix:"-ion", literal:"empty", definition:"a time away from work or school for rest or travel"}`
+- Review: Confirmed `vac` + `-ion`; replaced the verb gloss.
+- Reference: Wiktionary, [vacation](https://en.wiktionary.org/wiki/vacation#English) — from Old French *vacacion*, from Latin *vacātiō*; *vacate* + *-ion*.
+- Reference: Wiktionary (Latin), [vacatio](https://en.wiktionary.org/wiki/vacatio#Latin) — *vacātiō* = *vacō* "to be free" + *-tiō*.
+
+## advocate
+
+- Record: `{prefix:"ad-", stem:"voc", suffix:"-ate", literal:"call to", definition:"to speak in support of something; also, a person who does this"}`
+- Review: Confirmed `ad-` + `voc` + `-ate`.
+- Reference: Wiktionary, [advocate](https://en.wiktionary.org/wiki/advocate#English) — from Latin *advocātus* "an advocate", from the substantivization of the perfect passive participle of *advocāre* "to call for".
+- Reference: Wiktionary (Latin), [advoco](https://en.wiktionary.org/wiki/advoco#Latin) — *advocō* = *ad-* "to, towards, at" + *vocō* "to call, summon".
+
+## provoke
+
+- Record: `{prefix:"pro-", stem:"voc", suffix:null, literal:"call forward", definition:"to cause a reaction, especially by annoying someone"}`
+- Review: Confirmed `pro-` + `voc`.
+- Reference: Wiktionary, [provoke](https://en.wiktionary.org/wiki/provoke#English) — from Middle French *provoquer*, from Latin *prōvocāre*.
+- Reference: Wiktionary (Latin), [provoco](https://en.wiktionary.org/wiki/provoco#Latin) — *prōvocō* = *prō-* "in front of, for" + *vocō* "call".
+
+## vocal
+
+- Record: `{prefix:null, stem:"voc", suffix:"-al", literal:"voice", definition:"relating to the voice; also, expressing opinions openly"}`
+- Review: Confirmed `voc` + `-al` via Latin *vōcālis* (*vōx* + *-ālis*). Literal changed from "call" to "voice"; replaced the song-only noun gloss.
+- Reference: Wiktionary, [vocal](https://en.wiktionary.org/wiki/vocal#English) — from Latin *vōcālis* "uttering a voice, sounding, speaking", from *vōx* "a voice, sound, tone" + *-ālis*.
+
+## approval
+
+- Record: `{prefix:"ad-", stem:"prob", suffix:"-al", literal:"test to", definition:"the feeling that something is good, or official permission"}`
+- Review: Confirmed as *approve* + *-al*; *approve* comes from Latin *approbō* (*ad-* + *probō*). The `-al` here forms a noun of action, so the shared `-al` gloss was widened to "relating to; act of" (Wiktionary [-al](https://en.wiktionary.org/wiki/-al#English): "forming nouns, especially of verbal action").
+- Reference: Wiktionary, [approval](https://en.wiktionary.org/wiki/approval#English) — *approve* + *-al*.
+- Reference: Wiktionary, [approve](https://en.wiktionary.org/wiki/approve#English) — from Old French *aprover*, from Latin *approbō*, from *ad* + ….
+- Reference: Wiktionary (Latin), [approbo](https://en.wiktionary.org/wiki/approbo#Latin) — *approbō* = *ad-* "to, towards, at" + *probō* "test, examine; approve".
+
+## probable
+
+- Record: `{prefix:null, stem:"prob", suffix:"-able", literal:"test", definition:"likely to happen or be true"}`
+- Review: Confirmed `prob` + `-able`.
+- Reference: Wiktionary, [probable](https://en.wiktionary.org/wiki/probable#English) — from Latin *probābilis* "that may be proved, credible", from *probāre* "to test, examine".
+
+## probation
+
+- Record: `{prefix:null, stem:"prob", suffix:"-ion", literal:"test", definition:"a period of testing someone's behavior or ability"}`
+- Review: Confirmed `prob` + `-ion`.
+- Reference: Wiktionary, [probation](https://en.wiktionary.org/wiki/probation#English) — from Latin *probatio* "a trying, inspection, examination", from *probare*, past participle *probatus* "to test, examine".
+
+## audible
+
+- Record: `{prefix:null, stem:"aud", suffix:"-ible", literal:"hear", definition:"loud enough to be heard"}`
+- Review: Confirmed `aud` + `-ible`.
+- Reference: Wiktionary, [audible](https://en.wiktionary.org/wiki/audible#English) — from Late Latin *audibilis*, from Latin *audire* "to hear".
+
+## audition
+
+- Record: `{prefix:null, stem:"aud", suffix:"-ion", literal:"hear", definition:"a short performance to show if someone is good enough for a role"}`
+- Review: Confirmed `aud` + `-ion`; chose the common sense.
+- Reference: Wiktionary, [audition](https://en.wiktionary.org/wiki/audition#English) — from Latin *audītiō*, from *audiō* "to hear".
+- Reference: Wiktionary (Latin), [auditio](https://en.wiktionary.org/wiki/auditio#Latin) — *audītiō* = *audiō* "to hear" + *-tiō*.
+
+## inaudible
+
+- Record: `{prefix:"in-", stem:"aud", suffix:"-ible", literal:"not hear", definition:"too quiet to be heard"}`
+- Review: Confirmed `in-` (not) + *audible*.
+- Reference: Wiktionary, [inaudible](https://en.wiktionary.org/wiki/inaudible#English) — *in-* + *audible*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.

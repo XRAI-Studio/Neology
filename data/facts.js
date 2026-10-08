@@ -123,9 +123,9 @@ window.WF.FACTS = {
   "contract": " Contract comes from Latin contrahere, draw together, as an agreement draws parties together.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/convention#English (verified 2026-10-07)
   "convention": " Convention comes from Latin convenire, come together or assemble.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/decision (checked 2026-07-20)
-  "decision": " Decision comes from Latin decidere, cut off  choosing cuts away the alternatives.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/define (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/decision#English and https://en.wiktionary.org/wiki/decide#English (verified 2026-10-07)
+  "decision": "Decision comes from Latin decidere, “to cut off, decide” — built from de- (down from) and caedere (to cut).",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/define#English (verified 2026-10-07)
   "define": " Define comes from Latin definire, set bounds or limits.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/dependent#English (verified 2026-10-07)
   "dependent": " Dependent belongs to a Latin family meaning hang down, like something hanging from its support.",
@@ -133,7 +133,7 @@ window.WF.FACTS = {
   "deposit": " Deposit comes from Latin deponere, lay down or put aside.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/depression#English (verified 2026-10-07)
   "depression": " Depression comes from Latin depressio, a pressing down.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/describe (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/describe#English (verified 2026-10-07)
   "describe": " Describe comes from Latin describere, write down or copy out.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/design#English (verified 2026-10-07)
   "design": " Design comes from Latin designare, mark out or designate.",
@@ -165,7 +165,7 @@ window.WF.FACTS = {
   "express": " Express comes from Latin exprimere, press out, as juice is pressed from fruit.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/extend#English (verified 2026-10-07)
   "extend": " Extend comes from Latin extendere, stretch out.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/extraordinary (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/extraordinary#English (verified 2026-10-07)
   "extraordinary": " Extraordinary literally means outside the ordinary order.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/importance#English (verified 2026-10-07)
   "importance": " Importance is related to Latin importare, bring in or carry into.",

@@ -33,12 +33,12 @@ window.WF.PREFIXES = [
   ],
   [
     "de-",
-    "down, away",
+    "down, away, completely",
     "decelerate"
   ],
   [
     "dis-",
-    "apart, away",
+    "apart, away, not",
     "disappear"
   ],
   [
@@ -802,7 +802,7 @@ window.WF.SUFFIXES = [
   ],
   [
     "-al",
-    "relating to",
+    "relating to; act of",
     "verbal"
   ],
   [
@@ -1063,8 +1063,8 @@ window.WF.WORDS = [
     "voc",
     "-ate",
     "call to",
-    "push for something",
-    false
+    "to speak in support of something; also, a person who does this",
+    true
   ],
   [
     "affect",
@@ -1153,8 +1153,8 @@ window.WF.WORDS = [
     "prob",
     "-al",
     "test to",
-    "acceptance as satisfactory",
-    false
+    "the feeling that something is good, or official permission",
+    true
   ],
   [
     "assessment",
@@ -1279,8 +1279,8 @@ window.WF.WORDS = [
     "aud",
     "-ible",
     "hear",
-    "heard or perceptible by the ear",
-    false
+    "loud enough to be heard",
+    true
   ],
   [
     "audition",
@@ -1288,8 +1288,8 @@ window.WF.WORDS = [
     "aud",
     "-ion",
     "hear",
-    "the ability to hear",
-    false
+    "a short performance to show if someone is good enough for a role",
+    true
   ],
   [
     "capable",
@@ -1971,18 +1971,18 @@ window.WF.WORDS = [
     "de-",
     "cis",
     "-ion",
-    "cut down",
-    "the act of making up your mind about something",
-    false
+    "cut off",
+    "a choice that you make after thinking",
+    true
   ],
   [
     "decisive",
     "de-",
     "cis",
     "-ive",
-    "cut down",
-    "unmistakable",
-    false
+    "cut off",
+    "able to make choices quickly and firmly; also, settling something clearly",
+    true
   ],
   [
     "dedicate",
@@ -2016,18 +2016,18 @@ window.WF.WORDS = [
     "de-",
     "fin",
     null,
-    "end down",
-    "state or describe exactly the nature, scope, or meaning of something",
-    false
+    "set a limit",
+    "to explain exactly what a word or idea means",
+    true
   ],
   [
     "definition",
     "de-",
     "fin",
     "-ion",
-    "end down",
-    "clarity of outline",
-    false
+    "set a limit",
+    "an explanation of what a word or idea means",
+    true
   ],
   [
     "demand",
@@ -2107,8 +2107,8 @@ window.WF.WORDS = [
     "scrib",
     null,
     "write down",
-    "give an account in words of someone or something",
-    false
+    "to say or write what someone or something is like",
+    true
   ],
   [
     "description",
@@ -2116,8 +2116,8 @@ window.WF.WORDS = [
     "scrib",
     "-ion",
     "write down",
-    "sort or variety",
-    false
+    "words that tell what someone or something is like",
+    true
   ],
   [
     "deserve",
@@ -2231,10 +2231,10 @@ window.WF.WORDS = [
     "disorder",
     "dis-",
     "ordin",
-    "-er",
-    "order apart",
-    "a disturbance of the peace or of public order",
-    false
+    null,
+    "lack of order",
+    "a lack of order; a mess",
+    true
   ],
   [
     "disposal",
@@ -2467,8 +2467,8 @@ window.WF.WORDS = [
     "vac",
     "-ate",
     "empty out of",
-    "empty completely",
-    false
+    "to move people out of a dangerous place",
+    true
   ],
   [
     "evacuation",
@@ -2476,8 +2476,8 @@ window.WF.WORDS = [
     "vac",
     "-ion",
     "empty out of",
-    "the act of evacuating",
-    false
+    "the act of moving people out of a dangerous place",
+    true
   ],
   [
     "evaluation",
@@ -2691,9 +2691,9 @@ window.WF.WORDS = [
     "extra-",
     "ordin",
     "-ary",
-    "order outside",
-    "far more than usual or expected",
-    false
+    "outside the order",
+    "very unusual or remarkable",
+    true
   ],
   [
     "factor",
@@ -2719,8 +2719,8 @@ window.WF.WORDS = [
     "fin",
     "-al",
     "end",
-    "occurring at or forming an end or termination",
-    false
+    "coming at the end; last",
+    true
   ],
   [
     "finance",
@@ -2728,8 +2728,8 @@ window.WF.WORDS = [
     "fin",
     "-ance",
     "end",
-    "the commercial activity of providing funds and capital",
-    false
+    "the management of money",
+    true
   ],
   [
     "flexible",
@@ -2962,8 +2962,8 @@ window.WF.WORDS = [
     "aud",
     "-ible",
     "not hear",
-    "impossible to hear",
-    false
+    "too quiet to be heard",
+    true
   ],
   [
     "incapable",
@@ -3788,10 +3788,10 @@ window.WF.WORDS = [
     "order",
     null,
     "ordin",
-    "-er",
+    null,
     "order",
-    "a degree in a continuum of size or quantity",
-    false
+    "the way things are arranged; also, a command to do something",
+    true
   ],
   [
     "ordinary",
@@ -3799,8 +3799,8 @@ window.WF.WORDS = [
     "ordin",
     "-ary",
     "order",
-    "a judge of a probate court",
-    false
+    "normal and usual; not special",
+    true
   ],
   [
     "pedal",
@@ -3988,8 +3988,8 @@ window.WF.WORDS = [
     "cis",
     null,
     "cut before",
-    "sharply exact or accurate or delimited",
-    false
+    "exact and accurate",
+    true
   ],
   [
     "precision",
@@ -3997,8 +3997,8 @@ window.WF.WORDS = [
     "cis",
     "-ion",
     "cut before",
-    "the quality of being reproducible in amount or performance",
-    false
+    "the quality of being exact and accurate",
+    true
   ],
   [
     "predict",
@@ -4033,8 +4033,8 @@ window.WF.WORDS = [
     "scrib",
     "-ion",
     "write before",
-    "directions prescribed beforehand",
-    false
+    "a doctor's written instructions for medicine",
+    true
   ],
   [
     "preserve",
@@ -4114,8 +4114,8 @@ window.WF.WORDS = [
     "prob",
     "-able",
     "test",
-    "apparently destined",
-    false
+    "likely to happen or be true",
+    true
   ],
   [
     "probation",
@@ -4123,8 +4123,8 @@ window.WF.WORDS = [
     "prob",
     "-ion",
     "test",
-    "(law) a way of dealing with offenders without imprisoning them",
-    false
+    "a period of testing someone's behavior or ability",
+    true
   ],
   [
     "procedure",
@@ -4330,8 +4330,8 @@ window.WF.WORDS = [
     "voc",
     null,
     "call forward",
-    "provide the needed stimulus for",
-    false
+    "to cause a reaction, especially by annoying someone",
+    true
   ],
   [
     "question",
@@ -5212,8 +5212,8 @@ window.WF.WORDS = [
     "scrib",
     null,
     "write across",
-    "something that has been transcribed",
-    false
+    "a written copy of what was said",
+    true
   ],
   [
     "transfer",
@@ -5320,8 +5320,8 @@ window.WF.WORDS = [
     "vac",
     "-ant",
     "empty",
-    "void of thought or knowledge",
-    false
+    "empty; not being used",
+    true
   ],
   [
     "vacation",
@@ -5329,8 +5329,8 @@ window.WF.WORDS = [
     "vac",
     "-ion",
     "empty",
-    "spend or take a vacation",
-    false
+    "a time away from work or school for rest or travel",
+    true
   ],
   [
     "valuable",
@@ -5427,8 +5427,8 @@ window.WF.WORDS = [
     null,
     "voc",
     "-al",
-    "call",
-    "a short musical composition with words",
-    false
+    "voice",
+    "relating to the voice; also, expressing opinions openly",
+    true
   ]
 ];
