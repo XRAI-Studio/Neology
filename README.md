@@ -33,8 +33,8 @@ The app makes no network requests, uses a system font stack, and has no analytic
 
 1. Replace the placeholder `liveUrl` in `macscott.json` with the production HTTPS Vercel URL.
 2. Disable Vercel automatic production deployment for the repository.
-3. Protect the `main` branch and configure the GitHub `production` environment plus `VERCEL_TOKEN`, `VERCEL_ORG_ID`, and `VERCEL_PROJECT_ID` secrets.
-4. Push to protected `main`. `.github/workflows/ci-deploy.yml` tests the exact SHA, confirms it is still branch head, and then performs `vercel deploy --prod --yes`.
+3. Protect the `master` branch and configure the GitHub `production` environment plus `VERCEL_TOKEN`, `VERCEL_ORG_ID`, and `VERCEL_PROJECT_ID` secrets.
+4. Push to protected `master`. `.github/workflows/ci-deploy.yml` tests the exact SHA, confirms it is still branch head, and then performs `vercel deploy --prod --yes`.
 5. Add the public repository topic `macscott-app`, confirm catalog discovery, and test the production URL inside the catalog iframe.
 
 This repository contains deployment scaffolding only; no deployment is performed by the source tree itself.

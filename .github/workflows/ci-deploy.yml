@@ -2,7 +2,7 @@ name: Test and deploy Word Forge
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 permissions:
   contents: read
@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     steps:
-      - name: Check out protected main SHA
+      - name: Check out protected master SHA
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -29,12 +29,12 @@ jobs:
       - name: Run zero-dependency checks
         run: npm test
 
-      - name: Verify tested SHA is still main head
+      - name: Verify tested SHA is still master head
         shell: bash
         run: |
-          head_sha="$(git ls-remote origin refs/heads/main | cut -f1)"
+          head_sha="$(git ls-remote origin refs/heads/master | cut -f1)"
           if [ "$GITHUB_SHA" != "$head_sha" ]; then
-            echo "Refusing stale deploy: tested $GITHUB_SHA, current main is $head_sha"
+            echo "Refusing stale deploy: tested $GITHUB_SHA, current master is $head_sha"
             exit 1
           fi
 
