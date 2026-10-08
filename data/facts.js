@@ -11,8 +11,8 @@ window.WF.FACTS = {
   "inspire": "🌬️ Ancients believed the gods literally breathed great ideas INTO artists’ lungs!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "inspiration": "🌬️ Inspiration = “breathed into” — people thought ideas were divine breath blown into you!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "emotion": "💨 People once believed feelings were spirits physically MOVING OUT of your body!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/emotion#English (verified 2026-10-07)
+  "emotion": "💨 Emotion comes from Latin emovere, “to move out, stir up” — built from e- (out) and movere (to move).",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "confuse": "🥤 Confused = “poured together” — like two drinks mixed into one murky, unrecognizable cup!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
@@ -71,9 +71,9 @@ window.WF.FACTS = {
   "extract": "🦷 Extract = “pull out” — exactly what a dentist does to a tooth!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "interrupt": "💥 Interrupt = “break between” — smashing into the middle of someone’s sentence!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/transport#English (verified 2026-10-07)
   "transport": "🌉 Trans- words are bridges — transport literally “carries across”!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/support#English (verified 2026-10-07)
   "support": "🏗️ Support = “carry from under” — holding something up from below!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "predict": "🔮 Predict = “say before” — speaking the future before it happens!",
@@ -167,9 +167,9 @@ window.WF.FACTS = {
   "extend": " Extend comes from Latin extendere, stretch out.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/extraordinary (checked 2026-07-20)
   "extraordinary": " Extraordinary literally means outside the ordinary order.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/importance (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/importance#English (verified 2026-10-07)
   "importance": " Importance is related to Latin importare, bring in or carry into.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/inform (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/inform#English (verified 2026-10-07)
   "inform": " Inform comes from Latin informare, give form to or shape.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/inject (checked 2026-07-20)
   "inject": " Inject comes from Latin inicere, throw in.",
@@ -195,7 +195,7 @@ window.WF.FACTS = {
   "progress": " Progress comes from Latin progressus, a going forward.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/promise#English (verified 2026-10-07)
   "promise": " Promise comes from Latin promittere, send forth or pledge beforehand.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/promote (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/promote#English (verified 2026-10-07)
   "promote": " Promote comes from Latin promovere, move forward.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/proposal#English (verified 2026-10-07)
   "proposal": " Proposal belongs to the Latin ponere family, put or place, so it puts an idea forward.",

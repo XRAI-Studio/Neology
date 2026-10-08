@@ -920,7 +920,7 @@ window.WF.FAMILY_NOTES = {
   "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand to,' and attention means 'stretch to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
   "con-": "The “con- family” is about doing things TOGETHER. Comfort = “strong with” (lending someone your strength), command = “hand with” (taking things in hand), confuse = “pour together” (a murky mixed-up drink), and conclude = “close with” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
   "de-": "The “de- family” points DOWN and AWAY. Depend = “hang down from” (like dangling from a rope you trust!), describe = “write down,” and depart = “share away” — splitting off from the group. When you see de-, picture something dropping or leaving.",
-  "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (feelings escaping your body), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
+  "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (from Latin emovere, “stir up”), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
   "in-": "The sneaky “in- family” has TWO jobs: going INTO (inject = throw in, inspire = breathe in) and saying NOT (invisible = not seeable, incredible = not believable). It also shape-shifts: im-, il-, ir-. You have to read the whole word to know which in- you’ve met!",
   "pro-": "The “pro- family” charges FORWARD. Propel = “drive forward,” project = “throw forward,” promote = “move forward,” and produce = “lead forward.” Pro- words are the go-getters of English — always pushing ahead!",
   "re-": "The mighty “re- family” goes BACK and AGAIN — it’s the most-used prefix in English! Reject = “throw back,” record = “heart back” (returning something to your heart to remember it!), reflect = “bend back” (like light off a mirror), and revolve = “roll back around.”",
@@ -1432,8 +1432,8 @@ window.WF.WORDS = [
     "mot",
     "-ion",
     "move with",
-    "confused movement",
-    false
+    "a noisy, confused disturbance",
+    true
   ],
   [
     "compartment",
@@ -2431,8 +2431,8 @@ window.WF.WORDS = [
     "mot",
     "-ion",
     "move out of",
-    "any strong feeling",
-    false
+    "a strong feeling, such as joy, anger, or fear",
+    true
   ],
   [
     "equal",
@@ -2746,8 +2746,8 @@ window.WF.WORDS = [
     "form",
     "-al",
     "shape",
-    "a gown for evening wear",
-    false
+    "following official rules or customs; not casual",
+    true
   ],
   [
     "formation",
@@ -2756,7 +2756,7 @@ window.WF.WORDS = [
     "-ion",
     "shape",
     "the act of forming or establishing something",
-    false
+    true
   ],
   [
     "fracture",
@@ -2899,8 +2899,8 @@ window.WF.WORDS = [
     "port",
     "-ance",
     "carry into",
-    "a prominent status",
-    false
+    "the quality of mattering a lot",
+    true
   ],
   [
     "important",
@@ -2908,8 +2908,8 @@ window.WF.WORDS = [
     "port",
     "-ant",
     "carry into",
-    "of extreme importance",
-    false
+    "having great value or effect; mattering a lot",
+    true
   ],
   [
     "impress",
@@ -3043,8 +3043,8 @@ window.WF.WORDS = [
     "form",
     null,
     "shape into",
-    "act as an informer",
-    false
+    "to give someone facts or information",
+    true
   ],
   [
     "informant",
@@ -3053,7 +3053,7 @@ window.WF.WORDS = [
     "-ant",
     "shape into",
     "a person who supplies information",
-    false
+    true
   ],
   [
     "information",
@@ -3061,8 +3061,8 @@ window.WF.WORDS = [
     "form",
     "-ion",
     "shape into",
-    "formal accusation of a crime",
-    false
+    "facts or knowledge about something",
+    true
   ],
   [
     "inject",
@@ -3520,7 +3520,7 @@ window.WF.WORDS = [
     "mot",
     "-ile",
     "move",
-    "a river in southwestern Alabama",
+    "able to move or be moved easily",
     false
   ],
   [
@@ -3538,8 +3538,8 @@ window.WF.WORDS = [
     "mot",
     "-ion",
     "move",
-    "a change of position that does not entail a change of location",
-    false
+    "the act or process of moving",
+    true
   ],
   [
     "motive",
@@ -3547,8 +3547,8 @@ window.WF.WORDS = [
     "mot",
     "-ive",
     "move",
-    "a theme that is repeated or elaborated in a piece of music",
-    false
+    "a reason for doing something",
+    true
   ],
   [
     "motor",
@@ -3556,8 +3556,8 @@ window.WF.WORDS = [
     "mot",
     "-or",
     "move",
-    "travel or be transported in a vehicle",
-    false
+    "a machine that makes something move or run",
+    true
   ],
   [
     "movement",
@@ -3565,8 +3565,8 @@ window.WF.WORDS = [
     "mot",
     "-ment",
     "move",
-    "the act of changing location from one place to another",
-    false
+    "the act of moving from one place or position to another",
+    true
   ],
   [
     "mutant",
@@ -3943,8 +3943,8 @@ window.WF.WORDS = [
     "port",
     "-able",
     "carry",
-    "a small light typewriter",
-    false
+    "light and easy to carry",
+    true
   ],
   [
     "porter",
@@ -3952,8 +3952,8 @@ window.WF.WORDS = [
     "port",
     "-er",
     "carry",
-    "someone who guards an entrance",
-    false
+    "a person whose job is to carry bags or luggage",
+    true
   ],
   [
     "position",
@@ -4240,8 +4240,8 @@ window.WF.WORDS = [
     "mot",
     null,
     "move forward",
-    "make publicity for",
-    false
+    "to move someone up to a higher rank, or to help something become popular",
+    true
   ],
   [
     "promotion",
@@ -4249,8 +4249,8 @@ window.WF.WORDS = [
     "mot",
     "-ion",
     "move forward",
-    "act of raising in rank or position",
-    false
+    "a move up to a higher rank or job",
+    true
   ],
   [
     "proposal",
@@ -4456,8 +4456,8 @@ window.WF.WORDS = [
     "form",
     null,
     "shape back",
-    "a campaign aimed to correct abuses or malpractices",
-    false
+    "to change something in order to improve it",
+    true
   ],
   [
     "refuge",
@@ -4519,8 +4519,8 @@ window.WF.WORDS = [
     "mot",
     null,
     "move back",
-    "very unlikely",
-    false
+    "far away or hard to reach",
+    true
   ],
   [
     "removal",
@@ -4528,8 +4528,8 @@ window.WF.WORDS = [
     "mot",
     "-al",
     "move back",
-    "the act of removing",
-    false
+    "the act of taking something away",
+    true
   ],
   [
     "remove",
@@ -4537,8 +4537,8 @@ window.WF.WORDS = [
     "mot",
     null,
     "move back",
-    "remove from a position or an office",
-    false
+    "to take something away from a place",
+    true
   ],
   [
     "reply",
@@ -4555,8 +4555,8 @@ window.WF.WORDS = [
     "port",
     null,
     "carry back",
-    "a short account of the news",
-    false
+    "a spoken or written account of something",
+    true
   ],
   [
     "reporter",
@@ -4564,8 +4564,8 @@ window.WF.WORDS = [
     "port",
     "-er",
     "carry back",
-    "a person who investigates and reports or edits news stories",
-    false
+    "a person who gathers and reports news",
+    true
   ],
   [
     "request",
@@ -5104,8 +5104,8 @@ window.WF.WORDS = [
     "port",
     null,
     "carry under",
-    "give assistance to, especially financially or emotionally",
-    false
+    "to help someone, or to hold something up",
+    true
   ],
   [
     "supportive",
@@ -5113,8 +5113,8 @@ window.WF.WORDS = [
     "port",
     "-ive",
     "carry under",
-    "furnishing support or assistance",
-    false
+    "giving help and encouragement",
+    true
   ],
   [
     "suppose",
@@ -5230,8 +5230,8 @@ window.WF.WORDS = [
     "form",
     null,
     "shape across",
-    "change in outward structure or looks",
-    false
+    "to change something completely in form or appearance",
+    true
   ],
   [
     "transformation",
@@ -5239,8 +5239,8 @@ window.WF.WORDS = [
     "form",
     "-ion",
     "shape across",
-    "a qualitative change",
-    false
+    "a complete change in form or appearance",
+    true
   ],
   [
     "transmission",
@@ -5275,8 +5275,8 @@ window.WF.WORDS = [
     "port",
     null,
     "carry across",
-    "something that serves as a means of transportation",
-    false
+    "to carry people or goods from one place to another",
+    true
   ],
   [
     "transportation",
@@ -5284,8 +5284,8 @@ window.WF.WORDS = [
     "port",
     "-ion",
     "carry across",
-    "the sum charged for riding in a public conveyance",
-    false
+    "a way of carrying people or goods from place to place",
+    true
   ],
   [
     "transporter",
@@ -5293,8 +5293,8 @@ window.WF.WORDS = [
     "port",
     "-er",
     "carry across",
-    "a long truck for carrying motor vehicles",
-    false
+    "a vehicle or machine that carries things from place to place",
+    true
   ],
   [
     "tribal",

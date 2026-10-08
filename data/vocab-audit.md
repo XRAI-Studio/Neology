@@ -574,6 +574,198 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Reference: Wiktionary, [successor](https://en.wiktionary.org/wiki/successor#English) — from Anglo-Norman *successour*, from Latin *successor*.
 - Reference: Wiktionary (Latin), [successor](https://en.wiktionary.org/wiki/successor#Latin) — *successor* = *succēdō* + *-tor*.
 
+## commotion
+
+- Record: `{prefix:"con-", stem:"mot", suffix:"-ion", literal:"move with", definition:"a noisy, confused disturbance"}`
+- Review: Confirmed `con-` + `mot` + `-ion`.
+- Reference: Wiktionary, [commotion](https://en.wiktionary.org/wiki/commotion#English) — from Latin *commōtiō*, from *commoveō* + *-tiō*.
+- Reference: Wiktionary (Latin), [commoveo](https://en.wiktionary.org/wiki/commoveo#Latin) — *commoveō* = *con-* + *moveō*.
+
+## emotion
+
+- Record: `{prefix:"ex-", stem:"mot", suffix:"-ion", literal:"move out of", definition:"a strong feeling, such as joy, anger, or fear"}`
+- Review: Confirmed `ex-` + `mot` + `-ion` (Latin *ē-* is a variant of *ex-*).
+- Reference: Wiktionary, [emotion](https://en.wiktionary.org/wiki/emotion#English) — from French *émouvoir* "excite", based on Latin *ēmōtus*, past participle of *ēmoveō* "to move out, move away, remove, stir up", from *ē-* "out" (variant of *ex-*) and *moveō* "move".
+
+## motion
+
+- Record: `{prefix:null, stem:"mot", suffix:"-ion", literal:"move", definition:"the act or process of moving"}`
+- Review: Confirmed `mot` + `-ion`; replaced the philosophy-style gloss.
+- Reference: Wiktionary, [motion](https://en.wiktionary.org/wiki/motion#English) — from Latin *mōtiō* "movement, motion", related to *movēre*.
+- Reference: Wiktionary (Latin), [motio](https://en.wiktionary.org/wiki/motio#Latin) — *mōtiō* = *moveō* + *-tiō*.
+
+## motive
+
+- Record: `{prefix:null, stem:"mot", suffix:"-ive", literal:"move", definition:"a reason for doing something"}`
+- Review: Confirmed `mot` + `-ive`; replaced the specialized musical sense with the common reason-for-action sense.
+- Reference: Wiktionary, [motive](https://en.wiktionary.org/wiki/motive#English) — from Late Latin *motivum* "motive, moving cause", neuter of *motivus*.
+- Reference: Wiktionary (Latin), [motus](https://en.wiktionary.org/wiki/motus#Latin) — *mōtus*: perfect passive participle of *moveō* "to move".
+- Reference: Wiktionary (Latin), [motivus](https://en.wiktionary.org/wiki/motivus#Latin) — *mōtīvus* = *mōtus* (participle) + *-īvus*.
+
+## motor
+
+- Record: `{prefix:null, stem:"mot", suffix:"-or", literal:"move", definition:"a machine that makes something move or run"}`
+- Review: Confirmed `mot` + `-or`; replaced the verb gloss "travel in a vehicle" with the noun sense.
+- Reference: Wiktionary, [motor](https://en.wiktionary.org/wiki/motor#English) — from Latin *mōtor* "mover; that which moves something".
+- Reference: Wiktionary (Latin), [motor](https://en.wiktionary.org/wiki/motor#Latin) — *mōtor* = *moveō* "to move" + *-tor* "-er".
+
+## movement
+
+- Record: `{prefix:null, stem:"mot", suffix:"-ment", literal:"move", definition:"the act of moving from one place or position to another"}`
+- Review: Confirmed as the *moveō* family (`mot`) + `-ment`, via Old French *movoir*.
+- Reference: Wiktionary, [movement](https://en.wiktionary.org/wiki/movement#English) — from Old French *movement*, from *movoir* + *-ment*; compare Medieval Latin *movimentum*, from Latin *movere* "move"; morphologically *move* + *-ment*.
+
+## promote
+
+- Record: `{prefix:"pro-", stem:"mot", suffix:null, literal:"move forward", definition:"to move someone up to a higher rank, or to help something become popular"}`
+- Review: Confirmed `pro-` + `mot`; widened the definition.
+- Reference: Wiktionary, [promote](https://en.wiktionary.org/wiki/promote#English) — from Latin *prōmōtus*, perfect passive participle of *prōmoveō* "move forward, advance".
+- Reference: Wiktionary (Latin), [promoveo](https://en.wiktionary.org/wiki/promoveo#Latin) — *prōmoveō* = *prō-* + *moveō* "move".
+
+## promotion
+
+- Record: `{prefix:"pro-", stem:"mot", suffix:"-ion", literal:"move forward", definition:"a move up to a higher rank or job"}`
+- Review: Confirmed `pro-` + `mot` + `-ion`.
+- Reference: Wiktionary, [promotion](https://en.wiktionary.org/wiki/promotion#English) — from Late Latin *prōmotiō*, from *prōmoveō* "to move forward"; equivalent to *promote* + *-ion*.
+
+## remote
+
+- Record: `{prefix:"re-", stem:"mot", suffix:null, literal:"move back", definition:"far away or hard to reach"}`
+- Review: Confirmed `re-` + `mot`; replaced "very unlikely" with the core sense.
+- Reference: Wiktionary, [remote](https://en.wiktionary.org/wiki/remote#English) — from Latin *remotus*, past participle of *removere* "to remove", from *re-* + *movere* "to move".
+
+## removal
+
+- Record: `{prefix:"re-", stem:"mot", suffix:"-al", literal:"move back", definition:"the act of taking something away"}`
+- Review: Confirmed as *remove* + *-al*.
+- Reference: Wiktionary, [removal](https://en.wiktionary.org/wiki/removal#English) — *remove* + *-al*.
+
+## remove
+
+- Record: `{prefix:"re-", stem:"mot", suffix:null, literal:"move back", definition:"to take something away from a place"}`
+- Review: Confirmed `re-` + `mot`; replaced the office-specific gloss.
+- Reference: Wiktionary, [remove](https://en.wiktionary.org/wiki/remove#English) — from Latin *removeo*, from *re-* + *moveo* "to move", equivalent to *re-* + *move*.
+
+## formal
+
+- Record: `{prefix:null, stem:"form", suffix:"-al", literal:"shape", definition:"following official rules or customs; not casual"}`
+- Review: Confirmed `form` + `-al`; replaced the "evening gown" noun sense.
+- Reference: Wiktionary, [formal](https://en.wiktionary.org/wiki/formal#English) — from Latin *fōrmālis*, from *fōrma* "form"; equivalent to *form* + *-al*.
+
+## formation
+
+- Record: `{prefix:null, stem:"form", suffix:"-ion", literal:"shape", definition:"the act of forming or establishing something"}`
+- Review: Confirmed `form` + `-ion`; definition unchanged.
+- Reference: Wiktionary, [formation](https://en.wiktionary.org/wiki/formation#English) — from Latin *fōrmātiō*, from *fōrmō* "form".
+- Reference: Wiktionary (Latin), [formo](https://en.wiktionary.org/wiki/formo#Latin) — *fōrmō*: from *fōrma* "form".
+
+## inform
+
+- Record: `{prefix:"in-", stem:"form", suffix:null, literal:"shape into", definition:"to give someone facts or information"}`
+- Review: Confirmed `in-` + `form`; replaced "act as an informer".
+- Reference: Wiktionary, [inform](https://en.wiktionary.org/wiki/inform#English) — from Latin *īnfōrmō* "to shape, form, train, instruct, educate", from *in-* "into" + *fōrma* "form, shape".
+
+## informant
+
+- Record: `{prefix:"in-", stem:"form", suffix:"-ant", literal:"shape into", definition:"a person who supplies information"}`
+- Review: Confirmed as *inform* + *-ant*; definition unchanged.
+- Reference: Wiktionary, [informant](https://en.wiktionary.org/wiki/informant#English) — *inform* + *-ant*.
+
+## information
+
+- Record: `{prefix:"in-", stem:"form", suffix:"-ion", literal:"shape into", definition:"facts or knowledge about something"}`
+- Review: Confirmed `in-` + `form` + `-ion`; replaced the legal "accusation" sense.
+- Reference: Wiktionary, [information](https://en.wiktionary.org/wiki/information#English) — from Latin *īnfōrmātiō* "formation, conception; education", from the participle stem of *īnformāre* "to inform".
+
+## reform
+
+- Record: `{prefix:"re-", stem:"form", suffix:null, literal:"shape back", definition:"to change something in order to improve it"}`
+- Review: Confirmed `re-` + `form`.
+- Reference: Wiktionary, [reform](https://en.wiktionary.org/wiki/reform#English) — from Latin *reformo*, *reformare*.
+- Reference: Wiktionary (Latin), [reformo](https://en.wiktionary.org/wiki/reformo#Latin) — *refōrmō* = *re-* + *fōrmō*.
+
+## transform
+
+- Record: `{prefix:"trans-", stem:"form", suffix:null, literal:"shape across", definition:"to change something completely in form or appearance"}`
+- Review: Confirmed `trans-` + `form`.
+- Reference: Wiktionary, [transform](https://en.wiktionary.org/wiki/transform#English) — from Latin *transformo*, from *trans* "across" + *forma* "form".
+
+## transformation
+
+- Record: `{prefix:"trans-", stem:"form", suffix:"-ion", literal:"shape across", definition:"a complete change in form or appearance"}`
+- Review: Confirmed `trans-` + `form` + `-ion`.
+- Reference: Wiktionary, [transformation](https://en.wiktionary.org/wiki/transformation#English) — from Ecclesiastical Latin *trānsfōrmātiō*; morphologically *transform* + *-ation*.
+
+## importance
+
+- Record: `{prefix:"in-", stem:"port", suffix:"-ance", literal:"carry into", definition:"the quality of mattering a lot"}`
+- Review: Confirmed `in-` + `port` + `-ance` (*import* "to be important" + *-ance*).
+- Reference: Wiktionary, [importance](https://en.wiktionary.org/wiki/importance#English) — from Medieval Latin *importantia*; *import* "to be important" + *-ance*.
+- Reference: Wiktionary (Latin), [importo](https://en.wiktionary.org/wiki/importo#Latin) — *importō* = *in-* "in, into" + *portō* "carry, bear; convey".
+
+## important
+
+- Record: `{prefix:"in-", stem:"port", suffix:"-ant", literal:"carry into", definition:"having great value or effect; mattering a lot"}`
+- Review: Confirmed `in-` + `port` + `-ant`; replaced the circular "of extreme importance".
+- Reference: Wiktionary, [important](https://en.wiktionary.org/wiki/important#English) — from Medieval Latin *importāns*; *import* "to be important" + *-ant*.
+- Reference: Wiktionary (Latin), [importo](https://en.wiktionary.org/wiki/importo#Latin) — *importō* = *in-* "in, into" + *portō* "carry, bear; convey".
+
+## portable
+
+- Record: `{prefix:null, stem:"port", suffix:"-able", literal:"carry", definition:"light and easy to carry"}`
+- Review: Confirmed `port` + `-able`; replaced "a small light typewriter".
+- Reference: Wiktionary, [portable](https://en.wiktionary.org/wiki/portable#English) — from Latin *portābilis*; *port* "to carry" + *-able*.
+- Reference: Wiktionary (Latin), [portabilis](https://en.wiktionary.org/wiki/portabilis#Latin) — *portābilis* = *portō* "to carry, convey" + *-bilis*.
+
+## porter
+
+- Record: `{prefix:null, stem:"port", suffix:"-er", literal:"carry", definition:"a person whose job is to carry bags or luggage"}`
+- Review: Confirmed `port` + `-er` for the carrier sense. The source definition ("someone who guards an entrance") belongs to a separate *porter* from Latin *portarius* "gatekeeper", which does not fit the `port` = carry family; replaced it.
+- Reference: Wiktionary, [porter](https://en.wiktionary.org/wiki/porter#English) — from Late Latin *portātor*, from the past participle of *portō*, *portāre* "to carry"; *port* "to carry" + *-er*.
+
+## report
+
+- Record: `{prefix:"re-", stem:"port", suffix:null, literal:"carry back", definition:"a spoken or written account of something"}`
+- Review: Confirmed `re-` + `port`.
+- Reference: Wiktionary, [report](https://en.wiktionary.org/wiki/report#English) — from Latin *reporto*, *reportāre* "to carry back, return, remit, refer", from *re-* + *portāre*.
+
+## reporter
+
+- Record: `{prefix:"re-", stem:"port", suffix:"-er", literal:"carry back", definition:"a person who gathers and reports news"}`
+- Review: Confirmed as *report* + *-er*.
+- Reference: Wiktionary, [reporter](https://en.wiktionary.org/wiki/reporter#English) — from Old French *reporteur*; equivalent to *report* + *-er*.
+
+## support
+
+- Record: `{prefix:"sub-", stem:"port", suffix:null, literal:"carry under", definition:"to help someone, or to hold something up"}`
+- Review: Confirmed `sub-` + `port`.
+- Reference: Wiktionary, [support](https://en.wiktionary.org/wiki/support#English) — from Old French *supporter*, from Latin *supportō*.
+- Reference: Wiktionary (Latin), [supporto](https://en.wiktionary.org/wiki/supporto#Latin) — *supportō* = *sub-* "under" + *portō* "to carry".
+
+## supportive
+
+- Record: `{prefix:"sub-", stem:"port", suffix:"-ive", literal:"carry under", definition:"giving help and encouragement"}`
+- Review: Confirmed as *support* + *-ive*.
+- Reference: Wiktionary, [supportive](https://en.wiktionary.org/wiki/supportive#English) — *support* + *-ive*.
+
+## transport
+
+- Record: `{prefix:"trans-", stem:"port", suffix:null, literal:"carry across", definition:"to carry people or goods from one place to another"}`
+- Review: Confirmed `trans-` + `port`; chose the verb sense.
+- Reference: Wiktionary, [transport](https://en.wiktionary.org/wiki/transport#English) — from Latin *trānsportō* "to carry over, take across", from *trāns-* "across" + *portō* "to bear, carry, convey".
+
+## transportation
+
+- Record: `{prefix:"trans-", stem:"port", suffix:"-ion", literal:"carry across", definition:"a way of carrying people or goods from place to place"}`
+- Review: Confirmed as *transport* + *-ation*; replaced "the sum charged for riding".
+- Reference: Wiktionary, [transportation](https://en.wiktionary.org/wiki/transportation#English) — *transport* + *-ation*.
+
+## transporter
+
+- Record: `{prefix:"trans-", stem:"port", suffix:"-er", literal:"carry across", definition:"a vehicle or machine that carries things from place to place"}`
+- Review: Confirmed as *transport* + *-er*; generalized the car-truck gloss.
+- Reference: Wiktionary, [transporter](https://en.wiktionary.org/wiki/transporter#English) — *transport* + *-er* (agent noun), attested 1535.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -583,3 +775,7 @@ Every reviewed entry is checked word by word against its cited reference; nothin
 Words held back from teaching modes, with the reason.
 
 - seduce — the decomposition is sound (*sē-* + *dūcō*, "lead astray"), but the main modern sense is sexual, which doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/seduce))
+- perform — folk etymology: not from Latin *forma*; from Old French *parfournir* "to complete, accomplish", from Frankish *\*frummjan*, so no honest `per-` + `form` reading exists ([Wiktionary](https://en.wiktionary.org/wiki/perform))
+- performance — same as *perform*: *perform* + *-ance*, and *perform* is not from *forma* ([Wiktionary](https://en.wiktionary.org/wiki/performance))
+- performer — same as *perform*: *perform* + *-er* ([Wiktionary](https://en.wiktionary.org/wiki/performer))
+- mobile — Latin *mōbilis* is *moveō* + *-bilis*, which fits the `mot` family but not the recorded `-ile` suffix; definition corrected to "able to move or be moved easily" but held back until the suffix can be represented accurately ([Wiktionary](https://en.wiktionary.org/wiki/mobilis#Latin))
