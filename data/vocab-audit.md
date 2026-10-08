@@ -2688,6 +2688,224 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Review: Confirmed as *appoint* + *-ment*.
 - Reference: Wiktionary, [appointment](https://en.wiktionary.org/wiki/appointment#English) — from Old French *appointement*; *appoint* + *-ment*.
 
+## confidence
+
+- Record: `{prefix:"con-", stem:"fid", suffix:"-ence", literal:"trust with", definition:"a feeling of being sure about yourself or something"}`
+- Review: Confirmed `con-` + `fid` + `-ence`.
+- Reference: Wiktionary, [confidence](https://en.wiktionary.org/wiki/confidence#English) — from Latin *cōnfīdentia*, from *cōnfīdō* "believe, confide in" from *con-* "with" + *fīdō* "trust".
+
+## confident
+
+- Record: `{prefix:"con-", stem:"fid", suffix:"-ent", literal:"trust with", definition:"feeling sure about yourself or about something"}`
+- Review: Confirmed `con-` + `fid` + `-ent`.
+- Reference: Wiktionary, [confident](https://en.wiktionary.org/wiki/confident#English) — from Latin *confidens* "confident, i.e. self-confident", present participle of *confidere* "to trust fully, confide".
+- Reference: Wiktionary (Latin), [confido](https://en.wiktionary.org/wiki/confido#Latin) — *cōnfīdō* = *con-* "with, together" + *fīdō* "trust; rely upon".
+
+## contact
+
+- Record: `{prefix:"con-", stem:"tact", suffix:null, literal:"touch with", definition:"the act of touching or communicating with someone"}`
+- Review: Confirmed `con-` + `tact`; replaced "close interaction".
+- Reference: Wiktionary, [contact](https://en.wiktionary.org/wiki/contact#English) — from Latin *contactus*, from *contingō* "to touch on all sides", from *tangō* "to touch".
+- Reference: Wiktionary (Latin), [contingo](https://en.wiktionary.org/wiki/contingo#Latin) — *contingō* = *con-* "together" + *tangō* "touch".
+
+## intact
+
+- Record: `{prefix:"in-", stem:"tact", suffix:null, literal:"not touched", definition:"whole and not damaged"}`
+- Review: Confirmed `in-` (not) + `tact`. Literal changed from "touch into" to "not touched": Latin *intactus* means "untouched".
+- Reference: Wiktionary, [intact](https://en.wiktionary.org/wiki/intact#English) — from Middle French *intact*, from Latin *intactus*.
+- Reference: Wiktionary (Latin), [intactus](https://en.wiktionary.org/wiki/intactus#Latin) — *intactus* = *in-* "not" + *tāctus* (past participle of *tangō* "to touch"), literally "untouched".
+
+## contemporary
+
+- Record: `{prefix:"con-", stem:"tempor", suffix:"-ary", literal:"time with", definition:"belonging to the present time; also, living at the same time as someone"}`
+- Review: Confirmed `con-` + `tempor` + `-ary`.
+- Reference: Wiktionary, [contemporary](https://en.wiktionary.org/wiki/contemporary#English) — from Medieval Latin *contemporārius*, from *con-* "with, together" + *temporārius*, an adjective derived from *tempus* "time".
+
+## temporary
+
+- Record: `{prefix:null, stem:"tempor", suffix:"-ary", literal:"time", definition:"lasting only for a short time"}`
+- Review: Confirmed `tempor` + `-ary`; definition simplified.
+- Reference: Wiktionary, [temporary](https://en.wiktionary.org/wiki/temporary#English) — from Latin *temporarius*, from *tempus* "time".
+- Reference: Wiktionary (Latin), [temporarius](https://en.wiktionary.org/wiki/temporarius#Latin) — *tempus* "time, period" + *-ārius* "-ary".
+
+## determination
+
+- Record: `{prefix:"de-", stem:"term", suffix:"-ion", literal:"set limits", definition:"the quality of not giving up when something is difficult"}`
+- Review: Confirmed `de-` + `term` + `-ion` (*determine* + *-ation*). Literal changed from "end down" to "set limits", matching *determino* "to bound, limit".
+- Reference: Wiktionary, [determination](https://en.wiktionary.org/wiki/determination#English) — from Latin *dēterminātiō*; *determine* + *-ation*.
+- Reference: Wiktionary, [determine](https://en.wiktionary.org/wiki/determine#English) — from Latin *determino* "to bound, limit, prescribe, fix, determine", from *de* + *termino* "to limit", from *terminus*.
+
+## terminal
+
+- Record: `{prefix:null, stem:"term", suffix:"-al", literal:"end", definition:"a building where journeys by plane, bus, or train begin and end"}`
+- Review: Confirmed `term` + `-al`; chose the common travel sense.
+- Reference: Wiktionary, [terminal](https://en.wiktionary.org/wiki/terminal#English) — from Late Latin *terminalis* "pertaining to a boundary or to the end, terminal, final", from *terminus* "a bound, boundary, limit, end".
+
+## disturb
+
+- Record: `{prefix:"dis-", stem:"turb", suffix:null, literal:"stir completely", definition:"to interrupt or bother someone"}`
+- Review: Confirmed `dis-` + `turb`. Here *dis-* is intensive (Latin *disturbare* is "intensifying for *turbare*"), so the literal changed from "stir apart" to "stir completely" and the shared `dis-` gloss was widened to "apart, away, not, completely" (Wiktionary [dis-](https://en.wiktionary.org/wiki/dis-#English): "used as an intensifier").
+- Reference: Wiktionary, [disturb](https://en.wiktionary.org/wiki/disturb#English) — from Latin *disturbare*, intensifying for *turbare* "to throw into disorder".
+- Reference: Wiktionary (Latin), [disturbo](https://en.wiktionary.org/wiki/disturbo#Latin) — *disturbō* = *dis-* + *turbō*.
+
+## disturbance
+
+- Record: `{prefix:"dis-", stem:"turb", suffix:"-ance", literal:"stir completely", definition:"something that interrupts or upsets a calm situation"}`
+- Review: Confirmed as *disturb* + *-ance*; see *disturb*.
+- Reference: Wiktionary, [disturbance](https://en.wiktionary.org/wiki/disturbance#English) — from Old French *destorbance*, from *destourber* "disturb", from Latin *disturbō*; *disturb* + *-ance*.
+
+## elaborate
+
+- Record: `{prefix:"ex-", stem:"labor", suffix:"-ate", literal:"work out of", definition:"full of detail; also, to add more detail"}`
+- Review: Confirmed `ex-` + `labor` + `-ate` (Latin *ē-* "out, forth, fully").
+- Reference: Wiktionary, [elaborate](https://en.wiktionary.org/wiki/elaborate#English) — from Late Latin *ēlabōrātus* "worked out", past participle of *ēlabōrō* "to work out", from *ē-* "out, forth, fully" + *labor* "work, toil, exertion".
+- Reference: Wiktionary (Latin), [elaboro](https://en.wiktionary.org/wiki/elaboro#Latin) — *ēlabōrō* = *ex-* "out of" + *labōrō* "to work".
+
+## laboratory
+
+- Record: `{prefix:null, stem:"labor", suffix:"-ory", literal:"work", definition:"a room or building for doing science experiments"}`
+- Review: Confirmed `labor` + `-ory` (Medieval Latin *labōrātōrium*).
+- Reference: Wiktionary, [laboratory](https://en.wiktionary.org/wiki/laboratory#English) — from Medieval Latin *labōrātōrium*.
+- Reference: Wiktionary (Latin), [laboratorium](https://en.wiktionary.org/wiki/laboratorium#Latin) — from the neuter of Medieval Latin *labōrātōrius*, from Late Latin *labōrātor*, from *labōrō*.
+
+## emerge
+
+- Record: `{prefix:"ex-", stem:"merg", suffix:null, literal:"plunge out of", definition:"to come out or appear"}`
+- Review: Confirmed `ex-` + `merg` (Latin *ē-*, a variant of *ex-*).
+- Reference: Wiktionary, [emerge](https://en.wiktionary.org/wiki/emerge#English) — from Latin *ēmergō* "to rise up or out", from *ē-* (a variant of *ex-* "out, forth") + *mergō* "to dip, to sink".
+
+## equal
+
+- Record: `{prefix:null, stem:"equ", suffix:"-al", literal:"equal", definition:"the same in amount, size, or value"}`
+- Review: Confirmed `equ` + `-al` (Latin *aequālis* = *aequus* + *-ālis*); replaced the verb gloss.
+- Reference: Wiktionary, [equal](https://en.wiktionary.org/wiki/equal#English) — from Latin *aequālis*.
+- Reference: Wiktionary (Latin), [aequalis](https://en.wiktionary.org/wiki/aequalis#Latin) — *aequālis* = *aequus* "equal, even" + *-ālis*.
+
+## equation
+
+- Record: `{prefix:null, stem:"equ", suffix:"-ion", literal:"equal", definition:"a math statement that two amounts are equal"}`
+- Review: Confirmed `equ` + `-ion` (Latin *aequātiō* "an equalizing").
+- Reference: Wiktionary, [equation](https://en.wiktionary.org/wiki/equation#English) — from Latin *aequātiō* "an equalizing"; *equate* + *-ion*.
+
+## evaluation
+
+- Record: `{prefix:"ex-", stem:"val", suffix:"-ion", literal:"value out", definition:"a judgment about how good or useful something is"}`
+- Review: Confirmed `ex-` + `val` + `-ion` with a caveat: it comes through French *évaluation* (*évaluer* + *-ation*), and French *é-* comes from Latin *ex-*. Literal changed from "strong out of" to "value out".
+- Reference: Wiktionary, [evaluation](https://en.wiktionary.org/wiki/evaluation#English) — from French *évaluation*; *evaluate* + *-ion*.
+- Reference: Wiktionary (French), [évaluer](https://en.wiktionary.org/wiki/%C3%A9valuer#French) — from *é-* + Old French *value* + *-er*; French *é-* from Old French *es-*, from Latin *ex-*.
+- Reference: Wiktionary (Latin), [valeo](https://en.wiktionary.org/wiki/valeo#Latin) — *valeō* "be strong, be worth" (via *value*).
+
+## valuable
+
+- Record: `{prefix:null, stem:"val", suffix:"-able", literal:"worth", definition:"worth a lot of money, or very useful"}`
+- Review: Confirmed as *value* + *-able*; *value* comes from Latin *valeō* "be strong, be worth". Literal changed from "strong" to "worth".
+- Reference: Wiktionary, [valuable](https://en.wiktionary.org/wiki/valuable#English) — *value* + *-able*.
+- Reference: Wiktionary, [value](https://en.wiktionary.org/wiki/value#English) — from Old French *value*, feminine past participle of *valoir*, from Latin *valeō*, *valēre* "be strong, be worth".
+
+## expedition
+
+- Record: `{prefix:"ex-", stem:"ped", suffix:"-ion", literal:"foot out of", definition:"a long journey made for a special purpose, such as exploring"}`
+- Review: Confirmed `ex-` + `ped` + `-ion` (Latin *expediō* = *ex-* + *pēs* "foot").
+- Reference: Wiktionary, [expedition](https://en.wiktionary.org/wiki/expedition#English) — from Middle French *expédition*, and its source, Latin *expeditio*.
+- Reference: Wiktionary (Latin), [expedio](https://en.wiktionary.org/wiki/expedio#Latin) — *expediō* = *ex-* "out of" + *pēs* "feet" + *-iō*.
+
+## pedal
+
+- Record: `{prefix:null, stem:"ped", suffix:"-al", literal:"foot", definition:"a part you push with your foot to make something work"}`
+- Review: Confirmed `ped` + `-al` (Latin *pedālis*); replaced the verb gloss.
+- Reference: Wiktionary, [pedal](https://en.wiktionary.org/wiki/pedal#English) — from French *pédale*, from Italian *pedale*, from Latin *pedālis*.
+- Reference: Wiktionary (Latin), [pedalis](https://en.wiktionary.org/wiki/pedalis#Latin) — *pedālis* = *pēs* + *-ālis*.
+
+## extortion
+
+- Record: `{prefix:"ex-", stem:"tort", suffix:"-ion", literal:"twist out of", definition:"getting money from someone by threats or force"}`
+- Review: Confirmed `ex-` + `tort` + `-ion`.
+- Reference: Wiktionary, [extortion](https://en.wiktionary.org/wiki/extortion#English) — from Late Latin *extortiō*, from *extorqueō*; *extort* + *-ion*.
+- Reference: Wiktionary (Latin), [extorqueo](https://en.wiktionary.org/wiki/extorqueo#Latin) — *extorqueō* = *ex-* + *torqueō* "twist, wrench".
+
+## torture
+
+- Record: `{prefix:null, stem:"tort", suffix:"-ure", literal:"twist", definition:"causing great pain to someone on purpose"}`
+- Review: Confirmed `tort` + `-ure` (Late Latin *tortūra* "a twisting").
+- Reference: Wiktionary, [torture](https://en.wiktionary.org/wiki/torture#English) — from Late Latin *tortūra* "a twisting, writhing, of bodily pain".
+
+## fracture
+
+- Record: `{prefix:null, stem:"fract", suffix:"-ure", literal:"break", definition:"a crack or break, especially in a bone"}`
+- Review: Confirmed `fract` + `-ure`.
+- Reference: Wiktionary, [fracture](https://en.wiktionary.org/wiki/fracture#English) — from Latin *frāctūra* "a breach, fracture, cleft", from *frangere* "to break".
+
+## fragile
+
+- Record: `{prefix:null, stem:"fract", suffix:"-ile", literal:"break", definition:"easily broken or damaged"}`
+- Review: Confirmed `fract` + `-ile` (Latin *fragilis* = *frangō* + *-ilis*).
+- Reference: Wiktionary, [fragile](https://en.wiktionary.org/wiki/fragile#English) — from Latin *fragilis*, formed on *frag-*, the root of *frangere* "to break".
+- Reference: Wiktionary (Latin), [fragilis](https://en.wiktionary.org/wiki/fragilis#Latin) — *fragilis* = *frangō* "break, shatter" + *-ilis* "-ile".
+
+## fugitive
+
+- Record: `{prefix:null, stem:"fug", suffix:"-ive", literal:"flee", definition:"a person who is running away, especially from the police"}`
+- Review: Confirmed `fug` + `-ive` (Latin *fugitīvus*, from *fugitō*, frequentative of *fugiō* "flee"); replaced "lasting a brief time".
+- Reference: Wiktionary, [fugitive](https://en.wiktionary.org/wiki/fugitive#English) — from Latin *fugitīvus*, from *fugitō*.
+- Reference: Wiktionary (Latin), [fugito](https://en.wiktionary.org/wiki/fugito#Latin) — *fugitō*: frequentative of *fugiō*; *fugiō* + *-tō*.
+
+## refuge
+
+- Record: `{prefix:"re-", stem:"fug", suffix:null, literal:"flee back", definition:"a safe place to go when in danger"}`
+- Review: Confirmed `re-` + `fug`.
+- Reference: Wiktionary, [refuge](https://en.wiktionary.org/wiki/refuge#English) — from Latin *refugium*, from *re-* + *fugiō* "flee".
+
+## immortal
+
+- Record: `{prefix:"in-", stem:"mort", suffix:"-al", literal:"not mortal", definition:"living forever; never dying"}`
+- Review: Confirmed `in-` (not, here *im-*) + `mort` + `-al`. Literal changed from "not death" to "not mortal".
+- Reference: Wiktionary, [immortal](https://en.wiktionary.org/wiki/immortal#English) — from Latin *immortālis*, from prefix *im-* "not" (from *in-*) + *mortālis* "mortal" (from *mors* "death" + *-alis*).
+
+## mortal
+
+- Record: `{prefix:null, stem:"mort", suffix:"-al", literal:"death", definition:"certain to die someday; also, a human being"}`
+- Review: Confirmed `mort` + `-al`.
+- Reference: Wiktionary, [mortal](https://en.wiktionary.org/wiki/mortal#English) — from Old French *mortal*, and their source Latin *mortālis*.
+- Reference: Wiktionary (Latin), [immortalis](https://en.wiktionary.org/wiki/immortalis#Latin) — *immortālis* = *in-* "not" + *mortālis*.
+
+## impulse
+
+- Record: `{prefix:"in-", stem:"pel", suffix:null, literal:"drive into", definition:"a sudden wish to do something"}`
+- Review: Confirmed `in-` + `pel` (Latin *impulsus*, from *impellō* = *in-* + *pellō* "push, drive").
+- Reference: Wiktionary, [impulse](https://en.wiktionary.org/wiki/impulse#English) — from Middle French *impulser*, from Latin *impulsus*.
+- Reference: Wiktionary (Latin), [impello](https://en.wiktionary.org/wiki/impello#Latin) — *impellō* = *in-* + *pellō* "push, drive".
+
+## impulsive
+
+- Record: `{prefix:"in-", stem:"pel", suffix:"-ive", literal:"drive into", definition:"acting suddenly without thinking first"}`
+- Review: Confirmed `in-` + `pel` + `-ive`. Literal changed from "not drive" to "drive into": *in-* here means "in", not "not".
+- Reference: Wiktionary, [impulsive](https://en.wiktionary.org/wiki/impulsive#English) — from Middle French *impulsif*, from Latin *impulsivus*.
+- Reference: Wiktionary (Latin), [impello](https://en.wiktionary.org/wiki/impello#Latin) — *impellō* = *in-* "in" + *pellō* "push, drive".
+
+## innocence
+
+- Record: `{prefix:"in-", stem:"noc", suffix:"-ence", literal:"not harm", definition:"the state of not being guilty of a crime or wrong"}`
+- Review: Confirmed `in-` (not) + `noc` + `-ence`. Literal changed from "harm into" to "not harm".
+- Reference: Wiktionary, [innocence](https://en.wiktionary.org/wiki/innocence#English) — from Old French *innocence*, from Latin *innocentia*.
+
+## innocent
+
+- Record: `{prefix:"in-", stem:"noc", suffix:"-ent", literal:"not harm", definition:"not guilty of a crime or wrong"}`
+- Review: Confirmed `in-` (not) + `noc` + `-ent`. Literal changed from "harm into" to "not harm".
+- Reference: Wiktionary, [innocent](https://en.wiktionary.org/wiki/innocent#English) — from Latin *innocēns* "harmless, inoffensive", from *in-* "not" + *nocēns*, present participle of *noceō* "to hurt".
+
+## inspiration
+
+- Record: `{prefix:"in-", stem:"spir", suffix:"-ion", literal:"breathe into", definition:"something that gives you new ideas or makes you want to create"}`
+- Review: Confirmed `in-` + `spir` + `-ion` (*inspire* + *-ation*).
+- Reference: Wiktionary, [inspiration](https://en.wiktionary.org/wiki/inspiration#English) — from Late Latin *īnspīrātiōnem*, from *īnspīrātus* (past participle of *inspīrō*); *inspire* + *-ation*.
+
+## inspire
+
+- Record: `{prefix:"in-", stem:"spir", suffix:null, literal:"breathe into", definition:"to fill someone with the wish to do something good or creative"}`
+- Review: Confirmed `in-` + `spir`; replaced "heighten or intensify".
+- Reference: Wiktionary, [inspire](https://en.wiktionary.org/wiki/inspire#English) — from Old French *inspirer*, from Latin *īnspīrō*, *īnspīrāre* "inspire", itself a loan-translation of Biblical Greek *πνέω* "breathe", from *in* + *spīrō* "breathe".
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
@@ -2717,3 +2935,4 @@ Words held back from teaching modes, with the reason.
 - refuse — origin disputed in the source: Vulgar Latin *\*refūsāre*, either a blend of *refūtāre* and *recūsāre* or from *refūsus*, past participle of *refundere* "to pour back"; the `fus` (pour) mapping is unresolved ([Wiktionary](https://en.wiktionary.org/wiki/refuse))
 - pervert — the decomposition is sound (*pervertō*, *per-* + *vertō*), but the common modern noun sense doesn't suit a kids' game ([Wiktionary](https://en.wiktionary.org/wiki/pervert))
 - tribal — from Latin *tribālis* (*tribus* "tribe" + *-ālis*); the `trib` tile is taught as "give, pay" (from *tribuō*), which misstates the meaning of *tribal*; definition corrected to "relating to a tribe" ([Wiktionary](https://en.wiktionary.org/wiki/tribal))
+- emergency — from Medieval Latin *emergentia* (*emergens*, from *emergo*), *emergent* + *-cy*; as with *tendency* and *currency*, the recorded `-ence` suffix does not represent the English *-ency* ending; definition corrected to "a sudden, dangerous situation that needs quick action" ([Wiktionary](https://en.wiktionary.org/wiki/emergency))

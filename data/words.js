@@ -38,7 +38,7 @@ window.WF.PREFIXES = [
   ],
   [
     "dis-",
-    "apart, away, not",
+    "apart, away, not, completely",
     "disappear"
   ],
   [
@@ -1549,8 +1549,8 @@ window.WF.WORDS = [
     "fid",
     "-ence",
     "trust with",
-    "freedom from doubt",
-    false
+    "a feeling of being sure about yourself or something",
+    true
   ],
   [
     "confident",
@@ -1558,8 +1558,8 @@ window.WF.WORDS = [
     "fid",
     "-ent",
     "trust with",
-    "feeling or showing certainty about something",
-    false
+    "feeling sure about yourself or about something",
+    true
   ],
   [
     "confirm",
@@ -1711,8 +1711,8 @@ window.WF.WORDS = [
     "tact",
     null,
     "touch with",
-    "close interaction",
-    false
+    "the act of touching or communicating with someone",
+    true
   ],
   [
     "contain",
@@ -1738,8 +1738,8 @@ window.WF.WORDS = [
     "tempor",
     "-ary",
     "time with",
-    "characteristic of the present",
-    false
+    "belonging to the present time; also, living at the same time as someone",
+    true
   ],
   [
     "content",
@@ -2187,9 +2187,9 @@ window.WF.WORDS = [
     "de-",
     "term",
     "-ion",
-    "end down",
-    "the quality of being determined to do or achieve something",
-    false
+    "set limits",
+    "the quality of not giving up when something is difficult",
+    true
   ],
   [
     "difference",
@@ -2286,18 +2286,18 @@ window.WF.WORDS = [
     "dis-",
     "turb",
     null,
-    "stir apart",
-    "move deeply",
-    false
+    "stir completely",
+    "to interrupt or bother someone",
+    true
   ],
   [
     "disturbance",
     "dis-",
     "turb",
     "-ance",
-    "stir apart",
-    "a disorderly outburst or tumult",
-    false
+    "stir completely",
+    "something that interrupts or upsets a calm situation",
+    true
   ],
   [
     "doctor",
@@ -2395,8 +2395,8 @@ window.WF.WORDS = [
     "labor",
     "-ate",
     "work out of",
-    "add details, as to an account or idea",
-    false
+    "full of detail; also, to add more detail",
+    true
   ],
   [
     "election",
@@ -2413,8 +2413,8 @@ window.WF.WORDS = [
     "merg",
     null,
     "plunge out of",
-    "move out of or away from something and come into view",
-    false
+    "to come out or appear",
+    true
   ],
   [
     "emergency",
@@ -2422,7 +2422,7 @@ window.WF.WORDS = [
     "merg",
     "-ence",
     "plunge out of",
-    "a brake operated by hand",
+    "a sudden, dangerous situation that needs quick action",
     false
   ],
   [
@@ -2440,8 +2440,8 @@ window.WF.WORDS = [
     "equ",
     "-al",
     "equal",
-    "be identical or equivalent to",
-    false
+    "the same in amount, size, or value",
+    true
   ],
   [
     "equation",
@@ -2449,8 +2449,8 @@ window.WF.WORDS = [
     "equ",
     "-ion",
     "equal",
-    "the act of regarding as equal",
-    false
+    "a math statement that two amounts are equal",
+    true
   ],
   [
     "estate",
@@ -2484,9 +2484,9 @@ window.WF.WORDS = [
     "ex-",
     "val",
     "-ion",
-    "strong out of",
-    "an appraisal of the value of something",
-    false
+    "value out",
+    "a judgment about how good or useful something is",
+    true
   ],
   [
     "event",
@@ -2575,8 +2575,8 @@ window.WF.WORDS = [
     "ped",
     "-ion",
     "foot out of",
-    "a journey organized for a particular purpose",
-    false
+    "a long journey made for a special purpose, such as exploring",
+    true
   ],
   [
     "expense",
@@ -2674,8 +2674,8 @@ window.WF.WORDS = [
     "tort",
     "-ion",
     "twist out of",
-    "an exorbitant charge",
-    false
+    "getting money from someone by threats or force",
+    true
   ],
   [
     "extract",
@@ -2764,8 +2764,8 @@ window.WF.WORDS = [
     "fract",
     "-ure",
     "break",
-    "the act of cracking something",
-    false
+    "a crack or break, especially in a bone",
+    true
   ],
   [
     "fragile",
@@ -2773,8 +2773,8 @@ window.WF.WORDS = [
     "fract",
     "-ile",
     "break",
-    "vulnerably delicate",
-    false
+    "easily broken or damaged",
+    true
   ],
   [
     "fugitive",
@@ -2782,8 +2782,8 @@ window.WF.WORDS = [
     "fug",
     "-ive",
     "flee",
-    "lasting for a markedly brief time",
-    false
+    "a person who is running away, especially from the police",
+    true
   ],
   [
     "fusion",
@@ -2889,9 +2889,9 @@ window.WF.WORDS = [
     "in-",
     "mort",
     "-al",
-    "not death",
-    "not subject to death",
-    false
+    "not mortal",
+    "living forever; never dying",
+    true
   ],
   [
     "importance",
@@ -2944,17 +2944,17 @@ window.WF.WORDS = [
     "pel",
     null,
     "drive into",
-    "a sudden desire",
-    false
+    "a sudden wish to do something",
+    true
   ],
   [
     "impulsive",
     "in-",
     "pel",
     "-ive",
-    "not drive",
-    "without forethought",
-    false
+    "drive into",
+    "acting suddenly without thinking first",
+    true
   ],
   [
     "inaudible",
@@ -3087,18 +3087,18 @@ window.WF.WORDS = [
     "in-",
     "noc",
     "-ence",
-    "harm into",
-    "the quality of innocent naivete",
-    false
+    "not harm",
+    "the state of not being guilty of a crime or wrong",
+    true
   ],
   [
     "innocent",
     "in-",
     "noc",
     "-ent",
-    "harm into",
-    "free from evil or guilt",
-    false
+    "not harm",
+    "not guilty of a crime or wrong",
+    true
   ],
   [
     "insect",
@@ -3160,8 +3160,8 @@ window.WF.WORDS = [
     "spir",
     "-ion",
     "breathe into",
-    "a product of your creative thinking and work",
-    false
+    "something that gives you new ideas or makes you want to create",
+    true
   ],
   [
     "inspire",
@@ -3169,8 +3169,8 @@ window.WF.WORDS = [
     "spir",
     null,
     "breathe into",
-    "heighten or intensify",
-    false
+    "to fill someone with the wish to do something good or creative",
+    true
   ],
   [
     "instance",
@@ -3222,9 +3222,9 @@ window.WF.WORDS = [
     "in-",
     "tact",
     null,
-    "touch into",
-    "constituting the undiminished entirety",
-    false
+    "not touched",
+    "whole and not damaged",
+    true
   ],
   [
     "intend",
@@ -3412,8 +3412,8 @@ window.WF.WORDS = [
     "labor",
     "-ory",
     "work",
-    "a workplace for the conduct of scientific research",
-    false
+    "a room or building for doing science experiments",
+    true
   ],
   [
     "lecture",
@@ -3529,8 +3529,8 @@ window.WF.WORDS = [
     "mort",
     "-al",
     "death",
-    "a human being",
-    false
+    "certain to die someday; also, a human being",
+    true
   ],
   [
     "motion",
@@ -3808,8 +3808,8 @@ window.WF.WORDS = [
     "ped",
     "-al",
     "foot",
-    "ride a bicycle",
-    false
+    "a part you push with your foot to make something work",
+    true
   ],
   [
     "pension",
@@ -4465,8 +4465,8 @@ window.WF.WORDS = [
     "fug",
     null,
     "flee back",
-    "a safe place",
-    false
+    "a safe place to go when in danger",
+    true
   ],
   [
     "refuse",
@@ -5149,8 +5149,8 @@ window.WF.WORDS = [
     "tempor",
     "-ary",
     "time",
-    "not permanent",
-    false
+    "lasting only for a short time",
+    true
   ],
   [
     "tenant",
@@ -5185,8 +5185,8 @@ window.WF.WORDS = [
     "term",
     "-al",
     "end",
-    "either extremity of something that has length",
-    false
+    "a building where journeys by plane, bus, or train begin and end",
+    true
   ],
   [
     "torture",
@@ -5194,8 +5194,8 @@ window.WF.WORDS = [
     "tort",
     "-ure",
     "twist",
-    "extreme mental distress",
-    false
+    "causing great pain to someone on purpose",
+    true
   ],
   [
     "tractor",
@@ -5337,9 +5337,9 @@ window.WF.WORDS = [
     null,
     "val",
     "-able",
-    "strong",
-    "something of value",
-    false
+    "worth",
+    "worth a lot of money, or very useful",
+    true
   ],
   [
     "venture",

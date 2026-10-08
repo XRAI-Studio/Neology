@@ -7,10 +7,10 @@ window.WF.FACTS = {
   "addiction": "⚖️ Roman judges could hand a debtor over to the person they owed — Latin addictus meant “handed over,” from ad- (to) and dicere (to say).",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/obsession#English (verified 2026-10-07)
   "obsession": "🏰 Obsession literally means “to sit against” — like a Roman army camping outside a city’s walls in a siege!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "inspire": "🌬️ Ancients believed the gods literally breathed great ideas INTO artists’ lungs!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "inspiration": "🌬️ Inspiration = “breathed into” — people thought ideas were divine breath blown into you!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/inspire#English (verified 2026-10-07)
+  "inspire": "🌬️ Inspire comes from Latin inspirare, “to breathe into” — a Latin word modeled on a Biblical Greek word for breathing.",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/inspiration#English (verified 2026-10-07)
+  "inspiration": "🌬️ Inspiration = “breathed into” — the word was once used for a divine influence on prophets and sacred writers.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/emotion#English (verified 2026-10-07)
   "emotion": "💨 Emotion comes from Latin emovere, “to move out, stir up” — built from e- (out) and movere (to move).",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/confuse#English (verified 2026-10-07)
@@ -27,7 +27,7 @@ window.WF.FACTS = {
   "convict": "⚔️ To convict = to conquer someone in court. Same vinc as invincible!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/president#English (verified 2026-10-07)
   "president": "👑 President literally means “the one who SITS in front” — the person presiding at a meeting!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/extortion#English (verified 2026-10-07)
   "extortion": "🧻 Extortion = “twist out” — like wringing money from someone the way you wring water from a towel!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/command#English (verified 2026-10-07)
   "command": "✋ Command comes from Latin commendare, “to entrust,” built on mandare, “to hand over” — and mandare comes from manus, “hand.”",
@@ -51,8 +51,8 @@ window.WF.FACTS = {
   "reflection": "🪞 A reflection literally BENDS light (or your thoughts) back at you!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/depend#English (verified 2026-10-07)
   "depend": "🪢 Depend = “hang down from” — to depend on someone is to dangle from a rope you trust!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "impulse": "⚡ An impulse is a force that literally DRIVES INTO your mind, skipping right past your thinking!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/impulse#English (verified 2026-10-07)
+  "impulse": "⚡ An impulse is literally a push — Latin impulsus comes from impellere, built from in- (in) and pellere (to push, drive).",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/attract#English (verified 2026-10-07)
   "attract": "🧲 Attract = “pull toward” — attractive things have a kind of gravity that pulls attention in!",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/attention#English (verified 2026-10-07)
@@ -117,7 +117,7 @@ window.WF.FACTS = {
   "constant": " Constant comes from Latin constare, stand firm.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/construction#English (verified 2026-10-07)
   "construction": " Construction comes from Latin construere, pile up or build together.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/contemporary (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/contemporary#English (verified 2026-10-07)
   "contemporary": " Contemporary literally joins together with time: people or things sharing an era.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/contract#English (verified 2026-10-07)
   "contract": " Contract comes from Latin contrahere, draw together, as an agreement draws parties together.",
@@ -143,7 +143,7 @@ window.WF.FACTS = {
   "detention": " Detention comes from Latin detinere, hold back.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/election#English (verified 2026-10-07)
   "election": " Election comes from Latin eligere, pick out or choose.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/emerge (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/emerge#English (verified 2026-10-07)
   "emerge": " Emerge comes from Latin emergere, rise out or come forth.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/estate#English (verified 2026-10-07)
   "estate": " Estate grew from a word for state or condition, ultimately tied to Latin stare, stand.",
@@ -155,7 +155,7 @@ window.WF.FACTS = {
   "excessive": " Excessive belongs to a Latin family meaning go beyond or exceed a boundary.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/exclusive#English (verified 2026-10-07)
   "exclusive": " Exclusive comes from Latin excludere, shut out.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/expedition (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/expedition#English (verified 2026-10-07)
   "expedition": " Expedition comes from Latin expedire, free the feet, readying someone to move quickly.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/expense#English (verified 2026-10-07)
   "expense": " Expense comes from Latin expendere, weigh out or pay out.",
@@ -177,13 +177,13 @@ window.WF.FACTS = {
   "insist": " Insist comes from Latin insistere, stand upon or persist.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/instruction#English (verified 2026-10-07)
   "instruction": "Instruction comes from Latin instruere, 'arrange, equip, or build up.'",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/intact (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/intact#English (verified 2026-10-07)
   "intact": " Intact comes from Latin intactus, untouched.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/invent#English (verified 2026-10-07)
   "invent": " Invent comes from Latin invenire, come upon or find.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/involve#English (verified 2026-10-07)
   "involve": " Involve comes from Latin involvere, roll in or wrap up.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/innocent (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/innocent#English (verified 2026-10-07)
   "innocent": " Innocent comes from Latin innocens, not harming.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/infirmary#English (verified 2026-10-07)
   "infirmary": " Infirmary grew from infirmus, Latin for weak or not strong.",
