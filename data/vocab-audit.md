@@ -3112,6 +3112,11 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
 
+## Review log
+
+- 2026-10-07: all 500 words resolved in 16 stem-family batches (475 reviewed, 25 quarantined), each independently approved by Codex. Literals rewritten to read in word-part order at the owner's request.
+- 2026-10-07: owner spot-check approved for batch 1 (conduct, reception, perception) and batches 2–16 (a random sample of about three words per batch, shown with the word-part-order literals), plus the restored *percent*.
+
 ## Quarantined
 
 Words held back from teaching modes, with the reason.
