@@ -917,7 +917,7 @@ window.WF.SUFFIXES = [
   ]
 ];
 window.WF.FAMILY_NOTES = {
-  "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand to,' and attention means 'hold to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
+  "ad-": "The ad- family is all about moving TOWARD things. Accurate comes from Latin accurare, 'take care of,' built from ad- and cura (care). Attract means 'pull to,' assist means 'stand to,' and attention means 'stretch to.' Ad- shape-shifts to match the next letter: ac-, af-, ap-, as-, at-!",
   "con-": "The “con- family” is about doing things TOGETHER. Comfort = “strong with” (lending someone your strength), command = “hand with” (taking things in hand), confuse = “pour together” (a murky mixed-up drink), and conclude = “close with” (shutting the box). Con- disguises itself as com-, col-, cor-, and co-.",
   "de-": "The “de- family” points DOWN and AWAY. Depend = “hang down from” (like dangling from a rope you trust!), describe = “write down,” and depart = “share away” — splitting off from the group. When you see de-, picture something dropping or leaving.",
   "ex-": "The “ex- family” bursts OUT. Emotion = “moving out” (feelings escaping your body), exclaim = “shout out,” extract = “pull out” (like a dentist!), and extortion = “twist out.” Ex- sometimes shrinks to just e- (eject, emerge) or ef- (effect).",
@@ -964,8 +964,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go to",
-    "the right to enter",
-    false
+    "a way of getting into a place, or the right to use something",
+    true
   ],
   [
     "accessory",
@@ -973,8 +973,8 @@ window.WF.WORDS = [
     "ced",
     "-ory",
     "go to",
-    "someone who helps another person commit a crime",
-    false
+    "an extra item that goes with something, such as a belt or a phone case",
+    true
   ],
   [
     "accurate",
@@ -1240,11 +1240,11 @@ window.WF.WORDS = [
   [
     "attention",
     "ad-",
-    "ten",
+    "tend",
     "-ion",
-    "hold to",
-    "a general interest that leads people to want to know more",
-    false
+    "stretch to",
+    "the act of focusing your mind on something",
+    true
   ],
   [
     "attract",
@@ -1720,8 +1720,8 @@ window.WF.WORDS = [
     "ten",
     null,
     "hold with",
-    "contain or hold",
-    false
+    "to hold something inside",
+    true
   ],
   [
     "container",
@@ -1747,8 +1747,8 @@ window.WF.WORDS = [
     "ten",
     null,
     "hold with",
-    "what a communication that is about something is about",
-    false
+    "satisfied and happy with what you have",
+    true
   ],
   [
     "continent",
@@ -1756,8 +1756,8 @@ window.WF.WORDS = [
     "ten",
     "-ent",
     "hold with",
-    "the European mainland",
-    false
+    "one of the large landmasses of the Earth, such as Africa or Asia",
+    true
   ],
   [
     "contract",
@@ -2179,8 +2179,8 @@ window.WF.WORDS = [
     "ten",
     "-ion",
     "hold down",
-    "a state of being confined (usually for a short time)",
-    false
+    "the state of being kept somewhere and not allowed to leave",
+    true
   ],
   [
     "determination",
@@ -2548,8 +2548,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go out of",
-    "the state of being more than full",
-    false
+    "more than is needed or allowed",
+    true
   ],
   [
     "excessive",
@@ -2557,8 +2557,8 @@ window.WF.WORDS = [
     "ced",
     "-ive",
     "go out of",
-    "beyond normal limits",
-    false
+    "more than is normal, necessary, or reasonable",
+    true
   ],
   [
     "exclusive",
@@ -2644,29 +2644,29 @@ window.WF.WORDS = [
   [
     "extension",
     "ex-",
-    "ten",
+    "tend",
     "-ion",
-    "hold out of",
-    "act of expanding in scope",
-    false
+    "stretch out of",
+    "the act of making something longer or larger, or an added part",
+    true
   ],
   [
     "extensive",
     "ex-",
-    "ten",
+    "tend",
     "-ive",
-    "hold out of",
-    "of agriculture",
-    false
+    "stretch out of",
+    "covering a large area or amount",
+    true
   ],
   [
     "extent",
     "ex-",
-    "ten",
+    "tend",
     null,
-    "hold out of",
-    "the point or degree to which something extends",
-    false
+    "stretch out of",
+    "how far something reaches, or how large or important it is",
+    true
   ],
   [
     "extortion",
@@ -3256,20 +3256,20 @@ window.WF.WORDS = [
   [
     "intent",
     "in-",
-    "ten",
+    "tend",
     null,
-    "hold into",
-    "the intended meaning of a communication",
-    false
+    "stretch into",
+    "what someone means or plans to do",
+    true
   ],
   [
     "intention",
     "in-",
-    "ten",
+    "tend",
     "-ion",
-    "hold into",
-    "an act of intending",
-    false
+    "stretch into",
+    "something you plan or mean to do",
+    true
   ],
   [
     "intercept",
@@ -3691,8 +3691,8 @@ window.WF.WORDS = [
     "ten",
     null,
     "hold against",
-    "get, acquire, or secure something",
-    false
+    "to get something, often with effort",
+    true
   ],
   [
     "occupation",
@@ -4132,8 +4132,8 @@ window.WF.WORDS = [
     "ced",
     "-ure",
     "go forward",
-    "a set sequence of steps, part of larger computer program",
-    false
+    "a set of steps for doing something",
+    true
   ],
   [
     "proceed",
@@ -4141,8 +4141,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go forward",
-    "move ahead",
-    false
+    "to go forward or continue",
+    true
   ],
   [
     "process",
@@ -4150,8 +4150,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go forward",
-    "a writ issued by authority of law",
-    false
+    "a series of steps or events that lead to a result",
+    true
   ],
   [
     "procession",
@@ -4159,8 +4159,8 @@ window.WF.WORDS = [
     "ced",
     "-ion",
     "go forward",
-    "the act of moving forward (as toward a goal)",
-    false
+    "a line of people or vehicles moving forward in an orderly way",
+    true
   ],
   [
     "produce",
@@ -4375,8 +4375,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go back",
-    "a small concavity",
-    false
+    "a short break from work or school",
+    true
   ],
   [
     "recognition",
@@ -5032,8 +5032,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go under",
-    "be the successor (of)",
-    false
+    "to manage to do what you were trying to do",
+    true
   ],
   [
     "success",
@@ -5041,8 +5041,8 @@ window.WF.WORDS = [
     "ced",
     null,
     "go under",
-    "a state of prosperity or fame",
-    false
+    "reaching a goal or getting the result you wanted",
+    true
   ],
   [
     "successor",
@@ -5050,8 +5050,8 @@ window.WF.WORDS = [
     "ced",
     "-or",
     "go under",
-    "a person who follows next in order",
-    false
+    "a person or thing that comes next and takes another's place",
+    true
   ],
   [
     "suffer",
@@ -5140,8 +5140,8 @@ window.WF.WORDS = [
     "ten",
     null,
     "hold under",
-    "provide with nourishment",
-    false
+    "to keep something going over time",
+    true
   ],
   [
     "temporary",
@@ -5158,8 +5158,8 @@ window.WF.WORDS = [
     "ten",
     "-ant",
     "hold",
-    "any occupant who dwells in a place",
-    false
+    "a person who rents a home or building from its owner",
+    true
   ],
   [
     "tendency",
@@ -5173,11 +5173,11 @@ window.WF.WORDS = [
   [
     "tension",
     null,
-    "ten",
+    "tend",
     "-ion",
-    "hold",
-    "the physical condition of being stretched or strained",
-    false
+    "stretch",
+    "the state of being stretched tight, or a nervous, uneasy feeling",
+    true
   ],
   [
     "terminal",

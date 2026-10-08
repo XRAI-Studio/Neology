@@ -55,8 +55,8 @@ window.WF.FACTS = {
   "impulse": "⚡ An impulse is a force that literally DRIVES INTO your mind, skipping right past your thinking!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "attract": "🧲 Attract = “pull toward” — attractive things have a kind of gravity that pulls attention in!",
-  // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
-  "attention": "🧠 Attention = “hold to” — when something interests you, your mind literally HOLDS ON to it!",
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/attention#English (verified 2026-10-07)
+  "attention": "🧠 Attention = “stretch to” — from Latin attendere, “to give heed to,” built from ad- (to) and tendere (to stretch).",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
   "assist": "🤝 Assist = “stand to” — helping began as standing beside someone in battle!",
   // Preserved v2 fact; provenance: etymology-source.md. Not newly asserted or changed in v3.
@@ -139,7 +139,7 @@ window.WF.FACTS = {
   "design": " Design comes from Latin designare, mark out or designate.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/destruction (checked 2026-07-20)
   "destruction": " Destruction comes from Latin destruere, tear down, the opposite direction of construction.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/detention (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/detention#English (verified 2026-10-07)
   "detention": " Detention comes from Latin detinere, hold back.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/election (checked 2026-07-20)
   "election": " Election comes from Latin eligere, pick out or choose.",
@@ -151,7 +151,7 @@ window.WF.FACTS = {
   "evidence": " Evidence is related to Latin evidens, obvious or clearly seen.",
   // Source: Wiktionary, https://en.wiktionary.org/wiki/except#English (verified 2026-10-07)
   "except": " Except comes from Latin excipere, take out, removing one thing from the group.",
-  // Source: Online Etymology Dictionary, https://www.etymonline.com/word/excessive (checked 2026-07-20)
+  // Source: Wiktionary, https://en.wiktionary.org/wiki/excessive#English (verified 2026-10-07)
   "excessive": " Excessive belongs to a Latin family meaning go beyond or exceed a boundary.",
   // Source: Online Etymology Dictionary, https://www.etymonline.com/word/exclusive (checked 2026-07-20)
   "exclusive": " Exclusive comes from Latin excludere, shut out.",

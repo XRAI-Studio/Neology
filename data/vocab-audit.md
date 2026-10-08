@@ -403,6 +403,177 @@ The first six entries were reviewed on 2026-07-20 against the Online Etymology D
 - Reference: Wiktionary (French), [supposer](https://en.wiktionary.org/wiki/supposer#French) — borrowed from Latin *suppōnō*, altered based on French *poser*.
 - Reference: Wiktionary (Latin), [suppono](https://en.wiktionary.org/wiki/suppono#Latin) — *suppōnō* = *sub-* "under" + *pōnō* "put, place".
 
+## attention
+
+- Record: `{prefix:"ad-", stem:"tend", suffix:"-ion", literal:"stretch to", definition:"the act of focusing your mind on something"}`
+- Review: Corrected the stem from `ten` (hold) to `tend` (stretch): *attention* comes from *attendō* = *ad-* + *tendō*. Literal changed from "hold to" to "stretch to".
+- Reference: Wiktionary, [attention](https://en.wiktionary.org/wiki/attention#English) — from Latin *attentio*, from *attendo* "to attend, give heed to"; equivalent to *attend* + *-tion*.
+- Reference: Wiktionary (Latin), [attendo](https://en.wiktionary.org/wiki/attendo#Latin) — *attendō* = *ad-* + *tendō* "stretch, extend".
+
+## contain
+
+- Record: `{prefix:"con-", stem:"ten", suffix:null, literal:"hold with", definition:"to hold something inside"}`
+- Review: Confirmed `con-` + `ten`; replaced the circular "contain or hold".
+- Reference: Wiktionary, [contain](https://en.wiktionary.org/wiki/contain#English) — from Latin *continēre* "to hold or keep together, comprise, contain", combined form of *con-* "together" + *teneō* "to hold".
+
+## content
+
+- Record: `{prefix:"con-", stem:"ten", suffix:null, literal:"hold with", definition:"satisfied and happy with what you have"}`
+- Review: Confirmed `con-` + `ten`. Chose the adjective sense ("satisfied"), the first sense in the source; replaced the garbled gloss.
+- Reference: Wiktionary, [content](https://en.wiktionary.org/wiki/content#English) — from Latin *contentus* "contained; satisfied", past participle of *continēre* "to contain".
+
+## continent
+
+- Record: `{prefix:"con-", stem:"ten", suffix:"-ent", literal:"hold with", definition:"one of the large landmasses of the Earth, such as Africa or Asia"}`
+- Review: Confirmed `con-` + `ten` + `-ent`; replaced "the European mainland" with the general sense.
+- Reference: Wiktionary, [continent](https://en.wiktionary.org/wiki/continent#English) — from Latin *continens*, noun use of present participle of *contineo* "to contain"; also *continentem* "continuous; holding together".
+- Reference: Wiktionary (Latin), [contineo](https://en.wiktionary.org/wiki/contineo#Latin) — *contineō* = *con-* "together" + *teneō* "to hold".
+
+## detention
+
+- Record: `{prefix:"de-", stem:"ten", suffix:"-ion", literal:"hold down", definition:"the state of being kept somewhere and not allowed to leave"}`
+- Review: Confirmed `de-` + `ten` + `-ion`.
+- Reference: Wiktionary, [detention](https://en.wiktionary.org/wiki/detention#English) — from Latin *detentio*; equivalent to *detain* + *-tion*.
+- Reference: Wiktionary (Latin), [detentio](https://en.wiktionary.org/wiki/detentio#Latin) — *dētentiō* = *dētineō* + *-tiō*.
+- Reference: Wiktionary (Latin), [detineo](https://en.wiktionary.org/wiki/detineo#Latin) — *dētineō* = *dē-* + *teneō* "hold; restrain".
+
+## extension
+
+- Record: `{prefix:"ex-", stem:"tend", suffix:"-ion", literal:"stretch out of", definition:"the act of making something longer or larger, or an added part"}`
+- Review: Corrected the stem from `ten` to `tend`: Latin *extēnsiō* comes from *extendō* = *ex-* + *tendō* "stretch".
+- Reference: Wiktionary, [extension](https://en.wiktionary.org/wiki/extension#English) — from Latin *extensiō*; the act of extending, a stretching out.
+- Reference: Wiktionary (Latin), [extensio](https://en.wiktionary.org/wiki/extensio#Latin) — *extēnsiō* = *extendō* + *-tiō*.
+
+## extensive
+
+- Record: `{prefix:"ex-", stem:"tend", suffix:"-ive", literal:"stretch out of", definition:"covering a large area or amount"}`
+- Review: Corrected the stem from `ten` to `tend` (via *extēnsus*, "stretched out"); replaced the agriculture-only gloss.
+- Reference: Wiktionary, [extensive](https://en.wiktionary.org/wiki/extensive#English) — from Late Latin *extensīvus*, from Latin *extensus*.
+- Reference: Wiktionary (Latin), [extensivus](https://en.wiktionary.org/wiki/extensivus#Latin) — *extēnsīvus* = *extēnsus* "stretched out; extended" + *-īvus*.
+
+## extent
+
+- Record: `{prefix:"ex-", stem:"tend", suffix:null, literal:"stretch out of", definition:"how far something reaches, or how large or important it is"}`
+- Review: Corrected the stem from `ten` to `tend`: *extent* comes from *extendere*, "extend".
+- Reference: Wiktionary, [extent](https://en.wiktionary.org/wiki/extent#English) — from Old French *estente* "stretch of land", from *estendre*/*extendre* "extend" (or from Latin *extentus*), from Latin *extendere*.
+- Reference: Wiktionary (Latin), [extendo](https://en.wiktionary.org/wiki/extendo#Latin) — *extendō* = *ex-* + *tendō* "stretch".
+
+## intent
+
+- Record: `{prefix:"in-", stem:"tend", suffix:null, literal:"stretch into", definition:"what someone means or plans to do"}`
+- Review: Corrected the stem from `ten` to `tend`: Latin *intentus* is the perfect passive participle of *intendō* = *in-* + *tendō*.
+- Reference: Wiktionary, [intent](https://en.wiktionary.org/wiki/intent#English) — ultimately from Latin *intentus*; spelling later modified to align with the Latin word.
+- Reference: Wiktionary (Latin), [intentus](https://en.wiktionary.org/wiki/intentus#Latin) — perfect passive participle of *intendō*.
+
+## intention
+
+- Record: `{prefix:"in-", stem:"tend", suffix:"-ion", literal:"stretch into", definition:"something you plan or mean to do"}`
+- Review: Corrected the stem from `ten` to `tend`; replaced the circular "an act of intending".
+- Reference: Wiktionary, [intention](https://en.wiktionary.org/wiki/intention#English) — from Latin *intentio*; equivalent to *intent* + *-ion*.
+- Reference: Wiktionary (Latin), [intendo](https://en.wiktionary.org/wiki/intendo#Latin) — *intendō* = *in-* + *tendō*.
+
+## obtain
+
+- Record: `{prefix:"ob-", stem:"ten", suffix:null, literal:"hold against", definition:"to get something, often with effort"}`
+- Review: Confirmed `ob-` + `ten`.
+- Reference: Wiktionary, [obtain](https://en.wiktionary.org/wiki/obtain#English) — from Latin *obtinēre* "to gain, achieve, succeed, possess", from *ob-* + *tenēre* "to hold".
+
+## sustain
+
+- Record: `{prefix:"sub-", stem:"ten", suffix:null, literal:"hold under", definition:"to keep something going over time"}`
+- Review: Confirmed `sub-` + `ten`; chose the core "keep in existence" sense over "provide with nourishment".
+- Reference: Wiktionary, [sustain](https://en.wiktionary.org/wiki/sustain#English) — from Latin *sustineō* "to uphold", from *sub-* "from below, up" + *teneō* "hold".
+
+## tenant
+
+- Record: `{prefix:null, stem:"ten", suffix:"-ant", literal:"hold", definition:"a person who rents a home or building from its owner"}`
+- Review: Confirmed `ten` + `-ant`; replaced the vague "any occupant".
+- Reference: Wiktionary, [tenant](https://en.wiktionary.org/wiki/tenant#English) — from Old French *tenant*, present participle of *tenir* "to hold", from Latin *teneō* "hold, keep".
+
+## tension
+
+- Record: `{prefix:null, stem:"tend", suffix:"-ion", literal:"stretch", definition:"the state of being stretched tight, or a nervous, uneasy feeling"}`
+- Review: Corrected the stem from `ten` to `tend`: Latin *tēnsiō* comes from *tendō* "to stretch".
+- Reference: Wiktionary, [tension](https://en.wiktionary.org/wiki/tension#English) — borrowed from Middle French *tension*, from Latin *tēnsiō*.
+- Reference: Wiktionary (Latin), [tensio](https://en.wiktionary.org/wiki/tensio#Latin) — *tēnsiō* = *tendō* "to stretch, stretch out, distend, extend" + *-tiō*.
+
+## access
+
+- Record: `{prefix:"ad-", stem:"ced", suffix:null, literal:"go to", definition:"a way of getting into a place, or the right to use something"}`
+- Review: Confirmed `ad-` + `ced`; widened the definition.
+- Reference: Wiktionary, [access](https://en.wiktionary.org/wiki/access#English) — from Latin *accessus*, perfect passive participle of *accēdō* "approach", from *ad* "to, toward" + *cēdō* "move, yield".
+
+## accessory
+
+- Record: `{prefix:"ad-", stem:"ced", suffix:"-ory", literal:"go to", definition:"an extra item that goes with something, such as a belt or a phone case"}`
+- Review: Confirmed `ad-` + `ced` + `-ory`. Chose the everyday "additional item" sense over the crime-helper sense, which is less suited to young learners.
+- Reference: Wiktionary, [accessory](https://en.wiktionary.org/wiki/accessory#English) — from Medieval Latin *accessōrius*, from Latin *accessor* "helper, subordinate", from *accessus*.
+- Reference: Wiktionary (Latin), [accessor](https://en.wiktionary.org/wiki/accessor#Latin) — *accessor* = *accēdō* + *-tor*.
+
+## excess
+
+- Record: `{prefix:"ex-", stem:"ced", suffix:null, literal:"go out of", definition:"more than is needed or allowed"}`
+- Review: Confirmed `ex-` + `ced`; simplified the definition.
+- Reference: Wiktionary, [excess](https://en.wiktionary.org/wiki/excess#English) — from Latin *excessus* "a going out", from *excedere* "to go out, go beyond".
+- Reference: Wiktionary (Latin), [excedo](https://en.wiktionary.org/wiki/excedo#Latin) — *excēdō* = *ex-* "out of, from" + *cēdō* "withdraw; yield".
+
+## excessive
+
+- Record: `{prefix:"ex-", stem:"ced", suffix:"-ive", literal:"go out of", definition:"more than is normal, necessary, or reasonable"}`
+- Review: Confirmed as *excess* + *-ive*.
+- Reference: Wiktionary, [excessive](https://en.wiktionary.org/wiki/excessive#English) — from Medieval Latin *excessivus*, equivalent to *excess* + *-ive*.
+
+## procedure
+
+- Record: `{prefix:"pro-", stem:"ced", suffix:"-ure", literal:"go forward", definition:"a set of steps for doing something"}`
+- Review: Confirmed `pro-` + `ced` + `-ure`; replaced the computer-programming gloss.
+- Reference: Wiktionary, [procedure](https://en.wiktionary.org/wiki/procedure#English) — from French *procédure*, from Latin *procedere* "to go forward, proceed".
+
+## proceed
+
+- Record: `{prefix:"pro-", stem:"ced", suffix:null, literal:"go forward", definition:"to go forward or continue"}`
+- Review: Confirmed `pro-` + `ced`.
+- Reference: Wiktionary, [proceed](https://en.wiktionary.org/wiki/proceed#English) — from Latin *prōcēdō* "to go forth, go forward, advance", from *prō* "forth" + *cēdō* "to go".
+
+## process
+
+- Record: `{prefix:"pro-", stem:"ced", suffix:null, literal:"go forward", definition:"a series of steps or events that lead to a result"}`
+- Review: Confirmed `pro-` + `ced`; replaced the legal "writ" sense.
+- Reference: Wiktionary, [process](https://en.wiktionary.org/wiki/process#English) — from Latin *prōcessus* "course, progression", nominalization of *prōcēdō* "proceed, advance".
+
+## procession
+
+- Record: `{prefix:"pro-", stem:"ced", suffix:"-ion", literal:"go forward", definition:"a line of people or vehicles moving forward in an orderly way"}`
+- Review: Confirmed `pro-` + `ced` + `-ion`; chose the parade sense learners know.
+- Reference: Wiktionary, [procession](https://en.wiktionary.org/wiki/procession#English) — from Latin *prōcessiō* "a marching forward, an advance", from *prōcēdere* "to move forward, advance, proceed".
+
+## recess
+
+- Record: `{prefix:"re-", stem:"ced", suffix:null, literal:"go back", definition:"a short break from work or school"}`
+- Review: Confirmed `re-` + `ced`; chose the school-break sense over "a small concavity".
+- Reference: Wiktionary, [recess](https://en.wiktionary.org/wiki/recess#English) — from Latin *recessus* "act of going back, … retreat, withdrawal", from *recēdō* "to go back, recede, retire, withdraw".
+- Reference: Wiktionary (Latin), [recedo](https://en.wiktionary.org/wiki/recedo#Latin) — *recēdō* = *re-* "back" + *cēdō* "to be in motion, go, move".
+
+## succeed
+
+- Record: `{prefix:"sub-", stem:"ced", suffix:null, literal:"go under", definition:"to manage to do what you were trying to do"}`
+- Review: Confirmed `sub-` + `ced`; chose the common "achieve" sense (the source gloss was "be the successor of").
+- Reference: Wiktionary, [succeed](https://en.wiktionary.org/wiki/succeed#English) — from Latin *succedo* "to go under, … follow, take the place of, … prosper, be successful".
+- Reference: Wiktionary (Latin), [succedo](https://en.wiktionary.org/wiki/succedo#Latin) — *succēdō* = *sub-* + *cēdō* "go".
+
+## success
+
+- Record: `{prefix:"sub-", stem:"ced", suffix:null, literal:"go under", definition:"reaching a goal or getting the result you wanted"}`
+- Review: Confirmed `sub-` + `ced`.
+- Reference: Wiktionary, [success](https://en.wiktionary.org/wiki/success#English) — from Latin *successus*, from *succēdō* "succeed", from *sub-* "next to" + *cēdō* "go, move".
+
+## successor
+
+- Record: `{prefix:"sub-", stem:"ced", suffix:"-or", literal:"go under", definition:"a person or thing that comes next and takes another's place"}`
+- Review: Confirmed `sub-` + `ced` + `-or`.
+- Reference: Wiktionary, [successor](https://en.wiktionary.org/wiki/successor#English) — from Anglo-Norman *successour*, from Latin *successor*.
+- Reference: Wiktionary (Latin), [successor](https://en.wiktionary.org/wiki/successor#Latin) — *successor* = *succēdō* + *-tor*.
+
 ## Sampling decision
 
 Every reviewed entry is checked word by word against its cited reference; nothing is promoted by automated heuristics. Each stem-family batch is then independently reviewed by Codex and spot-checked by the project owner (about 10% of the batch) before it is merged. The source bank's known material errors mean unaudited words stay `reviewed:false`.
